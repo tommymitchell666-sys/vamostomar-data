@@ -1,8 +1,38 @@
 {
- "rev": 11,
- "updated": "2026-09-26T10:46:20.056Z",
+ "rev": 12,
+ "updated": "2026-09-26T10:51:26.492Z",
  "events": [],
- "listings": [],
+ "listings": [
+  {
+   "category": "eat",
+   "zone": "centro",
+   "name": "Café Paraíso",
+   "blurb": "Café Paraiso is a historic, iconic café located in the center of Tomar, Portugal, renowned for its preserved 19th-century atmosphere and vintage decor.",
+   "detail": "R. Serpa Pinto 127, Tomar",
+   "name_pt": "Café Paraíso",
+   "blurb_pt": "O Café Paraíso é um café histórico e icónico localizado no centro de Tomar, Portugal, conhecido pela sua atmosfera preservada do século XIX e decoração vintage.",
+   "detail_pt": "R. Serpa Pinto 127, Tomar",
+   "name_es": "Café Paraíso",
+   "blurb_es": "Café Paraíso es un café histórico e icónico situado en el centro de Tomar, Portugal, famoso por su ambiente conservado del siglo XIX y su decoración vintage.",
+   "detail_es": "R. Serpa Pinto 127, Tomar",
+   "sub": [
+    "bars",
+    "petiscos",
+    "wine"
+   ],
+   "links": {
+    "website": "https://cafeparaiso.pt/",
+    "facebook": "https://www.facebook.com/cafeparaisotomar/?locale=pt_PT",
+    "maps": "https://maps.app.goo.gl/hjWfzD2KapDsht5f8"
+   },
+   "id": "cafe-paraiso-y5u",
+   "photos": [
+    {
+     "src": "data/images/cafe-paraiso-20260926-n2at.webp"
+    }
+   ]
+  }
+ ],
  "patches": {
   "santa-iria-cafe": {
    "hours": {
