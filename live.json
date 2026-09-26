@@ -1,8 +1,29 @@
 {
- "rev": 6,
- "updated": "2026-09-25T22:48:22.388Z",
+ "rev": 7,
+ "updated": "2026-09-26T10:39:03.287Z",
  "events": [],
- "listings": [],
+ "listings": [
+  {
+   "category": "eat",
+   "zone": "centro",
+   "name": "Café Paraíso",
+   "blurb": "As one of Tomar’s oldest cafes, Café Paraíso has passed through four generations of the same family. Alexandra Vasconcelos, has led the business for over three decades, preserving its unique character. The interior has remained largely unchanged since a major renovation in 1946, offering visitors a genuine step back in time.",
+   "detail": "R. Serpa Pinto 127, Tomar",
+   "sub": [],
+   "phone": "+351249312997",
+   "links": {
+    "website": "https://cafeparaiso.pt/",
+    "facebook": "https://www.facebook.com/cafeparaisotomar/",
+    "maps": "https://maps.app.goo.gl/Hp9LEpFc3JZvZaJw5"
+   },
+   "id": "cafe-paraiso-ws0",
+   "photos": [
+    {
+     "src": "data/images/cafe-paraiso-20260926-e1iz.webp"
+    }
+   ]
+  }
+ ],
  "patches": {
   "santa-iria-cafe": {
    "hours": {
