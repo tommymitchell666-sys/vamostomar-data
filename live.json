@@ -1,6 +1,6 @@
 {
- "rev": 8,
- "updated": "2026-09-26T10:40:25.918Z",
+ "rev": 9,
+ "updated": "2026-09-26T10:41:09.330Z",
  "events": [],
  "listings": [
   {
@@ -59,10 +59,11 @@
    ]
   },
   "cafe-paraiso": {
-   "logo": {
-    "src": "data/images/cafe-paraiso-logo-20260926-egav.webp",
-    "bg": "#3d2f26"
-   }
+   "photos": [
+    {
+     "src": "data/images/cafe-paraiso-20260926-o8vl.webp"
+    }
+   ]
   }
  },
  "hidden": [],
