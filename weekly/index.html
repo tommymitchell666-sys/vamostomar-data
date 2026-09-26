@@ -1,0 +1,503 @@
+<!doctype html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Esta Semana em Tomar · Vamos Tomar</title>
+<meta name="description" content="This Week in Tomar — what's on, what happened and what's next, every Sunday from Vamos Tomar.">
+<meta property="og:title" content="This Week in Tomar · Vamos Tomar">
+<meta property="og:description" content="What's on, what happened and what's next in Tomar — every Sunday.">
+<meta property="og:image" content="https://vamostomar.pt/images/share-card.jpg">
+<meta name="theme-color" content="#2F66A8">
+<style>
+@font-face{font-family:"Cinzel";src:url(/fonts/cinzel-latin.woff2) format("woff2");font-weight:400 900;font-display:swap}
+@font-face{font-family:"Public Sans";src:url(/fonts/public-sans-latin.woff2) format("woff2");font-weight:100 900;font-display:swap}
+:root{
+  --red:#A6192E;--red-dark:#7E1123;--red-pale:#F4E2E4;--gold:#B08A45;--gold-text:#8A6A2F;
+  --ink:#161513;--charcoal:#2A2825;--grey:#5A5750;--grey-2:#6B6862;--line:#E4E1DC;--offwhite:#FAF9F7;
+  --sky:#2F66A8;--sky-pale:#F0F6FC;--sky-line:#D5E2F0;
+  --tile:rgba(255,255,255,.96);--shadow:0 12px 32px rgba(8,30,68,.20);
+  --display:"Cinzel",Georgia,"Times New Roman",serif;--body:"Public Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;font-family:var(--body);color:var(--charcoal);background:var(--sky) url(sky.jpg) center top/cover fixed no-repeat;min-height:100vh;line-height:1.5}
+@supports (-webkit-touch-callout:none){body{background-attachment:scroll}}
+a{color:var(--red);text-decoration:none}a:hover{color:var(--red-dark);text-decoration:underline}
+h1,h2,h3{font-family:var(--display);color:var(--ink);margin:0}
+.wrap{max-width:1120px;margin:0 auto;padding:48px 24px 56px;display:flex;flex-direction:column;gap:24px}
+.tile{background:var(--tile);border-radius:20px;box-shadow:var(--shadow);padding:28px 32px}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+/* header */
+.head{display:flex;flex-direction:column;align-items:center;gap:12px;padding-bottom:34px;text-align:center}
+.head-top{width:100%;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:12px}
+.edition{justify-self:start;font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--grey-2)}
+.brand{display:flex;align-items:center;justify-content:center}
+.brand img{height:40px;width:auto;max-width:100%;display:block}
+.wordmark[hidden]{display:none}
+.wordmark{display:flex;align-items:center;gap:2px;font-family:var(--display);font-weight:700;font-size:28px;letter-spacing:.06em;color:var(--ink);line-height:40px}
+.langs{justify-self:end;display:flex;gap:6px}
+.langs button{font:600 13px var(--body);min-width:44px;height:44px;padding:0 12px;border-radius:999px;border:1px solid var(--line);background:#fff;color:var(--charcoal);cursor:pointer}
+.langs button[aria-pressed="true"]{background:var(--red);border-color:var(--red);color:#fff}
+.langs button:focus-visible,.btn:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
+.rule{width:100%;height:1px;background:var(--line);margin:4px 0}
+.head h1{font-size:clamp(34px,6vw,60px);line-height:1.05}
+.range{font-family:var(--display);font-weight:600;font-size:clamp(17px,2.2vw,22px);color:var(--red);letter-spacing:.03em}
+.tagline{font-size:15px;color:var(--grey-2);max-width:560px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:9px;min-height:46px;padding:0 20px;border-radius:999px;font-weight:700;font-size:15px;color:#fff;text-decoration:none;border:0;cursor:pointer}
+.btn:hover{color:#fff;text-decoration:none;filter:brightness(1.07)}
+.ig{background:linear-gradient(45deg,#D9531E 0%,#C21F6B 50%,#6A2BA0 100%)}
+.wa{background:#117A43}.mail{background:var(--ink)}
+.btn svg{flex:none}
+
+/* weather */
+.weather{background:rgba(240,246,252,.97)}
+.weather-head{display:flex;justify-content:space-between;align-items:baseline;gap:16px;flex-wrap:wrap;margin-bottom:16px}
+.weather-head h2{font-size:22px}
+.weather-note{font-size:14px;color:#4A4843;margin:4px 0 0;max-width:640px}
+.weather-src{font-size:12px;color:var(--grey-2)}
+.days{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:10px}
+.day{background:#fff;border-radius:14px;padding:12px 6px;display:flex;flex-direction:column;align-items:center;gap:4px;text-align:center}
+.day.today{box-shadow:inset 0 0 0 2px var(--red)}
+.day-name{font-size:12px;font-weight:700;letter-spacing:.07em;color:var(--charcoal);text-transform:uppercase}
+.day-desc{font-size:12px;color:#4A4843;min-height:18px}
+.day-t{font-size:19px;font-weight:700;color:var(--ink)}
+.day-t span{font-weight:500;font-size:14px;color:var(--grey-2)}
+.day-rain{font-size:12px;color:#2E4E72;font-weight:600;min-height:18px}
+
+/* spotlight */
+.spot{background:var(--red);color:#fff;display:grid;grid-template-columns:minmax(0,1fr) 250px;gap:36px;align-items:center;padding:36px 44px}
+.spot .eyebrow{font-size:13px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:var(--red-pale)}
+.spot h2{color:#fff;font-size:clamp(26px,3.4vw,38px);line-height:1.12;margin:10px 0 12px}
+.spot p{margin:0;font-size:17px;line-height:1.55;max-width:640px}
+.spot .btn{background:#fff;color:var(--red-dark);margin-top:20px}
+.spot .btn:hover{color:var(--red-dark)}
+.badge{border:2px solid rgba(255,255,255,.45);border-radius:18px;padding:22px 12px;display:flex;flex-direction:column;align-items:center;gap:4px;text-align:center}
+.badge-big{font-family:var(--display);font-weight:700;font-size:72px;line-height:1}
+.badge-small{font-size:13px;font-weight:700;letter-spacing:.12em;color:var(--red-pale);text-transform:uppercase}
+.badge-date{font-family:var(--display);font-size:19px;font-weight:600;margin-top:8px}
+
+/* section heads */
+.sec-head{display:flex;justify-content:space-between;align-items:baseline;gap:16px;flex-wrap:wrap;margin-bottom:20px}
+.sec-head h2{font-size:30px}
+.sec-sub{font-size:14px;color:var(--grey-2)}
+.news .sec-head{border-bottom:2px solid var(--ink);padding-bottom:14px}
+
+/* events */
+.events{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:20px}
+.ev{border:1px solid var(--line);border-top:5px solid var(--gold);border-radius:16px;overflow:hidden;background:#fff;display:flex;flex-direction:column}
+.ev.featured{border-top-color:var(--red)}
+.ev-art{height:180px;display:flex;align-items:center;justify-content:center;position:relative;background:#F3EBDC;overflow:hidden}
+.ev-art.photo{background:#161513}
+.ev-art .blur{position:absolute;inset:-20px;background-size:cover;background-position:center;filter:blur(18px) brightness(.55)}
+.ev-art img{position:relative;max-width:100%;max-height:100%;object-fit:contain;display:block}
+.ev.featured .ev-art:not(.photo){background:var(--red-pale)}
+.ev-body{padding:16px 18px 18px;display:flex;flex-direction:column;gap:8px;flex-grow:1}
+.ev-when{display:flex;gap:8px;align-items:center;flex-wrap:wrap;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--gold-text)}
+.ev.featured .ev-when{color:var(--red)}
+.free{font-size:11px;font-weight:700;padding:3px 8px;border-radius:999px;background:var(--red);color:#fff;letter-spacing:.04em}
+.ev h3{font-size:19px;line-height:1.25}
+.ev p{margin:0;font-size:14px;line-height:1.5;color:var(--grey)}
+.ev-place{margin-top:auto;font-size:13px;color:var(--grey-2)}
+.more{display:flex;justify-content:center;margin-top:20px}
+.more .btn{background:var(--ink)}
+
+/* news */
+.stories{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:48px;row-gap:26px}
+.story{display:flex;flex-direction:column;gap:7px;padding-bottom:22px;border-bottom:1px solid var(--line)}
+.cat{font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--gold-text)}
+.story h3{font-size:19px;line-height:1.3}
+.story p{margin:0;font-size:15px;line-height:1.5;color:var(--grey)}
+.story a{font-size:13px;font-weight:600}
+.tip{border:1.5px dashed #C9C4BB;border-radius:14px;padding:18px 20px;display:flex;flex-direction:column;justify-content:center;gap:8px;background:var(--offwhite)}
+.tip strong{font-family:var(--display);font-size:18px;color:var(--ink)}
+.tip p{margin:0;font-size:14px;color:var(--grey)}
+.tip a{font-size:14px;font-weight:700}
+
+/* fact + coming */
+.pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px}
+.fact{border:2px solid var(--gold);display:flex;flex-direction:column;gap:14px}
+.fact-h{display:flex;align-items:center;gap:12px}
+.fact h2,.coming h2{font-size:26px}
+.fact p{margin:0;font-size:18px;line-height:1.6;font-style:italic;color:var(--charcoal)}
+.fact small{font-size:13px;color:var(--grey-2)}
+.coming{background:var(--red-pale)}
+.coming ul{list-style:none;margin:14px 0 0;padding:0;display:flex;flex-direction:column;gap:11px}
+.coming li{display:flex;gap:12px;font-size:15px;line-height:1.45}
+.coming li::before{content:"→";color:var(--red);font-weight:700}
+
+/* share + footer */
+.share{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap}
+.share h2{font-size:24px}
+.share-btns{display:flex;gap:12px;flex-wrap:wrap}
+.share .btn{border-radius:12px}
+.foot{background:var(--charcoal);border-top:3px solid var(--red);color:#E9E6E1;display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap}
+.foot strong{font-family:var(--display);font-size:18px;color:#fff;display:block;margin-bottom:4px}
+.foot span,.foot div{font-size:14px;color:#C9C4BB}
+.foot a{color:#D9B878}
+.foot button.linklike{background:none;border:0;padding:0;font:inherit;color:#D9B878;cursor:pointer}
+.foot button.linklike:hover{text-decoration:underline}
+.archive{display:none}
+.archive.open{display:block}
+.archive ul{list-style:none;margin:12px 0 0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px}
+.archive li a{display:block;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:#fff;font-weight:600}
+.banner{background:#FFF4D6;border:2px solid var(--gold);color:var(--charcoal);font-weight:600;text-align:center}
+.state{text-align:center;font-size:17px}
+
+@media (max-width:900px){
+  .spot{grid-template-columns:1fr;gap:20px;padding:28px 26px}
+  .badge{flex-direction:row;justify-content:flex-start;gap:14px;padding:12px 16px;text-align:left}
+  .badge-big{font-size:44px}.badge-date{margin-top:0}
+  .stories{grid-template-columns:1fr}
+  .pair{grid-template-columns:1fr}
+}
+@media (max-width:720px){
+  .days{grid-template-columns:1fr;gap:6px}
+  .day{flex-direction:row;justify-content:flex-start;gap:12px;padding:8px 14px;text-align:left}
+  .day{gap:8px;padding:8px 10px}
+  .day-name{width:58px;flex:none;white-space:nowrap}
+  .day svg{width:30px;height:30px;flex:none}
+  .day-desc{flex:1 1 0;min-width:0;min-height:0;line-height:1.25}
+  .day-rain{min-height:0;width:42px;flex:none;text-align:right;white-space:nowrap;font-size:11px}
+  .day-t{width:66px;flex:none;text-align:right;font-size:17px;white-space:nowrap}
+}
+@media (max-width:600px){
+  .weather{padding:20px 12px}
+  .wrap{padding:16px 14px 40px;gap:16px}
+  .tile{padding:22px 18px;border-radius:18px}
+  .head-top{grid-template-columns:1fr auto;grid-template-areas:"brand brand" "ed langs"}
+  .brand{grid-area:brand}.edition{grid-area:ed}.langs{grid-area:langs;gap:4px}
+  .wordmark{font-size:23px}
+  .brand img{height:auto;width:min(100%,330px)}
+  .spot{padding:24px 20px}
+  .sec-head h2{font-size:25px}
+  .ev-art{height:160px}
+  .share{flex-direction:column;align-items:stretch}
+  .share-btns{flex-direction:column}
+  .share .btn{min-height:50px}
+  .foot{flex-direction:column;align-items:flex-start}
+}
+@media print{
+  body{background:#fff}.langs,.share,.ig,.more{display:none!important}
+  .tile{box-shadow:none;border:1px solid #ccc}
+}
+</style>
+</head>
+<body>
+<main class="wrap" id="app" aria-live="polite">
+  <section class="tile state" id="loading">A carregar… · Loading…</section>
+</main>
+
+<script>
+(function(){
+"use strict";
+var LANGS=["pt","en","es"];
+var T={
+  title:{en:"This Week in Tomar",pt:"Esta Semana em Tomar",es:"Esta Semana en Tomar"},
+  edition:{en:"Edition No.",pt:"Edição n.º",es:"Edición n.º"},
+  tagline:{en:"Every Sunday at 08:00 · What's on, what happened and what's next",pt:"Todos os domingos às 08:00 · O que há para fazer, o que aconteceu e o que aí vem",es:"Cada domingo a las 08:00 · Qué hacer, qué pasó y qué viene"},
+  follow:{en:"Follow @vamostomarinsta",pt:"Segue @vamostomarinsta",es:"Sigue @vamostomarinsta"},
+  weather:{en:"The Week's Weather",pt:"O Tempo da Semana",es:"El Tiempo de la Semana"},
+  wsrc:{en:"Forecast: MET Norway (yr.no)",pt:"Previsão: MET Norway (yr.no)",es:"Previsión: MET Norway (yr.no)"},
+  spotlight:{en:"This Week's Spotlight",pt:"Destaque da Semana",es:"Destacado de la Semana"},
+  dontmiss:{en:"Don't Miss",pt:"Não Perca",es:"No Te Pierdas"},
+  allEvents:{en:"All events in the directory →",pt:"Todos os eventos no diretório →",es:"Todos los eventos en el directorio →"},
+  free:{en:"FREE",pt:"GRÁTIS",es:"GRATIS"},
+  photoSoon:{en:"",pt:"",es:""},
+  news:{en:"This Week's News",pt:"Notícias da Semana",es:"Noticias de la Semana"},
+  newsSub:{en:"{n} stories, in our own words",pt:"{n} notícias, nas nossas palavras",es:"{n} noticias, con nuestras palabras"},
+  via:{en:"Via",pt:"Via",es:"Vía"},
+  tipH:{en:"Got a story from Tomar?",pt:"Tens uma notícia de Tomar?",es:"¿Tienes una noticia de Tomar?"},
+  tipP:{en:"Send it through Add entry on the site. We read everything before it goes in.",pt:"Envia-a em Adicionar no site. Lemos tudo antes de publicar.",es:"Envíala en Añadir en la web. Lo leemos todo antes de publicar."},
+  tipA:{en:"Send a story →",pt:"Enviar notícia →",es:"Enviar noticia →"},
+  fact:{en:"Did You Know?",pt:"Sabia Que?",es:"¿Sabías Que?"},
+  factN:{en:"From the Vamos Tomar history pages",pt:"Das páginas de história do Vamos Tomar",es:"De las páginas de historia de Vamos Tomar"},
+  coming:{en:"Coming Next Week",pt:"Na Próxima Semana",es:"La Próxima Semana"},
+  share:{en:"Share This With Friends",pt:"Partilha com os Amigos",es:"Compártelo con tus Amigos"},
+  shareSub:{en:"A new edition every Sunday morning",pt:"Uma nova edição todos os domingos de manhã",es:"Una nueva edición cada domingo por la mañana"},
+  every:{en:"Every Sunday",pt:"Todos os domingos",es:"Cada domingo"},
+  archive:{en:"View archive",pt:"Ver arquivo",es:"Ver archivo"},
+  archiveH:{en:"Past editions",pt:"Edições anteriores",es:"Ediciones anteriores"},
+  directory:{en:"Vamos Tomar directory",pt:"Diretório Vamos Tomar",es:"Directorio Vamos Tomar"},
+  powered:{en:"Powered by",pt:"Uma produção",es:"Con la tecnología de"},
+  draft:{en:"DRAFT — not published yet",pt:"RASCUNHO — ainda não publicado",es:"BORRADOR — aún no publicado"},
+  latest:{en:"← Latest edition",pt:"← Edição mais recente",es:"← Última edición"},
+  soon:{en:"The first edition arrives on {d} at 08:00.",pt:"A primeira edição chega {d}, às 08:00.",es:"La primera edición llega el {d} a las 08:00."},
+  soonAny:{en:"The first edition arrives on Sunday at 08:00.",pt:"A primeira edição chega no domingo, às 08:00.",es:"La primera edición llega el domingo a las 08:00."},
+  failed:{en:"This week's edition couldn't be loaded. Please try again shortly.",pt:"Não foi possível carregar a edição desta semana. Tenta novamente daqui a pouco.",es:"No se pudo cargar la edición de esta semana. Inténtalo de nuevo en breve."},
+  cats:{
+    camara:{en:"Town Hall",pt:"Câmara",es:"Ayuntamiento"},
+    freguesias:{en:"Around the Parishes",pt:"Freguesias",es:"Parroquias"},
+    culture:{en:"Culture",pt:"Cultura",es:"Cultura"},
+    community:{en:"Community",pt:"Comunidade",es:"Comunidad"},
+    business:{en:"Business",pt:"Comércio",es:"Comercio"},
+    environment:{en:"River & Environment",pt:"Rio e Ambiente",es:"Río y Medio Ambiente"},
+    sport:{en:"Sport",pt:"Desporto",es:"Deportes"}
+  },
+  wx:{
+    sun:{en:"Sunny",pt:"Sol",es:"Soleado"},
+    partly:{en:"Sunny spells",pt:"Sol e nuvens",es:"Sol y nubes"},
+    cloud:{en:"Cloudy",pt:"Nublado",es:"Nublado"},
+    fog:{en:"Fog",pt:"Nevoeiro",es:"Niebla"},
+    showers:{en:"Showers",pt:"Aguaceiros",es:"Chubascos"},
+    rain:{en:"Rain",pt:"Chuva",es:"Lluvia"},
+    storm:{en:"Thunder",pt:"Trovoada",es:"Tormenta"}
+  },
+  dow:{en:["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],pt:["Dom","Seg","Ter","Qua","Qui","Sex","Sáb"],es:["Dom","Lun","Mar","Mié","Jue","Vie","Sáb"]}
+};
+
+var params=new URLSearchParams(location.search);
+var LOGO=window.WEEKLY_LOGO||"logo.webp";
+var GATED=null;
+var lang=LANGS.indexOf(params.get("lang"))>=0?params.get("lang"):"pt";
+var DATA=null;
+
+function tr(o){ if(o==null)return ""; if(typeof o==="string")return o; return o[lang]||o.en||o.pt||""; }
+function el(tag,attrs,kids){
+  var n=document.createElement(tag);
+  if(attrs)for(var k in attrs){ var v=attrs[k]; if(v==null||v===false)continue;
+    if(k==="class")n.className=v; else if(k==="text")n.textContent=v; else if(k==="html")n.innerHTML=v; else if(k.slice(0,2)==="on")n.addEventListener(k.slice(2),v); else n.setAttribute(k,v===true?"":v); }
+  (kids||[]).forEach(function(c){ if(c==null)return; n.appendChild(typeof c==="string"?document.createTextNode(c):c); });
+  return n;
+}
+function safeUrl(u){ return (typeof u==="string" && /^https?:\/\//i.test(u))?u:null; }
+function safeImg(u){ if(typeof u!=="string")return null; if(/^https:\/\//i.test(u))return u; if(/^(\.\.\/)*(data\/)?images\/[\w\-.\/]+\.(webp|jpe?g|png)$/i.test(u))return u; return null; }
+function svg(markup,w,h,vb){ var s='<svg xmlns="http://www.w3.org/2000/svg" width="'+w+'" height="'+h+'" viewBox="'+(vb||"0 0 48 48")+'" fill="none" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'+markup+'</svg>'; var d=document.createElement("div"); d.innerHTML=s; return d.firstChild; }
+
+var CROSS='<path d="M50 50 40 2Q50 7 60 2ZM50 50 98 40Q93 50 98 60ZM50 50 60 98Q50 93 40 98ZM50 50 2 60Q7 50 2 40Z" fill="currentColor"/>';
+var WX={
+  sun:'<circle cx="24" cy="24" r="8" stroke="#B08A45" fill="#F6E7C3" stroke-width="2.4"/><path d="M24 7v4M24 37v4M7 24h4M37 24h4M12 12l3 3M33 33l3 3M12 36l3-3M33 15l3-3" stroke="#B08A45" stroke-width="2.4"/>',
+  partly:'<circle cx="19" cy="18" r="8" stroke="#B08A45" fill="#F6E7C3" stroke-width="2.4"/><path d="M19 4v3M5 18h3M9 8l2 2M29 8l-2 2" stroke="#B08A45" stroke-width="2.4"/><path d="M19 40h18a7 7 0 0 0 0-14 9 9 0 0 0-17-1 7.5 7.5 0 0 0-1 15z" stroke="#4E6E91" fill="#fff" stroke-width="2.4"/>',
+  cloud:'<path d="M12 36h24a8 8 0 0 0 0-16 11 11 0 0 0-21-2 8 8 0 0 0-3 18z" stroke="#4E6E91" fill="#E3ECF6" stroke-width="2.4"/>',
+  fog:'<path d="M12 26h24a8 8 0 0 0 0-16 11 11 0 0 0-21-2 8 8 0 0 0-3 18z" stroke="#4E6E91" fill="#E3ECF6" stroke-width="2.4"/><path d="M10 33h28M14 39h20" stroke="#8FA9C4" stroke-width="2.4"/>',
+  showers:'<circle cx="16" cy="14" r="6" stroke="#B08A45" fill="#F6E7C3" stroke-width="2.4"/><path d="M14 34h20a7 7 0 0 0 0-14 9 9 0 0 0-17-1 7.5 7.5 0 0 0-3 15z" stroke="#4E6E91" fill="#fff" stroke-width="2.4"/><path d="M20 39l-2 5M28 39l-2 5" stroke="#2F66A8" stroke-width="2.4"/>',
+  rain:'<path d="M12 30h24a8 8 0 0 0 0-16 11 11 0 0 0-21-2 8 8 0 0 0-3 18z" stroke="#4E6E91" fill="#E3ECF6" stroke-width="2.4"/><path d="M16 35l-2 6M24 35l-2 6M32 35l-2 6" stroke="#2F66A8" stroke-width="2.4"/>',
+  storm:'<path d="M12 28h24a8 8 0 0 0 0-16 11 11 0 0 0-21-2 8 8 0 0 0-3 18z" stroke="#4E6E91" fill="#D8DEE6" stroke-width="2.4"/><path d="M25 30l-5 8h7l-4 7" stroke="#B08A45" stroke-width="2.6"/>'
+};
+var EV_ICONS={
+  landmark:'<path d="M6 56h52"/><path d="M10 56V30h44v26"/><path d="M21 30V18l11-9 11 9v12"/><path d="M16 56v-9a4 4 0 0 1 8 0v9M28 56v-9a4 4 0 0 1 8 0v9M40 56v-9a4 4 0 0 1 8 0v9" fill="#fff"/><path d="M32 13v9M28.5 17.5h7" stroke="#A6192E"/>',
+  trail:'<circle cx="48" cy="14" r="5" stroke="#B08A45" fill="#F6E7C3"/><path d="M4 54l18-27 10 13 8-10 20 24z" fill="#fff"/><path d="M12 54c6-5 12-3 16-9s10-6 14-12" stroke="#A6192E" stroke-dasharray="3 4"/>',
+  music:'<path d="M10 54L54 14" stroke="#B08A45"/><path d="M32 4v14"/><path d="M24 20c-6 0-8 6-5 10-4 4-5 12 1 18 4 4 20 4 24 0 6-6 5-14 1-18 3-4 1-10-5-10-4 0-5 3-8 3s-4-3-8-3z" fill="#F4E2E4"/><path d="M32 18v28M28 42h8"/><path d="M25 32c1 2 1 5 0 7M39 32c-1 2-1 5 0 7" stroke="#A6192E"/><path d="M32 52v8"/>',
+  stage:'<path d="M6 12h52v6H6z" fill="#A6192E" stroke="#A6192E"/><path d="M10 18c0 14 6 22 14 26M54 18c0 14-6 22-14 26" /><path d="M6 54h52"/><circle cx="32" cy="36" r="5" fill="#F4E2E4"/><path d="M26 54c0-8 12-8 12 0"/>',
+  film:'<rect x="8" y="16" width="48" height="34" rx="4" fill="#fff"/><path d="M8 24h48M8 42h48M16 16v8M26 16v8M36 16v8M46 16v8M16 42v8M26 42v8M36 42v8M46 42v8"/><path d="M28 28v10l8-5z" fill="#A6192E" stroke="#A6192E"/>',
+  family:'<circle cx="22" cy="18" r="6" fill="#F4E2E4"/><circle cx="42" cy="24" r="5" fill="#F6E7C3" stroke="#B08A45"/><path d="M12 54V38a10 10 0 0 1 20 0v16M34 54V42a8 8 0 0 1 16 0v12"/><path d="M6 54h52"/>',
+  market:'<path d="M8 26l4-12h40l4 12z" fill="#F4E2E4"/><path d="M8 26c0 4 8 4 8 0 0 4 8 4 8 0 0 4 8 4 8 0 0 4 8 4 8 0 0 4 8 4 8 0 0 4 8 4 8 0"/><path d="M12 30v24h40V30"/><path d="M26 54V40h12v14" stroke="#A6192E"/>',
+  sport:'<circle cx="32" cy="32" r="20" fill="#fff"/><path d="M32 22l8 6-3 10h-10l-3-10z" fill="#161513"/><path d="M32 12v10M40 28l10-4M37 38l6 9M27 38l-6 9M24 28l-10-4"/>',
+  food:'<path d="M10 34h44a22 22 0 0 1-44 0z" fill="#F4E2E4"/><path d="M6 34h52"/><path d="M24 26c0-4 4-4 4-8M32 26c0-4 4-4 4-8M40 26c0-4 4-4 4-8" stroke="#B08A45"/>',
+  military:'<path d="M8 26a24 19 0 0 1 48 0" fill="#F4E2E4"/><path d="M8 26q6-5 12 0t12 0t12 0t12 0" fill="#fff"/><path d="M8 26l22 22M20 26l10 22M44 26L34 48M56 26L34 48"/><circle cx="32" cy="51" r="3" fill="#A6192E" stroke="#A6192E"/><path d="M32 54v6"/>',
+  festival:'<path d="M6 14c10 8 42 8 52 0"/><path d="M12 17l3 8 3-7M24 20l3 8 3-8M36 20l3 8 3-8M48 17l3 8 3-8" stroke="#A6192E"/><path d="M18 56l6-24 8 10 8-10 6 24" fill="#F6E7C3" stroke="#B08A45"/>',
+  star:'<path d="M32 8l7 15 16 2-12 11 3 16-14-8-14 8 3-16L9 25l16-2z" fill="#F6E7C3" stroke="#B08A45"/>'
+};
+var ART_BG={landmark:"#F4E2E4",trail:"#F3EBDC",music:"#F3EBDC",stage:"#F4E2E4",film:"#E3ECF6",family:"#F3EBDC",market:"#F3EBDC",sport:"#E3ECF6",food:"#F4E2E4",military:"#E3ECF6",festival:"#F4E2E4",star:"#F3EBDC"};
+
+function lisbonToday(){ return new Intl.DateTimeFormat("en-CA",{timeZone:"Europe/Lisbon",year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date()); }
+function dow(iso){ var d=new Date(iso+"T12:00:00Z"); return T.dow[lang][d.getUTCDay()]+" "+d.getUTCDate(); }
+
+function shareUrl(){ var u=location.origin+location.pathname; if(params.get("d"))u+="?d="+params.get("d"); return u; }
+
+function render(){
+  var d=DATA, app=document.getElementById("app");
+  document.documentElement.lang=lang;
+  document.title=tr(T.title)+" · Vamos Tomar";
+  app.innerHTML="";
+
+  if(params.get("draft")) app.appendChild(el("section",{class:"tile banner",text:tr(T.draft)}));
+  if(params.get("d")) app.appendChild(el("section",{class:"tile banner"},[el("a",{href:location.pathname+(lang!=="pt"?"?lang="+lang:""),text:tr(T.latest)})]));
+
+  /* header */
+  var langBtns=el("div",{class:"langs",role:"group","aria-label":"Language / Idioma"},LANGS.map(function(L){
+    return el("button",{type:"button","aria-pressed":String(L===lang),text:L.toUpperCase(),onclick:function(){ setLang(L); }});
+  }));
+  var logo=el("img",{src:LOGO,alt:"Vamos Tomar",width:"430",height:"40"});
+  var word=el("span",{class:"wordmark",hidden:true},["VAMOS T",(function(){var s=svg(CROSS,24,24,"0 0 100 100");s.style.color="#A6192E";return s;})(),"MAR"]);
+  logo.addEventListener("error",function(){ logo.remove(); word.hidden=false; });
+  app.appendChild(el("header",{class:"tile head"},[
+    el("div",{class:"head-top"},[
+      el("div",{class:"edition",text:d.soon?"":tr(T.edition)+" "+(d.edition||1)}),
+      el("a",{class:"brand",href:"https://vamostomar.pt","aria-label":"Vamos Tomar"},[logo,word]),
+      langBtns
+    ]),
+    el("div",{class:"rule"}),
+    el("h1",{text:tr(T.title)}),
+    d.range?el("div",{class:"range",text:tr(d.range)}):null,
+    el("div",{class:"tagline",text:tr(T.tagline)}),
+    el("a",{class:"btn ig",href:"https://instagram.com/vamostomarinsta",rel:"noopener"},[svg('<rect x="3" y="3" width="18" height="18" rx="5" stroke="#fff" stroke-width="2"/><circle cx="12" cy="12" r="4" stroke="#fff" stroke-width="2"/><circle cx="17.5" cy="6.5" r="1" fill="#fff"/>',18,18,"0 0 24 24"),tr(T.follow)])
+  ]));
+
+  if(d.soon){
+    var when=d.publishAt?new Intl.DateTimeFormat(lang==="en"?"en-GB":lang==="es"?"es-ES":"pt-PT",{weekday:"long",day:"numeric",month:"long",timeZone:"Europe/Lisbon"}).format(new Date(d.publishAt)):"";
+    app.appendChild(el("section",{class:"tile state"},[el("p",{style:"margin:0;font-size:18px",text:when?tr(T.soon).replace("{d}",when):tr(T.soonAny)})]));
+  }
+
+  /* weather */
+  if(d.weather && d.weather.days && d.weather.days.length){
+    var today=lisbonToday();
+    var days=el("div",{class:"days"},d.weather.days.slice(0,7).map(function(w){
+      var ic=WX[w.icon]?w.icon:"cloud";
+      var rain=(typeof w.rain==="number"&&w.rain>=0.5)?(Math.round(w.rain)+" mm"):"";
+      return el("div",{class:"day"+(w.date===today?" today":"")},[
+        el("div",{class:"day-name",text:dow(w.date)}),
+        svg(WX[ic],42,42),
+        el("div",{class:"day-desc",text:tr(T.wx[ic])}),
+        el("div",{class:"day-rain",text:rain}),
+        el("div",{class:"day-t"},[Math.round(w.max)+"° ",el("span",{text:Math.round(w.min)+"°"})])
+      ]);
+    }));
+    app.appendChild(el("section",{class:"tile weather","aria-labelledby":"wx-h"},[
+      el("div",{class:"weather-head"},[
+        el("div",null,[el("h2",{id:"wx-h",text:tr(T.weather)}), d.weather.note?el("p",{class:"weather-note",text:tr(d.weather.note)}):null]),
+        el("div",{class:"weather-src",text:tr(T.wsrc)})
+      ]),
+      days
+    ]));
+  }
+
+  /* spotlight */
+  if(d.spotlight){
+    var s=d.spotlight, left=el("div",null,[
+      el("div",{class:"eyebrow",text:tr(T.spotlight)}),
+      el("h2",{text:tr(s.title)}),
+      el("p",{text:tr(s.text)}),
+      safeUrl(s.url)?el("a",{class:"btn",href:s.url,text:tr(s.cta)||"→"}):null
+    ]);
+    var kids=[left];
+    if(s.badge) kids.push(el("div",{class:"badge"},[
+      el("div",{class:"badge-big",text:tr(s.badge.big)}),
+      el("div",null,[el("div",{class:"badge-small",text:tr(s.badge.small)}),el("div",{class:"badge-date",text:tr(s.badge.date)})])
+    ]));
+    var spot=el("section",{class:"tile spot"},kids);
+    if(!s.badge) spot.style.gridTemplateColumns="1fr";
+    app.appendChild(spot);
+  }
+
+  /* don't miss */
+  if(d.events && d.events.length){
+    var evs=el("div",{class:"events"},d.events.slice(0,4).map(function(e,i){
+      var art, ph=safeImg(e.photo);
+      if(ph){
+        var bl=el("div",{class:"blur"}); bl.style.backgroundImage="url('"+ph.replace(/'/g,"")+"')";
+        art=el("div",{class:"ev-art photo"},[bl,el("img",{src:ph,alt:"",loading:"lazy"})]);
+      }else{
+        var key=EV_ICONS[e.icon]?e.icon:"star";
+        art=el("div",{class:"ev-art"},[svg(EV_ICONS[key],84,84,"0 0 64 64")]);
+        art.firstChild.setAttribute("stroke","#161513"); art.firstChild.setAttribute("stroke-width","2.2");
+        if(!(e.featured||i===0)) art.style.background=ART_BG[key];
+      }
+      var title=safeUrl(e.url)?el("a",{href:e.url,style:"color:inherit",text:tr(e.title)}):tr(e.title);
+      return el("article",{class:"ev"+((e.featured||i===0)?" featured":"")},[
+        art,
+        el("div",{class:"ev-body"},[
+          el("div",{class:"ev-when"},[el("span",{text:tr(e.when)}), e.free?el("span",{class:"free",text:tr(T.free)}):null]),
+          el("h3",null,[title]),
+          el("p",{text:tr(e.text)}),
+          e.place?el("div",{class:"ev-place",text:tr(e.place)}):null
+        ])
+      ]);
+    }));
+    app.appendChild(el("section",{class:"tile","aria-labelledby":"dm-h"},[
+      el("div",{class:"sec-head"},[el("h2",{id:"dm-h",text:tr(T.dontmiss)})]),
+      evs,
+      el("div",{class:"more"},[el("a",{class:"btn",href:"https://vamostomar.pt/#events",text:tr(T.allEvents)})])
+    ]));
+  }
+
+  /* news */
+  if(d.news && d.news.length){
+    var st=el("div",{class:"stories"},d.news.map(function(n){
+      return el("article",{class:"story"},[
+        el("div",{class:"cat",text:tr((T.cats[n.cat])||n.catLabel||"")}),
+        el("h3",{text:tr(n.head)}),
+        el("p",{text:tr(n.body)}),
+        safeUrl(n.url)?el("a",{href:n.url,rel:"noopener",text:tr(T.via)+" "+(n.src||"")+" ↗"}):null
+      ]);
+    }));
+    st.appendChild(el("div",{class:"tip"},[el("strong",{text:tr(T.tipH)}),el("p",{text:tr(T.tipP)}),el("a",{href:"https://vamostomar.pt/#add",text:tr(T.tipA)})]));
+    app.appendChild(el("section",{class:"tile news","aria-labelledby":"nw-h"},[
+      el("div",{class:"sec-head"},[el("h2",{id:"nw-h",text:tr(T.news)}),el("div",{class:"sec-sub",text:tr(T.newsSub).replace("{n}",d.news.length)})]),
+      st
+    ]));
+  }
+
+  /* fact + coming */
+  var pair=el("div",{class:"pair"});
+  if(d.fact){
+    var cr=svg(CROSS,24,24,"0 0 100 100"); cr.style.color="#B08A45";
+    pair.appendChild(el("section",{class:"tile fact"},[el("div",{class:"fact-h"},[cr,el("h2",{text:tr(T.fact)})]),el("p",{text:tr(d.fact)}),el("small",{text:tr(T.factN)})]));
+  }
+  if(d.coming && d.coming.length){
+    pair.appendChild(el("section",{class:"tile coming"},[el("h2",{text:tr(T.coming)}),el("ul",null,d.coming.map(function(c){
+      return el("li",null,[el("span",null,[el("strong",{text:tr(c.when)})," · "+tr(c.text)])]);
+    }))]));
+  }
+  if(pair.children.length===1) pair.style.gridTemplateColumns="1fr";
+  if(pair.children.length) app.appendChild(pair);
+
+  /* share */
+  if(!d.soon){
+  var url=shareUrl();
+  var waText=(d.whatsapp&&tr(d.whatsapp))||(tr(T.title)+" — "+tr(d.range)+"\n"+url);
+  if(waText.indexOf("http")<0) waText+="\n"+url;
+  app.appendChild(el("section",{class:"tile share"},[
+    el("div",null,[el("h2",{text:tr(T.share)}),el("div",{class:"sec-sub",text:tr(T.shareSub)})]),
+    el("div",{class:"share-btns"},[
+      el("a",{class:"btn wa",href:"https://wa.me/?text="+encodeURIComponent(waText),rel:"noopener"},[svg('<path d="M4 20l1.3-4A8 8 0 1 1 8 18.7z" stroke="#fff" stroke-width="2"/>',18,18,"0 0 24 24"),"WhatsApp"]),
+      el("a",{class:"btn ig",href:"https://instagram.com/vamostomarinsta",rel:"noopener"},[svg('<rect x="3" y="3" width="18" height="18" rx="5" stroke="#fff" stroke-width="2"/><circle cx="12" cy="12" r="4" stroke="#fff" stroke-width="2"/>',18,18,"0 0 24 24"),"Instagram"]),
+      el("a",{class:"btn mail",href:"mailto:?subject="+encodeURIComponent(tr(T.title)+" — "+tr(d.range))+"&body="+encodeURIComponent(url)},[svg('<rect x="3" y="5" width="18" height="14" rx="2" stroke="#fff" stroke-width="2"/><path d="M3 7l9 6 9-6" stroke="#fff" stroke-width="2"/>',18,18,"0 0 24 24"),"Email"])
+    ])
+  ]));
+  }
+
+  /* archive + footer */
+  var arch=el("section",{class:"tile archive",id:"archive"},[el("h2",{text:tr(T.archiveH)}),el("ul",{id:"archive-list"})]);
+  app.appendChild(el("footer",{class:"tile foot"},[
+    el("div",null,[el("strong",{text:tr(T.title)}),el("span",null,[tr(T.every)+" · ",el("button",{type:"button",class:"linklike",text:tr(T.archive),onclick:function(){ openArchive(arch); }})," · ",el("a",{href:"https://vamostomar.pt",text:tr(T.directory)})])]),
+    el("div",null,[tr(T.powered)+" ",el("a",{href:"https://tomarketing.pt",style:"font-weight:700",text:"tomarketing.pt"})])
+  ]));
+  app.appendChild(arch);
+}
+
+function openArchive(box){
+  box.classList.add("open");
+  var ul=box.querySelector("ul"); if(ul.dataset.done)return; ul.dataset.done="1";
+  fetch("archive/index.json",{cache:"no-cache"}).then(function(r){return r.json();}).then(function(list){
+    (list.dates||list||[]).forEach(function(iso){
+      if(!/^\d{4}-\d{2}-\d{2}$/.test(iso)||iso===GATED)return;
+      var dt=new Date(iso+"T12:00:00Z");
+      var label=new Intl.DateTimeFormat(lang==="en"?"en-GB":lang==="es"?"es-ES":"pt-PT",{day:"numeric",month:"long",year:"numeric",timeZone:"UTC"}).format(dt);
+      ul.appendChild(el("li",null,[el("a",{href:"?d="+iso+(lang!=="pt"?"&lang="+lang:""),text:label})]));
+    });
+    box.scrollIntoView({behavior:"smooth"});
+  }).catch(function(){ ul.appendChild(el("li",{text:"—"})); });
+}
+
+function setLang(L){
+  lang=L; params.set("lang",L); if(L==="pt")params.delete("lang");
+  var q=params.toString(); history.replaceState(null,"",location.pathname+(q?"?"+q:""));
+  render();
+}
+
+function fail(){ var a=document.getElementById("app"); a.innerHTML=""; a.appendChild(el("section",{class:"tile state",text:tr(T.failed)})); }
+function getJSON(u){ return fetch(u+(u.indexOf("?")<0?"?":"&")+"v="+Math.floor(Date.now()/60000),{cache:"no-cache"}).then(function(r){ if(!r.ok){ var er=new Error(r.status); er.status=r.status; throw er; } return r.json(); }); }
+function show(j){ DATA=j; render(); }
+/* A confirmed edition waits until its publishAt time (Sunday 08:00 Lisbon);
+   until then the page keeps showing the previous one. */
+function showPrevious(before, pubAt){
+  return getJSON("archive/index.json").then(function(list){
+    var prev=(list.dates||[]).filter(function(x){ return /^\d{4}-\d{2}-\d{2}$/.test(x) && x<before; }).sort().reverse()[0];
+    if(!prev) throw new Error("none");
+    return getJSON("archive/"+prev+".json").then(show);
+  }).catch(function(){ show({soon:true,publishAt:pubAt}); });
+}
+if(window.WEEKLY_INLINE){ show(window.WEEKLY_INLINE); }
+else if(params.get("draft")){ getJSON("draft.json").then(show).catch(fail); }
+else if(/^\d{4}-\d{2}-\d{2}$/.test(params.get("d")||"")){ getJSON("archive/"+params.get("d")+".json").then(show).catch(fail); }
+else getJSON("weekly.json").then(function(j){
+  var t=j.publishAt?Date.parse(j.publishAt):0;
+  if(t && t>Date.now()){ GATED=j.date; return showPrevious(j.date, j.publishAt); }
+  show(j);
+}).catch(function(x){ if(x && x.status===404) show({soon:true}); else fail(); });
+})();
+</script>
+</body>
+</html>
