@@ -1,5 +1,5 @@
 {
- "schema": 1,
+ "schema": 2,
  "date": "2026-09-27",
  "edition": 1,
  "publishAt": "2026-09-27T08:00:00+01:00",
@@ -67,37 +67,6 @@
     "rain": 10.2
    }
   ]
- },
- "spotlight": {
-  "title": {
-   "en": "400 years of the Feira de Santa Iria",
-   "pt": "400 anos da Feira de Santa Iria",
-   "es": "400 años de la Feira de Santa Iria"
-  },
-  "text": {
-   "en": "Tomar's great autumn fair was granted by royal charter in 1626. The anniversary edition runs 16–25 October: ten days of stalls, food, music and the procession on the river. Three weeks to go.",
-   "pt": "A grande feira de outono de Tomar foi criada por carta régia em 1626. A edição do aniversário decorre de 16 a 25 de outubro: dez dias de bancas, gastronomia, música e a procissão no rio. Faltam três semanas.",
-   "es": "La gran feria de otoño de Tomar se creó por carta real en 1626. La edición del aniversario se celebra del 16 al 25 de octubre: diez días de puestos, gastronomía, música y la procesión en el río. Faltan tres semanas."
-  },
-  "cta": {
-   "en": "See it in Events →",
-   "pt": "Ver nos Eventos →",
-   "es": "Ver en Eventos →"
-  },
-  "url": "https://vamostomar.pt/#events",
-  "badge": {
-   "big": "400",
-   "small": {
-    "en": "Years · 1626–2026",
-    "pt": "Anos · 1626–2026",
-    "es": "Años · 1626–2026"
-   },
-   "date": {
-    "en": "16–25 October",
-    "pt": "16–25 outubro",
-    "es": "16–25 octubre"
-   }
-  }
  },
  "events": [
   {
@@ -397,9 +366,9 @@
   }
  ],
  "whatsapp": {
-  "en": "This Week in Tomar (27 Sept – 3 Oct): free visits to the Convento on Sunday, the Brigade's open days and 400 years of the Santa Iria fair.\nhttps://vamostomar.pt/weekly/?lang=en",
-  "pt": "Esta Semana em Tomar (27 set – 3 out): visitas grátis ao Convento no domingo, dias abertos da Brigada e 400 anos da Feira de Santa Iria.\nhttps://vamostomar.pt/weekly/",
-  "es": "Esta Semana en Tomar (27 sept – 3 oct): visitas gratis al Convento el domingo, jornadas abiertas de la Brigada y 400 años de la Feira de Santa Iria.\nhttps://vamostomar.pt/weekly/?lang=es"
+  "en": "This Week in Tomar (27 Sept – 3 Oct): the story of Café Paraíso, free visits to the Convento on Sunday and 400 years of the Santa Iria fair.\nhttps://vamostomar.pt/weekly/?lang=en",
+  "pt": "Esta Semana em Tomar (27 set – 3 out): a história do Café Paraíso, visitas grátis ao Convento no domingo e 400 anos da Feira de Santa Iria.\nhttps://vamostomar.pt/weekly/",
+  "es": "Esta Semana en Tomar (27 sept – 3 oct): la historia del Café Paraíso, visitas gratis al Convento el domingo y 400 años de la Feira de Santa Iria.\nhttps://vamostomar.pt/weekly/?lang=es"
  },
  "sourcesChecked": [
   {
@@ -443,5 +412,162 @@
    "items": 21
   }
  ],
- "confirmedAt": "2026-09-26T16:05:42.763Z"
+ "confirmedAt": "2026-09-26T16:05:42.763Z",
+ "feature": {
+  "title": {
+   "en": "400 years of the Feira de Santa Iria",
+   "pt": "400 anos da Feira de Santa Iria",
+   "es": "400 años de la Feira de Santa Iria"
+  },
+  "text": {
+   "en": "Tomar's great autumn fair was granted by royal charter in 1626. The anniversary edition runs 16–25 October: ten days of stalls, food, music and the procession on the river. Three weeks to go.",
+   "pt": "A grande feira de outono de Tomar foi criada por carta régia em 1626. A edição do aniversário decorre de 16 a 25 de outubro: dez dias de bancas, gastronomia, música e a procissão no rio. Faltam três semanas.",
+   "es": "La gran feria de otoño de Tomar se creó por carta real en 1626. La edición del aniversario se celebra del 16 al 25 de octubre: diez días de puestos, gastronomía, música y la procesión en el río. Faltan tres semanas."
+  },
+  "cta": {
+   "en": "See it in Events →",
+   "pt": "Ver nos Eventos →",
+   "es": "Ver en Eventos →"
+  },
+  "url": "https://vamostomar.pt/#/events",
+  "badge": {
+   "big": "400",
+   "small": {
+    "en": "Years · 1626–2026",
+    "pt": "Anos · 1626–2026",
+    "es": "Años · 1626–2026"
+   },
+   "date": {
+    "en": "16–25 October",
+    "pt": "16–25 outubro",
+    "es": "16–25 octubre"
+   }
+  }
+ },
+ "spotlight": {
+  "listing": "cafe-paraiso-y5u",
+  "name": {
+   "en": "Café Paraíso",
+   "pt": "Café Paraíso",
+   "es": "Café Paraíso"
+  },
+  "dek": {
+   "en": "115 years in the middle of Tomar, and a room that has hardly changed since 1946.",
+   "pt": "115 anos no centro de Tomar, numa sala que pouco mudou desde 1946.",
+   "es": "115 años en el centro de Tomar, en un salón que apenas ha cambiado desde 1946."
+  },
+  "title": {
+   "en": "A room from 1946, a story from 1911",
+   "pt": "Uma sala de 1946, uma história de 1911",
+   "es": "Un salón de 1946, una historia de 1911"
+  },
+  "story": [
+   {
+    "en": "Café Paraíso opened in 1911, started by five friends who ran it as the Empreza do Paraízo de Thomar. More than a century later it is still open at number 127 on Rua Serpa Pinto, in the middle of the old town.",
+    "pt": "O Café Paraíso abriu em 1911, fundado por cinco amigos que o geriam como Empreza do Paraízo de Thomar. Mais de um século depois continua aberto no número 127 da Rua Serpa Pinto, no coração do centro histórico.",
+    "es": "El Café Paraíso abrió en 1911, fundado por cinco amigos que lo gestionaban como Empreza do Paraízo de Thomar. Más de un siglo después sigue abierto en el número 127 de la Rua Serpa Pinto, en pleno casco antiguo."
+   },
+   {
+    "en": "Most of the room you sit in today dates from 1946, when the architect Francisco Granja remodelled it. The mirrors on the walls came from Italy, an Italian craftsman painted the iron columns to look like marble, and the big ceiling fans went in at the same time. The old arched doorways gave way to the wide windows onto the street.",
+    "pt": "Quase tudo o que se vê hoje na sala vem de 1946, quando o arquiteto Francisco Granja a remodelou. Os espelhos das paredes vieram de Itália, um artesão italiano pintou as colunas de ferro a imitar mármore e as grandes ventoinhas de teto chegaram na mesma altura. As antigas portas em arco deram lugar às montras largas para a rua.",
+    "es": "Casi todo lo que se ve hoy en el salón es de 1946, cuando el arquitecto Francisco Granja lo remodeló. Los espejos de las paredes llegaron de Italia, un artesano italiano pintó las columnas de hierro imitando mármol y los grandes ventiladores de techo se instalaron a la vez. Las antiguas puertas en arco dieron paso a los amplios escaparates a la calle."
+   },
+   {
+    "en": "It has stayed in the same family. Manuel Cândido da Mota bought out the other founders, his nephew Manuel Mota Grego ran it for many years, and today the Grego family is into its fourth generation behind the counter.",
+    "pt": "Ficou sempre na mesma família. Manuel Cândido da Mota comprou a parte dos outros fundadores, o sobrinho Manuel Mota Grego geriu-o durante muitos anos e hoje a família Grego vai na quarta geração atrás do balcão.",
+    "es": "Siempre ha seguido en la misma familia. Manuel Cândido da Mota compró la parte de los otros fundadores, su sobrino Manuel Mota Grego lo dirigió durante muchos años y hoy la familia Grego va por la cuarta generación tras la barra."
+   },
+   {
+    "en": "Come for a coffee under the fans in the morning, or a glass of wine and some petiscos in the evening.",
+    "pt": "Venha tomar um café debaixo das ventoinhas de manhã, ou um copo de vinho com petiscos ao fim do dia.",
+    "es": "Ven a tomar un café bajo los ventiladores por la mañana, o una copa de vino con petiscos al final del día."
+   }
+  ],
+  "photo": "https://vamostomar.pt/data/images/cafe-paraiso-20260926-n2at.webp",
+  "photoAlt": {
+   "en": "Inside Café Paraíso: marble-effect columns, ceiling fans and steel chairs",
+   "pt": "Interior do Café Paraíso: colunas a imitar mármore, ventoinhas de teto e cadeiras de aço",
+   "es": "Interior del Café Paraíso: columnas imitando mármol, ventiladores de techo y sillas de acero"
+  },
+  "facts": [
+   {
+    "k": {
+     "en": "Since",
+     "pt": "Desde",
+     "es": "Desde"
+    },
+    "v": {
+     "en": "1911",
+     "pt": "1911",
+     "es": "1911"
+    }
+   },
+   {
+    "k": {
+     "en": "The room",
+     "pt": "A sala",
+     "es": "El salón"
+    },
+    "v": {
+     "en": "Remodelled in 1946",
+     "pt": "Remodelada em 1946",
+     "es": "Remodelado en 1946"
+    }
+   },
+   {
+    "k": {
+     "en": "Where",
+     "pt": "Onde",
+     "es": "Dónde"
+    },
+    "v": {
+     "en": "R. Serpa Pinto 127, Tomar",
+     "pt": "R. Serpa Pinto 127, Tomar",
+     "es": "R. Serpa Pinto 127, Tomar"
+    }
+   }
+  ],
+  "tags": [
+   {
+    "en": "Café",
+    "pt": "Café",
+    "es": "Café"
+   },
+   {
+    "en": "Bar",
+    "pt": "Bar",
+    "es": "Bar"
+   },
+   {
+    "en": "Petiscos",
+    "pt": "Petiscos",
+    "es": "Petiscos"
+   },
+   {
+    "en": "Wine",
+    "pt": "Vinhos",
+    "es": "Vinos"
+   }
+  ],
+  "url": "https://vamostomar.pt/#/eat/cafe-paraiso-y5u",
+  "links": {
+   "maps": "https://maps.app.goo.gl/hjWfzD2KapDsht5f8",
+   "website": "https://cafeparaiso.pt/"
+  },
+  "sources": [
+   {
+    "name": "Tomar na Rede",
+    "url": "https://tomarnarede.pt/destaque/cafe-paraiso-chega-aos-110-anos/"
+   },
+   {
+    "name": "D de Delta",
+    "url": "https://dddelta.com/cafe-paraiso/"
+   },
+   {
+    "name": "Portugal Num Mapa",
+    "url": "https://www.portugalnummapa.com/cafe-paraiso/"
+   }
+  ]
+ },
+ "updatedAt": "2026-09-29T00:30:00+01:00"
 }
