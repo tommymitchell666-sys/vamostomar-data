@@ -1,6 +1,6 @@
 {
- "rev": 18,
- "updated": "2026-09-28T14:09:49.056Z",
+ "rev": 19,
+ "updated": "2026-09-28T14:11:19.647Z",
  "events": [],
  "listings": [
   {
@@ -35,7 +35,7 @@
   {
    "category": "services",
    "zone": "centro",
-   "name": "Andystomarit.tech IT",
+   "name": "Andystomarit.tech",
    "blurb": "IT support, fixes and much more. English speaking. Fair prices. I  can come to you. More information on my website.",
    "detail": "Andystomarit. Amêndoa-Olalhas Tomar 2300-064",
    "icon": "info",
@@ -69,7 +69,7 @@
      9,
      18
     ],
-    "note": "Phone or msg on Whatsapp"
+    "note": "Phone or msg on Facebook. Whatsapp"
    },
    "id": "andystomarit-tech"
   },
