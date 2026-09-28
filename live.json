@@ -1,6 +1,6 @@
 {
- "rev": 21,
- "updated": "2026-09-28T20:19:03.332Z",
+ "rev": 22,
+ "updated": "2026-09-28T22:33:23.753Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -22,6 +22,26 @@
     "src": "data/images/ceramics-at-fabrica-das-artes-poster-20260928-o5m3.webp"
    },
    "id": "ev-2026-10-03-ceramics-at-fabrica-das-artes"
+  },
+  {
+   "date": "2026-10-10",
+   "dateEnd": null,
+   "name": "Dias Templários no Convento de Cristo",
+   "blurb": "A day of living history outside the Convent of Christ, from 10:00 am to 6:00 pm. A military and civilian camp showcases the medieval daily life, equipment, weapons and customs of the Templar era, with demonstrations of historical fencing, historical dances, archery and medieval coquinaria. There is also a Historical Conference on the Templar legacy and the Mercado da Estrelinha – Medieval/Templar Special, with local artisans. Organization of the Thomar Honoris Association and the OPCTJ, in partnership with the Union of Parishes of Tomar and the Convent of Christ. Ideal for families.",
+   "place": "Exterior do Convento de Cristo, Tomar",
+   "name_pt": "Dias Templários no Convento de Cristo",
+   "name_es": "Dias Templários no Convento de Cristo",
+   "blurb_pt": "Um dia de história viva no exterior do Convento de Cristo, das 10h00 às 18h00. Um acampamento militar e civil dá a conhecer o quotidiano medieval, os equipamentos, as armas e os costumes da época templária, com demonstrações de esgrima histórica, danças históricas, tiro com arco e coquinaria medieval. Há ainda uma Conferência Histórica sobre o legado templário e o Mercado da Estrelinha – Especial Medieval/Templário, com artesãos locais. Organização da Associação Thomar Honoris e da OPCTJ, em parceria com a União das Freguesias de Tomar e o Convento de Cristo. Ideal para famílias.",
+   "blurb_es": "Un día de historia viva fuera del Convento de Cristo, de 10:00 a 18:00 horas. Un campamento militar y civil muestra la vida cotidiana medieval, el equipamiento, las armas y las costumbres de la época templaria, con demostraciones de esgrima histórica, danzas históricas, tiro con arco y coquinaria medieval. También hay una Conferencia Histórica sobre el legado templario y el Mercado da Estrelinha – Especial medieval/templario, con artesanos locales. Organización de la Asociación Thomar Honoris y la OPCTJ, en colaboración con la Unión de Parroquias de Tomar y el Convento de Cristo. Ideal para familias.",
+   "place_pt": "Exterior do Convento de Cristo, Tomar",
+   "place_es": "Exterior del Convento de Cristo, Tomar",
+   "time": "10:00",
+   "venue": "convento-de-cristo",
+   "maps": "https://maps.app.goo.gl/4jr4Bi6FJPtU5rfq5",
+   "photo": {
+    "src": "data/images/dias-templarios-no-convento-de-cristo-poster-20260928-na17.webp"
+   },
+   "id": "ev-2026-10-10-dias-templarios-no-convento-de-cristo"
   }
  ],
  "listings": [
