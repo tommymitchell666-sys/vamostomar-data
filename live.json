@@ -1,6 +1,6 @@
 {
- "rev": 16,
- "updated": "2026-09-28T06:50:45.927Z",
+ "rev": 17,
+ "updated": "2026-09-28T06:52:53.024Z",
  "events": [],
  "listings": [
   {
@@ -77,8 +77,9 @@
    "category": "services",
    "zone": "centro",
    "name": "William Santo",
-   "blurb": "Quer seja um cliente local ou alguém que chega do estrangeiro, merece um consultor que compreenda as suas necessidades, respeite o seu tempo e proteja os seus interesses. Esse é o padrão que trago todos os dias na CENTURY 21® Omnia.",
+   "blurb": "Whether you are a local or arriving from abroad, you deserve a consultant who understands your needs, respects your time and protects your interests. That’s the standard I bring every day at CENTURY 21® Omnia. \n- Estate agent",
    "detail": "Century 21 Omnia, Rua João dos Santos Simões 56, Tomar",
+   "icon": "info",
    "name_pt": "William Santo",
    "blurb_pt": "Quer ser um cliente local ou alguém que chega do estrangeiro, merece um consultor que compreenda as suas necessidades, respeite o seu tempo e proteja os seus interesses. Esse é o padrão que trago todos os dias na CENTURY 21® Omnia.",
    "detail_pt": "Century 21 Omnia, Rua João dos Santos Simões 56, Tomar",
