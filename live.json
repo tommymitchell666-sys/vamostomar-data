@@ -1,7 +1,29 @@
 {
- "rev": 20,
- "updated": "2026-09-28T14:11:50.093Z",
- "events": [],
+ "rev": 21,
+ "updated": "2026-09-28T20:19:03.332Z",
+ "events": [
+  {
+   "date": "2026-10-03",
+   "dateEnd": null,
+   "name": "Ceramics at Fábrica das Artes",
+   "blurb": "Make and decorate your own flower pot! Included in the Workshop: Clay + Tools + Paints to decorate the pieces + their glaze ( made by me later to receive the pieces already completed) + ovens + snacks and flavored water. €45.",
+   "place": "A Moagem — Fábrica das Artes",
+   "name_pt": "Cerâmica na Fábrica das Artes",
+   "name_es": "Cerámica en Fábrica das Artes",
+   "blurb_pt": "Faz e decora o teu próprio vaso para flores! Incluido no Workshop: Barro + Ferramentas + Tintas para decorar as peças + o vidrado das mesmas ( feito por mim posteriormente para receberem as peças já completas) + fornadas + snacks e água aromatizada.\n45€.",
+   "blurb_es": "¡Haz y decora tu propia maceta! Incluido en el Taller: Arcilla + Herramientas + Pinturas para decorar las piezas + su esmalte ( hecho por mí más tarde para recibir las piezas ya terminadas) + hornos + snacks y agua saborizada. 45€.",
+   "place_pt": "A Moagem — Fábrica das Artes",
+   "place_es": "A Moagem — Fábrica das Artes",
+   "time": "10:00",
+   "venue": "a-moagem",
+   "maps": "https://www.google.com/maps/search/?api=1&query=A+Moagem+Fabrica+das+Artes%2C+Tomar",
+   "url": "https://jmceramics.bigcartel.com",
+   "photo": {
+    "src": "data/images/ceramics-at-fabrica-das-artes-poster-20260928-o5m3.webp"
+   },
+   "id": "ev-2026-10-03-ceramics-at-fabrica-das-artes"
+  }
+ ],
  "listings": [
   {
    "category": "eat",
