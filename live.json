@@ -1,6 +1,6 @@
 {
- "rev": 17,
- "updated": "2026-09-28T06:52:53.024Z",
+ "rev": 18,
+ "updated": "2026-09-28T14:09:49.056Z",
  "events": [],
  "listings": [
   {
@@ -35,9 +35,10 @@
   {
    "category": "services",
    "zone": "centro",
-   "name": "Andystomarit.tech",
+   "name": "Andystomarit.tech IT",
    "blurb": "IT support, fixes and much more. English speaking. Fair prices. I  can come to you. More information on my website.",
    "detail": "Andystomarit. Amêndoa-Olalhas Tomar 2300-064",
+   "icon": "info",
    "name_pt": "Andystomarit. tech",
    "blurb_pt": "Suporte de TI, correções e muito mais. Fala inglês. Preços justos. Eu  posso ir até aí. Mais informações no meu site.",
    "name_es": "Andystomarit. tech",
@@ -45,8 +46,7 @@
    "sub": [],
    "email": "info@andystomarit.tech",
    "links": {
-    "website": "https://www.andystomarit.tech/",
-    "facebook": "https://facebook.com/andycossins"
+    "website": "https://www.andystomarit.tech/"
    },
    "hours": {
     "1": [
@@ -69,7 +69,7 @@
      9,
      18
     ],
-    "note": "Phone or msg on Facebook. Whatsapp"
+    "note": "Phone or msg on Whatsapp"
    },
    "id": "andystomarit-tech"
   },
