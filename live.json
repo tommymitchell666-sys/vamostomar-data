@@ -1,6 +1,6 @@
 {
- "rev": 25,
- "updated": "2026-09-30T11:51:08.865Z",
+ "rev": 26,
+ "updated": "2026-09-30T12:04:58.055Z",
  "events": [
   {
    "date": "2026-10-01",
@@ -298,6 +298,51 @@
    "photos": [
     {
      "src": "data/images/calista-mmstudio-20260930-f790.webp"
+    }
+   ]
+  },
+  {
+   "category": "health",
+   "zone": "centro",
+   "name": "Yoga with Sound Bath",
+   "blurb": "Yoga flow for all levels with Susan Catarine, group practices on Tuesdays and Thursdays and also individual practices. At the end a deep relaxation with crystal glasses to invigorate!",
+   "detail": "R. João dos Santos Simões 38, 2300-499 Tomar",
+   "name_pt": "Yoga com banho de sons",
+   "blurb_pt": "Yoga flow para todos os níveis com Susan Catarine, práticas em grupo às terças e quintas e também práticas individuais. Ao final um relaxamento profundo com taças de cristal para revigorar!",
+   "detail_pt": "R. João dos Santos Simões 38, 2300-499 Tomar",
+   "name_es": "Yoga con baño de sonido",
+   "blurb_es": "Flujo de yoga para todos los niveles con Susan Catarine, prácticas grupales los martes y jueves y también prácticas individuales. ¡Al final una relajación profunda con vasos de cristal para vigorizar!",
+   "detail_es": "R. João dos Santos Simões 38, 2300-499 Tomar",
+   "price": "€10",
+   "price_pt": "10 €",
+   "price_es": "10€",
+   "sub": [
+    "yoga"
+   ],
+   "tags": [
+    "yoga"
+   ],
+   "phone": "968096602",
+   "email": "susancatarine@gmail.com",
+   "links": {
+    "instagram": "https://www.instagram.com/susancatarineyoga/",
+    "facebook": "https://www.facebook.com/susancatarineinstrutoradeyoga",
+    "maps": "https://www.google.com/maps/place/Susan+Catarine+Yoga,+R.+Jo%C3%A3o+dos+Santos+Sim%C3%B5es+38,+2300-499+Tomar/@39.6068107,-8.4083539,17z/data=!4m6!3m5!1s0xd187fbf6a8e9b9d:0xca22c8abbc241672!8m2!3d39.6068107!4d-8.4083539!16s%2Fg%2F11w1hzdjb3?hl=en&g_ep=Eg1tbF8yMDI2MDkyN18wIOC7DCoASAJQAg%3D%3D"
+   },
+   "hours": {
+    "2": [
+     10,
+     11
+    ],
+    "4": [
+     10,
+     11
+    ]
+   },
+   "id": "yoga-with-sound-bath",
+   "photos": [
+    {
+     "src": "data/images/yoga-with-sound-bath-20260930-804v.webp"
     }
    ]
   }
