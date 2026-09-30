@@ -1,6 +1,6 @@
 {
- "rev": 24,
- "updated": "2026-09-30T11:46:57.488Z",
+ "rev": 25,
+ "updated": "2026-09-30T11:51:08.865Z",
  "events": [
   {
    "date": "2026-10-01",
@@ -250,6 +250,56 @@
     ]
    },
    "id": "fruyo-acai-frozen-yogurt"
+  },
+  {
+   "category": "health",
+   "zone": "centro",
+   "name": "Calista - Mmstudio",
+   "blurb": "Each service is personalized, carried out with professionalism, care and attention to your needs. Because more than a service, I want to provide you with well-being, confidence and results.",
+   "detail": "Rua Voluntários da República 158",
+   "name_pt": "Calista - Mmstudio",
+   "blurb_pt": "Cada atendimento é personalizado, realizado com profissionalismo, cuidado e atenção às suas necessidades. Porque mais do que um serviço, quero proporcionar-lhe bem-estar, confiança e resultados.",
+   "detail_pt": "Rua Voluntários da República 158",
+   "name_es": "Calista - Mmstudio",
+   "blurb_es": "Cada servicio es personalizado, realizado con profesionalidad, cuidado y atención a sus necesidades. Porque más que un servicio, quiero brindarte bienestar, confianza y resultados.",
+   "detail_es": "Rua Voluntários da República 158",
+   "sub": [],
+   "tags": [],
+   "phone": "966217802",
+   "email": "mmstudio@email.com",
+   "links": {
+    "instagram": "https://www.instagram.com/Monicamoedas.studio/",
+    "facebook": "https://www.facebook.com/Mmstudio"
+   },
+   "hours": {
+    "1": [
+     10,
+     18
+    ],
+    "2": [
+     10,
+     18
+    ],
+    "3": [
+     10,
+     18
+    ],
+    "4": [
+     10,
+     18
+    ],
+    "5": [
+     10,
+     18
+    ],
+    "note": "Atendimento por marcação"
+   },
+   "id": "calista-mmstudio",
+   "photos": [
+    {
+     "src": "data/images/calista-mmstudio-20260930-f790.webp"
+    }
+   ]
   }
  ],
  "patches": {
