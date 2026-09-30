@@ -1,7 +1,29 @@
 {
- "rev": 23,
- "updated": "2026-09-30T11:42:20.748Z",
+ "rev": 24,
+ "updated": "2026-09-30T11:46:57.488Z",
  "events": [
+  {
+   "date": "2026-10-01",
+   "dateEnd": null,
+   "name": "Yoga with sound bath",
+   "blurb": "Yoga flow for all levels with Susan Catarine, group practices on Tuesdays and Thursdays and also individual practices. At the end a deep relaxation with crystal glasses to invigorate!",
+   "place": "Susan Catarine Yoga- Rua Joao Santos Simoes 38",
+   "name_pt": "Yoga com banho de sons- Yoga with sound bath",
+   "name_es": "Yoga con baño de sonido",
+   "blurb_pt": "Yoga flow para todos os níveis com Susan Catarine, práticas em grupo às terças e quintas e também práticas individuais. Ao final um relaxamento profundo com taças de cristal para revigorar!",
+   "blurb_es": "Flujo de yoga para todos los niveles con Susan Catarine, prácticas grupales los martes y jueves y también prácticas individuales. ¡Al final, una relajación profunda con vasos de cristal para vigorizar!",
+   "place_pt": "Susan Catarine Yoga- Rua Joao Santos Simoes 38",
+   "place_es": "Susan Catarine Yoga- Rua Joao Santos Simoes 38",
+   "price": "10 euros a aula",
+   "price_pt": "10 euros a aula",
+   "price_es": "10 euros por aula",
+   "time": "10:00",
+   "maps": "https://www.google.com/maps/place/Susan+Catarine+Yoga,+R.+Jo%C3%A3o+dos+Santos+Sim%C3%B5es+38,+2300-499+Tomar/@39.6068107,-8.4083539,17z/data=!4m6!3m5!1s0xd187fbf6a8e9b9d:0xca22c8abbc241672!8m2!3d39.6068107!4d-8.4083539!16s%2Fg%2F11w1hzdjb3?hl=en&g_ep=Eg1tbF8yMDI2MDkyN18wIOC7DCoASAJQAg%3D%3D",
+   "photo": {
+    "src": "data/images/yoga-with-sound-bath-poster-20260930-quw0.webp"
+   },
+   "id": "ev-2026-10-01-yoga-with-sound-bath"
+  },
   {
    "date": "2026-10-03",
    "dateEnd": null,
