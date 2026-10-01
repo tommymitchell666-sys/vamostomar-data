@@ -1,6 +1,6 @@
 {
- "rev": 27,
- "updated": "2026-09-30T12:38:17.539Z",
+ "rev": 28,
+ "updated": "2026-10-01T16:28:27.216Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -321,6 +321,93 @@
    "photos": [
     {
      "src": "data/images/yoga-with-sound-bath-20260930-804v.webp"
+    }
+   ]
+  },
+  {
+   "category": "services",
+   "zone": "centro",
+   "name": "Casa das Sementes",
+   "blurb": "Local drinks, regional sweets, handicrafts, souvenirs, seeds and bulk grocery.",
+   "detail": "Praça da República",
+   "name_pt": "Casa das Sementes",
+   "blurb_pt": "Bebidas locais, doces regionais, artesanato, lembranças, sementes e mercearia a granel.",
+   "detail_pt": "Praça da República",
+   "name_es": "Casa das Sementes",
+   "blurb_es": "Bebidas locales, dulces regionales, artesanías, souvenirs, semillas y abarrotes a granel.",
+   "detail_es": "Praça da República",
+   "sub": [
+    "shops",
+    "everyday"
+   ],
+   "tags": [
+    "crafts",
+    "wine",
+    "beer"
+   ],
+   "phone": "+351928146767",
+   "email": "casadassementestomar@gmail.com",
+   "links": {
+    "instagram": "https://www.instagram.com/casadassementestomar/",
+    "facebook": "https://www.facebook.com/casasementestomar",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Praca+da+Republica+Tomar"
+   },
+   "hours": {
+    "2": [
+     [
+      10,
+      14
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "3": [
+     [
+      10,
+      14
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "4": [
+     [
+      10,
+      14
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "5": [
+     [
+      10,
+      14
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "6": [
+     [
+      10,
+      14
+     ],
+     [
+      15,
+      19
+     ]
+    ]
+   },
+   "id": "casa-das-sementes",
+   "photos": [
+    {
+     "src": "data/images/casa-das-sementes-20261001-e185.webp"
     }
    ]
   }
