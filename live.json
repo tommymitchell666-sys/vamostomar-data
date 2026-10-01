@@ -1,6 +1,6 @@
 {
- "rev": 28,
- "updated": "2026-10-01T16:28:27.216Z",
+ "rev": 29,
+ "updated": "2026-10-01T16:38:53.039Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -452,6 +452,50 @@
      "src": "data/images/cafe-paraiso-20260926-o8vl.webp"
     }
    ]
+  },
+  "templar-knights-tours": {
+   "name": "Templar Knights Tours",
+   "name_pt": "Passeios de Cavaleiros Templários",
+   "name_es": "Recorridos de los Caballeros Templarios",
+   "detail": "templarknightstours.com",
+   "detail_pt": "templarknightstours. com",
+   "detail_es": "templarknightstours. com",
+   "phone": "912850001",
+   "email": "info@templarknightstours.com",
+   "links": {
+    "facebook": "https://www.facebook.com/groups/454377661250826/search/?q=vamos%20tomar"
+   },
+   "hours": {
+    "0": [
+     9,
+     18
+    ],
+    "1": [
+     9,
+     18
+    ],
+    "2": [
+     9,
+     18
+    ],
+    "3": [
+     9,
+     18
+    ],
+    "4": [
+     9,
+     18
+    ],
+    "5": [
+     9,
+     18
+    ],
+    "6": [
+     9,
+     18
+    ],
+    "note": "We also open for early bird coffee sessions talks from 08:00"
+   }
   }
  },
  "hidden": [
