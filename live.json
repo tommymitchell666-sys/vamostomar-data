@@ -1,6 +1,6 @@
 {
- "rev": 30,
- "updated": "2026-10-01T16:39:39.220Z",
+ "rev": 31,
+ "updated": "2026-10-01T16:41:04.449Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -501,8 +501,13 @@
    "blurb_es": "Recorridos templarios privados de inmersión dirigidos por el experto local Darren Keohane. Explora la historia y las leyendas de Tomar y el Convento de Cristo con un recorrido familiar basado en la investigación y la pasión. Descubre la fascinante historia de los Caballeros Templarios en la ciudad medieval de Tomar. Ya sea que te atraigan las Cruzadas, la Orden de Cristo o simplemente quieras una conexión más profunda con una de las ciudades históricas más cautivadoras de Portugal, nuestros recorridos están diseñados para ti. Tu recorrido por los templarios a tu manera.",
    "photos": [
     {
-     "src": "data/images/templar-knights-tours-20261001-1y7k.webp"
+     "src": "data/images/templar-knights-tours-20261001-jfby.webp"
     }
+   ],
+   "sub": [
+    "tours",
+    "museums",
+    "monuments"
    ]
   }
  },
