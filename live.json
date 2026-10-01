@@ -1,6 +1,6 @@
 {
- "rev": 32,
- "updated": "2026-10-01T16:42:03.966Z",
+ "rev": 33,
+ "updated": "2026-10-01T20:42:38.907Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -463,7 +463,8 @@
    "phone": "912850001",
    "email": "info@templarknightstours.com",
    "links": {
-    "facebook": "https://www.facebook.com/groups/454377661250826/search/?q=vamos%20tomar"
+    "facebook": "https://www.facebook.com/groups/454377661250826/search/?q=vamos%20tomar",
+    "instagram": "https://www.instagram.com/p/"
    },
    "hours": {
     "0": [
@@ -508,6 +509,12 @@
     "tours",
     "museums",
     "monuments"
+   ],
+   "tags": [
+    "templars",
+    "history",
+    "tours",
+    "english"
    ]
   }
  },
