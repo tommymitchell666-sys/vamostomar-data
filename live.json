@@ -1,6 +1,6 @@
 {
- "rev": 29,
- "updated": "2026-10-01T16:38:53.039Z",
+ "rev": 30,
+ "updated": "2026-10-01T16:39:39.220Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -495,7 +495,15 @@
      18
     ],
     "note": "We also open for early bird coffee sessions talks from 08:00"
-   }
+   },
+   "blurb": "Immersive Private Templar Tours Led By Local Expert Darren Keohane.\n\nExplore the history and legends of Tomar and the Convent of Christ with a family-run tour built on research and passion.\n Uncover the fascinating story of the Knights Templar in the medieval city of Tomar. Whether you’re drawn to the Crusades, the Order of Christ, or simply want a deeper connection to one of Portugal’s most captivating historic cities, our tours are designed around you.\n\nYour Templar Tour, Your Way.",
+   "blurb_pt": "Passeios templários privados imersivos liderados pelo especialista local Darren Keohane. Explore a história e as lendas de Tomar e do Convento de Cristo com um passeio familiar baseado em pesquisa e paixão. Descubra a fascinante história dos Cavaleiros Templários na cidade medieval de Tomar. Quer seja atraído pelas Cruzadas, pela Ordem de Cristo ou simplesmente queira uma ligação mais profunda a uma das cidades históricas mais cativantes de Portugal, os nossos passeios foram concebidos à sua volta. O seu passeio pelos Templários, à sua maneira.",
+   "blurb_es": "Recorridos templarios privados de inmersión dirigidos por el experto local Darren Keohane. Explora la historia y las leyendas de Tomar y el Convento de Cristo con un recorrido familiar basado en la investigación y la pasión. Descubre la fascinante historia de los Caballeros Templarios en la ciudad medieval de Tomar. Ya sea que te atraigan las Cruzadas, la Orden de Cristo o simplemente quieras una conexión más profunda con una de las ciudades históricas más cautivadoras de Portugal, nuestros recorridos están diseñados para ti. Tu recorrido por los templarios a tu manera.",
+   "photos": [
+    {
+     "src": "data/images/templar-knights-tours-20261001-1y7k.webp"
+    }
+   ]
   }
  },
  "hidden": [
