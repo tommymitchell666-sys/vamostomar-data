@@ -1,6 +1,6 @@
 {
- "rev": 31,
- "updated": "2026-10-01T16:41:04.449Z",
+ "rev": 32,
+ "updated": "2026-10-01T16:42:03.966Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -512,7 +512,8 @@
   }
  },
  "hidden": [
-  "cafe-paraiso"
+  "cafe-paraiso",
+  "hard-graft-guides"
  ],
  "guestbook": [],
  "insider": [],
