@@ -1,6 +1,6 @@
 {
- "rev": 38,
- "updated": "2026-10-02T13:22:04.795Z",
+ "rev": 39,
+ "updated": "2026-10-02T15:25:59.511Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -22,6 +22,29 @@
     "src": "data/images/ceramics-at-fabrica-das-artes-poster-20260928-o5m3.webp"
    },
    "id": "ev-2026-10-03-ceramics-at-fabrica-das-artes"
+  },
+  {
+   "date": "2026-10-09",
+   "dateEnd": null,
+   "name": "Free Lecture - Love, Medicine and Miracles: A New Perspective on Cancer",
+   "blurb": "What if the disease manifested itself to help us be happier? A new vision of such an overwhelming theme, through the voice of those who have gone through 2 cancers.",
+   "place": "Moinho da Ordem Room - Levada cultural complex",
+   "name_pt": "Palestra gratuita - Amor, Medicina e Milagres Uma Nova Perspectiva sobre o cancro",
+   "name_es": "Conferencia gratuita - Amor, medicina y milagros: una nueva perspectiva sobre el cáncer",
+   "blurb_pt": "E se a doença se manifestasse para nos ajudar a ser mais felizes? \nUma nova visão de um tema tão avassalador, pela voz de quem passou por 2 cancros.",
+   "blurb_es": "¿Qué pasaría si la enfermedad se manifestara para ayudarnos a ser más felices? Una nueva visión de un tema tan abrumador, a través de la voz de aquellos que han pasado por 2 cánceres.",
+   "place_pt": "Sala Moinho da Ordem - complexo cultural da Levada",
+   "place_es": "Sala Moinho da Ordem - Complejo cultural de Levada",
+   "price": "Free",
+   "price_pt": "Grátis",
+   "price_es": "Gratis",
+   "time": "20:30",
+   "maps": "https://maps.google.com/?q=Complexo%20Cultural%20da%20Levada,%20Nab%C3%A3o%20River,%20Portogallo,%202300%20Tomar&ftid=0xd187fbd76d8e8e9:0xba85fc133c4d8c2&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835699,94286869,100820247,100822504,100838877,121816461&g_st=ic",
+   "url": "https://Cristinacapela.com",
+   "photo": {
+    "src": "data/images/free-lecture-love-medicine-and-miracles-a-new-pe-20261002-x036.webp"
+   },
+   "id": "ev-2026-10-09-free-lecture-love-medicine-and-miracles-a-new-"
   },
   {
    "date": "2026-10-10",
