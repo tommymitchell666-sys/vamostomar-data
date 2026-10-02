@@ -1,6 +1,6 @@
 {
- "rev": 34,
- "updated": "2026-10-01T20:44:32.671Z",
+ "rev": 35,
+ "updated": "2026-10-02T08:13:39.328Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -520,7 +520,8 @@
  },
  "hidden": [
   "cafe-paraiso",
-  "hard-graft-guides"
+  "hard-graft-guides",
+  "orquestra-marques"
  ],
  "guestbook": [],
  "insider": [],
