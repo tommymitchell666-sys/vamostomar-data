@@ -1,6 +1,6 @@
 {
- "rev": 37,
- "updated": "2026-10-02T09:06:03.033Z",
+ "rev": 38,
+ "updated": "2026-10-02T13:22:04.795Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -495,6 +495,69 @@
    "photos": [
     {
      "src": "data/images/joao-carlos-nunes-cabeleireiro-20261002-jc3h.webp"
+    }
+   ]
+  },
+  {
+   "category": "services",
+   "zone": "centro",
+   "name": "Coral Ateliê - Graphic and Stationery",
+   "blurb": "A unique concept in Tomar that brings together in the same space stationery, art, design and creativity. Where you can buy books and school/office supplies, order design services, print various types of work and still participate in workshops",
+   "detail": "Coral Ateliê - Tv. Brites Gonçalves n2 2300-532 Tomar",
+   "name_pt": "Coral Ateliê - Gráfica e Papelaria",
+   "blurb_pt": "Um conceito único em Tomar que reúne no mesmo espaço papelaria, arte, design e criatividade. Onde pode comprar livros e material escolar/escritório, encomendar serviços de design, imprimir diversos tipos de trabalho e ainda participar em ateliês",
+   "detail_pt": "Coral Ateliê - Tv Brites Gonçalves n2 2300-532 Tomar",
+   "name_es": "Coral Ateliê - Gráfico y papelería",
+   "blurb_es": "Un concepto único en Tomar que reúne en un mismo espacio papelería, arte, diseño y creatividad. Donde puede comprar libros y útiles escolares/de oficina, solicitar servicios de diseño, imprimir varios tipos de trabajo y seguir participando en talleres",
+   "detail_es": "Coral Ateliê - Tv. Brites Gonçalves n2 2300-532 Tomar",
+   "sub": [
+    "shops",
+    "everyday"
+   ],
+   "tags": [
+    "culture",
+    "books",
+    "kids"
+   ],
+   "phone": "937735944",
+   "email": "geral.coralatelie@gmail.com",
+   "links": {
+    "website": "https://Www.coralatelie.pt",
+    "instagram": "https://www.instagram.com/Coralatelie.pt/",
+    "facebook": "https://www.facebook.com/share/19ERCeogpR/?mibextid=wwXIfr",
+    "maps": "https://maps.app.goo.gl/T7bW3cEVhdM6qxJ57?g_st=ic"
+   },
+   "hours": {
+    "1": [
+     10,
+     19
+    ],
+    "2": [
+     10,
+     19
+    ],
+    "3": [
+     10,
+     19
+    ],
+    "4": [
+     10,
+     19
+    ],
+    "5": [
+     10,
+     19
+    ],
+    "6": [
+     10,
+     13.5
+    ],
+    "note": "Sem pausa para almoço"
+   },
+   "id": "coral-atelie-graphic-and-stationery",
+   "photos": [
+    {
+     "src": "data/images/coral-atelie-graphic-and-stationery-20261002-boqs.webp"
     }
    ]
   }
