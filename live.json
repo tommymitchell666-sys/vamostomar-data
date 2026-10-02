@@ -1,6 +1,6 @@
 {
- "rev": 35,
- "updated": "2026-10-02T08:13:39.328Z",
+ "rev": 36,
+ "updated": "2026-10-02T09:02:49.480Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -408,6 +408,93 @@
    "photos": [
     {
      "src": "data/images/casa-das-sementes-20261001-e185.webp"
+    }
+   ]
+  },
+  {
+   "category": "services",
+   "zone": "centro",
+   "name": "João Carlos Nunes - Cabeleireiro",
+   "blurb": "Over 35 years of experience providing unique service and differentiated services.",
+   "detail": "Rua João dos Santos Simões,64 2300-501 Tomar",
+   "name_pt": "João Carlos Nunes - Cabeleireiro",
+   "blurb_pt": "Mais de 35 anos de experiência para um atendimento único e serviços diferenciados.",
+   "detail_pt": "JOÃO DOS SANTOS BIZELLI",
+   "name_es": "João Carlos Nunes - Cabeleireiro",
+   "blurb_es": "Más de 35 años de experiencia por un servicio único y servicios diferenciados.",
+   "sub": [],
+   "tags": [
+    "hairdresser"
+   ],
+   "phone": "+351914553178",
+   "email": "joaonunes.mz@gmail.com",
+   "links": {
+    "website": "https://joaocarlosnunesbeleza.lovable.app/",
+    "instagram": "https://www.instagram.com/joaocarlosnunes.cabeleireiro/",
+    "facebook": "https://www.facebook.com/joaocarlosnunes.cabeleireiro",
+    "maps": "https://maps.app.goo.gl/DDr2rLE7KvCXKozLA"
+   },
+   "hours": {
+    "1": [
+     14,
+     19.5
+    ],
+    "2": [
+     [
+      9,
+      19.5
+     ],
+     [
+      12.5,
+      14.5
+     ]
+    ],
+    "3": [
+     [
+      9,
+      19.5
+     ],
+     [
+      12.5,
+      14.5
+     ]
+    ],
+    "4": [
+     [
+      9,
+      19.5
+     ],
+     [
+      12.5,
+      14.5
+     ]
+    ],
+    "5": [
+     [
+      9,
+      19.5
+     ],
+     [
+      12.5,
+      14.5
+     ]
+    ],
+    "6": [
+     [
+      9,
+      17.5
+     ],
+     [
+      12.5,
+      14.5
+     ]
+    ],
+    "note": "Encerra às segunda-feiras de manhã e feriados"
+   },
+   "id": "joao-carlos-nunes-cabeleireiro",
+   "photos": [
+    {
+     "src": "data/images/joao-carlos-nunes-cabeleireiro-20261002-jc3h.webp"
     }
    ]
   }
