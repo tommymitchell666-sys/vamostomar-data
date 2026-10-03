@@ -1,6 +1,6 @@
 {
- "rev": 42,
- "updated": "2026-10-03T11:32:31.273Z",
+ "rev": 43,
+ "updated": "2026-10-03T16:52:53.000Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -191,7 +191,11 @@
     {
      "src": "data/images/william-santo-20260928-o4db.webp"
     }
-   ]
+   ],
+   "licence": {
+    "type": "AMI",
+    "no": "27118"
+   }
   },
   {
    "category": "eat",
@@ -701,7 +705,329 @@
     "history",
     "tours",
     "english"
-   ]
+   ],
+   "licence": {
+    "type": "RNAAT",
+    "no": "1155/2025"
+   }
+  },
+  "hotel-templarios": {
+   "licence": {
+    "type": "RNET",
+    "no": "30"
+   }
+  },
+  "hotel-republica": {
+   "licence": {
+    "type": "RNET",
+    "no": "9358"
+   }
+  },
+  "vila-gale-tomar": {
+   "licence": {
+    "type": "RNET",
+    "no": "11475"
+   }
+  },
+  "estalagem-santa-iria": {
+   "licence": {
+    "type": "RNET",
+    "no": "11218"
+   }
+  },
+  "casa-oficios": {
+   "licence": {
+    "type": "RNET",
+    "no": "8531"
+   }
+  },
+  "thomar-boutique": {
+   "licence": {
+    "type": "RNET",
+    "no": "8143"
+   }
+  },
+  "hotel-sinagoga": {
+   "licence": {
+    "type": "RNET",
+    "no": "691"
+   }
+  },
+  "hotel-kamanga": {
+   "licence": {
+    "type": "RNET",
+    "no": "2979"
+   }
+  },
+  "hotel-bonjardim": {
+   "licence": {
+    "type": "RNET",
+    "no": "3077"
+   }
+  },
+  "hotel-cavaleiros-cristo": {
+   "licence": {
+    "type": "RNET",
+    "no": "1531"
+   }
+  },
+  "hotel-trovador": {
+   "licence": {
+    "type": "RNET",
+    "no": "4663"
+   }
+  },
+  "quinta-troviscal": {
+   "licence": {
+    "type": "RNET",
+    "no": "789"
+   }
+  },
+  "casa-avo-genoveva": {
+   "licence": {
+    "type": "RNET",
+    "no": "1202"
+   }
+  },
+  "quinta-lagar-sao-jose": {
+   "licence": {
+    "type": "RNET",
+    "no": "4350"
+   }
+  },
+  "quinta-sao-jose-montes": {
+   "licence": {
+    "type": "RNET",
+    "no": "897"
+   }
+  },
+  "quinta-bizelga": {
+   "licence": {
+    "type": "RNET",
+    "no": "9929"
+   }
+  },
+  "casa-sao-miguel": {
+   "licence": {
+    "type": "RNET",
+    "no": "7443"
+   }
+  },
+  "quinta-do-valle": {
+   "licence": {
+    "type": "RNET",
+    "no": "1281"
+   }
+  },
+  "camping-pelinos": {
+   "licence": {
+    "type": "RNET",
+    "no": "5372"
+   }
+  },
+  "camping-cerejeira": {
+   "licence": {
+    "type": "RNET",
+    "no": "711"
+   }
+  },
+  "camping-constancia": {
+   "licence": {
+    "type": "RNET",
+    "no": "4778"
+   }
+  },
+  "o-paco": {
+   "licence": {
+    "type": "AL",
+    "no": "99737/AL"
+   }
+  },
+  "thomar-story": {
+   "licence": {
+    "type": "AL",
+    "no": "9504/AL"
+   }
+  },
+  "casa-do-vale": {
+   "licence": {
+    "type": "AL",
+    "no": "56144/AL"
+   }
+  },
+  "casa-do-trovador": {
+   "licence": {
+    "type": "AL",
+    "no": "4441/AL"
+   }
+  },
+  "varandas-nabao": {
+   "licence": {
+    "type": "AL",
+    "no": "105002/AL · 143406/AL"
+   }
+  },
+  "bairro-das-flores": {
+   "licence": {
+    "type": "AL",
+    "no": "99792/AL · 99793/AL · 99794/AL"
+   }
+  },
+  "horta-dos-cedros": {
+   "licence": {
+    "type": "AL",
+    "no": "22841/AL"
+   }
+  },
+  "ninho-do-falcao": {
+   "licence": {
+    "type": "AL",
+    "no": "2807/AL"
+   }
+  },
+  "retiro-dos-aztecas": {
+   "licence": {
+    "type": "AL",
+    "no": "102138/AL"
+   }
+  },
+  "comenda-da-povoa": {
+   "licence": {
+    "type": "AL",
+    "no": "58767/AL · 58768/AL · 58769/AL"
+   }
+  },
+  "herdade-dos-templarios": {
+   "licence": {
+    "type": "AL",
+    "no": "97972/AL"
+   }
+  },
+  "residencial-uniao": {
+   "licence": {
+    "type": "AL",
+    "no": "2897/AL"
+   }
+  },
+  "hostel-2300": {
+   "licence": {
+    "type": "AL",
+    "no": "9769/AL"
+   }
+  },
+  "hostel-luanda": {
+   "licence": {
+    "type": "AL",
+    "no": "9479/AL"
+   }
+  },
+  "residencial-avenida-hostel": {
+   "licence": {
+    "type": "AL",
+    "no": "47219/AL"
+   }
+  },
+  "villa-nova-hostel": {
+   "licence": {
+    "type": "AL",
+    "no": "76722/AL"
+   }
+  },
+  "yellow-cab-tours": {
+   "licence": {
+    "type": "RNAAT",
+    "no": "119/2013"
+   }
+  },
+  "tuk-lovers": {
+   "licence": {
+    "type": "RNAAT",
+    "no": "265/2015"
+   }
+  },
+  "enchanting-histories": {
+   "licence": {
+    "type": "RNAAT",
+    "no": "1148/2024"
+   }
+  },
+  "caminhos-da-historia": {
+   "licence": {
+    "type": "RNAAT",
+    "no": "14/2012"
+   }
+  },
+  "open-roads": {
+   "licence": {
+    "type": "RNAAT",
+    "no": "83/2023"
+   }
+  },
+  "sandra-henriques-costa": {
+   "licence": {
+    "type": "RNAAT",
+    "no": "1523/2018"
+   }
+  },
+  "thomar-adventure": {
+   "licence": {
+    "type": "RNAAT",
+    "no": "691/2024"
+   }
+  },
+  "corda-bamba": {
+   "licence": {
+    "type": "RNAAT",
+    "no": "134/2022"
+   }
+  },
+  "damm-life": {
+   "licence": {
+    "type": "RNAAT",
+    "no": "2313/2018"
+   }
+  },
+  "water-ski-academy": {
+   "licence": {
+    "type": "RNAAT",
+    "no": "2313/2018"
+   }
+  },
+  "barcaca-nauticas": {
+   "licence": {
+    "type": "RNAAT",
+    "no": "414/2021"
+   }
+  },
+  "wakevilla": {
+   "licence": {
+    "type": "RNAAT",
+    "no": "935/2019"
+   }
+  },
+  "campo-jovem": {
+   "licence": {
+    "type": "RNAAT",
+    "no": "548/2016"
+   }
+  },
+  "run-and-slide": {
+   "licence": {
+    "type": "RNAAT",
+    "no": "300/2012"
+   }
+  },
+  "templifisio": {
+   "licence": {
+    "type": "ERS",
+    "no": "142137"
+   }
+  },
+  "reabilitacao-nabao": {
+   "licence": {
+    "type": "ERS",
+    "no": "137511"
+   }
   }
  },
  "hidden": [
