@@ -1,6 +1,6 @@
 {
- "rev": 43,
- "updated": "2026-10-03T16:52:53.000Z",
+ "rev": 44,
+ "updated": "2026-10-03T17:10:10.000Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -1033,7 +1033,18 @@
  "hidden": [
   "cafe-paraiso",
   "hard-graft-guides",
-  "orquestra-marques"
+  "orquestra-marques",
+  "guesthouse-do-sol",
+  "quinta-anunciada-velha",
+  "the-agartha",
+  "quinta-das-lameiras",
+  "albergue-d-dinis",
+  "albergue-calvinos",
+  "camping-castelo-bode",
+  "aldeia-do-mato",
+  "terlaser-saude",
+  "boca-a-boca",
+  "affidea"
  ],
  "guestbook": [],
  "insider": [],
