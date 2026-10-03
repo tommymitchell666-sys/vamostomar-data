@@ -1,6 +1,6 @@
 {
- "rev": 41,
- "updated": "2026-10-03T10:54:05.068Z",
+ "rev": 42,
+ "updated": "2026-10-03T11:32:31.273Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -199,13 +199,16 @@
    "name": "Fruyo - Acai & Frozen Yogurt",
    "blurb": "Fruyo is a space dedicated to Frozen Yogurt and Acai. There are more than 20 toppings available. It is a modern and welcoming space.",
    "detail": "Rua Serpa Pinto 116",
+   "icon": "info",
    "name_pt": "Fruyo - Açaí & Frozen Yogurt",
    "blurb_pt": "A Fruyo é um espaço dedicado a Frozen Yogurt e Açaí. Tem mais de 20 toppings disponíveis.\nÉ um espaço moderno e acolhedor.",
    "detail_pt": "Rua Serpa Pinto.",
    "name_es": "Fruyo - Acai y yogur congelado",
    "blurb_es": "Fruyo es un espacio dedicado al Yogur Congelado y al Acai. Hay más de 20 ingredientes disponibles. Es un espacio moderno y acogedor.",
    "detail_es": "Rua Serpa Pinto 116",
-   "sub": [],
+   "sub": [
+    "icecream"
+   ],
    "tags": [
     "petiscos",
     "health-food",
@@ -250,7 +253,11 @@
      0
     ]
    },
-   "id": "fruyo-acai-frozen-yogurt"
+   "id": "fruyo-acai-frozen-yogurt",
+   "logo": {
+    "src": "data/images/fruyo-acai-frozen-yogurt-logo-20261003-5kj6.webp",
+    "bg": "#02554a"
+   }
   },
   {
    "category": "health",
