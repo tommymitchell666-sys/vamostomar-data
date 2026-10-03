@@ -1,428 +1,189 @@
 {
  "schema": 2,
- "date": "2026-09-27",
- "edition": 1,
- "publishAt": "2026-09-27T08:00:00+01:00",
- "generatedAt": "2026-09-26T14:00:00Z",
+ "date": "2026-10-04",
+ "edition": 2,
+ "publishAt": "2026-10-04T08:00:00+01:00",
+ "generatedAt": "2026-10-03T10:50:01Z",
  "range": {
-  "en": "27 September – 3 October 2026",
-  "pt": "27 de setembro – 3 de outubro de 2026",
-  "es": "27 de septiembre – 3 de octubre de 2026"
+  "en": "4 – 10 October 2026",
+  "pt": "4 – 10 de outubro de 2026",
+  "es": "4 – 10 de octubre de 2026"
  },
  "weather": {
   "source": "MET Norway",
   "note": {
-   "en": "A warm, dry Sunday, then rain on and off from Monday to Wednesday, heaviest on Wednesday. Brighter on Thursday and Friday, with showers back on Saturday.",
-   "pt": "Domingo quente e seco, depois chuva intermitente de segunda a quarta, mais forte na quarta. Mais sol na quinta e na sexta, e aguaceiros de volta no sábado.",
-   "es": "Domingo cálido y seco, y luego lluvia intermitente de lunes a miércoles, más intensa el miércoles. Más sol el jueves y el viernes, y chubascos de nuevo el sábado."
+   "en": "Warm on Sunday, then heavy showers on Monday's holiday and more on Tuesday. Drier from Wednesday, with sunny days to end the week.",
+   "pt": "Domingo quente, depois aguaceiros fortes no feriado de segunda e mais alguns na terça. Mais seco a partir de quarta, com dias de sol no fim da semana.",
+   "es": "Domingo cálido, luego chubascos fuertes en el festivo del lunes y algunos más el martes. Más seco desde el miércoles, con días de sol al final de la semana."
   },
   "days": [
    {
-    "date": "2026-09-27",
-    "icon": "cloud",
-    "max": 29,
-    "min": 18,
-    "rain": 0
-   },
-   {
-    "date": "2026-09-28",
-    "icon": "showers",
-    "max": 28,
-    "min": 17,
-    "rain": 6.5
-   },
-   {
-    "date": "2026-09-29",
-    "icon": "rain",
-    "max": 24,
-    "min": 18,
-    "rain": 6.2
-   },
-   {
-    "date": "2026-09-30",
-    "icon": "showers",
-    "max": 21,
-    "min": 19,
-    "rain": 24.4
-   },
-   {
-    "date": "2026-10-01",
-    "icon": "sun",
-    "max": 24,
-    "min": 14,
-    "rain": 0
-   },
-   {
-    "date": "2026-10-02",
+    "date": "2026-10-04",
     "icon": "partly",
     "max": 28,
     "min": 16,
-    "rain": 0.9
+    "rain": 0.4
    },
    {
-    "date": "2026-10-03",
+    "date": "2026-10-05",
     "icon": "showers",
+    "max": 25,
+    "min": 16,
+    "rain": 45.8
+   },
+   {
+    "date": "2026-10-06",
+    "icon": "showers",
+    "max": 23,
+    "min": 16,
+    "rain": 3.5
+   },
+   {
+    "date": "2026-10-07",
+    "icon": "cloud",
+    "max": 22,
+    "min": 15,
+    "rain": 0.2
+   },
+   {
+    "date": "2026-10-08",
+    "icon": "sun",
     "max": 26,
-    "min": 18,
-    "rain": 10.2
+    "min": 13,
+    "rain": 0
+   },
+   {
+    "date": "2026-10-09",
+    "icon": "sun",
+    "max": 23,
+    "min": 13,
+    "rain": 0
+   },
+   {
+    "date": "2026-10-10",
+    "icon": "partly",
+    "max": 24,
+    "min": 10,
+    "rain": 0
    }
   ]
  },
- "events": [
-  {
-   "date": "2026-09-27",
-   "dateEnd": null,
-   "time": "10:00",
-   "featured": true,
-   "free": true,
-   "icon": "landmark",
-   "photo": null,
-   "url": "https://www.cm-tomar.pt/comunicacao/agenda/outros-eventos/dia-mundial-do-turismo",
-   "when": {
-    "en": "Sunday 27 Sept · 10:00",
-    "pt": "Domingo 27 set · 10:00",
-    "es": "Domingo 27 sept · 10:00"
-   },
-   "title": {
-    "en": "World Tourism Day: free visits",
-    "pt": "Dia Mundial do Turismo: visitas grátis",
-    "es": "Día Mundial del Turismo: visitas gratis"
-   },
-   "text": {
-    "en": "A free guided tour of the Convento de Cristo (30 places), an old-town walk at 10:30 and the Tabuleiros crafts at 16:00.",
-    "pt": "Visita guiada gratuita ao Convento de Cristo (30 lugares), passeio pelo centro histórico às 10:30 e os ofícios dos Tabuleiros às 16:00.",
-    "es": "Visita guiada gratuita al Convento de Cristo (30 plazas), paseo por el casco antiguo a las 10:30 y los oficios de los Tabuleiros a las 16:00."
-   },
-   "place": {
-    "en": "Convento de Cristo, old town & Fábrica das Artes",
-    "pt": "Convento de Cristo, centro histórico e Fábrica das Artes",
-    "es": "Convento de Cristo, casco antiguo y Fábrica das Artes"
-   }
+ "spotlight": {
+  "listing": "santa-iria-cafe",
+  "name": {
+   "en": "Santa Iria — Café Bistrot",
+   "pt": "Santa Iria — Café Bistrot",
+   "es": "Santa Iria — Café Bistrot"
   },
-  {
-   "date": "2026-09-28",
-   "dateEnd": "2026-09-29",
-   "time": "10:00",
-   "featured": false,
-   "free": false,
-   "icon": "military",
-   "photo": null,
-   "url": "https://www.cm-tomar.pt/comunicacao/agenda",
-   "when": {
-    "en": "Mon 28 – Tue 29 Sept",
-    "pt": "Seg 28 – Ter 29 set",
-    "es": "Lun 28 – Mar 29 sept"
-   },
-   "title": {
-    "en": "Rapid Reaction Brigade open days",
-    "pt": "Dias abertos da Brigada de Reação Rápida",
-    "es": "Jornadas abiertas de la Brigada de Reacción Rápida"
-   },
-   "text": {
-    "en": "Vehicles and kit on show for the Brigade's 21st birthday. Tuesday: ceremony at 11:00, parachute display at 12:30.",
-    "pt": "Viaturas e equipamento em exposição no 21.º aniversário da Brigada. Terça: cerimónia às 11:00 e paraquedistas às 12:30.",
-    "es": "Vehículos y equipo en exposición por el 21.º aniversario de la Brigada. Martes: ceremonia a las 11:00 y paracaidistas a las 12:30."
-   },
-   "place": {
-    "en": "Várzea Grande & Várzea Pequena",
-    "pt": "Várzea Grande e Várzea Pequena",
-    "es": "Várzea Grande y Várzea Pequena"
-   }
+  "dek": {
+   "en": "A café by morning and a bistrot by night, in the middle of Rua Marquês de Pombal.",
+   "pt": "Café de manhã, bistrô à noite, a meio da Rua Marquês de Pombal.",
+   "es": "Café por la mañana y bistró por la noche, en plena Rua Marquês de Pombal."
   },
-  {
-   "date": "2026-10-01",
-   "dateEnd": null,
-   "time": null,
-   "featured": false,
-   "free": false,
-   "icon": "music",
-   "photo": null,
-   "url": "https://www.viralagenda.com/pt/events/1841883/cello-4-4-irene-lima-catherine-strynckx-barbara-duarte-nuno-abreu",
-   "when": {
-    "en": "Thursday 1 October",
-    "pt": "Quinta 1 outubro",
-    "es": "Jueves 1 octubre"
-   },
-   "title": {
-    "en": "Cello 4×4",
-    "pt": "Cello 4×4",
-    "es": "Cello 4×4"
-   },
-   "text": {
-    "en": "Four cellists play forgotten Portuguese music, including the modern premiere of a work by Freitas Gazul.",
-    "pt": "Quatro violoncelistas tocam música portuguesa esquecida, incluindo a estreia moderna de uma obra de Freitas Gazul.",
-    "es": "Cuatro violonchelistas interpretan música portuguesa olvidada, incluido el estreno moderno de una obra de Freitas Gazul."
-   },
-   "place": {
-    "en": "Igreja da Misericórdia",
-    "pt": "Igreja da Misericórdia",
-    "es": "Igreja da Misericórdia"
-   }
+  "title": {
+   "en": "From the first coffee to cocktails and music",
+   "pt": "Do primeiro café aos cocktails com música",
+   "es": "Del primer café a los cócteles con música"
   },
-  {
-   "date": "2026-10-03",
-   "dateEnd": null,
-   "time": "10:30",
-   "featured": false,
-   "free": false,
-   "icon": "family",
-   "photo": null,
-   "url": "https://cineteatro.cm-tomar.pt/tu-tuuu--danca-e-musica-para-bebes-",
-   "when": {
-    "en": "Saturday 3 Oct · 10:30 & 16:30",
-    "pt": "Sábado 3 out · 10:30 e 16:30",
-    "es": "Sábado 3 oct · 10:30 y 16:30"
+  "story": [
+   {
+    "en": "At number 57 on Rua Marquês de Pombal, Santa Iria works two shifts. In the morning it is a café, with coffee from the moment the doors open. Later in the day it turns into a bistrot.",
+    "pt": "No número 57 da Rua Marquês de Pombal, o Santa Iria tem dois turnos. De manhã é café, com café logo à abertura. Mais tarde, passa a bistrô.",
+    "es": "En el número 57 de la Rua Marquês de Pombal, el Santa Iria tiene dos turnos. Por la mañana es café, con café desde que abre. Más tarde se convierte en bistró."
    },
-   "title": {
-    "en": "TU-TUUU: a show for babies",
-    "pt": "TU-TUUU: espetáculo para bebés",
-    "es": "TU-TUUU: espectáculo para bebés"
+   {
+    "en": "The kitchen does grilled meat and fish, with vegetarian plates alongside, and the bar mixes cocktails. On some evenings there are themed nights with music.",
+    "pt": "Na cozinha há grelhados de carne e peixe, com pratos vegetarianos ao lado, e no bar fazem-se cocktails. Em algumas noites há noites temáticas com música.",
+    "es": "En la cocina hay carne y pescado a la brasa, con platos vegetarianos, y en la barra se preparan cócteles. Algunas noches hay veladas temáticas con música."
    },
-   "text": {
-    "en": "A gentle sensory show of dance and music for babies up to 36 months. Tickets €3.",
-    "pt": "Um espetáculo sensorial e calmo de dança e música para bebés até aos 36 meses. Bilhete: 3 euros.",
-    "es": "Un espectáculo sensorial y tranquilo de danza y música para bebés de hasta 36 meses. Entrada: 3 €."
-   },
-   "place": {
-    "en": "Cine-Teatro Paraíso",
-    "pt": "Cine-Teatro Paraíso",
-    "es": "Cine-Teatro Paraíso"
+   {
+    "en": "Come for a morning coffee, stay for a grill at dinner, or end the day with a cocktail. Note that it is closed on Thursdays.",
+    "pt": "Venha tomar o café da manhã, fique para um grelhado ao jantar ou acabe o dia com um cocktail. Atenção: encerra à quinta-feira.",
+    "es": "Venga a por el café de la mañana, quédese a cenar algo a la brasa o termine el día con un cóctel. Ojo: cierra los jueves."
    }
-  }
- ],
- "news": [
-  {
-   "cat": "community",
-   "src": "Cidade de Tomar",
-   "url": "https://www.cidadetomar.pt/2026/09/20/destaque/concurso-para-44-habitacoes-de-arrendamento-acessivel-abre-segunda-feira-21-de-setembro/",
-   "head": {
-    "en": "44 affordable rental homes open for applications",
-    "pt": "Abertas candidaturas a 44 casas de renda acessível",
-    "es": "Abiertas las solicitudes para 44 viviendas de alquiler asequible"
-   },
-   "body": {
-    "en": "Two- and three-bedroom flats at Choromela and Marmelais for middle-income households, rents from €322. Apply by 23 October.",
-    "pt": "T2 e T3 na Choromela e nos Marmelais para famílias de rendimentos intermédios, com rendas desde 322 euros. Candidaturas até 23 de outubro.",
-    "es": "Pisos de 2 y 3 dormitorios en Choromela y Marmelais para familias de ingresos medios, desde 322 €. Solicitudes hasta el 23 de octubre."
-   }
+  ],
+  "photo": "https://vamostomar.pt/data/images/santa-iria-cafe-bistrot-20260925-bxwv.webp",
+  "photoAlt": {
+   "en": "Santa Iria Café Bistrot on Rua Marquês de Pombal, Tomar",
+   "pt": "O Santa Iria Café Bistrot na Rua Marquês de Pombal, Tomar",
+   "es": "El Santa Iria Café Bistrot en la Rua Marquês de Pombal, Tomar"
   },
-  {
-   "cat": "camara",
-   "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/tomar-candidaturas-paea-auxilios-economicos-no-1-o-ciclo-terminam-a-30-de-setembro/",
-   "head": {
-    "en": "Last call for primary-school aid: apply by 30 September",
-    "pt": "Auxílios económicos do 1.º ciclo: candidaturas até 30 de setembro",
-    "es": "Ayudas escolares de primaria: solicitudes hasta el 30 de septiembre"
+  "facts": [
+   {
+    "k": {
+     "en": "Where",
+     "pt": "Onde",
+     "es": "Dónde"
+    },
+    "v": {
+     "en": "Rua Marquês de Pombal 57, Tomar",
+     "pt": "Rua Marquês de Pombal 57, Tomar",
+     "es": "Rua Marquês de Pombal 57, Tomar"
+    }
    },
-   "body": {
-    "en": "Parents who missed the first round can still apply online through SIGA. Help is on hand at school offices and the municipal library.",
-    "pt": "Quem falhou a 1.ª fase ainda se pode candidatar online no SIGA. Há apoio nas secretarias das escolas e na Biblioteca Municipal.",
-    "es": "Quien no lo solicitó en la primera fase aún puede hacerlo en línea en SIGA. Hay ayuda en las secretarías de los colegios y en la biblioteca municipal."
+   {
+    "k": {
+     "en": "On the menu",
+     "pt": "Na carta",
+     "es": "En la carta"
+    },
+    "v": {
+     "en": "Grills, vegetarian plates, cocktails",
+     "pt": "Grelhados, pratos vegetarianos, cocktails",
+     "es": "Brasa, platos vegetarianos, cócteles"
+    }
+   },
+   {
+    "k": {
+     "en": "Closed",
+     "pt": "Encerra",
+     "es": "Cierra"
+    },
+    "v": {
+     "en": "Thursdays",
+     "pt": "À quinta-feira",
+     "es": "Los jueves"
+    }
    }
+  ],
+  "tags": [
+   {
+    "en": "Café",
+    "pt": "Café",
+    "es": "Café"
+   },
+   {
+    "en": "Bar",
+    "pt": "Bar",
+    "es": "Bar"
+   },
+   {
+    "en": "Cocktails",
+    "pt": "Cocktails",
+    "es": "Cócteles"
+   },
+   {
+    "en": "Restaurant",
+    "pt": "Restaurante",
+    "es": "Restaurante"
+   }
+  ],
+  "url": "https://vamostomar.pt/#/eat/santa-iria-cafe",
+  "links": {
+   "maps": "https://www.google.com/maps/search/?api=1&query=Santa+Iria+Cafe+Bistrot+Tomar"
   },
-  {
-   "cat": "freguesias",
-   "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/tomar-olalhas-recebeu-reuniao-descentralizada-entre-o-executivo-camarario-e-rui-lopes-aproveitou-para-deixar-o-alerta-em-torno-da-falta-de-medico-de-familia/",
-   "head": {
-    "en": "Council meets in Olalhas and hears the call for a family doctor",
-    "pt": "Executivo reúne em Olalhas e ouve o alerta sobre o médico de família",
-    "es": "El ayuntamiento se reúne en Olalhas y escucha la alerta sobre el médico de familia"
-   },
-   "body": {
-    "en": "Parish president Rui Lopes said the USF Templários has been without a family doctor for about a year.",
-    "pt": "O presidente da junta, Rui Lopes, disse que a USF Templários está sem médico de família há cerca de um ano.",
-    "es": "El presidente de la junta, Rui Lopes, dijo que la USF Templários lleva cerca de un año sin médico de familia."
-   }
-  },
-  {
-   "cat": "culture",
-   "src": "O Templário",
-   "url": "https://otemplario.pt/nova-iluminacao-do-claustro-principal-surpreende-em-visita-noturna-ao-convento-de-cristo/",
-   "head": {
-    "en": "The Convento's Main Cloister is back, with new lighting",
-    "pt": "O Claustro Principal do Convento está de volta, com nova luz",
-    "es": "El Claustro Principal del Convento vuelve, con nueva iluminación"
-   },
-   "body": {
-    "en": "After conservation work, the cloister hosted its first guided night visit on 24 September, with the new lighting as the highlight.",
-    "pt": "Depois das obras de conservação, o claustro recebeu a primeira visita noturna guiada a 24 de setembro, com a nova iluminação em destaque.",
-    "es": "Tras las obras de conservación, el claustro acogió su primera visita nocturna guiada el 24 de septiembre, con la nueva iluminación como protagonista."
-   }
-  },
-  {
-   "cat": "community",
-   "src": "O Templário",
-   "url": "https://otemplario.pt/ramal-de-tomar-assinala-hoje-50-anos-da-eletrificacao-que-permitiu-comboios-diretos-para-lisboa/",
-   "head": {
-    "en": "Fifty years of electric trains between Tomar and Lisbon",
-    "pt": "Cinquenta anos de comboios elétricos entre Tomar e Lisboa",
-    "es": "Cincuenta años de trenes eléctricos entre Tomar y Lisboa"
-   },
-   "body": {
-    "en": "The Tomar branch line was electrified in 1976, opening the way to direct trains to Lisbon. The 14.7 km line itself dates from 1928.",
-    "pt": "O Ramal de Tomar foi eletrificado em 1976, abrindo caminho aos comboios diretos para Lisboa. A linha, com 14,7 km, é de 1928.",
-    "es": "El ramal de Tomar se electrificó en 1976, lo que abrió paso a trenes directos a Lisboa. La línea, de 14,7 km, data de 1928."
-   }
-  },
-  {
-   "cat": "sport",
-   "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/judo-tomarense-patricia-sampaio-convocada-para-representar-portugal-no-campeonato-do-mundo-no-azerbaijao/",
-   "head": {
-    "en": "Patrícia Sampaio heads to the Judo World Championships",
-    "pt": "Patrícia Sampaio convocada para o Mundial de Judo",
-    "es": "Patrícia Sampaio, convocada para el Mundial de Judo"
-   },
-   "body": {
-    "en": "The Tomar judoka (Gualdim Pais, -78 kg) is one of nine in Portugal's team in Baku, 4–11 October.",
-    "pt": "A judoca tomarense (Gualdim Pais, -78 kg) é uma dos nove selecionados de Portugal em Baku, de 4 a 11 de outubro.",
-    "es": "La judoca de Tomar (Gualdim Pais, -78 kg) es una de los nueve seleccionados de Portugal en Bakú, del 4 al 11 de octubre."
-   }
-  },
-  {
-   "cat": "sport",
-   "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/futebol-1-a-distrital-uniao-de-tomar-persegue-melhor-inicio-deste-milenio-estao-assegurados-dois-triunfos-faltam-outros-dois/",
-   "head": {
-    "en": "União de Tomar chase their best start this century",
-    "pt": "União de Tomar procura o melhor arranque do milénio",
-    "es": "El União de Tomar busca su mejor inicio del siglo"
-   },
-   "body": {
-    "en": "Two away wins so far: 2–1 at Pontével and 5–3 at Vasco da Gama, with Rafa Pereira named man of the match.",
-    "pt": "Duas vitórias fora: 2–1 em Pontével e 5–3 frente ao Vasco da Gama, com Rafa Pereira eleito Homem do Jogo.",
-    "es": "Dos victorias fuera: 2–1 en Pontével y 5–3 ante el Vasco da Gama, con Rafa Pereira elegido mejor jugador."
-   }
-  }
- ],
- "fact": {
-  "id": "santa-iria",
-  "en": "Santa Iria, whose name the autumn fair carries, was a 7th-century nun from Nabância, the town before Tomar. Legend says her body was thrown into the Nabão and carried down to Scalabis, which took her name and became Santarém.",
-  "pt": "Santa Iria, que dá nome à feira de outono, foi uma freira do século VII de Nabância, a terra antes de Tomar. Diz a lenda que o seu corpo foi lançado ao Nabão e levado até Scalabis, que adotou o seu nome e se tornou Santarém.",
-  "es": "Santa Iria, que da nombre a la feria de otoño, fue una monja del siglo VII de Nabância, el pueblo anterior a Tomar. Cuenta la leyenda que su cuerpo fue arrojado al Nabão y llegó hasta Scalabis, que tomó su nombre y se convirtió en Santarém."
+  "sources": []
  },
- "coming": [
-  {
-   "when": {
-    "en": "Sun 4 Oct",
-    "pt": "Dom 4 out",
-    "es": "Dom 4 oct"
-   },
-   "text": {
-    "en": "Arts, collectables and antiques fair at the Mercado Municipal",
-    "pt": "Feira de Artes, Colecionismo e Velharias no Mercado Municipal",
-    "es": "Feria de arte, coleccionismo y antigüedades en el Mercado Municipal"
-   }
-  },
-  {
-   "when": {
-    "en": "Mon 5 Oct",
-    "pt": "Seg 5 out",
-    "es": "Lun 5 oct"
-   },
-   "text": {
-    "en": "Public holiday: Republic Day",
-    "pt": "Feriado: Implantação da República",
-    "es": "Festivo: Día de la República"
-   }
-  },
-  {
-   "when": {
-    "en": "Thu 8 Oct",
-    "pt": "Qui 8 out",
-    "es": "Jue 8 oct"
-   },
-   "text": {
-    "en": "Sons de África with the Quarteto Lopes-Graça, Igreja da Misericórdia",
-    "pt": "Sons de África com o Quarteto Lopes-Graça, Igreja da Misericórdia",
-    "es": "Sons de África con el Quarteto Lopes-Graça, Igreja da Misericórdia"
-   }
-  },
-  {
-   "when": {
-    "en": "Fri 9 Oct",
-    "pt": "Sex 9 out",
-    "es": "Vie 9 oct"
-   },
-   "text": {
-    "en": "ONYX, contemporary dance by Piny, Cine-Teatro Paraíso, 21:30",
-    "pt": "ONYX, dança contemporânea de Piny, Cine-Teatro Paraíso, 21:30",
-    "es": "ONYX, danza contemporánea de Piny, Cine-Teatro Paraíso, 21:30"
-   }
-  },
-  {
-   "when": {
-    "en": "Sat 10 Oct",
-    "pt": "Sáb 10 out",
-    "es": "Sáb 10 oct"
-   },
-   "text": {
-    "en": "Guilherme Duarte's stand-up show Matrioska (in Portuguese)",
-    "pt": "Guilherme Duarte em Matrioska, stand-up comedy",
-    "es": "Guilherme Duarte en Matrioska, monólogo (en portugués)"
-   }
-  }
- ],
- "whatsapp": {
-  "en": "This Week in Tomar (27 Sept – 3 Oct): the story of Café Paraíso, free visits to the Convento on Sunday and 400 years of the Santa Iria fair.\nhttps://vamostomar.pt/weekly/?lang=en",
-  "pt": "Esta Semana em Tomar (27 set – 3 out): a história do Café Paraíso, visitas grátis ao Convento no domingo e 400 anos da Feira de Santa Iria.\nhttps://vamostomar.pt/weekly/",
-  "es": "Esta Semana en Tomar (27 sept – 3 oct): la historia del Café Paraíso, visitas gratis al Convento el domingo y 400 años de la Feira de Santa Iria.\nhttps://vamostomar.pt/weekly/?lang=es"
- },
- "sourcesChecked": [
-  {
-   "src": "Rádio Hertz (local)",
-   "ok": true,
-   "items": 10
-  },
-  {
-   "src": "Rádio Hertz (sport)",
-   "ok": true,
-   "items": 10
-  },
-  {
-   "src": "O Templário",
-   "ok": true,
-   "items": 10
-  },
-  {
-   "src": "Cidade de Tomar",
-   "ok": true,
-   "items": 10
-  },
-  {
-   "src": "mediotejo.net",
-   "ok": false,
-   "items": 0
-  },
-  {
-   "src": "MET Norway",
-   "ok": true,
-   "items": 7
-  },
-  {
-   "src": "IPMA warnings (STM)",
-   "ok": true,
-   "items": 0
-  },
-  {
-   "src": "Vamos Tomar events",
-   "ok": true,
-   "items": 21
-  }
- ],
- "confirmedAt": "2026-09-26T16:05:42.763Z",
  "feature": {
   "title": {
-   "en": "400 years of the Feira de Santa Iria",
-   "pt": "400 anos da Feira de Santa Iria",
-   "es": "400 años de la Feira de Santa Iria"
+   "en": "Two weeks to the Feira de Santa Iria's 400th",
+   "pt": "Faltam duas semanas para os 400 anos da Feira de Santa Iria",
+   "es": "Faltan dos semanas para los 400 años de la Feira de Santa Iria"
   },
   "text": {
-   "en": "Tomar's great autumn fair was granted by royal charter in 1626. The anniversary edition runs 16–25 October: ten days of stalls, food, music and the procession on the river. Three weeks to go.",
-   "pt": "A grande feira de outono de Tomar foi criada por carta régia em 1626. A edição do aniversário decorre de 16 a 25 de outubro: dez dias de bancas, gastronomia, música e a procissão no rio. Faltam três semanas.",
-   "es": "La gran feria de otoño de Tomar se creó por carta real en 1626. La edición del aniversario se celebra del 16 al 25 de octubre: diez días de puestos, gastronomía, música y la procesión en el río. Faltan tres semanas."
+   "en": "The anniversary fair fills the Várzea Grande from 16 to 25 October. For the first time some concert nights are ticketed, from Padre Guilherme on the 16th to Bárbara Tinoco on the 24th; the 18th, 19th, 20th and 25th are free.",
+   "pt": "A feira do aniversário enche a Várzea Grande de 16 a 25 de outubro. Pela primeira vez há noites de concertos pagas, de Padre Guilherme a 16 até Bárbara Tinoco a 24; os dias 18, 19, 20 e 25 são gratuitos.",
+   "es": "La feria del aniversario llena la Várzea Grande del 16 al 25 de octubre. Por primera vez hay noches de conciertos de pago, de Padre Guilherme el 16 a Bárbara Tinoco el 24; los días 18, 19, 20 y 25 son gratis."
   },
   "cta": {
    "en": "See it in Events →",
@@ -444,130 +205,330 @@
    }
   }
  },
- "spotlight": {
-  "listing": "cafe-paraiso-y5u",
-  "name": {
-   "en": "Café Paraíso",
-   "pt": "Café Paraíso",
-   "es": "Café Paraíso"
-  },
-  "dek": {
-   "en": "115 years in the middle of Tomar, and a room that has hardly changed since 1946.",
-   "pt": "115 anos no centro de Tomar, numa sala que pouco mudou desde 1946.",
-   "es": "115 años en el centro de Tomar, en un salón que apenas ha cambiado desde 1946."
-  },
-  "title": {
-   "en": "A room from 1946, a story from 1911",
-   "pt": "Uma sala de 1946, uma história de 1911",
-   "es": "Un salón de 1946, una historia de 1911"
-  },
-  "story": [
-   {
-    "en": "Café Paraíso opened in 1911, started by five friends who ran it as the Empreza do Paraízo de Thomar. More than a century later it is still open at number 127 on Rua Serpa Pinto, in the middle of the old town.",
-    "pt": "O Café Paraíso abriu em 1911, fundado por cinco amigos que o geriam como Empreza do Paraízo de Thomar. Mais de um século depois continua aberto no número 127 da Rua Serpa Pinto, no coração do centro histórico.",
-    "es": "El Café Paraíso abrió en 1911, fundado por cinco amigos que lo gestionaban como Empreza do Paraízo de Thomar. Más de un siglo después sigue abierto en el número 127 de la Rua Serpa Pinto, en pleno casco antiguo."
+ "events": [
+  {
+   "date": "2026-10-10",
+   "dateEnd": null,
+   "time": "10:00",
+   "featured": true,
+   "free": null,
+   "icon": "military",
+   "photo": "https://vamostomar.pt/data/images/dias-templarios-no-convento-de-cristo-poster-20260928-na17.webp",
+   "url": null,
+   "when": {
+    "en": "Saturday 10 Oct · 10:00–18:00",
+    "pt": "Sábado 10 out · 10:00–18:00",
+    "es": "Sábado 10 oct · 10:00–18:00"
    },
-   {
-    "en": "Most of the room you sit in today dates from 1946, when the architect Francisco Granja remodelled it. The mirrors on the walls came from Italy, an Italian craftsman painted the iron columns to look like marble, and the big ceiling fans went in at the same time. The old arched doorways gave way to the wide windows onto the street.",
-    "pt": "Quase tudo o que se vê hoje na sala vem de 1946, quando o arquiteto Francisco Granja a remodelou. Os espelhos das paredes vieram de Itália, um artesão italiano pintou as colunas de ferro a imitar mármore e as grandes ventoinhas de teto chegaram na mesma altura. As antigas portas em arco deram lugar às montras largas para a rua.",
-    "es": "Casi todo lo que se ve hoy en el salón es de 1946, cuando el arquitecto Francisco Granja lo remodeló. Los espejos de las paredes llegaron de Italia, un artesano italiano pintó las columnas de hierro imitando mármol y los grandes ventiladores de techo se instalaron a la vez. Las antiguas puertas en arco dieron paso a los amplios escaparates a la calle."
+   "title": {
+    "en": "Templar Days at the Convento de Cristo",
+    "pt": "Dias Templários no Convento de Cristo",
+    "es": "Días Templarios en el Convento de Cristo"
    },
-   {
-    "en": "It has stayed in the same family. Manuel Cândido da Mota bought out the other founders, his nephew Manuel Mota Grego ran it for many years, and today the Grego family is into its fourth generation behind the counter.",
-    "pt": "Ficou sempre na mesma família. Manuel Cândido da Mota comprou a parte dos outros fundadores, o sobrinho Manuel Mota Grego geriu-o durante muitos anos e hoje a família Grego vai na quarta geração atrás do balcão.",
-    "es": "Siempre ha seguido en la misma familia. Manuel Cândido da Mota compró la parte de los otros fundadores, su sobrino Manuel Mota Grego lo dirigió durante muchos años y hoy la familia Grego va por la cuarta generación tras la barra."
+   "text": {
+    "en": "A Templar-era camp, historical fencing, archery, dances and a medieval market with local craftspeople. Good for families.",
+    "pt": "Acampamento templário, esgrima histórica, tiro com arco, danças e mercado medieval com artesãos locais. Bom para famílias.",
+    "es": "Campamento templario, esgrima histórica, tiro con arco, danzas y mercado medieval con artesanos locales. Ideal en familia."
    },
-   {
-    "en": "Come for a coffee under the fans in the morning, or a glass of wine and some petiscos in the evening.",
-    "pt": "Venha tomar um café debaixo das ventoinhas de manhã, ou um copo de vinho com petiscos ao fim do dia.",
-    "es": "Ven a tomar un café bajo los ventiladores por la mañana, o una copa de vino con petiscos al final del día."
+   "place": {
+    "en": "Outside the Convento de Cristo",
+    "pt": "Exterior do Convento de Cristo",
+    "es": "Exterior del Convento de Cristo"
    }
-  ],
-  "photo": "https://vamostomar.pt/data/images/cafe-paraiso-20260926-n2at.webp",
-  "photoAlt": {
-   "en": "Inside Café Paraíso: marble-effect columns, ceiling fans and steel chairs",
-   "pt": "Interior do Café Paraíso: colunas a imitar mármore, ventoinhas de teto e cadeiras de aço",
-   "es": "Interior del Café Paraíso: columnas imitando mármol, ventiladores de techo y sillas de acero"
   },
-  "facts": [
-   {
-    "k": {
-     "en": "Since",
-     "pt": "Desde",
-     "es": "Desde"
-    },
-    "v": {
-     "en": "1911",
-     "pt": "1911",
-     "es": "1911"
-    }
+  {
+   "date": "2026-10-04",
+   "dateEnd": null,
+   "time": null,
+   "featured": false,
+   "free": null,
+   "icon": "market",
+   "photo": null,
+   "url": null,
+   "when": {
+    "en": "Sunday 4 Oct",
+    "pt": "Domingo 4 out",
+    "es": "Domingo 4 oct"
    },
-   {
-    "k": {
-     "en": "The room",
-     "pt": "A sala",
-     "es": "El salón"
-    },
-    "v": {
-     "en": "Remodelled in 1946",
-     "pt": "Remodelada em 1946",
-     "es": "Remodelado en 1946"
-    }
+   "title": {
+    "en": "Arts, collectables and antiques fair",
+    "pt": "Feira de Artes, Colecionismo e Velharias",
+    "es": "Feria de arte, coleccionismo y antigüedades"
    },
-   {
-    "k": {
-     "en": "Where",
-     "pt": "Onde",
-     "es": "Dónde"
-    },
-    "v": {
-     "en": "R. Serpa Pinto 127, Tomar",
-     "pt": "R. Serpa Pinto 127, Tomar",
-     "es": "R. Serpa Pinto 127, Tomar"
-    }
+   "text": {
+    "en": "The monthly browse of old books, coins, crockery and curios at the market.",
+    "pt": "A feira mensal de livros antigos, moedas, louça e curiosidades no mercado.",
+    "es": "La feria mensual de libros antiguos, monedas, loza y curiosidades en el mercado."
+   },
+   "place": {
+    "en": "Mercado Municipal",
+    "pt": "Mercado Municipal",
+    "es": "Mercado Municipal"
    }
-  ],
-  "tags": [
-   {
-    "en": "Café",
-    "pt": "Café",
-    "es": "Café"
-   },
-   {
-    "en": "Bar",
-    "pt": "Bar",
-    "es": "Bar"
-   },
-   {
-    "en": "Petiscos",
-    "pt": "Petiscos",
-    "es": "Petiscos"
-   },
-   {
-    "en": "Wine",
-    "pt": "Vinhos",
-    "es": "Vinos"
-   }
-  ],
-  "url": "https://vamostomar.pt/#/eat/cafe-paraiso-y5u",
-  "links": {
-   "maps": "https://maps.app.goo.gl/hjWfzD2KapDsht5f8",
-   "website": "https://cafeparaiso.pt/"
   },
-  "sources": [
-   {
-    "name": "Tomar na Rede",
-    "url": "https://tomarnarede.pt/destaque/cafe-paraiso-chega-aos-110-anos/"
+  {
+   "date": "2026-10-08",
+   "dateEnd": null,
+   "time": "19:15",
+   "featured": false,
+   "free": null,
+   "icon": "music",
+   "photo": null,
+   "url": "https://mediotejo.net/tomar-igreja-da-misericordia-recebe-sete-concertos-ate-dezembro/",
+   "when": {
+    "en": "Thursday 8 Oct · 19:15",
+    "pt": "Quinta 8 out · 19:15",
+    "es": "Jueves 8 oct · 19:15"
    },
-   {
-    "name": "D de Delta",
-    "url": "https://dddelta.com/cafe-paraiso/"
+   "title": {
+    "en": "Sons de África",
+    "pt": "Sons de África",
+    "es": "Sons de África"
    },
-   {
-    "name": "Portugal Num Mapa",
-    "url": "https://www.portugalnummapa.com/cafe-paraiso/"
+   "text": {
+    "en": "The Quarteto Lopes-Graça and percussionist Aldovino Munguambe play African composers, among them Dumisani Maraire and Kevin Volans.",
+    "pt": "O Quarteto Lopes-Graça e o percussionista Aldovino Munguambe tocam compositores africanos, como Dumisani Maraire e Kevin Volans.",
+    "es": "El Quarteto Lopes-Graça y el percusionista Aldovino Munguambe interpretan a compositores africanos como Dumisani Maraire y Kevin Volans."
+   },
+   "place": {
+    "en": "Igreja da Misericórdia",
+    "pt": "Igreja da Misericórdia",
+    "es": "Igreja da Misericórdia"
    }
-  ]
+  },
+  {
+   "date": "2026-10-09",
+   "dateEnd": null,
+   "time": "21:30",
+   "featured": false,
+   "free": null,
+   "icon": "stage",
+   "photo": null,
+   "url": "https://cineteatro.cm-tomar.pt/",
+   "when": {
+    "en": "Friday 9 Oct · 21:30",
+    "pt": "Sexta 9 out · 21:30",
+    "es": "Viernes 9 oct · 21:30"
+   },
+   "title": {
+    "en": "ONYX, contemporary dance by Piny",
+    "pt": "ONYX, dança contemporânea de Piny",
+    "es": "ONYX, danza contemporánea de Piny"
+   },
+   "text": {
+    "en": "Piny brings ONYX to the stage. On Wednesday at 17:00 she also leads a dance workshop at the Sociedade Filarmónica Gualdim Pais.",
+    "pt": "Piny traz ONYX ao palco. Na quarta, às 17:00, orienta também um workshop de dança na Sociedade Filarmónica Gualdim Pais.",
+    "es": "Piny presenta ONYX. El miércoles a las 17:00 imparte también un taller de danza en la Sociedade Filarmónica Gualdim Pais."
+   },
+   "place": {
+    "en": "Cine-Teatro Paraíso",
+    "pt": "Cine-Teatro Paraíso",
+    "es": "Cine-Teatro Paraíso"
+   }
+  }
+ ],
+ "news": [
+  {
+   "cat": "environment",
+   "src": "Rádio Hertz",
+   "url": "https://radiohertz.pt/tomar-concelho-e-o-unico-excecao-feita-no-algarve-que-esta-sob-risco-muito-elevado-de-incendio/",
+   "head": {
+    "en": "Very high fire risk: burning and bonfires banned",
+    "pt": "Risco de incêndio muito elevado: queimas e fogueiras proibidas",
+    "es": "Riesgo de incendio muy alto: prohibidas quemas y hogueras"
+   },
+   "body": {
+    "en": "Outside the Algarve, Tomar was the only council at 'very high' risk on Friday. No burning, bonfires or brush cutters with metal blades.",
+    "pt": "Fora do Algarve, Tomar era na sexta o único concelho em risco 'muito elevado'. Proibidas queimas, fogueiras e roçadoras com lâminas metálicas.",
+    "es": "Fuera del Algarve, Tomar era el viernes el único concejo en riesgo 'muy alto'. Prohibidas quemas, hogueras y desbrozadoras con cuchillas metálicas."
+   }
+  },
+  {
+   "cat": "camara",
+   "src": "Rádio Hertz",
+   "url": "https://radiohertz.pt/tomar-taxa-turistica-sera-uma-realidade-cada-dormida-custara-mais-dois-euros-ate-a-um-maximo-de-cinco-noites-camara-podera-encaixar-300-mil-euros-ao-ano/",
+   "head": {
+    "en": "Tourist tax approved: €2 a night, up to five nights",
+    "pt": "Taxa turística aprovada: 2 euros por noite, até cinco noites",
+    "es": "Aprobada la tasa turística: 2 euros por noche, hasta cinco noches"
+   },
+   "body": {
+    "en": "The Assembleia Municipal voted it through; CDU voted against and PS abstained. The Câmara expects about €300,000 a year. Under-13s are exempt.",
+    "pt": "A Assembleia Municipal aprovou-a; a CDU votou contra e o PS absteve-se. A Câmara prevê cerca de 300 mil euros por ano. Menores de 13 isentos.",
+    "es": "La Assembleia Municipal la aprobó; la CDU votó en contra y el PS se abstuvo. La Câmara prevé unos 300.000 € al año. Exentos los menores de 13."
+   }
+  },
+  {
+   "cat": "community",
+   "src": "O Templário",
+   "url": "https://otemplario.pt/veja-aqui-a-primeira-pagina-do-jornal-o-templario-2/",
+   "head": {
+    "en": "Over 10,000 letters waiting to be delivered in Tomar",
+    "pt": "Mais de 10 mil cartas por entregar em Tomar",
+    "es": "Más de 10.000 cartas sin entregar en Tomar"
+   },
+   "body": {
+    "en": "Twelve postal workers are missing, and villages are hit hardest, including hospital appointment letters. If you're expecting one, confirm another way.",
+    "pt": "Faltam 12 carteiros e as aldeias são as mais afetadas, incluindo convocatórias médicas. Se espera alguma, confirme por outra via.",
+    "es": "Faltan 12 carteros y las aldeas son las más afectadas, incluidas citas médicas. Si espera alguna, confírmela por otra vía."
+   }
+  },
+  {
+   "cat": "community",
+   "src": "Rádio Hertz",
+   "url": "https://radiohertz.pt/tomar-mercado-fechou-portas-em-dia-de-greve-vendedores-e-clientes-revoltados-e-houve-ate-quem-questionasse-a-legalidade-da-forma-como-se-processou-a-venda-no-exterior/",
+   "head": {
+    "en": "Friday's strike shut some schools and the Mercado Municipal",
+    "pt": "Greve de sexta fechou escolas e o Mercado Municipal",
+    "es": "La huelga del viernes cerró escuelas y el Mercado Municipal"
+   },
+   "body": {
+    "en": "With council staff on the public-sector strike, nobody opened the market gates, to the surprise of dozens of stallholders.",
+    "pt": "Com os funcionários da Câmara em greve, ninguém abriu os portões do mercado, o que apanhou de surpresa dezenas de vendedores.",
+    "es": "Con el personal de la Câmara en huelga, nadie abrió las puertas del mercado, para sorpresa de decenas de vendedores."
+   }
+  },
+  {
+   "cat": "freguesias",
+   "src": "Rádio Hertz",
+   "url": "https://radiohertz.pt/tomar-requalificacao-de-casal-dos-frades-estacionamento-regulado-vai-possibilitar-mais-40-lugares-e-serao-criadas-barreiras-para-impedir-veiculos-nos-passeios-e-em-outros-locais-in/",
+   "head": {
+    "en": "Casal dos Frades makeover: 107 parking spaces and a playground",
+    "pt": "Casal dos Frades requalificado: 107 lugares e parque infantil",
+    "es": "Reforma de Casal dos Frades: 107 plazas y parque infantil"
+   },
+   "body": {
+    "en": "The junta expects it done by late 2028: 40 more spaces, a futsal court, wider walkways and barriers to keep cars off pavements.",
+    "pt": "A junta prevê concluir no final de 2028: mais 40 lugares, um rinque, mais área pedonal e barreiras contra carros nos passeios.",
+    "es": "La junta prevé terminar a finales de 2028: 40 plazas más, una pista de fútbol sala, más zona peatonal y barreras contra coches en las aceras."
+   }
+  },
+  {
+   "cat": "culture",
+   "src": "Cidade de Tomar",
+   "url": "https://www.cidadetomar.pt/2026/09/28/destaque/festa-dos-tabuleiros-podera-obter-reconhecimento-da-unesco-em-2028/",
+   "head": {
+    "en": "Festa dos Tabuleiros could win UNESCO recognition in 2028",
+    "pt": "Festa dos Tabuleiros pode ter reconhecimento da UNESCO em 2028",
+    "es": "La Festa dos Tabuleiros podría lograr el reconocimiento de la UNESCO en 2028"
+   },
+   "body": {
+    "en": "So said anthropologist André Camponês at a talk in the Convento de São Francisco. The bid went in on 14 March 2025.",
+    "pt": "Foi o que disse o antropólogo André Camponês numa conferência no Convento de São Francisco. A candidatura foi entregue a 14 de março de 2025.",
+    "es": "Lo dijo el antropólogo André Camponês en una conferencia en el Convento de São Francisco. La candidatura se presentó el 14 de marzo de 2025."
+   }
+  },
+  {
+   "cat": "sport",
+   "src": "Rádio Hertz",
+   "url": "https://radiohertz.pt/futebol-novo-tapete-do-estadio-municipal-antonio-fortes-so-podera-ser-utilizado-em-finais-de-outubro-u-tomar-muda-se-para-a-atalaia/",
+   "head": {
+    "en": "New pitch at the António Fortes not ready until late October",
+    "pt": "Novo relvado do António Fortes só no final de outubro",
+    "es": "El nuevo césped del António Fortes, no antes de finales de octubre"
+   },
+   "body": {
+    "en": "The synthetic surface still needs certifying, so União de Tomar move to Atalaia meanwhile. The club shares the lead in the 1.ª Distrital.",
+    "pt": "O sintético ainda aguarda certificação e o União de Tomar muda-se para a Atalaia. O clube partilha a liderança da 1.ª Distrital.",
+    "es": "El sintético aún espera certificación y el União de Tomar se traslada a Atalaia. El club comparte el liderato de la 1.ª Distrital."
+   }
+  }
+ ],
+ "coming": [
+  {
+   "when": {
+    "en": "Mon 12 Oct",
+    "pt": "Seg 12 out",
+    "es": "Lun 12 oct"
+   },
+   "text": {
+    "en": "Broken Voices, a film about a choir, Cine-Teatro Paraíso, 21:00",
+    "pt": "Broken Voices: Segredos de um coro, Cine-Teatro Paraíso, 21:00",
+    "es": "Broken Voices, película sobre un coro, Cine-Teatro Paraíso, 21:00"
+   }
+  },
+  {
+   "when": {
+    "en": "Fri 16 Oct",
+    "pt": "Sex 16 out",
+    "es": "Vie 16 oct"
+   },
+   "text": {
+    "en": "The Feira de Santa Iria opens at the Várzea Grande; Padre Guilherme in concert",
+    "pt": "Abre a Feira de Santa Iria na Várzea Grande; concerto de Padre Guilherme",
+    "es": "Abre la Feira de Santa Iria en la Várzea Grande; concierto de Padre Guilherme"
+   }
+  },
+  {
+   "when": {
+    "en": "Sat 17 Oct",
+    "pt": "Sáb 17 out",
+    "es": "Sáb 17 oct"
+   },
+   "text": {
+    "en": "Santa Iria fair: Chico da Tina on the main stage",
+    "pt": "Feira de Santa Iria: Chico da Tina no palco principal",
+    "es": "Feira de Santa Iria: Chico da Tina en el escenario principal"
+   }
+  }
+ ],
+ "whatsapp": {
+  "en": "This Week in Tomar (4 – 10 Oct): Santa Iria Café Bistrot, Templar Days at the Convento on Saturday and two weeks to the 400th Santa Iria fair.\nhttps://vamostomar.pt/weekly/?lang=en",
+  "pt": "Esta Semana em Tomar (4 – 10 out): o Santa Iria Café Bistrot, Dias Templários no Convento no sábado e duas semanas para os 400 anos da Feira de Santa Iria.\nhttps://vamostomar.pt/weekly/",
+  "es": "Esta Semana en Tomar (4 – 10 oct): el Santa Iria Café Bistrot, Días Templarios en el Convento el sábado y dos semanas para los 400 años de la Feira de Santa Iria.\nhttps://vamostomar.pt/weekly/?lang=es"
  },
- "updatedAt": "2026-09-29T00:30:00+01:00"
+ "sourcesChecked": [
+  {
+   "src": "MET Norway (Tomar)",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "src": "IPMA warnings (STM)",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "src": "Rádio Hertz (local)",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "src": "Rádio Hertz (desporto)",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "src": "O Templário",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "src": "Cidade de Tomar",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "src": "mediotejo.net (Tomar feed)",
+   "ok": false,
+   "items": 0
+  },
+  {
+   "src": "Cine-Teatro Paraíso",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "src": "live.json",
+   "ok": true,
+   "items": 2
+  }
+ ],
+ "fact": {
+  "id": "first-stone",
+  "en": "Tomar's municipal holiday falls on 1 March because on that day in 1160 Gualdim Pais, fourth Grand Master of the Portuguese Templars, laid the first stone of the castle.",
+  "pt": "O feriado municipal de Tomar é a 1 de março porque nesse dia, em 1160, Gualdim Pais, quarto Grão-Mestre dos Templários portugueses, lançou a primeira pedra do castelo.",
+  "es": "La fiesta local de Tomar es el 1 de marzo porque ese día de 1160 Gualdim Pais, cuarto Gran Maestre de los templarios portugueses, colocó la primera piedra del castillo."
+ },
+ "confirmedAt": "2026-10-03T19:55:29.253Z"
 }
