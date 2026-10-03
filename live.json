@@ -1,6 +1,6 @@
 {
- "rev": 39,
- "updated": "2026-10-02T15:25:59.511Z",
+ "rev": 40,
+ "updated": "2026-10-03T07:56:24.010Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -617,7 +617,13 @@
     {
      "src": "data/images/santa-iria-cafe-bistrot-20260925-bxwv.webp"
     }
-   ]
+   ],
+   "detail": "Rua Marquês de Pombal 57, Tomar",
+   "detail_pt": "Rua Marquês de Pombal 57, Tomar",
+   "detail_es": "Rua Marquês de Pombal 57, Tomar",
+   "links": {
+    "facebook": "https://www.facebook.com/csitomar"
+   }
   },
   "cafe-paraiso": {
    "photos": [
