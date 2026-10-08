@@ -1,6 +1,6 @@
 {
- "rev": 48,
- "updated": "2026-10-08T14:05:20.536Z",
+ "rev": 49,
+ "updated": "2026-10-08T17:05:31.000Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -84,6 +84,268 @@
     "src": "data/images/dance-through-the-decades-poster-20261008-2qiz.webp"
    },
    "id": "ev-2026-10-17-dance-through-the-decades"
+  },
+  {
+   "id": "ev-2026-10-11-campeonato-dos-castelos",
+   "date": "2026-10-11",
+   "dateEnd": null,
+   "name": "Campeonato dos Castelos",
+   "name_pt": "Campeonato dos Castelos",
+   "name_es": "Campeonato dos Castelos",
+   "blurb": "A historic bow and crossbow tournament at the Templar castle, run by Thomar Honoris with the Federação de Arqueiros e Besteiros de Portugal. From 09:30.",
+   "blurb_pt": "Torneio de arco e besta históricos no castelo templário, organizado pela Thomar Honoris com a Federação de Arqueiros e Besteiros de Portugal. A partir das 9h30.",
+   "blurb_es": "Torneo de arco y ballesta históricos en el castillo templario, organizado por Thomar Honoris con la Federação de Arqueiros e Besteiros de Portugal. Desde las 9:30.",
+   "place": "Castelo de Tomar",
+   "place_pt": "Castelo de Tomar",
+   "place_es": "Castillo de Tomar",
+   "time": "09:30",
+   "venue": "castelo-de-tomar",
+   "url": "https://thomarhonoris.pt/"
+  },
+  {
+   "id": "ev-2026-10-11-dia-nacional-do-peregrino",
+   "date": "2026-10-11",
+   "dateEnd": "2026-10-13",
+   "name": "National Pilgrim's Day (sign-up closed)",
+   "name_pt": "Dia Nacional do Peregrino (inscrições encerradas)",
+   "name_es": "Día Nacional del Peregrino (inscripciones cerradas)",
+   "blurb": "Sign-up closed on 8 October. Sun 11 Oct at 08:30: a walk on the Caminho de Fátima from the Praça da República, about 9 km. Tue 13 Oct: a film at the Convento de Cristo (09:30–17:00), exhibitions at the Posto de Turismo (10:00–17:00), the climb to the Ermida de Nossa Senhora da Piedade at 15:30 and the Pilgrim's Mass at São João Baptista at 18:30. Free. Ask at the Posto de Turismo (249 329 823) if there's still room.",
+   "blurb_pt": "Inscrições encerradas a 8 de outubro. Domingo, 11 de outubro, às 8h30: caminhada pelo Caminho de Fátima a partir da Praça da República, cerca de 9 km. Terça, 13 de outubro: filme no Convento de Cristo (9h30–17h), exposições no Posto de Turismo (10h–17h), subida à Ermida de Nossa Senhora da Piedade às 15h30 e Missa do Peregrino em São João Baptista às 18h30. Gratuito. Pergunta no Posto de Turismo (249 329 823) se ainda há lugar.",
+   "blurb_es": "Inscripciones cerradas el 8 de octubre. Domingo 11 de octubre a las 8:30: caminata por el Camino de Fátima desde la Praça da República, unos 9 km. Martes 13 de octubre: película en el Convento de Cristo (9:30–17:00), exposiciones en el Posto de Turismo (10:00–17:00), subida a la Ermida de Nossa Senhora da Piedade a las 15:30 y Misa del Peregrino en São João Baptista a las 18:30. Gratis. Pregunta en el Posto de Turismo (249 329 823) si aún queda sitio.",
+   "place": "Praça da República and around town",
+   "place_pt": "Praça da República e outros locais",
+   "place_es": "Praça da República y otros lugares",
+   "price": "Free",
+   "price_pt": "Grátis",
+   "price_es": "Gratis",
+   "time": "08:30",
+   "venue": [
+    "praca-republica",
+    "convento-de-cristo",
+    "nossa-senhora-piedade",
+    "sao-joao-baptista"
+   ],
+   "url": "https://www.cm-tomar.pt/comunicacao/agenda"
+  },
+  {
+   "id": "ev-2026-10-12-retabulo-capela-dos-valle",
+   "date": "2026-10-12",
+   "dateEnd": null,
+   "name": "The Capela dos Valle altarpiece: conservation work presented",
+   "name_pt": "Apresentação da intervenção no retábulo da Capela dos Valle",
+   "name_es": "Presentación de la intervención en el retablo de la Capilla de los Valle",
+   "blurb": "A presentation of the conservation work on the altarpiece in the Capela dos Valle, the side chapel of the Santa Iria church, a week before the Santa Iria festivities. 15:00.",
+   "blurb_pt": "Apresentação da intervenção de conservação no retábulo da Capela dos Valle, na Igreja de Santa Iria, uma semana antes das festas de Santa Iria. 15h.",
+   "blurb_es": "Presentación de la intervención de conservación en el retablo de la Capilla de los Valle, en la iglesia de Santa Iria, una semana antes de las fiestas de Santa Iria. 15:00.",
+   "place": "Laboratório d'Artes — CEFT, Casa dos Cubos",
+   "place_pt": "Laboratório d'Artes — CEFT, Casa dos Cubos",
+   "place_es": "Laboratório d'Artes — CEFT, Casa dos Cubos",
+   "time": "15:00",
+   "venue": [
+    "casa-dos-cubos",
+    "capela-santa-iria"
+   ],
+   "url": "https://www.cm-tomar.pt/comunicacao/agenda"
+  },
+  {
+   "id": "ev-2026-10-13-cortejo-templario",
+   "date": "2026-10-13",
+   "dateEnd": null,
+   "name": "Templar parade for Gualdim Pais",
+   "name_pt": "Homenagem a D. Gualdim Pais — Cortejo Templário",
+   "name_es": "Desfile templario en honor de Gualdim Pais",
+   "blurb": "Thomar Honoris and the OPCTJ honour Tomar's founder with a Templar parade from the Alameda Um de Março along the Corredoura to the Praça da República, where his statue stands. 21:30.",
+   "blurb_pt": "A Thomar Honoris e a OPCTJ homenageiam o fundador de Tomar com um cortejo templário da Alameda Um de Março, pela Corredoura, até à Praça da República, onde está a sua estátua. 21h30.",
+   "blurb_es": "Thomar Honoris y la OPCTJ rinden homenaje al fundador de Tomar con un desfile templario desde la Alameda Um de Março, por la Corredoura, hasta la Praça da República, donde está su estatua. 21:30.",
+   "place": "Alameda Um de Março → Praça da República",
+   "place_pt": "Alameda Um de Março → Praça da República",
+   "place_es": "Alameda Um de Março → Praça da República",
+   "price": "Free",
+   "price_pt": "Grátis",
+   "price_es": "Gratis",
+   "time": "21:30",
+   "venue": "praca-republica",
+   "url": "https://thomarhonoris.pt/"
+  },
+  {
+   "id": "ev-2026-10-14-hora-do-conto",
+   "date": "2026-10-14",
+   "dateEnd": null,
+   "name": "Story time (Hora do Conto)",
+   "name_pt": "Hora do Conto",
+   "name_es": "Hora del cuento (Hora do Conto)",
+   "blurb": "Stories read aloud for children aged 3 and up, then games and a chat about the story. 40 minutes, free, in Portuguese. 14 Oct: “Há dias em que…” by Heinz Janisch. 21 Oct: “Nunca cresças” by Roald Dahl. 28 Oct: “Família 14” by Kazuo Iwamura.",
+   "blurb_pt": "Leitura e narração de histórias para crianças a partir dos 3 anos, seguidas de atividades e conversa sobre o tema. 40 minutos, entrada livre. 14 out.: “Há dias em que…”, de Heinz Janisch. 21 out.: “Nunca cresças”, de Roald Dahl. 28 out.: “Família 14”, de Kazuo Iwamura.",
+   "blurb_es": "Lectura y narración de cuentos para niños a partir de 3 años, seguidas de juegos y una charla sobre el tema. 40 minutos, gratis, en portugués. 14 oct.: “Há dias em que…”, de Heinz Janisch. 21 oct.: “Nunca cresças”, de Roald Dahl. 28 oct.: “Família 14”, de Kazuo Iwamura.",
+   "place": "Biblioteca Municipal",
+   "place_pt": "Biblioteca Municipal",
+   "place_es": "Biblioteca Municipal",
+   "price": "Free",
+   "price_pt": "Grátis",
+   "price_es": "Gratis",
+   "time": "17:00",
+   "venue": "biblioteca-municipal",
+   "url": "https://www.cm-tomar.pt/comunicacao/agenda",
+   "repeat": {
+    "freq": "weekly",
+    "days": [
+     3
+    ],
+    "until": "2026-10-28"
+   }
+  },
+  {
+   "id": "ev-2026-10-17-paisagens-onde-fiquei",
+   "date": "2026-10-17",
+   "dateEnd": "2026-12-27",
+   "name": "Paisagens Onde Fiquei",
+   "name_pt": "Paisagens Onde Fiquei",
+   "name_es": "Paisagens Onde Fiquei",
+   "blurb": "Paintings by Catarina Tavares. The opening is on Sat 17 Oct at 15:00. Wed–Fri 14:00–17:00; Sat–Sun 10:00–12:00 and 14:00–17:00.",
+   "blurb_pt": "Exposição de pintura de Catarina Tavares. Inauguração no sábado, 17 de outubro, às 15h. Quarta a sexta, 14h–17h; sábado e domingo, 10h–12h e 14h–17h.",
+   "blurb_es": "Pinturas de Catarina Tavares. Inauguración el sábado 17 de octubre a las 15:00. De miércoles a viernes, 14:00–17:00; sábado y domingo, 10:00–12:00 y 14:00–17:00.",
+   "place": "Casa Manuel Guimarães",
+   "place_pt": "Casa Manuel Guimarães",
+   "place_es": "Casa Manuel Guimarães",
+   "venue": "casa-manuel-guimaraes",
+   "url": "https://www.cm-tomar.pt/comunicacao/agenda"
+  },
+  {
+   "id": "ev-2026-10-24-workshop-orotone",
+   "date": "2026-10-24",
+   "dateEnd": null,
+   "name": "Orotone photography workshop",
+   "name_pt": "Workshop em Orotone",
+   "name_es": "Taller de fotografía en orotono",
+   "blurb": "The CEFT photography club teaches orotone, the early-1900s process that prints a photograph on glass and backs it with gold. Open to members and the public, maximum 10 people. 14:00. Sign up at ceft-casacubos@ipt.pt.",
+   "blurb_pt": "O Clube de Fotografia do CEFT ensina o orotone, o processo do início do século XX que imprime a fotografia em vidro com fundo dourado. Para sócios e público em geral, máximo de 10 inscritos. 14h. Inscrições em ceft-casacubos@ipt.pt.",
+   "blurb_es": "El club de fotografía del CEFT enseña el orotono, el proceso de principios del siglo XX que imprime la foto sobre vidrio con fondo dorado. Para socios y público en general, máximo 10 personas. 14:00. Inscripción en ceft-casacubos@ipt.pt.",
+   "place": "Clube de Fotografia do CEFT, Casa dos Cubos",
+   "place_pt": "Clube de Fotografia do CEFT, Casa dos Cubos",
+   "place_es": "Club de Fotografía del CEFT, Casa dos Cubos",
+   "price": "€15",
+   "price_pt": "15 €",
+   "price_es": "15 €",
+   "time": "14:00",
+   "venue": "casa-dos-cubos"
+  },
+  {
+   "id": "ev-2026-10-24-festival-levada",
+   "date": "2026-10-24",
+   "dateEnd": null,
+   "name": "Festival Levada",
+   "name_pt": "Festival Levada",
+   "name_es": "Festival Levada",
+   "blurb": "Tomar's festival of historical dance and music, in the historic centre. Past editions brought dance and early-music groups from Portugal and Spain, with demonstrations and workshops; Thomar Honoris takes part this year. Times and programme still to be announced.",
+   "blurb_pt": "O festival de dança e música históricas de Tomar, no centro histórico. As edições anteriores trouxeram grupos de dança e música antiga de Portugal e de Espanha, com demonstrações e oficinas; este ano a Thomar Honoris participa. Horários e programa ainda por anunciar.",
+   "blurb_es": "El festival de danza y música históricas de Tomar, en el centro histórico. Las ediciones anteriores trajeron grupos de danza y música antigua de Portugal y España, con demostraciones y talleres; este año participa Thomar Honoris. Horarios y programa aún por anunciar.",
+   "place": "Historic centre",
+   "place_pt": "Centro histórico",
+   "place_es": "Centro histórico",
+   "url": "https://www.facebook.com/levadafestival/"
+  },
+  {
+   "id": "ev-2026-10-24-jato-a-convidada",
+   "date": "2026-10-24",
+   "dateEnd": "2026-10-25",
+   "name": "JATO escape room: “A Convidada”",
+   "name_pt": "JATO Escape Rooms: “A Convidada”",
+   "name_es": "JATO escape room: “A Convidada”",
+   "blurb": "A horror and mystery escape room: strange things interrupt a ceremony inspired by Oscar night, and your team has 60 minutes to solve the puzzles, find where the threat comes from and stop the disaster. Teams of 2 to 5, ages 14+. Sessions each day at 10:00, 11:30, 14:00, 15:30, 17:00, 18:30, 21:00 and 22:30. Booking required; arrive 15 minutes early. Instagram @jatomar.21. Also on 31 Oct and 1 Nov.",
+   "blurb_pt": "Uma escape room de terror e mistério: fenómenos inexplicáveis interrompem uma cerimónia inspirada na noite dos Óscares, e a equipa tem 60 minutos para resolver os enigmas, descobrir a origem da ameaça e evitar o desastre. Equipas de 2 a 5, M/14. Sessões todos os dias às 10h, 11h30, 14h, 15h30, 17h, 18h30, 21h e 22h30. Inscrição obrigatória; chega 15 minutos antes. Instagram @jatomar.21. Também a 31 de outubro e 1 de novembro.",
+   "blurb_es": "Un escape room de terror y misterio: fenómenos inexplicables interrumpen una ceremonia inspirada en la noche de los Óscar, y el equipo tiene 60 minutos para resolver los enigmas, descubrir el origen de la amenaza y evitar el desastre. Equipos de 2 a 5, mayores de 14 años. Sesiones cada día a las 10:00, 11:30, 14:00, 15:30, 17:00, 18:30, 21:00 y 22:30. Reserva obligatoria; llega 15 minutos antes. Instagram @jatomar.21. También el 31 de octubre y el 1 de noviembre.",
+   "place": "Sociedade Filarmónica Gualdim Pais",
+   "place_pt": "Sociedade Filarmónica Gualdim Pais",
+   "place_es": "Sociedade Filarmónica Gualdim Pais",
+   "price": "€6–9 per person (team of 2: €18; of 5: €30)",
+   "price_pt": "6–9 € por pessoa (equipa de 2: 18 €; de 5: 30 €)",
+   "price_es": "6–9 € por persona (equipo de 2: 18 €; de 5: 30 €)",
+   "url": "https://calendly.com/direcao-jato/jato-escape-rooms-a-convidada",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Sociedade+Filarmonica+Gualdim+Pais+Tomar"
+  },
+  {
+   "id": "ev-2026-10-31-jato-a-convidada",
+   "date": "2026-10-31",
+   "dateEnd": "2026-11-01",
+   "name": "JATO escape room: “A Convidada”",
+   "name_pt": "JATO Escape Rooms: “A Convidada”",
+   "name_es": "JATO escape room: “A Convidada”",
+   "blurb": "A horror and mystery escape room: strange things interrupt a ceremony inspired by Oscar night, and your team has 60 minutes to solve the puzzles, find where the threat comes from and stop the disaster. Teams of 2 to 5, ages 14+. Sessions each day at 10:00, 11:30, 14:00, 15:30, 17:00, 18:30, 21:00 and 22:30. Booking required; arrive 15 minutes early. Instagram @jatomar.21.",
+   "blurb_pt": "Uma escape room de terror e mistério: fenómenos inexplicáveis interrompem uma cerimónia inspirada na noite dos Óscares, e a equipa tem 60 minutos para resolver os enigmas, descobrir a origem da ameaça e evitar o desastre. Equipas de 2 a 5, M/14. Sessões todos os dias às 10h, 11h30, 14h, 15h30, 17h, 18h30, 21h e 22h30. Inscrição obrigatória; chega 15 minutos antes. Instagram @jatomar.21.",
+   "blurb_es": "Un escape room de terror y misterio: fenómenos inexplicables interrumpen una ceremonia inspirada en la noche de los Óscar, y el equipo tiene 60 minutos para resolver los enigmas, descubrir el origen de la amenaza y evitar el desastre. Equipos de 2 a 5, mayores de 14 años. Sesiones cada día a las 10:00, 11:30, 14:00, 15:30, 17:00, 18:30, 21:00 y 22:30. Reserva obligatoria; llega 15 minutos antes. Instagram @jatomar.21.",
+   "place": "Sociedade Filarmónica Gualdim Pais",
+   "place_pt": "Sociedade Filarmónica Gualdim Pais",
+   "place_es": "Sociedade Filarmónica Gualdim Pais",
+   "price": "€6–9 per person (team of 2: €18; of 5: €30)",
+   "price_pt": "6–9 € por pessoa (equipa de 2: 18 €; de 5: 30 €)",
+   "price_es": "6–9 € por persona (equipo de 2: 18 €; de 5: 30 €)",
+   "url": "https://calendly.com/direcao-jato/jato-escape-rooms-a-convidada",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Sociedade+Filarmonica+Gualdim+Pais+Tomar"
+  },
+  {
+   "id": "ev-2026-10-25-campeonato-field-fabp",
+   "date": "2026-10-25",
+   "dateEnd": null,
+   "name": "National field archery championship",
+   "name_pt": "Campeonato Nacional de Campo/Field FABP — Arco e Besta",
+   "name_es": "Campeonato Nacional de Campo FABP: arco y ballesta",
+   "blurb": "The Portuguese field championship for bow and crossbow, organised by Thomar Honoris and the Federação de Arqueiros e Besteiros de Portugal at the Regimento de Infantaria 15. From 09:30.",
+   "blurb_pt": "O campeonato nacional de campo de arco e besta, organizado pela Thomar Honoris e pela Federação de Arqueiros e Besteiros de Portugal no Regimento de Infantaria 15. A partir das 9h30.",
+   "blurb_es": "El campeonato nacional de campo de arco y ballesta, organizado por Thomar Honoris y la Federação de Arqueiros e Besteiros de Portugal en el Regimiento de Infantería 15. Desde las 9:30.",
+   "place": "Regimento de Infantaria 15",
+   "place_pt": "Regimento de Infantaria 15",
+   "place_es": "Regimiento de Infantería 15",
+   "time": "09:30",
+   "url": "https://thomarhonoris.pt/",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Regimento+de+Infantaria+15+Tomar"
+  },
+  {
+   "id": "ev-2026-10-28-vi-mostra-criativa",
+   "date": "2026-10-28",
+   "dateEnd": "2026-12-27",
+   "name": "VI Mostra Criativa",
+   "name_pt": "VI Mostra Criativa",
+   "name_es": "VI Mostra Criativa",
+   "blurb": "Work by this year's final-year students at the Universidade Politécnica de Tomar. The opening is on Wed 28 Oct at 16:30. Tue–Fri 10:00–12:00 and 14:00–17:00; Sat–Sun 14:00–17:00.",
+   "blurb_pt": "Exposição dos estudantes finalistas da Universidade Politécnica de Tomar. Inauguração na quarta-feira, 28 de outubro, às 16h30. Terça a sexta, 10h–12h e 14h–17h; sábado e domingo, 14h–17h.",
+   "blurb_es": "Obras de los estudiantes de último curso de la Universidade Politécnica de Tomar. Inauguración el miércoles 28 de octubre a las 16:30. De martes a viernes, 10:00–12:00 y 14:00–17:00; sábado y domingo, 14:00–17:00.",
+   "place": "Laboratório d'Artes — CEFT, Casa dos Cubos",
+   "place_pt": "Laboratório d'Artes — CEFT, Casa dos Cubos",
+   "place_es": "Laboratório d'Artes — CEFT, Casa dos Cubos",
+   "venue": "casa-dos-cubos",
+   "url": "https://www.cm-tomar.pt/comunicacao/agenda"
+  },
+  {
+   "id": "ev-2026-10-31-industria-grafica",
+   "date": "2026-10-31",
+   "dateEnd": "2026-12-27",
+   "name": "Printing: impressions that last",
+   "name_pt": "Indústria Gráfica: Impressões que permanecem",
+   "name_es": "Industria gráfica: impresiones que permanecen",
+   "blurb": "Five centuries of printing, in machines, photographs, documents and printed things, and how print changed the way we communicate. Part of the Convergências programme, “O Sítio da Palavra”. The opening is on Sat 31 Oct at 15:00. Wed–Fri 14:00–17:00; Sat–Sun 10:00–12:00 and 14:00–17:00.",
+   "blurb_pt": "Mais de cinco séculos de indústria gráfica, em equipamentos, fotografias, documentos e objetos impressos, e como a impressão mudou a forma de comunicar. Integrada no programa Convergências, “O Sítio da Palavra”. Inauguração no sábado, 31 de outubro, às 15h. Quarta a sexta, 14h–17h; sábado e domingo, 10h–12h e 14h–17h.",
+   "blurb_es": "Más de cinco siglos de imprenta, en máquinas, fotografías, documentos y objetos impresos, y cómo la impresión cambió la forma de comunicar. Dentro del programa Convergências, “O Sítio da Palavra”. Inauguración el sábado 31 de octubre a las 15:00. De miércoles a viernes, 14:00–17:00; sábado y domingo, 10:00–12:00 y 14:00–17:00.",
+   "place": "Casa Vieira Guimarães",
+   "place_pt": "Casa Vieira Guimarães",
+   "place_es": "Casa Vieira Guimarães",
+   "venue": "casa-vieira-guimaraes",
+   "url": "https://www.cm-tomar.pt/comunicacao/agenda"
+  },
+  {
+   "id": "ev-2026-10-31-sitios-da-palavra",
+   "date": "2026-10-31",
+   "dateEnd": "2026-12-27",
+   "name": "Sítios da Palavra — Coletivo Convergências",
+   "name_pt": "Sítios da Palavra — Coletivo Convergências",
+   "name_es": "Sítios da Palavra — Coletivo Convergências",
+   "blurb": "The eighth “Sítios” art show: 14 artists working around writing and the written sign, from Tomar's printing and newspaper past to the town today. The opening is on Sat 31 Oct at 15:30. Tue–Sun 10:00–12:00 and 14:00–17:00.",
+   "blurb_pt": "A oitava edição da exposição de artes plásticas “Sítios”: 14 autores em torno da escrita e do signo gráfico, do passado tipográfico e jornalístico de Tomar à cidade de hoje. Inauguração no sábado, 31 de outubro, às 15h30. Terça a domingo, 10h–12h e 14h–17h.",
+   "blurb_es": "La octava edición de la muestra de artes plásticas “Sítios”: 14 artistas en torno a la escritura y el signo gráfico, del pasado tipográfico y periodístico de Tomar a la ciudad de hoy. Inauguración el sábado 31 de octubre a las 15:30. De martes a domingo, 10:00–12:00 y 14:00–17:00.",
+   "place": "Complexo Cultural da Levada — Sala Multiusos",
+   "place_pt": "Complexo Cultural da Levada — Sala Multiusos",
+   "place_es": "Complejo Cultural da Levada — Sala Multiusos",
+   "venue": "levada-tomar",
+   "url": "https://www.cm-tomar.pt/comunicacao/agenda"
   }
  ],
  "listings": [
@@ -2688,6 +2950,110 @@
    "licence": {
     "type": "RNAAT",
     "no": "AV909/1997"
+   }
+  },
+  {
+   "id": "meiob",
+   "category": "services",
+   "sub": [
+    "everyday"
+   ],
+   "icon": "bike",
+   "tags": [
+    "cycling",
+    "taxi"
+   ],
+   "zone": "town",
+   "name": "meioB — shared electric bikes",
+   "name_pt": "meioB — bicicletas elétricas partilhadas",
+   "name_es": "meioB — bicis eléctricas compartidas",
+   "blurb": "The Médio Tejo's bike share: more than 350 bikes at 68 stations across the region. Unlock one with the meioB app (you need an ID document to open an account) and leave it at any meioB station, even in another town. Rides last up to 2 hours; after the first 60 minutes it's €0.01 a minute. 16+ only, and 16- and 17-year-olds need a form signed by a parent.",
+   "blurb_pt": "As bicicletas partilhadas do Médio Tejo: mais de 350 bicicletas em 68 estações pela região. Desbloqueia uma com a app meioB (é preciso um documento de identificação para abrir conta) e deixa-a em qualquer estação meioB, mesmo noutro concelho. Cada viagem pode durar até 2 horas; depois dos primeiros 60 minutos paga-se 0,01 € por minuto. Só a partir dos 16 anos, e dos 16 aos 18 é preciso um termo de responsabilidade assinado pelos pais.",
+   "blurb_es": "Las bicis compartidas del Médio Tejo: más de 350 bicicletas en 68 estaciones por la región. Desbloquea una con la app meioB (hace falta un documento de identidad para abrir la cuenta) y déjala en cualquier estación meioB, incluso en otro municipio. Cada viaje dura hasta 2 horas; pasados los primeros 60 minutos se paga 0,01 € por minuto. Solo a partir de 16 años, y de 16 a 18 hace falta una autorización firmada por los padres.",
+   "detail": "Stations around Tomar and the Médio Tejo: see the map at meiob.pt",
+   "detail_pt": "Estações em Tomar e no Médio Tejo: mapa em meiob.pt",
+   "detail_es": "Estaciones en Tomar y el Médio Tejo: mapa en meiob.pt",
+   "price": "€2 for 72 h · €6 a month · €18 a year",
+   "price_pt": "2 € por 72 h · 6 € por mês · 18 € por ano",
+   "price_es": "2 € por 72 h · 6 € al mes · 18 € al año",
+   "links": {
+    "website": "https://meiob.pt/"
+   }
+  },
+  {
+   "id": "link-medio-tejo",
+   "category": "services",
+   "sub": [
+    "everyday"
+   ],
+   "icon": "bus",
+   "tags": [
+    "taxi"
+   ],
+   "zone": "town",
+   "name": "LINK — on-demand transport (Médio Tejo)",
+   "name_pt": "LINK — transporte a pedido (Médio Tejo)",
+   "name_es": "LINK — transporte a demanda (Médio Tejo)",
+   "blurb": "CIM Médio Tejo's minibus you book in advance, linking Tomar with the other towns of the region every day. Book online or on the free number with where from, where to, the day and the time; a text or email confirms it. Times in Tomar: 08:45 and 16:30 every day, 11:30, 14:15 and 19:15 Monday to Friday. Stops: Terminal Intermodal, Convento de Cristo, Escola D. Nuno Álvares Pereira, Hospital and Instituto Politécnico. Same-day cancellations up to 3 hours before (working days 09:00–15:00); two no-shows block you for 30 days.",
+   "blurb_pt": "A carrinha da CIM Médio Tejo que se reserva com antecedência e liga Tomar às outras cidades e vilas da região, todos os dias. Reserva online ou pelo número gratuito com a origem, o destino, o dia e a hora; a confirmação chega por SMS ou e-mail. Horários em Tomar: 08:45 e 16:30 todos os dias, 11:30, 14:15 e 19:15 de segunda a sexta. Paragens: Terminal Intermodal, Convento de Cristo, Escola D. Nuno Álvares Pereira, Hospital e Instituto Politécnico. No próprio dia só se cancela até 3 horas antes (dias úteis, 9h–15h); duas faltas bloqueiam as reservas durante 30 dias.",
+   "blurb_es": "El microbús de la CIM Médio Tejo que se reserva con antelación y une Tomar con las demás ciudades y villas de la región todos los días. Reserva en línea o en el número gratuito con el origen, el destino, el día y la hora; la confirmación llega por SMS o correo. Horarios en Tomar: 08:45 y 16:30 todos los días, 11:30, 14:15 y 19:15 de lunes a viernes. Paradas: Terminal Intermodal, Convento de Cristo, Escola D. Nuno Álvares Pereira, Hospital e Instituto Politécnico. El mismo día solo se cancela hasta 3 horas antes (laborables, 9:00–15:00); dos ausencias bloquean las reservas durante 30 días.",
+   "detail": "Bookings: tap.mediotejo.pt or 800 209 226 (free)",
+   "detail_pt": "Reservas: tap.mediotejo.pt ou 800 209 226 (gratuito)",
+   "detail_es": "Reservas: tap.mediotejo.pt o 800 209 226 (gratuito)",
+   "price": "€3 per trip",
+   "price_pt": "3 € por viagem",
+   "price_es": "3 € por viaje",
+   "phone": "800 209 226",
+   "links": {
+    "website": "https://tap.mediotejo.pt/"
+   }
+  },
+  {
+   "id": "policia-tomar",
+   "category": "health",
+   "sub": [
+    "urgent"
+   ],
+   "icon": "info",
+   "tags": [
+    "emergency"
+   ],
+   "zone": "town",
+   "name": "Police — GNR and PSP",
+   "name_pt": "Polícia — GNR e PSP",
+   "name_es": "Policía — GNR y PSP",
+   "blurb": "In an emergency, call 112. For anything else, such as reporting a theft or a lost document, Tomar's GNR (Guarda Nacional Republicana) is on 249 320 060 and the PSP (Polícia de Segurança Pública) on 249 413 900.",
+   "blurb_pt": "Numa emergência, liga 112. Para o resto, como participar um furto ou a perda de um documento, a GNR (Guarda Nacional Republicana) de Tomar atende no 249 320 060 e a PSP (Polícia de Segurança Pública) no 249 413 900.",
+   "blurb_es": "En una emergencia, llama al 112. Para lo demás, como denunciar un robo o la pérdida de un documento, la GNR (Guarda Nacional Republicana) de Tomar atiende en el 249 320 060 y la PSP (Polícia de Segurança Pública) en el 249 413 900.",
+   "detail": "GNR 249 320 060 · PSP 249 413 900",
+   "detail_pt": "GNR 249 320 060 · PSP 249 413 900",
+   "detail_es": "GNR 249 320 060 · PSP 249 413 900",
+   "phone": "+351249320060"
+  },
+  {
+   "id": "ponte-velha",
+   "category": "see",
+   "sub": [
+    "monuments"
+   ],
+   "icon": "river",
+   "tags": [
+    "monument",
+    "history",
+    "riverside"
+   ],
+   "zone": "rio",
+   "name": "Ponte Velha (Ponte de D. Manuel I)",
+   "name_pt": "Ponte Velha (Ponte de D. Manuel I)",
+   "name_es": "Ponte Velha (Puente de Manuel I)",
+   "blurb": "The old stone bridge over the Nabão, where the Corredoura meets the river. Rebuilt many times, above all under Manuel I in the 16th century, it still has the look of a Roman bridge. Every 20 October the Santa Iria procession throws petals into the river here.",
+   "blurb_pt": "A velha ponte de pedra sobre o Nabão, onde a Corredoura chega ao rio. Foi muitas vezes refeita, sobretudo no reinado de D. Manuel I, no século XVI, mas mantém o ar de ponte romana. Todos os 20 de outubro, a procissão de Santa Iria lança daqui pétalas ao rio.",
+   "blurb_es": "El viejo puente de piedra sobre el Nabão, donde la Corredoura llega al río. Se ha rehecho muchas veces, sobre todo en el reinado de Manuel I, en el siglo XVI, pero conserva el aire de puente romano. Cada 20 de octubre, la procesión de Santa Iria lanza desde aquí pétalos al río.",
+   "detail": "Between the Corredoura and the Capela de Santa Iria",
+   "detail_pt": "Entre a Corredoura e a Capela de Santa Iria",
+   "detail_es": "Entre la Corredoura y la Capilla de Santa Iria",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Ponte+Velha+Tomar"
    }
   }
  ],
