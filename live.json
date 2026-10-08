@@ -1,6 +1,6 @@
 {
- "rev": 47,
- "updated": "2026-10-08T08:06:39.000Z",
+ "rev": 48,
+ "updated": "2026-10-08T14:05:20.536Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -65,6 +65,25 @@
     "src": "data/images/dias-templarios-no-convento-de-cristo-poster-20260928-na17.webp"
    },
    "id": "ev-2026-10-10-dias-templarios-no-convento-de-cristo"
+  },
+  {
+   "date": "2026-10-17",
+   "dateEnd": null,
+   "name": "Dance through the decades!",
+   "blurb": "Music from the 60s right through to the 00s and even some 2020s!! \n\nCome and dance the night away at this fantastic bistro bar with DJ J2S",
+   "place": "Santa Iria — Café Bistrot",
+   "name_pt": "Dance ao longo das décadas!",
+   "name_es": "¡Baila a través de las décadas!",
+   "blurb_pt": "Música dos anos 60 até os anos 00 e até alguns anos 2020!! Venha dançar a noite toda neste fantástico bar bistrô com DJ J2S",
+   "blurb_es": "¡¡Música desde los años 60 hasta los años 00 e incluso algunos años 2020!! Ven a bailar toda la noche en este fantástico bistro bar con DJ J2S",
+   "price": "Free entry",
+   "time": "20:30",
+   "venue": "santa-iria-cafe",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Santa+Iria+Cafe+Bistrot+Tomar",
+   "photo": {
+    "src": "data/images/dance-through-the-decades-poster-20261008-2qiz.webp"
+   },
+   "id": "ev-2026-10-17-dance-through-the-decades"
   }
  ],
  "listings": [
