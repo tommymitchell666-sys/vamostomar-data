@@ -1,6 +1,6 @@
 {
- "rev": 49,
- "updated": "2026-10-08T17:05:31.000Z",
+ "rev": 50,
+ "updated": "2026-10-08T23:08:54.698Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -3055,6 +3055,56 @@
    "links": {
     "maps": "https://www.google.com/maps/search/?api=1&query=Ponte+Velha+Tomar"
    }
+  },
+  {
+   "category": "services",
+   "zone": "centro",
+   "name": "DJ J2S",
+   "blurb": "All of your favourite music in one place! I have a vast selection of music spanning from the 1940s to the present day. \n\nYou're number one choice in Central Portugal for weddings, birthdays and any other parties! \n\nWith over 3 decades of experience and a host of 5* reviews, you won't be disappointed! \n\nCheck out my FB or Instagram page for yourself and make a free no obligation enquiry today!",
+   "detail": "Central Portugal",
+   "name_pt": "DJ J2S",
+   "blurb_pt": "Todas as suas músicas favoritas num só lugar! Tenho uma vasta seleção de música que vai desde a década de 1940 até aos dias de hoje. É a escolha número um no centro de Portugal para casamentos, aniversários e quaisquer outras festas! Com mais de 3 décadas de experiência e uma série de avaliações 5*, você não ficará desapontado! Confira minha página do FB ou Instagram e faça uma consulta gratuita sem compromisso hoje!",
+   "detail_pt": "Centro de Portugal",
+   "name_es": "DJ J2S",
+   "blurb_es": "¡Toda tu música favorita en un solo lugar! Tengo una amplia selección de música que abarca desde la década de 1940 hasta la actualidad. ¡Eres la opción número uno en el centro de Portugal para bodas, cumpleaños y cualquier otra fiesta! Con más de 3 décadas de experiencia y una gran cantidad de evaluaciones de 5*, ¡no te decepcionará! ¡Echa un vistazo a mi página de FB o Instagram y haz una consulta gratuita y sin compromiso hoy mismo!",
+   "detail_es": "Centro de Portugal",
+   "sub": [],
+   "tags": [
+    "music"
+   ],
+   "email": "gatou@hotmail.co.uk",
+   "links": {
+    "instagram": "https://www.instagram.com/j2s.pt/",
+    "facebook": "https://www.facebook.com/share/1Fo6dZkHUB/"
+   },
+   "hours": {
+    "2": [
+     9,
+     18
+    ],
+    "3": [
+     9,
+     18
+    ],
+    "4": [
+     9,
+     18
+    ],
+    "5": [
+     9,
+     18
+    ],
+    "6": [
+     9,
+     18
+    ]
+   },
+   "id": "dj-j2s",
+   "photos": [
+    {
+     "src": "data/images/dj-j2s-20261009-pwkm.webp"
+    }
+   ]
   }
  ],
  "patches": {
