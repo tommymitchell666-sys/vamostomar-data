@@ -1,6 +1,6 @@
 {
- "rev": 44,
- "updated": "2026-10-03T17:10:10.000Z",
+ "rev": 45,
+ "updated": "2026-10-08T00:08:26.585Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -592,6 +592,105 @@
    "photos": [
     {
      "src": "data/images/coral-atelie-graphic-and-stationery-20261002-boqs.webp"
+    }
+   ]
+  },
+  {
+   "category": "eat",
+   "zone": "centro",
+   "name": "NAPOLITANA TOMAR",
+   "blurb": "We are an authentic Neapolitan pizzeria, working with slow fermentation dough, and fresh ingredients.",
+   "detail": "R. Alexandre Herculano NR 23, 2300-554 Tomar",
+   "name_pt": "NAPOLITANA TOMAR",
+   "blurb_pt": "Somos uma pizzaria autêntica napolitana, trabalhos com massa de fermentação lenta, e ingredientes frescos.",
+   "detail_pt": "R. Alexandre Herculano NR 23, 2300-554 Tomar",
+   "name_es": "NAPOLITANA TOMAR",
+   "blurb_es": "Somos una auténtica pizzería napolitana, que trabaja con masa de fermentación lenta e ingredientes frescos.",
+   "detail_es": "R. Alexandre Herculano NR 23, 2300-554 Tomar",
+   "sub": [
+    "restaurants",
+    "world"
+   ],
+   "tags": [
+    "restaurant",
+    "pizza",
+    "takeaway",
+    "world-food"
+   ],
+   "phone": "916060001",
+   "email": "napolitanaadc@gmail.com",
+   "links": {
+    "instagram": "https://www.instagram.com/napolitana_tomar/",
+    "facebook": "https://www.facebook.com/Napolitana",
+    "maps": "https://www.google.com/maps/search/?api=1&query=39.604649,-8.413316"
+   },
+   "hours": {
+    "0": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      23
+     ]
+    ],
+    "1": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      23
+     ]
+    ],
+    "3": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      23
+     ]
+    ],
+    "4": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      23
+     ]
+    ],
+    "5": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      23
+     ]
+    ],
+    "6": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      23
+     ]
+    ],
+    "note": "Fechamos a última quarta de cada mês!"
+   },
+   "id": "napolitana-tomar",
+   "photos": [
+    {
+     "src": "data/images/napolitana-tomar-20261008-h9ki.webp"
     }
    ]
   }
