@@ -1,6 +1,6 @@
 {
- "rev": 46,
- "updated": "2026-10-08T00:10:58.538Z",
+ "rev": 47,
+ "updated": "2026-10-08T08:06:39.000Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -694,6 +694,1982 @@
      "src": "data/images/napolitana-tomar-20261008-h9ki.webp"
     }
    ]
+  },
+  {
+   "category": "eat",
+   "zone": "centro",
+   "name": "100 Montaditos Tomar",
+   "blurb": "The Spanish montadito chain on the Corredoura: dozens of little filled rolls, cheap beer by the mug, a terrace and regular bargain days. Open every day from 10:00.",
+   "detail": "Rua Serpa Pinto 41, 2300-592 Tomar",
+   "icon": "food",
+   "name_pt": "100 Montaditos Tomar",
+   "blurb_pt": "A cadeia espanhola de montaditos na Corredoura: dezenas de pãezinhos recheados, cerveja barata à caneca, esplanada e dias de promoção. Aberto todos os dias a partir das 10:00.",
+   "detail_pt": "Rua Serpa Pinto 41, 2300-592 Tomar",
+   "name_es": "100 Montaditos Tomar",
+   "blurb_es": "La cadena española de montaditos en la Corredoura: decenas de panecillos rellenos, cerveza barata en jarra, terraza y días de promoción. Abierto todos los días desde las 10:00.",
+   "detail_es": "Rua Serpa Pinto 41, 2300-592 Tomar",
+   "sub": [
+    "petiscos",
+    "bars"
+   ],
+   "tags": [
+    "petiscos",
+    "bar",
+    "beer",
+    "takeaway",
+    "terrace"
+   ],
+   "phone": "+351968696110",
+   "links": {
+    "website": "https://portugal.100montaditos.com/pt",
+    "maps": "https://www.google.com/maps/search/?api=1&query=100+Montaditos+Tomar%2C+Rua+Serpa+Pinto+41%2C+2300-592+Tomar"
+   },
+   "hours": {
+    "0": [
+     10,
+     23
+    ],
+    "1": [
+     10,
+     23
+    ],
+    "2": [
+     10,
+     23
+    ],
+    "3": [
+     10,
+     23
+    ],
+    "4": [
+     10,
+     23
+    ],
+    "5": [
+     10,
+     0
+    ],
+    "6": [
+     10,
+     0
+    ]
+   },
+   "id": "100-montaditos-tomar"
+  },
+  {
+   "category": "eat",
+   "zone": "centro",
+   "name": "Adhoc Café",
+   "blurb": "A café-restaurant with a big indoor terrace that stays open until 2am. Portuguese cooking — roast suckling pig, lamb stew, cod done the house way or with a broa crust — and a lively crowd later on. Closed Sundays.",
+   "detail": "Rua Voluntários da República 138, 2300-489 Tomar",
+   "icon": "food",
+   "name_pt": "Adhoc Café",
+   "blurb_pt": "Café-restaurante com uma grande esplanada interior, aberto até às 2h. Cozinha portuguesa — leitão assado, ensopado de borrego, bacalhau à casa ou com broa — e bom ambiente pela noite dentro. Fecha ao domingo.",
+   "detail_pt": "Rua Voluntários da República 138, 2300-489 Tomar",
+   "name_es": "Adhoc Café",
+   "blurb_es": "Café-restaurante con una gran terraza interior, abierto hasta las 2 de la madrugada. Cocina portuguesa — cochinillo asado, guiso de cordero, bacalao de la casa o con costra de broa — y buen ambiente por la noche. Cierra los domingos.",
+   "detail_es": "Rua Voluntários da República 138, 2300-489 Tomar",
+   "sub": [
+    "restaurants",
+    "bars"
+   ],
+   "tags": [
+    "restaurant",
+    "portuguese-food",
+    "bar"
+   ],
+   "phone": "+351916906629",
+   "links": {
+    "facebook": "https://www.facebook.com/adhoc.nova",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Adhoc+Caf%C3%A9%2C+Rua+Volunt%C3%A1rios+da+Rep%C3%BAblica+138%2C+2300-489+Tomar"
+   },
+   "hours": {
+    "1": [
+     11.5,
+     2
+    ],
+    "2": [
+     11.5,
+     2
+    ],
+    "3": [
+     11.5,
+     2
+    ],
+    "4": [
+     11.5,
+     2
+    ],
+    "5": [
+     11.5,
+     2
+    ],
+    "6": [
+     11.5,
+     2
+    ]
+   },
+   "id": "adhoc-cafe"
+  },
+  {
+   "category": "eat",
+   "zone": "centro",
+   "name": "Nigiri-One",
+   "blurb": "Sushi and Japanese food just over the old bridge, for lunch and dinner. Eat in or take away. Closed Tuesdays.",
+   "detail": "Rua Marquês de Pombal 23, 2300-510 Tomar",
+   "icon": "world",
+   "name_pt": "Nigiri-One",
+   "blurb_pt": "Sushi e cozinha japonesa logo a seguir à ponte velha, ao almoço e ao jantar. Para comer no local ou levar. Fecha à terça-feira.",
+   "detail_pt": "Rua Marquês de Pombal 23, 2300-510 Tomar",
+   "name_es": "Nigiri-One",
+   "blurb_es": "Sushi y cocina japonesa justo después del puente viejo, para comer y cenar. Para tomar allí o llevar. Cierra los martes.",
+   "detail_es": "Rua Marquês de Pombal 23, 2300-510 Tomar",
+   "sub": [
+    "world",
+    "restaurants"
+   ],
+   "tags": [
+    "restaurant",
+    "world-food",
+    "takeaway"
+   ],
+   "phone": "+351249412467",
+   "links": {
+    "facebook": "https://www.facebook.com/profile.php?id=100064329841727",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Nigiri-One%2C+Rua+Marqu%C3%AAs+de+Pombal+23%2C+2300-510+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      23
+     ]
+    ],
+    "1": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      23
+     ]
+    ],
+    "3": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      23
+     ]
+    ],
+    "4": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      23
+     ]
+    ],
+    "5": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      23
+     ]
+    ],
+    "6": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      23
+     ]
+    ]
+   },
+   "id": "nigiri-one"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Restaurante 1º de Maio",
+   "blurb": "A local restaurant on the municipal list, open from breakfast to dinner, with everyday Portuguese food at fair prices. Sundays until 16:00, closed Mondays.",
+   "detail": "Rua Azinhaga dos Bacelos 24, 2300-439 Tomar",
+   "icon": "food",
+   "name_pt": "Restaurante 1º de Maio",
+   "blurb_pt": "Restaurante da lista municipal, aberto do pequeno-almoço ao jantar, com comida portuguesa do dia a dia a preços justos. Ao domingo até às 16:00, fecha à segunda.",
+   "detail_pt": "Rua Azinhaga dos Bacelos 24, 2300-439 Tomar",
+   "name_es": "Restaurante 1º de Maio",
+   "blurb_es": "Restaurante de la lista municipal, abierto del desayuno a la cena, con comida portuguesa de diario a precios justos. Domingos hasta las 16:00, cierra los lunes.",
+   "detail_es": "Rua Azinhaga dos Bacelos 24, 2300-439 Tomar",
+   "sub": [
+    "restaurants"
+   ],
+   "tags": [
+    "restaurant",
+    "portuguese-food"
+   ],
+   "phone": "+351917298424",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Restaurante+1%C2%BA+de+Maio%2C+Rua+Azinhaga+dos+Bacelos+24%2C+2300-439+Tomar"
+   },
+   "hours": {
+    "0": [
+     8.5,
+     16
+    ],
+    "2": [
+     8.5,
+     22
+    ],
+    "3": [
+     8.5,
+     22
+    ],
+    "4": [
+     8.5,
+     22
+    ],
+    "5": [
+     8.5,
+     22
+    ],
+    "6": [
+     8.5,
+     22
+    ]
+   },
+   "id": "restaurante-1-de-maio"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Casa dos Frangos",
+   "blurb": "Charcoal-grilled chicken, to eat in or carry home. A busy churrasqueira with more than 700 Google reviews. Open every day, lunch and dinner.",
+   "detail": "Av. Torres Pinheiro 66, 2300 Tomar",
+   "icon": "food",
+   "name_pt": "Casa dos Frangos",
+   "blurb_pt": "Frango assado na brasa, para comer lá ou levar para casa. Uma churrasqueira muito procurada, com mais de 700 avaliações no Google. Aberto todos os dias, almoço e jantar.",
+   "detail_pt": "Av. Torres Pinheiro 66, 2300 Tomar",
+   "name_es": "Casa dos Frangos",
+   "blurb_es": "Pollo a la brasa, para comer allí o llevar a casa. Una churrasqueira muy concurrida, con más de 700 reseñas en Google. Abierto todos los días, comida y cena.",
+   "detail_es": "Av. Torres Pinheiro 66, 2300 Tomar",
+   "sub": [
+    "restaurants"
+   ],
+   "tags": [
+    "restaurant",
+    "grill",
+    "takeaway",
+    "portuguese-food"
+   ],
+   "phone": "+351249322930",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Casa+dos+Frangos%2C+Av.+Torres+Pinheiro+66%2C+2300+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      11,
+      15
+     ],
+     [
+      19,
+      22
+     ]
+    ],
+    "1": [
+     [
+      11,
+      15
+     ],
+     [
+      18,
+      22
+     ]
+    ],
+    "2": [
+     [
+      11,
+      15
+     ],
+     [
+      18,
+      22
+     ]
+    ],
+    "3": [
+     [
+      11,
+      15
+     ],
+     [
+      18,
+      22
+     ]
+    ],
+    "4": [
+     [
+      11,
+      15
+     ],
+     [
+      18,
+      22
+     ]
+    ],
+    "5": [
+     [
+      11,
+      15
+     ],
+     [
+      18,
+      22
+     ]
+    ],
+    "6": [
+     [
+      11,
+      15
+     ],
+     [
+      18,
+      22
+     ]
+    ]
+   },
+   "id": "casa-dos-frangos"
+  },
+  {
+   "category": "eat",
+   "zone": "centro",
+   "name": "O Rei dos Frangos",
+   "blurb": "Takeaway churrasqueira for grilled chicken to carry home, rated 4.5 on Google. Sundays until 15:00, closed Mondays.",
+   "detail": "Rua São Gião 48, 2300 Tomar",
+   "icon": "food",
+   "name_pt": "O Rei dos Frangos",
+   "blurb_pt": "Churrasqueira de take-away para frango assado, com 4,5 no Google. Ao domingo até às 15:00, fecha à segunda.",
+   "detail_pt": "Rua São Gião 48, 2300 Tomar",
+   "name_es": "O Rei dos Frangos",
+   "blurb_es": "Churrasqueira para llevar: pollo asado, con 4,5 en Google. Domingos hasta las 15:00, cierra los lunes.",
+   "detail_es": "Rua São Gião 48, 2300 Tomar",
+   "sub": [
+    "restaurants"
+   ],
+   "tags": [
+    "takeaway",
+    "grill",
+    "portuguese-food"
+   ],
+   "phone": "+351249311804",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=O+Rei+dos+Frangos%2C+Rua+S%C3%A3o+Gi%C3%A3o+48%2C+2300+Tomar"
+   },
+   "hours": {
+    "0": [
+     9,
+     15
+    ],
+    "2": [
+     9,
+     22
+    ],
+    "3": [
+     9,
+     22
+    ],
+    "4": [
+     9,
+     22
+    ],
+    "5": [
+     9,
+     22
+    ],
+    "6": [
+     9,
+     22
+    ]
+   },
+   "id": "o-rei-dos-frangos"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Pérola do Bonfim",
+   "blurb": "Takeaway meals for lunch and dinner, with the menus on their website. Closed Sundays.",
+   "detail": "Estrada do Barreiro 3A, Tomar",
+   "icon": "food",
+   "name_pt": "Pérola do Bonfim",
+   "blurb_pt": "Refeições para levar, ao almoço e ao jantar, com as ementas no site. Fecha ao domingo.",
+   "detail_pt": "Estrada do Barreiro 3A, Tomar",
+   "name_es": "Pérola do Bonfim",
+   "blurb_es": "Comidas para llevar, a mediodía y por la noche, con los menús en su web. Cierra los domingos.",
+   "detail_es": "Estrada do Barreiro 3A, Tomar",
+   "sub": [
+    "restaurants"
+   ],
+   "tags": [
+    "takeaway",
+    "portuguese-food"
+   ],
+   "links": {
+    "website": "https://www.peroladobonfim.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=P%C3%A9rola+do+Bonfim%2C+Estrada+do+Barreiro+3A%2C+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      11.5,
+      14.5
+     ],
+     [
+      18,
+      21
+     ]
+    ],
+    "2": [
+     [
+      11.5,
+      14.5
+     ],
+     [
+      18,
+      21
+     ]
+    ],
+    "3": [
+     [
+      11.5,
+      14.5
+     ],
+     [
+      18,
+      21
+     ]
+    ],
+    "4": [
+     [
+      11.5,
+      14.5
+     ],
+     [
+      18,
+      21
+     ]
+    ],
+    "5": [
+     [
+      11.5,
+      14.5
+     ],
+     [
+      18,
+      21
+     ]
+    ],
+    "6": [
+     [
+      11.5,
+      14.5
+     ],
+     [
+      18,
+      21
+     ]
+    ]
+   },
+   "id": "perola-do-bonfim"
+  },
+  {
+   "category": "eat",
+   "zone": "centro",
+   "name": "Café O Claustro",
+   "blurb": "A café by day and a bar at night, open from 8am until 2am. A popular meeting spot with plenty of reviews. Closed Sundays.",
+   "detail": "Rua Lopo Dias de Sousa 7, Tomar",
+   "icon": "coffee",
+   "name_pt": "Café O Claustro",
+   "blurb_pt": "Café de dia e bar à noite, aberto das 8h às 2h. Ponto de encontro conhecido, com muitas avaliações. Fecha ao domingo.",
+   "detail_pt": "Rua Lopo Dias de Sousa 7, Tomar",
+   "name_es": "Café O Claustro",
+   "blurb_es": "Café de día y bar de noche, abierto de 8:00 a 2:00. Un punto de encuentro conocido, con muchas reseñas. Cierra los domingos.",
+   "detail_es": "Rua Lopo Dias de Sousa 7, Tomar",
+   "sub": [
+    "cafes",
+    "bars"
+   ],
+   "tags": [
+    "cafe",
+    "bar"
+   ],
+   "phone": "+351249092658",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+O+Claustro%2C+Rua+Lopo+Dias+de+Sousa+7%2C+Tomar"
+   },
+   "hours": {
+    "1": [
+     8,
+     2
+    ],
+    "2": [
+     8,
+     2
+    ],
+    "3": [
+     8,
+     2
+    ],
+    "4": [
+     8,
+     2
+    ],
+    "5": [
+     8,
+     2
+    ],
+    "6": [
+     8,
+     2
+    ]
+   },
+   "id": "cafe-o-claustro"
+  },
+  {
+   "category": "eat",
+   "zone": "centro",
+   "name": "Pastelaria Cristal",
+   "blurb": "Neighbourhood pastelaria known for its mil-folhas, close to the Alameda. Coffee and cakes on weekdays, Saturday mornings only, closed Sundays.",
+   "detail": "Rua Amorim Rosa 22, Tomar",
+   "icon": "croissant",
+   "name_pt": "Pastelaria Cristal",
+   "blurb_pt": "Pastelaria de bairro conhecida pelos mil-folhas, perto da Alameda. Café e bolos durante a semana, ao sábado só de manhã, fecha ao domingo.",
+   "detail_pt": "Rua Amorim Rosa 22, Tomar",
+   "name_es": "Pastelaria Cristal",
+   "blurb_es": "Pastelería de barrio conocida por sus milhojas, cerca de la Alameda. Café y dulces entre semana, los sábados solo por la mañana, cierra los domingos.",
+   "detail_es": "Rua Amorim Rosa 22, Tomar",
+   "sub": [
+    "cafes"
+   ],
+   "tags": [
+    "cafe",
+    "bakery"
+   ],
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Pastelaria+Cristal%2C+Rua+Amorim+Rosa+22%2C+Tomar"
+   },
+   "hours": {
+    "1": [
+     8,
+     19
+    ],
+    "2": [
+     8,
+     19
+    ],
+    "3": [
+     8,
+     19
+    ],
+    "4": [
+     8,
+     19
+    ],
+    "5": [
+     8,
+     19
+    ],
+    "6": [
+     8,
+     13
+    ]
+   },
+   "id": "pastelaria-cristal"
+  },
+  {
+   "category": "eat",
+   "zone": "centro",
+   "name": "Thomar Umas",
+   "blurb": "Cocktail bar for an evening drink, open late on Fridays and Saturdays. Closed Mondays and Tuesdays.",
+   "detail": "Rua Infantaria 15, 2300-582 Tomar",
+   "icon": "cocktail",
+   "name_pt": "Thomar Umas",
+   "blurb_pt": "Bar de cocktails para um copo ao fim do dia, aberto até tarde às sextas e sábados. Fecha à segunda e à terça.",
+   "detail_pt": "Rua Infantaria 15, 2300-582 Tomar",
+   "name_es": "Thomar Umas",
+   "blurb_es": "Bar de cócteles para tomar algo al final del día, abierto hasta tarde los viernes y sábados. Cierra lunes y martes.",
+   "detail_es": "Rua Infantaria 15, 2300-582 Tomar",
+   "sub": [
+    "cocktails",
+    "bars"
+   ],
+   "tags": [
+    "cocktails",
+    "bar"
+   ],
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Thomar+Umas%2C+Rua+Infantaria+15%2C+2300-582+Tomar"
+   },
+   "hours": {
+    "0": [
+     15,
+     0
+    ],
+    "3": [
+     18,
+     1
+    ],
+    "4": [
+     18,
+     1
+    ],
+    "5": [
+     15,
+     2
+    ],
+    "6": [
+     15,
+     2
+    ]
+   },
+   "id": "thomar-umas"
+  },
+  {
+   "category": "services",
+   "zone": "centro",
+   "name": "ThInk — Tattoo Shop & Body Piercing",
+   "blurb": "Tattoo and body-piercing studio in the old town, rated 4.9 from almost 400 Google reviews. Afternoons Tuesday to Saturday.",
+   "detail": "Rua dos Moinhos 17, 2300-575 Tomar",
+   "icon": "services",
+   "name_pt": "ThInk — Tattoo Shop & Body Piercing",
+   "blurb_pt": "Estúdio de tatuagem e piercing no centro histórico, com 4,9 em quase 400 avaliações no Google. À tarde, de terça a sábado.",
+   "detail_pt": "Rua dos Moinhos 17, 2300-575 Tomar",
+   "name_es": "ThInk — Tattoo Shop & Body Piercing",
+   "blurb_es": "Estudio de tatuajes y piercing en el casco histórico, con 4,9 en casi 400 reseñas de Google. Por la tarde, de martes a sábado.",
+   "detail_es": "Rua dos Moinhos 17, 2300-575 Tomar",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop"
+   ],
+   "phone": "+351913681548",
+   "links": {
+    "instagram": "https://www.instagram.com/think_tattooshop/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=ThInk+%E2%80%94+Tattoo+Shop+%26+Body+Piercing%2C+Rua+dos+Moinhos+17%2C+2300-575+Tomar"
+   },
+   "hours": {
+    "2": [
+     14,
+     18
+    ],
+    "3": [
+     14,
+     18
+    ],
+    "4": [
+     14,
+     18
+    ],
+    "5": [
+     14,
+     18
+    ],
+    "6": [
+     14,
+     18
+    ]
+   },
+   "id": "think-tattoo-shop"
+  },
+  {
+   "category": "services",
+   "zone": "centro",
+   "name": "Nibiru Tattoo Tomar",
+   "blurb": "Tattoo studio on the Corredoura. Tuesday to Saturday, 10:00–19:00 with a lunch break.",
+   "detail": "Rua Serpa Pinto 135, Tomar",
+   "icon": "services",
+   "name_pt": "Nibiru Tattoo Tomar",
+   "blurb_pt": "Estúdio de tatuagem na Corredoura. De terça a sábado, 10:00–19:00 com pausa para almoço.",
+   "detail_pt": "Rua Serpa Pinto 135, Tomar",
+   "name_es": "Nibiru Tattoo Tomar",
+   "blurb_es": "Estudio de tatuajes en la Corredoura. De martes a sábado, 10:00–19:00 con pausa para comer.",
+   "detail_es": "Rua Serpa Pinto 135, Tomar",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop"
+   ],
+   "phone": "+351912096608",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Nibiru+Tattoo+Tomar%2C+Rua+Serpa+Pinto+135%2C+Tomar"
+   },
+   "hours": {
+    "2": [
+     [
+      10,
+      13
+     ],
+     [
+      14,
+      19
+     ]
+    ],
+    "3": [
+     [
+      10,
+      13
+     ],
+     [
+      14,
+      19
+     ]
+    ],
+    "4": [
+     [
+      10,
+      13
+     ],
+     [
+      14,
+      19
+     ]
+    ],
+    "5": [
+     [
+      10,
+      13
+     ],
+     [
+      14,
+      19
+     ]
+    ],
+    "6": [
+     [
+      10,
+      13
+     ],
+     [
+      14,
+      19
+     ]
+    ]
+   },
+   "id": "nibiru-tattoo"
+  },
+  {
+   "category": "services",
+   "zone": "centro",
+   "name": "Brutu's Barber Shop",
+   "blurb": "Barber shop near the Mouchão, rated 4.9 from more than 200 reviews. Book on their website. Monday to Saturday.",
+   "detail": "Rua de Santa Iria 13-15, 2300-474 Tomar",
+   "icon": "services",
+   "name_pt": "Brutu's Barber Shop",
+   "blurb_pt": "Barbearia perto do Mouchão, com 4,9 em mais de 200 avaliações. Marcações pelo site. De segunda a sábado.",
+   "detail_pt": "Rua de Santa Iria 13-15, 2300-474 Tomar",
+   "name_es": "Brutu's Barber Shop",
+   "blurb_es": "Barbería cerca del Mouchão, con 4,9 en más de 200 reseñas. Reservas en su web. De lunes a sábado.",
+   "detail_es": "Rua de Santa Iria 13-15, 2300-474 Tomar",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "hairdresser"
+   ],
+   "phone": "+351911818400",
+   "links": {
+    "website": "https://brutusbarbershoptomar.com/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Brutu%27s+Barber+Shop%2C+Rua+de+Santa+Iria+13-15%2C+2300-474+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19.5
+     ]
+    ],
+    "2": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19.5
+     ]
+    ],
+    "3": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19.5
+     ]
+    ],
+    "4": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19.5
+     ]
+    ],
+    "5": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19.5
+     ]
+    ],
+    "6": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19.5
+     ]
+    ]
+   },
+   "id": "brutus-barber-shop"
+  },
+  {
+   "category": "services",
+   "zone": "centro",
+   "name": "WestCoast Barbershop",
+   "blurb": "Barber with a perfect 5.0 on Google. Book online. Monday to Saturday.",
+   "detail": "Rua Nabância 6 R/C esq, 2300-469 Tomar",
+   "icon": "services",
+   "name_pt": "WestCoast Barbershop",
+   "blurb_pt": "Barbearia com nota máxima de 5,0 no Google. Marcações online. De segunda a sábado.",
+   "detail_pt": "Rua Nabância 6 R/C esq, 2300-469 Tomar",
+   "name_es": "WestCoast Barbershop",
+   "blurb_es": "Barbería con un 5,0 perfecto en Google. Reservas online. De lunes a sábado.",
+   "detail_es": "Rua Nabância 6 R/C esq, 2300-469 Tomar",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "hairdresser"
+   ],
+   "phone": "+351964682849",
+   "links": {
+    "website": "https://joaotaveirabarbeiro.buk.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=WestCoast+Barbershop%2C+Rua+Nab%C3%A2ncia+6+R%2FC+esq%2C+2300-469+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "2": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ]
+   },
+   "id": "westcoast-barbershop"
+  },
+  {
+   "category": "services",
+   "zone": "centro",
+   "name": "Old Legend Barbershop",
+   "blurb": "Barber shop in the old town, Tuesday to Saturday.",
+   "detail": "Rua dos Moinhos 27, 2300-575 Tomar",
+   "icon": "services",
+   "name_pt": "Old Legend Barbershop",
+   "blurb_pt": "Barbearia no centro histórico, de terça a sábado.",
+   "detail_pt": "Rua dos Moinhos 27, 2300-575 Tomar",
+   "name_es": "Old Legend Barbershop",
+   "blurb_es": "Barbería en el casco histórico, de martes a sábado.",
+   "detail_es": "Rua dos Moinhos 27, 2300-575 Tomar",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "hairdresser"
+   ],
+   "phone": "+351966537561",
+   "links": {
+    "instagram": "https://www.instagram.com/oldlegendbarbershop/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Old+Legend+Barbershop%2C+Rua+dos+Moinhos+27%2C+2300-575+Tomar"
+   },
+   "hours": {
+    "2": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ]
+   },
+   "id": "old-legend-barbershop"
+  },
+  {
+   "category": "services",
+   "zone": "centro",
+   "name": "Joel Lopes Cabeleireiros",
+   "blurb": "Hair salon on Rua de Coimbra, rated 4.8 from more than 100 reviews. Tuesday to Saturday.",
+   "detail": "Rua de Coimbra 22, 2300 Tomar",
+   "icon": "services",
+   "name_pt": "Joel Lopes Cabeleireiros",
+   "blurb_pt": "Cabeleireiro na Rua de Coimbra, com 4,8 em mais de 100 avaliações. De terça a sábado.",
+   "detail_pt": "Rua de Coimbra 22, 2300 Tomar",
+   "name_es": "Joel Lopes Cabeleireiros",
+   "blurb_es": "Peluquería en la Rua de Coimbra, con 4,8 en más de 100 reseñas. De martes a sábado.",
+   "detail_es": "Rua de Coimbra 22, 2300 Tomar",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "hairdresser"
+   ],
+   "phone": "+351249323921",
+   "links": {
+    "facebook": "https://www.facebook.com/joel.lopes.cabeleireiros/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Joel+Lopes+Cabeleireiros%2C+Rua+de+Coimbra+22%2C+2300+Tomar"
+   },
+   "hours": {
+    "2": [
+     [
+      9,
+      13
+     ],
+     [
+      14.5,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9,
+      13
+     ],
+     [
+      14.5,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9,
+      13
+     ],
+     [
+      14.5,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9,
+      13
+     ],
+     [
+      14.5,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9,
+      13
+     ],
+     [
+      14.5,
+      18
+     ]
+    ]
+   },
+   "id": "joel-lopes-cabeleireiros"
+  },
+  {
+   "category": "services",
+   "zone": "centro",
+   "name": "Maria Vaidosa Cabeleireiro",
+   "blurb": "Hair salon rated 4.8 on Google. Open from 7am on Saturdays; closed Sundays and Mondays.",
+   "detail": "Rua João dos Santos Simões 61 1A, 2300-500 Tomar",
+   "icon": "services",
+   "name_pt": "Maria Vaidosa Cabeleireiro",
+   "blurb_pt": "Cabeleireiro com 4,8 no Google. Ao sábado abre às 7h; fecha ao domingo e à segunda.",
+   "detail_pt": "Rua João dos Santos Simões 61 1A, 2300-500 Tomar",
+   "name_es": "Maria Vaidosa Cabeleireiro",
+   "blurb_es": "Peluquería con 4,8 en Google. Los sábados abre a las 7:00; cierra domingos y lunes.",
+   "detail_es": "Rua João dos Santos Simões 61 1A, 2300-500 Tomar",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "hairdresser"
+   ],
+   "phone": "+351965702873",
+   "links": {
+    "facebook": "https://www.facebook.com/mariavaidosacabeleireirotomar/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Maria+Vaidosa+Cabeleireiro%2C+Rua+Jo%C3%A3o+dos+Santos+Sim%C3%B5es+61+1A%2C+2300-500+Tomar"
+   },
+   "hours": {
+    "2": [
+     9.5,
+     19
+    ],
+    "3": [
+     9.5,
+     19
+    ],
+    "4": [
+     9.5,
+     19
+    ],
+    "5": [
+     9.5,
+     19
+    ],
+    "6": [
+     7,
+     17
+    ]
+   },
+   "id": "maria-vaidosa-cabeleireiro"
+  },
+  {
+   "category": "services",
+   "zone": "town",
+   "name": "Filipa Rodrigues — Cabeleireira e Estética",
+   "blurb": "Hairdresser and beauty treatments, with a perfect 5.0 from almost 90 reviews. Closed Wednesdays and Sundays.",
+   "detail": "Rua 13 de Fevereiro 27 Loja B, 2300-447 Tomar",
+   "icon": "services",
+   "name_pt": "Filipa Rodrigues — Cabeleireira e Estética",
+   "blurb_pt": "Cabeleireira e estética, com nota máxima de 5,0 em quase 90 avaliações. Fecha à quarta e ao domingo.",
+   "detail_pt": "Rua 13 de Fevereiro 27 Loja B, 2300-447 Tomar",
+   "name_es": "Filipa Rodrigues — Cabeleireira e Estética",
+   "blurb_es": "Peluquería y estética, con un 5,0 perfecto en casi 90 reseñas. Cierra miércoles y domingos.",
+   "detail_es": "Rua 13 de Fevereiro 27 Loja B, 2300-447 Tomar",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "hairdresser"
+   ],
+   "phone": "+351915312384",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Filipa+Rodrigues+%E2%80%94+Cabeleireira+e+Est%C3%A9tica%2C+Rua+13+de+Fevereiro+27+Loja+B%2C+2300-447+Tomar"
+   },
+   "hours": {
+    "1": [
+     9.5,
+     18.5
+    ],
+    "2": [
+     10,
+     19
+    ],
+    "4": [
+     9.5,
+     18.5
+    ],
+    "5": [
+     9.5,
+     18.5
+    ],
+    "6": [
+     9,
+     14
+    ]
+   },
+   "id": "filipa-rodrigues-cabeleireira"
+  },
+  {
+   "category": "services",
+   "zone": "centro",
+   "name": "Filmoda — clothes and accessories",
+   "blurb": "Clothes and accessories shop in the historic centre, with a perfect 5.0 on Google. Monday to Saturday.",
+   "detail": "Rua João Carlos Everard 63, 2300-561 Tomar",
+   "icon": "services",
+   "name_pt": "Filmoda — clothes and accessories",
+   "blurb_pt": "Loja de roupa e acessórios no centro histórico, com nota máxima de 5,0 no Google. De segunda a sábado.",
+   "detail_pt": "Rua João Carlos Everard 63, 2300-561 Tomar",
+   "name_es": "Filmoda — clothes and accessories",
+   "blurb_es": "Tienda de ropa y complementos en el casco histórico, con un 5,0 perfecto en Google. De lunes a sábado.",
+   "detail_es": "Rua João Carlos Everard 63, 2300-561 Tomar",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop"
+   ],
+   "phone": "+351912306858",
+   "links": {
+    "facebook": "https://www.facebook.com/filmoda.tomar",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Filmoda+%E2%80%94+clothes+and+accessories%2C+Rua+Jo%C3%A3o+Carlos+Everard+63%2C+2300-561+Tomar"
+   },
+   "hours": {
+    "1": [
+     9.5,
+     19
+    ],
+    "2": [
+     9.5,
+     19
+    ],
+    "3": [
+     9.5,
+     19
+    ],
+    "4": [
+     9.5,
+     19
+    ],
+    "5": [
+     9.5,
+     19
+    ],
+    "6": [
+     [
+      9.5,
+      13
+     ],
+     [
+      14.5,
+      19
+     ]
+    ]
+   },
+   "id": "filmoda"
+  },
+  {
+   "category": "services",
+   "zone": "centro",
+   "name": "Bella Chica",
+   "blurb": "Clothes and accessories shop on Rua de Coimbra, rated 4.8 on Google. Tuesday to Saturday (Saturday mornings only).",
+   "detail": "Rua de Coimbra 29, 2300-471 Tomar",
+   "icon": "services",
+   "name_pt": "Bella Chica",
+   "blurb_pt": "Loja de roupa e acessórios na Rua de Coimbra, com 4,8 no Google. De terça a sábado (sábado só de manhã).",
+   "detail_pt": "Rua de Coimbra 29, 2300-471 Tomar",
+   "name_es": "Bella Chica",
+   "blurb_es": "Tienda de ropa y complementos en la Rua de Coimbra, con 4,8 en Google. De martes a sábado (sábado solo por la mañana).",
+   "detail_es": "Rua de Coimbra 29, 2300-471 Tomar",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop"
+   ],
+   "phone": "+351937426949",
+   "links": {
+    "website": "https://bellachica.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Bella+Chica%2C+Rua+de+Coimbra+29%2C+2300-471+Tomar"
+   },
+   "hours": {
+    "2": [
+     [
+      10,
+      13
+     ],
+     [
+      14.5,
+      19
+     ]
+    ],
+    "3": [
+     [
+      10,
+      13
+     ],
+     [
+      14.5,
+      19
+     ]
+    ],
+    "4": [
+     [
+      10,
+      13
+     ],
+     [
+      14.5,
+      19
+     ]
+    ],
+    "5": [
+     [
+      10,
+      13
+     ],
+     [
+      14.5,
+      19
+     ]
+    ],
+    "6": [
+     10,
+     13
+    ]
+   },
+   "id": "bella-chica"
+  },
+  {
+   "category": "services",
+   "zone": "centro",
+   "name": "Sophie Martin",
+   "blurb": "Clothing shop on Rua Infantaria 15. Monday to Saturday, with a lunch break.",
+   "detail": "Rua Infantaria 15 nº 57-59, Tomar",
+   "icon": "services",
+   "name_pt": "Sophie Martin",
+   "blurb_pt": "Loja de roupa na Rua Infantaria 15. De segunda a sábado, com pausa para almoço.",
+   "detail_pt": "Rua Infantaria 15 nº 57-59, Tomar",
+   "name_es": "Sophie Martin",
+   "blurb_es": "Tienda de ropa en la Rua Infantaria 15. De lunes a sábado, con pausa para comer.",
+   "detail_es": "Rua Infantaria 15 nº 57-59, Tomar",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop"
+   ],
+   "phone": "+351249314344",
+   "links": {
+    "facebook": "https://www.facebook.com/sophiemartin.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Sophie+Martin%2C+Rua+Infantaria+15+n%C2%BA+57-59%2C+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "2": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ]
+   },
+   "id": "sophie-martin-tomar"
+  },
+  {
+   "category": "services",
+   "zone": "centro",
+   "name": "Atelier de Flor — Ilda Antunes",
+   "blurb": "Florist near the Mouchão for bouquets and arrangements. Monday to Saturday (Saturday mornings only).",
+   "detail": "Rua de Santa Iria 33, 2300-473 Tomar",
+   "icon": "florist",
+   "name_pt": "Atelier de Flor — Ilda Antunes",
+   "blurb_pt": "Florista perto do Mouchão, para ramos e arranjos. De segunda a sábado (sábado só de manhã).",
+   "detail_pt": "Rua de Santa Iria 33, 2300-473 Tomar",
+   "name_es": "Atelier de Flor — Ilda Antunes",
+   "blurb_es": "Floristería cerca del Mouchão, para ramos y arreglos. De lunes a sábado (sábado solo por la mañana).",
+   "detail_es": "Rua de Santa Iria 33, 2300-473 Tomar",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "florist",
+    "shop"
+   ],
+   "phone": "+351936791960",
+   "links": {
+    "facebook": "https://www.facebook.com/atelierdeflor.florista/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Atelier+de+Flor+%E2%80%94+Ilda+Antunes%2C+Rua+de+Santa+Iria+33%2C+2300-473+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "2": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "6": [
+     9,
+     13
+    ]
+   },
+   "id": "atelier-de-flor-ilda-antunes"
+  },
+  {
+   "category": "services",
+   "zone": "town",
+   "name": "Florista Oásis",
+   "blurb": "Florist with delivery, rated 4.9 on Google. Open all day Monday to Saturday.",
+   "detail": "Av. General Norton de Matos, 2300 Tomar",
+   "icon": "florist",
+   "name_pt": "Florista Oásis",
+   "blurb_pt": "Florista com entregas, com 4,9 no Google. Aberta todo o dia, de segunda a sábado.",
+   "detail_pt": "Av. General Norton de Matos, 2300 Tomar",
+   "name_es": "Florista Oásis",
+   "blurb_es": "Floristería con entrega a domicilio, con 4,9 en Google. Abierta todo el día de lunes a sábado.",
+   "detail_es": "Av. General Norton de Matos, 2300 Tomar",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "florist",
+    "shop"
+   ],
+   "phone": "+351917809022",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Florista+O%C3%A1sis%2C+Av.+General+Norton+de+Matos%2C+2300+Tomar"
+   },
+   "hours": {
+    "1": [
+     9,
+     19
+    ],
+    "2": [
+     9,
+     19
+    ],
+    "3": [
+     9,
+     19
+    ],
+    "4": [
+     9,
+     19
+    ],
+    "5": [
+     9,
+     19
+    ],
+    "6": [
+     9,
+     19
+    ]
+   },
+   "id": "florista-oasis"
+  },
+  {
+   "category": "health",
+   "zone": "town",
+   "name": "Wake Up Gym",
+   "blurb": "Gym rated 4.7 from about 90 reviews. Weekdays 8:00–22:00, Saturdays 9:00–19:00.",
+   "detail": "Rua Jornal A Emancipação, 2300-479 Tomar",
+   "icon": "dumbbell",
+   "name_pt": "Wake Up Gym",
+   "blurb_pt": "Ginásio com 4,7 em cerca de 90 avaliações. Dias úteis 8:00–22:00, sábado 9:00–19:00.",
+   "detail_pt": "Rua Jornal A Emancipação, 2300-479 Tomar",
+   "name_es": "Wake Up Gym",
+   "blurb_es": "Gimnasio con 4,7 en unas 90 reseñas. Entre semana 8:00–22:00, sábados 9:00–19:00.",
+   "detail_es": "Rua Jornal A Emancipação, 2300-479 Tomar",
+   "sub": [
+    "gyms"
+   ],
+   "tags": [
+    "gym",
+    "sport"
+   ],
+   "phone": "+351939063682",
+   "links": {
+    "facebook": "https://www.facebook.com/gymwakeup/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Wake+Up+Gym%2C+Rua+Jornal+A+Emancipa%C3%A7%C3%A3o%2C+2300-479+Tomar"
+   },
+   "hours": {
+    "1": [
+     8,
+     22
+    ],
+    "2": [
+     8,
+     22
+    ],
+    "3": [
+     8,
+     22
+    ],
+    "4": [
+     8,
+     22
+    ],
+    "5": [
+     8,
+     22
+    ],
+    "6": [
+     9,
+     19
+    ]
+   },
+   "id": "wake-up-gym"
+  },
+  {
+   "category": "health",
+   "zone": "town",
+   "name": "Diamond Gym",
+   "blurb": "Health club open every day from 6am to midnight, with a perfect 5.0 on Google.",
+   "detail": "Rua Centro Republicano 72, 2300-359 Tomar",
+   "icon": "dumbbell",
+   "name_pt": "Diamond Gym",
+   "blurb_pt": "Health club aberto todos os dias das 6h à meia-noite, com nota máxima de 5,0 no Google.",
+   "detail_pt": "Rua Centro Republicano 72, 2300-359 Tomar",
+   "name_es": "Diamond Gym",
+   "blurb_es": "Health club abierto todos los días de 6:00 a medianoche, con un 5,0 perfecto en Google.",
+   "detail_es": "Rua Centro Republicano 72, 2300-359 Tomar",
+   "sub": [
+    "gyms"
+   ],
+   "tags": [
+    "gym",
+    "sport"
+   ],
+   "phone": "+351249111006",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Diamond+Gym%2C+Rua+Centro+Republicano+72%2C+2300-359+Tomar"
+   },
+   "hours": {
+    "0": [
+     6,
+     0
+    ],
+    "1": [
+     6,
+     0
+    ],
+    "2": [
+     6,
+     0
+    ],
+    "3": [
+     6,
+     0
+    ],
+    "4": [
+     6,
+     0
+    ],
+    "5": [
+     6,
+     0
+    ],
+    "6": [
+     6,
+     0
+    ]
+   },
+   "id": "diamond-gym-tomar"
+  },
+  {
+   "category": "health",
+   "zone": "norte",
+   "name": "Tribal Gym Tomar",
+   "blurb": "Training gym in the Tomarparque business park, with a perfect 5.0 on Google. Monday to Saturday.",
+   "detail": "Edifício Tomarparque, Pavilhão 20, Casal dos Carrões, 2300-241 Tomar",
+   "icon": "dumbbell",
+   "name_pt": "Tribal Gym Tomar",
+   "blurb_pt": "Ginásio de treino no Tomarparque, com nota máxima de 5,0 no Google. De segunda a sábado.",
+   "detail_pt": "Edifício Tomarparque, Pavilhão 20, Casal dos Carrões, 2300-241 Tomar",
+   "name_es": "Tribal Gym Tomar",
+   "blurb_es": "Gimnasio de entrenamiento en el Tomarparque, con un 5,0 perfecto en Google. De lunes a sábado.",
+   "detail_es": "Edifício Tomarparque, Pavilhão 20, Casal dos Carrões, 2300-241 Tomar",
+   "sub": [
+    "gyms"
+   ],
+   "tags": [
+    "gym",
+    "sport"
+   ],
+   "phone": "+351961942610",
+   "links": {
+    "website": "https://tribalgym.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Tribal+Gym+Tomar%2C+Edif%C3%ADcio+Tomarparque%2C+Pavilh%C3%A3o+20%2C+Casal+dos+Carr%C3%B5es%2C+2300-241+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      21
+     ]
+    ],
+    "2": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      21
+     ]
+    ],
+    "3": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      21
+     ]
+    ],
+    "4": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      21
+     ]
+    ],
+    "5": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      21
+     ]
+    ],
+    "6": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      18
+     ]
+    ]
+   },
+   "id": "tribal-gym-tomar"
+  },
+  {
+   "category": "health",
+   "zone": "centro",
+   "name": "Always Fitness",
+   "blurb": "Health club rated 4.8 on Google. Weekdays from 7:00, Saturday mornings.",
+   "detail": "Rua Dr. João de Oliveira Casquilho 32, 2300-576 Tomar",
+   "icon": "dumbbell",
+   "name_pt": "Always Fitness",
+   "blurb_pt": "Health club com 4,8 no Google. Dias úteis a partir das 7h, sábado de manhã.",
+   "detail_pt": "Rua Dr. João de Oliveira Casquilho 32, 2300-576 Tomar",
+   "name_es": "Always Fitness",
+   "blurb_es": "Health club con 4,8 en Google. Entre semana desde las 7:00, sábados por la mañana.",
+   "detail_es": "Rua Dr. João de Oliveira Casquilho 32, 2300-576 Tomar",
+   "sub": [
+    "gyms"
+   ],
+   "tags": [
+    "gym",
+    "sport"
+   ],
+   "phone": "+351937630773",
+   "links": {
+    "website": "https://alwaysfitness.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Always+Fitness%2C+Rua+Dr.+Jo%C3%A3o+de+Oliveira+Casquilho+32%2C+2300-576+Tomar"
+   },
+   "hours": {
+    "1": [
+     7,
+     21.5
+    ],
+    "2": [
+     7,
+     21.5
+    ],
+    "3": [
+     7,
+     21.5
+    ],
+    "4": [
+     7,
+     21.5
+    ],
+    "5": [
+     7,
+     21.5
+    ],
+    "6": [
+     9,
+     13
+    ]
+   },
+   "id": "always-fitness-tomar"
+  },
+  {
+   "category": "health",
+   "zone": "centro",
+   "name": "LR Fitness",
+   "blurb": "Gym open 24 hours a day, seven days a week.",
+   "detail": "Rua Fonte do Choupo 3, 2300-468 Tomar",
+   "icon": "dumbbell",
+   "name_pt": "LR Fitness",
+   "blurb_pt": "Ginásio aberto 24 horas por dia, sete dias por semana.",
+   "detail_pt": "Rua Fonte do Choupo 3, 2300-468 Tomar",
+   "name_es": "LR Fitness",
+   "blurb_es": "Gimnasio abierto 24 horas al día, siete días a la semana.",
+   "detail_es": "Rua Fonte do Choupo 3, 2300-468 Tomar",
+   "sub": [
+    "gyms"
+   ],
+   "tags": [
+    "gym",
+    "sport"
+   ],
+   "phone": "+351249401690",
+   "links": {
+    "website": "http://www.lrfitness.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=LR+Fitness%2C+Rua+Fonte+do+Choupo+3%2C+2300-468+Tomar"
+   },
+   "hours": {
+    "0": [
+     0,
+     24
+    ],
+    "1": [
+     0,
+     24
+    ],
+    "2": [
+     0,
+     24
+    ],
+    "3": [
+     0,
+     24
+    ],
+    "4": [
+     0,
+     24
+    ],
+    "5": [
+     0,
+     24
+    ],
+    "6": [
+     0,
+     24
+    ]
+   },
+   "id": "lr-fitness"
+  },
+  {
+   "category": "health",
+   "zone": "town",
+   "name": "Moove by Vieira",
+   "blurb": "Personal training studio with a perfect 5.0 from more than 50 reviews. Monday to Saturday.",
+   "detail": "Rua Dr. António Antunes da Silva 10, 2300-447 Tomar",
+   "icon": "dumbbell",
+   "name_pt": "Moove by Vieira",
+   "blurb_pt": "Estúdio de treino personalizado, com nota máxima de 5,0 em mais de 50 avaliações. De segunda a sábado.",
+   "detail_pt": "Rua Dr. António Antunes da Silva 10, 2300-447 Tomar",
+   "name_es": "Moove by Vieira",
+   "blurb_es": "Estudio de entrenamiento personal, con un 5,0 perfecto en más de 50 reseñas. De lunes a sábado.",
+   "detail_es": "Rua Dr. António Antunes da Silva 10, 2300-447 Tomar",
+   "sub": [
+    "gyms"
+   ],
+   "tags": [
+    "gym",
+    "sport"
+   ],
+   "phone": "+351918326977",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Moove+by+Vieira%2C+Rua+Dr.+Ant%C3%B3nio+Antunes+da+Silva+10%2C+2300-447+Tomar"
+   },
+   "hours": {
+    "1": [
+     8,
+     21
+    ],
+    "2": [
+     8,
+     21
+    ],
+    "3": [
+     8,
+     21
+    ],
+    "4": [
+     8,
+     21
+    ],
+    "5": [
+     8,
+     21
+    ],
+    "6": [
+     8,
+     19
+    ]
+   },
+   "id": "moove-by-vieira"
+  },
+  {
+   "category": "see",
+   "zone": "centro",
+   "name": "Templar — Rotas e Destinos Turísticos",
+   "blurb": "Tomar's long-running activity company: walks, canoeing, cycling and trips around the Castelo do Bode lake, the Templar heritage and the Ribatejo Norte. Mostly team building, but individuals can book too. Office in the São Francisco convent.",
+   "detail": "Convento de São Francisco, 1º piso, Av. General Bernardo Faria, 2300-535 Tomar",
+   "icon": "guide",
+   "name_pt": "Templar — Rotas e Destinos Turísticos",
+   "blurb_pt": "A empresa de animação turística mais antiga de Tomar: caminhadas, canoagem, bicicleta e passeios pela albufeira de Castelo do Bode, pelo património templário e pelo Ribatejo Norte. Sobretudo team building, mas também para particulares. Escritório no Convento de São Francisco.",
+   "detail_pt": "Convento de São Francisco, 1º piso, Av. General Bernardo Faria, 2300-535 Tomar",
+   "name_es": "Templar — Rotas e Destinos Turísticos",
+   "blurb_es": "La empresa de actividades más veterana de Tomar: rutas a pie, piragüismo, bicicleta y excursiones por el embalse de Castelo do Bode, el patrimonio templario y el Ribatejo Norte. Sobre todo team building, pero también para particulares. Oficina en el convento de São Francisco.",
+   "detail_es": "Convento de São Francisco, 1º piso, Av. General Bernardo Faria, 2300-535 Tomar",
+   "sub": [
+    "tours",
+    "active"
+   ],
+   "tags": [
+    "tours",
+    "outdoor",
+    "water-sports"
+   ],
+   "phone": "+351916340010",
+   "links": {
+    "website": "https://www.templar.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Templar+%E2%80%94+Rotas+e+Destinos+Tur%C3%ADsticos%2C+Convento+de+S%C3%A3o+Francisco%2C+1%C2%BA+piso%2C+Av.+General+Bernardo+Faria%2C+2300-535+Tomar"
+   },
+   "hours": {
+    "1": [
+     9,
+     18
+    ],
+    "2": [
+     9,
+     18
+    ],
+    "3": [
+     9,
+     18
+    ],
+    "4": [
+     9,
+     18
+    ],
+    "5": [
+     9,
+     18
+    ],
+    "6": [
+     9,
+     12.5
+    ]
+   },
+   "id": "templar-rotas-destinos",
+   "licence": {
+    "type": "RNAAT",
+    "no": "AV909/1997"
+   }
   }
  ],
  "patches": {
