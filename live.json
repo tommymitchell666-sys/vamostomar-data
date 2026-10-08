@@ -1,6 +1,6 @@
 {
- "rev": 45,
- "updated": "2026-10-08T00:08:26.585Z",
+ "rev": 46,
+ "updated": "2026-10-08T00:10:58.538Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -598,13 +598,14 @@
   {
    "category": "eat",
    "zone": "centro",
-   "name": "NAPOLITANA TOMAR",
+   "name": "Napolitana Tomar Pizza",
    "blurb": "We are an authentic Neapolitan pizzeria, working with slow fermentation dough, and fresh ingredients.",
    "detail": "R. Alexandre Herculano NR 23, 2300-554 Tomar",
-   "name_pt": "NAPOLITANA TOMAR",
+   "icon": "info",
+   "name_pt": "Napolitana Tomar Pizza",
    "blurb_pt": "Somos uma pizzaria autêntica napolitana, trabalhos com massa de fermentação lenta, e ingredientes frescos.",
    "detail_pt": "R. Alexandre Herculano NR 23, 2300-554 Tomar",
-   "name_es": "NAPOLITANA TOMAR",
+   "name_es": "Napolitana Tomar Pizza",
    "blurb_es": "Somos una auténtica pizzería napolitana, que trabaja con masa de fermentación lenta e ingredientes frescos.",
    "detail_es": "R. Alexandre Herculano NR 23, 2300-554 Tomar",
    "sub": [
