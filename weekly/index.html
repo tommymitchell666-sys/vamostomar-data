@@ -334,6 +334,8 @@ var T={
   archiveH:{en:"Past editions",pt:"Edições anteriores",es:"Ediciones anteriores"},
   directory:{en:"Vamos Tomar directory",pt:"Diretório Vamos Tomar",es:"Directorio Vamos Tomar"},
   powered:{en:"Powered by",pt:"Uma produção",es:"Con la tecnología de"},
+  privacy:{en:"Privacy & cookies",pt:"Privacidade e cookies",es:"Privacidad y cookies"},
+  terms:{en:"Terms of use",pt:"Termos de utilização",es:"Condiciones de uso"},
   draft:{en:"DRAFT — not published yet",pt:"RASCUNHO — ainda não publicado",es:"BORRADOR — aún no publicado"},
   latest:{en:"← Latest edition",pt:"← Edição mais recente",es:"← Última edición"},
   soon:{en:"The first edition arrives on {d} at 08:00.",pt:"A primeira edição chega {d}, às 08:00.",es:"La primera edición llega el {d} a las 08:00."},
@@ -685,7 +687,8 @@ function render(){
   var arch=el("section",{class:"tile archive",id:"archive"},[el("h2",{text:tr(T.archiveH)}),el("ul",{id:"archive-list"})]);
   app.appendChild(el("footer",{class:"tile foot"},[
     el("div",null,[el("strong",{text:tr(T.title)}),el("span",null,[tr(T.every)+" · ",el("button",{type:"button",class:"linklike",text:tr(T.archive),onclick:function(){ openArchive(arch); }})," · ",el("a",{href:"https://vamostomar.pt",text:tr(T.directory)})])]),
-    el("div",null,[tr(T.powered)+" ",el("a",{href:"https://tomarketing.pt",style:"font-weight:700",text:"tomarketing.pt"})])
+    el("div",null,[tr(T.powered)+" ",el("a",{href:"https://tomarketing.pt",style:"font-weight:700",text:"tomarketing.pt"})]),
+    el("div",null,[el("a",{href:"https://vamostomar.pt/privacy.html",text:tr(T.privacy)})," · ",el("a",{href:"https://vamostomar.pt/terms.html",text:tr(T.terms)})])
   ]));
   app.appendChild(arch);
 }
