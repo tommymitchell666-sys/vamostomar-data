@@ -3,7 +3,7 @@
  "date": "2026-10-11",
  "edition": 3,
  "publishAt": "2026-10-11T08:00:00+01:00",
- "generatedAt": "2026-10-10T09:50:15Z",
+ "generatedAt": "2026-10-10T17:28:30Z",
  "range": {
   "en": "11 – 17 October 2026",
   "pt": "11 – 17 de outubro de 2026",
@@ -324,33 +324,33 @@
    }
   },
   {
-   "date": "2026-10-17",
+   "date": "2026-10-16",
    "dateEnd": null,
-   "time": "20:30",
+   "time": "17:00",
    "featured": false,
    "free": true,
-   "icon": "music",
-   "photo": "https://vamostomar.pt/data/images/dance-through-the-decades-poster-20261008-2qiz.webp",
-   "url": null,
+   "icon": "festival",
+   "photo": null,
+   "url": "https://vamostomar.pt/pt/feira-de-santa-iria/",
    "when": {
-    "en": "Saturday 17 Oct · 20:30",
-    "pt": "Sábado 17 out · 20:30",
-    "es": "Sábado 17 oct · 20:30"
+    "en": "Friday 16 Oct · 17:00",
+    "pt": "Sexta 16 out · 17:00",
+    "es": "Viernes 16 oct · 17:00"
    },
    "title": {
-    "en": "Dance through the decades",
-    "pt": "Dançar ao longo das décadas",
-    "es": "Baila a través de las décadas"
+    "en": "Opening night of the Feira de Santa Iria",
+    "pt": "Abertura da Feira de Santa Iria",
+    "es": "Apertura de la Feira de Santa Iria"
    },
    "text": {
-    "en": "DJ J2S plays from the 60s to the 2000s and beyond at Santa Iria Café Bistrot. Free entry.",
-    "pt": "O DJ J2S passa música dos anos 60 aos 2000 e mais além, no Santa Iria Café Bistrot. Entrada livre.",
-    "es": "DJ J2S pincha de los 60 a los 2000 y más allá, en el Santa Iria Café Bistrot. Entrada libre."
+    "en": "Official opening at 17:00 at the Convento de São Francisco, then a walk to the fair; Padre Guilherme in the tent at 22:30 (€10).",
+    "pt": "Abertura oficial às 17h00 no Convento de São Francisco e caminhada até à feira; Padre Guilherme na tenda às 22h30 (10 €).",
+    "es": "Apertura oficial a las 17:00 en el Convento de São Francisco y paseo hasta la feria; Padre Guilherme en la carpa a las 22:30 (10 €)."
    },
    "place": {
-    "en": "Santa Iria — Café Bistrot, Rua Marquês de Pombal",
-    "pt": "Santa Iria — Café Bistrot, Rua Marquês de Pombal",
-    "es": "Santa Iria — Café Bistrot, Rua Marquês de Pombal"
+    "en": "Convento de São Francisco → Várzea Grande",
+    "pt": "Convento de São Francisco → Várzea Grande",
+    "es": "Convento de São Francisco → Várzea Grande"
    }
   }
  ],
