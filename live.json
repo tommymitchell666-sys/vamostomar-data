@@ -1,6 +1,6 @@
 {
- "rev": 50,
- "updated": "2026-10-08T23:08:54.698Z",
+ "rev": 51,
+ "updated": "2026-10-11T13:17:22.752Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -3159,14 +3159,10 @@
    "name_pt": "Passeios de Cavaleiros Templários",
    "name_es": "Recorridos de los Caballeros Templarios",
    "detail": "templarknightstours.com",
-   "detail_pt": "templarknightstours. com",
-   "detail_es": "templarknightstours. com",
+   "detail_pt": "templarknightstours.com",
+   "detail_es": "templarknightstours.com",
    "phone": "912850001",
    "email": "info@templarknightstours.com",
-   "links": {
-    "facebook": "https://www.facebook.com/groups/454377661250826/search/?q=vamos%20tomar",
-    "instagram": "https://www.instagram.com/p/"
-   },
    "hours": {
     "0": [
      9,
