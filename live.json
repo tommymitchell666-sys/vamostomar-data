@@ -1,6 +1,6 @@
 {
- "rev": 51,
- "updated": "2026-10-11T13:17:22.752Z",
+ "rev": 52,
+ "updated": "2026-10-13T15:09:32.000Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -3105,6 +3105,1577 @@
      "src": "data/images/dj-j2s-20261009-pwkm.webp"
     }
    ]
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Cantinho do Sabor",
+   "blurb": "A neighbourhood café-restaurant: coffee from 8 in the morning, a home-cooked lunch at around €10–15, and open until 8 pm. Closed on Sundays.",
+   "detail": "R. João dos Santos Simões, 2300-437 Tomar",
+   "icon": "food",
+   "name_pt": "Cantinho do Sabor",
+   "blurb_pt": "Um café-restaurante de bairro: café a partir das 8 da manhã, almoço caseiro por cerca de 10–15 € e aberto até às 20h. Fecha ao domingo.",
+   "detail_pt": "R. João dos Santos Simões, 2300-437 Tomar",
+   "name_es": "Cantinho do Sabor",
+   "blurb_es": "Un café-restaurante de barrio: café desde las 8 de la mañana, comida casera por unos 10–15 € y abierto hasta las 20:00. Cierra los domingos.",
+   "detail_es": "R. João dos Santos Simões, 2300-437 Tomar",
+   "sub": [
+    "restaurants",
+    "cafes"
+   ],
+   "tags": [
+    "restaurant",
+    "cafe",
+    "portuguese-food"
+   ],
+   "phone": "+351249401475",
+   "links": {
+    "facebook": "https://www.facebook.com/Cantinho.do.Sabor.Caffe",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Cantinho+do+Sabor%2C+R.+Jo%C3%A3o+dos+Santos+Sim%C3%B5es%2C+2300-437+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8,
+      20
+     ]
+    ],
+    "2": [
+     [
+      8,
+      20
+     ]
+    ],
+    "3": [
+     [
+      8,
+      20
+     ]
+    ],
+    "4": [
+     [
+      8,
+      20
+     ]
+    ],
+    "5": [
+     [
+      8,
+      20
+     ]
+    ],
+    "6": [
+     [
+      8,
+      20
+     ]
+    ]
+   },
+   "id": "cantinho-do-sabor"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Café Tomar",
+   "blurb": "A small coffee bar on the Estrada do Barreiro, open every day from 7 in the morning to 11 at night. Coffee for about €1–5.",
+   "detail": "Estr. do Barreiro 9A, Tomar",
+   "icon": "coffee",
+   "name_pt": "Café Tomar",
+   "blurb_pt": "Um pequeno café na Estrada do Barreiro, aberto todos os dias das 7h às 23h. Café e lanches por cerca de 1–5 €.",
+   "detail_pt": "Estr. do Barreiro 9A, Tomar",
+   "name_es": "Café Tomar",
+   "blurb_es": "Un pequeño café en la Estrada do Barreiro, abierto todos los días de 7:00 a 23:00. Café y algo de picar por unos 1–5 €.",
+   "detail_es": "Estr. do Barreiro 9A, Tomar",
+   "sub": [
+    "cafes"
+   ],
+   "tags": [
+    "cafe"
+   ],
+   "phone": "+351916852735",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Tomar%2C+Estr.+do+Barreiro+9A%2C+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      7,
+      23
+     ]
+    ],
+    "2": [
+     [
+      7,
+      23
+     ]
+    ],
+    "3": [
+     [
+      7,
+      23
+     ]
+    ],
+    "4": [
+     [
+      7,
+      23
+     ]
+    ],
+    "5": [
+     [
+      7,
+      23
+     ]
+    ],
+    "6": [
+     [
+      7,
+      23
+     ]
+    ],
+    "0": [
+     [
+      7,
+      23
+     ]
+    ]
+   },
+   "id": "cafe-tomar-barreiro"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Café Capítulo",
+   "blurb": "A café on the Avenida Norton de Matos that turns into a late bar: open from 8 am (2 pm on Sundays) until 2 in the morning, every day.",
+   "detail": "Av. Norton de Matos, Tomar",
+   "icon": "coffee",
+   "name_pt": "Café Capítulo",
+   "blurb_pt": "Um café na Avenida Norton de Matos que vira bar até tarde: abre às 8h (14h ao domingo) e fecha às 2 da manhã, todos os dias.",
+   "detail_pt": "Av. Norton de Matos, Tomar",
+   "name_es": "Café Capítulo",
+   "blurb_es": "Un café en la Avenida Norton de Matos que se convierte en bar hasta tarde: abre a las 8:00 (14:00 los domingos) y cierra a las 2 de la madrugada, todos los días.",
+   "detail_es": "Av. Norton de Matos, Tomar",
+   "sub": [
+    "cafes",
+    "bars"
+   ],
+   "tags": [
+    "cafe",
+    "bar"
+   ],
+   "phone": "+351249314652",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Cap%C3%ADtulo%2C+Av.+Norton+de+Matos%2C+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8,
+      2
+     ]
+    ],
+    "2": [
+     [
+      8,
+      2
+     ]
+    ],
+    "3": [
+     [
+      8,
+      2
+     ]
+    ],
+    "4": [
+     [
+      8,
+      2
+     ]
+    ],
+    "5": [
+     [
+      8,
+      2
+     ]
+    ],
+    "6": [
+     [
+      8,
+      2
+     ]
+    ],
+    "0": [
+     [
+      14,
+      2
+     ]
+    ]
+   },
+   "id": "cafe-capitulo"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Mr. Pizza Tomar",
+   "blurb": "The Tomar branch of the Mr. Pizza chain: pizzas to eat in, take away or have delivered, about €5–20 a head. Open every day, 12:00–22:30.",
+   "detail": "R. Cel. Garcês Teixeira 14, loja A, 2300-460 Tomar",
+   "icon": "pizza",
+   "name_pt": "Mr. Pizza Tomar",
+   "blurb_pt": "A loja de Tomar da cadeia Mr. Pizza: pizzas para comer lá, levar ou receber em casa, cerca de 5–20 € por pessoa. Aberto todos os dias, 12h–22h30.",
+   "detail_pt": "R. Cel. Garcês Teixeira 14, loja A, 2300-460 Tomar",
+   "name_es": "Mr. Pizza Tomar",
+   "blurb_es": "El local de Tomar de la cadena Mr. Pizza: pizzas para comer allí, llevar o recibir en casa, unos 5–20 € por persona. Abierto todos los días, 12:00–22:30.",
+   "detail_es": "R. Cel. Garcês Teixeira 14, loja A, 2300-460 Tomar",
+   "sub": [
+    "pizza"
+   ],
+   "tags": [
+    "pizza",
+    "takeaway"
+   ],
+   "phone": "+351249322280",
+   "links": {
+    "website": "https://www.mrpizza.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Mr.+Pizza+Tomar%2C+R.+Cel.+Garc%C3%AAs+Teixeira+14%2C+loja+A%2C+2300-460+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      12,
+      22.5
+     ]
+    ],
+    "2": [
+     [
+      12,
+      22.5
+     ]
+    ],
+    "3": [
+     [
+      12,
+      22.5
+     ]
+    ],
+    "4": [
+     [
+      12,
+      22.5
+     ]
+    ],
+    "5": [
+     [
+      12,
+      22.5
+     ]
+    ],
+    "6": [
+     [
+      12,
+      22.5
+     ]
+    ],
+    "0": [
+     [
+      12,
+      22.5
+     ]
+    ]
+   },
+   "id": "mr-pizza-tomar"
+  },
+  {
+   "category": "eat",
+   "zone": "centro",
+   "name": "Star Kebab & Pizza Tomar",
+   "blurb": "Kebabs, wraps and pizza near the Ponte Velha, cheap and quick (about €5–10) with nearly 700 Google reviews. Open every day, 11:00–23:00.",
+   "detail": "R. Marquês de Pombal 54, 2300-510 Tomar",
+   "icon": "pizza",
+   "name_pt": "Star Kebab & Pizza Tomar",
+   "blurb_pt": "Kebabs, wraps e pizza perto da Ponte Velha, rápido e barato (cerca de 5–10 €), com quase 700 avaliações no Google. Aberto todos os dias, 11h–23h.",
+   "detail_pt": "R. Marquês de Pombal 54, 2300-510 Tomar",
+   "name_es": "Star Kebab & Pizza Tomar",
+   "blurb_es": "Kebabs, wraps y pizza cerca del Ponte Velha, rápido y barato (unos 5–10 €), con casi 700 reseñas en Google. Abierto todos los días, 11:00–23:00.",
+   "detail_es": "R. Marquês de Pombal 54, 2300-510 Tomar",
+   "sub": [
+    "pizza",
+    "world"
+   ],
+   "tags": [
+    "pizza",
+    "world-food",
+    "takeaway"
+   ],
+   "phone": "+351926640721",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Star+Kebab+%26+Pizza+Tomar%2C+R.+Marqu%C3%AAs+de+Pombal+54%2C+2300-510+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      11,
+      23
+     ]
+    ],
+    "2": [
+     [
+      11,
+      23
+     ]
+    ],
+    "3": [
+     [
+      11,
+      23
+     ]
+    ],
+    "4": [
+     [
+      11,
+      23
+     ]
+    ],
+    "5": [
+     [
+      11,
+      23
+     ]
+    ],
+    "6": [
+     [
+      11,
+      23
+     ]
+    ],
+    "0": [
+     [
+      11,
+      23
+     ]
+    ]
+   },
+   "id": "star-kebab-pizza"
+  },
+  {
+   "category": "eat",
+   "zone": "centro",
+   "name": "Snack Bar O Beto",
+   "blurb": "A no-frills snack bar for coffee, a sandwich or a plate of the day at about €10–15. Monday to Saturday, 8:00–22:00; closed on Sundays.",
+   "detail": "R. Corredoura do Monte 5, 2300-390 Tomar",
+   "icon": "food",
+   "name_pt": "Snack Bar O Beto",
+   "blurb_pt": "Um snack-bar simples para o café, uma sandes ou o prato do dia por cerca de 10–15 €. Segunda a sábado, 8h–22h; fecha ao domingo.",
+   "detail_pt": "R. Corredoura do Monte 5, 2300-390 Tomar",
+   "name_es": "Snack Bar O Beto",
+   "blurb_es": "Un snack-bar sencillo para un café, un bocadillo o el plato del día por unos 10–15 €. De lunes a sábado, 8:00–22:00; cierra los domingos.",
+   "detail_es": "R. Corredoura do Monte 5, 2300-390 Tomar",
+   "sub": [
+    "petiscos",
+    "cafes"
+   ],
+   "tags": [
+    "petiscos",
+    "cafe",
+    "portuguese-food"
+   ],
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Snack+Bar+O+Beto%2C+R.+Corredoura+do+Monte+5%2C+2300-390+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8,
+      22
+     ]
+    ],
+    "2": [
+     [
+      8,
+      22
+     ]
+    ],
+    "3": [
+     [
+      8,
+      22
+     ]
+    ],
+    "4": [
+     [
+      8,
+      22
+     ]
+    ],
+    "5": [
+     [
+      8,
+      22
+     ]
+    ],
+    "6": [
+     [
+      8,
+      22
+     ]
+    ]
+   },
+   "id": "snack-bar-o-beto"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Café Snack-Bar Esperança",
+   "blurb": "A café and snack bar that serves proper meals too (about €10–20), near the old Fábrica de Fiação. Open late on Fridays and Saturdays, lunch only on Sundays, closed on Mondays.",
+   "detail": "R. Fábrica da Fiação 56A, 2300-465 Tomar",
+   "icon": "food",
+   "name_pt": "Café Snack-Bar Esperança",
+   "blurb_pt": "Café e snack-bar que também serve refeições (cerca de 10–20 €), perto da antiga Fábrica de Fiação. Aberto até mais tarde à sexta e ao sábado, só almoço ao domingo e fecha à segunda.",
+   "detail_pt": "R. Fábrica da Fiação 56A, 2300-465 Tomar",
+   "name_es": "Café Snack-Bar Esperança",
+   "blurb_es": "Café y snack-bar que también sirve comidas (unos 10–20 €), cerca de la antigua Fábrica de Fiação. Abre hasta más tarde viernes y sábado, solo mediodía el domingo y cierra los lunes.",
+   "detail_es": "R. Fábrica da Fiação 56A, 2300-465 Tomar",
+   "sub": [
+    "restaurants",
+    "cafes"
+   ],
+   "tags": [
+    "restaurant",
+    "cafe",
+    "portuguese-food"
+   ],
+   "phone": "+351249327046",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Snack-Bar+Esperan%C3%A7a%2C+R.+F%C3%A1brica+da+Fia%C3%A7%C3%A3o+56A%2C+2300-465+Tomar"
+   },
+   "hours": {
+    "2": [
+     [
+      9,
+      21.5
+     ]
+    ],
+    "3": [
+     [
+      9,
+      21.5
+     ]
+    ],
+    "4": [
+     [
+      9,
+      21.5
+     ]
+    ],
+    "5": [
+     [
+      9,
+      23
+     ]
+    ],
+    "6": [
+     [
+      9,
+      23
+     ]
+    ],
+    "0": [
+     [
+      9,
+      15.5
+     ]
+    ]
+   },
+   "id": "cafe-snack-bar-esperanca"
+  },
+  {
+   "category": "eat",
+   "zone": "centro",
+   "name": "D'Arco Café Snack-Bar",
+   "blurb": "A café and snack bar on the Rua de Santa Iria, near the chapel and the Ponte Velha. Cheap coffee and snacks (€1–5), open every day from 7:00 to 21:00.",
+   "detail": "R. Santa Iria 37, Tomar",
+   "icon": "coffee",
+   "name_pt": "D'Arco Café Snack-Bar",
+   "blurb_pt": "Café e snack-bar na Rua de Santa Iria, perto da capela e da Ponte Velha. Café e petiscos baratos (1–5 €), aberto todos os dias das 7h às 21h.",
+   "detail_pt": "R. Santa Iria 37, Tomar",
+   "name_es": "D'Arco Café Snack-Bar",
+   "blurb_es": "Café y snack-bar en la Rua de Santa Iria, cerca de la capilla y del Ponte Velha. Café y algo de picar baratos (1–5 €), abierto todos los días de 7:00 a 21:00.",
+   "detail_es": "R. Santa Iria 37, Tomar",
+   "sub": [
+    "cafes"
+   ],
+   "tags": [
+    "cafe"
+   ],
+   "phone": "+351249313518",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=D%27Arco+Caf%C3%A9+Snack-Bar%2C+R.+Santa+Iria+37%2C+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      7,
+      21
+     ]
+    ],
+    "2": [
+     [
+      7,
+      21
+     ]
+    ],
+    "3": [
+     [
+      7,
+      21
+     ]
+    ],
+    "4": [
+     [
+      7,
+      21
+     ]
+    ],
+    "5": [
+     [
+      7,
+      21
+     ]
+    ],
+    "6": [
+     [
+      7,
+      21
+     ]
+    ],
+    "0": [
+     [
+      7,
+      21
+     ]
+    ]
+   },
+   "id": "darco-cafe-snack-bar"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Recanto Azul",
+   "blurb": "A neighbourhood pastelaria for coffee and cakes, well rated by its regulars (4.5 on Google). Open from 8:00, Monday to Saturday; closed on Sundays.",
+   "detail": "R. Alfredo da Maia Pereira 2F, 2300-449 Tomar",
+   "icon": "croissant",
+   "name_pt": "Recanto Azul",
+   "blurb_pt": "Uma pastelaria de bairro para o café e o bolo, bem avaliada pelos clientes habituais (4,5 no Google). Abre às 8h, de segunda a sábado; fecha ao domingo.",
+   "detail_pt": "R. Alfredo da Maia Pereira 2F, 2300-449 Tomar",
+   "name_es": "Recanto Azul",
+   "blurb_es": "Una pastelería de barrio para el café y el dulce, bien valorada por su clientela (4,5 en Google). Abre a las 8:00, de lunes a sábado; cierra los domingos.",
+   "detail_es": "R. Alfredo da Maia Pereira 2F, 2300-449 Tomar",
+   "sub": [
+    "cafes"
+   ],
+   "tags": [
+    "cafe",
+    "bakery"
+   ],
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Recanto+Azul%2C+R.+Alfredo+da+Maia+Pereira+2F%2C+2300-449+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8,
+      20
+     ]
+    ],
+    "2": [
+     [
+      8,
+      21.5
+     ]
+    ],
+    "3": [
+     [
+      8,
+      21.5
+     ]
+    ],
+    "4": [
+     [
+      8,
+      21.5
+     ]
+    ],
+    "5": [
+     [
+      8,
+      21.5
+     ]
+    ],
+    "6": [
+     [
+      8,
+      21.5
+     ]
+    ]
+   },
+   "id": "recanto-azul"
+  },
+  {
+   "category": "eat",
+   "zone": "centro",
+   "name": "Justsushi Tomar",
+   "blurb": "Sushi and Japanese dishes in the Rua dos Arcos, in the historic centre, about €15–35 a head. Lunch and dinner Tuesday to Sunday; closed on Mondays.",
+   "detail": "R. dos Arcos 13, 2300-574 Tomar",
+   "icon": "world",
+   "name_pt": "Justsushi Tomar",
+   "blurb_pt": "Sushi e cozinha japonesa na Rua dos Arcos, no centro histórico, cerca de 15–35 € por pessoa. Almoço e jantar de terça a domingo; fecha à segunda.",
+   "detail_pt": "R. dos Arcos 13, 2300-574 Tomar",
+   "name_es": "Justsushi Tomar",
+   "blurb_es": "Sushi y cocina japonesa en la Rua dos Arcos, en el centro histórico, unos 15–35 € por persona. Comida y cena de martes a domingo; cierra los lunes.",
+   "detail_es": "R. dos Arcos 13, 2300-574 Tomar",
+   "sub": [
+    "world",
+    "restaurants"
+   ],
+   "tags": [
+    "restaurant",
+    "world-food",
+    "takeaway"
+   ],
+   "phone": "+351965359705",
+   "links": {
+    "website": "https://www.justsushi.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Justsushi+Tomar%2C+R.+dos+Arcos+13%2C+2300-574+Tomar"
+   },
+   "hours": {
+    "2": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      22.5
+     ]
+    ],
+    "3": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      22.5
+     ]
+    ],
+    "4": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      22.5
+     ]
+    ],
+    "5": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      22.5
+     ]
+    ],
+    "6": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      22.5
+     ]
+    ],
+    "0": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      22.5
+     ]
+    ]
+   },
+   "id": "justsushi-tomar"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "O Escondidinho",
+   "blurb": "An everyday Portuguese restaurant (the name means the little hidden one) at about €10–15 a head, with more than 400 Google reviews. Monday to Saturday, 8:00–23:00.",
+   "detail": "R. Alfredo da Maia Pereira 4, Tomar",
+   "icon": "food",
+   "name_pt": "O Escondidinho",
+   "blurb_pt": "Um restaurante português do dia a dia, com refeições por cerca de 10–15 € e mais de 400 avaliações no Google. Segunda a sábado, 8h–23h.",
+   "detail_pt": "R. Alfredo da Maia Pereira 4, Tomar",
+   "name_es": "O Escondidinho",
+   "blurb_es": "Un restaurante portugués de diario (el nombre significa el escondidito), por unos 10–15 € por persona y con más de 400 reseñas en Google. De lunes a sábado, 8:00–23:00.",
+   "detail_es": "R. Alfredo da Maia Pereira 4, Tomar",
+   "sub": [
+    "restaurants"
+   ],
+   "tags": [
+    "restaurant",
+    "portuguese-food"
+   ],
+   "phone": "+351249323258",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=O+Escondidinho%2C+R.+Alfredo+da+Maia+Pereira+4%2C+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8,
+      23
+     ]
+    ],
+    "2": [
+     [
+      8,
+      23
+     ]
+    ],
+    "3": [
+     [
+      8,
+      23
+     ]
+    ],
+    "4": [
+     [
+      8,
+      23
+     ]
+    ],
+    "5": [
+     [
+      8,
+      23
+     ]
+    ],
+    "6": [
+     [
+      8,
+      23
+     ]
+    ]
+   },
+   "id": "o-escondidinho"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Café da Serra",
+   "blurb": "A café-restaurant with traditional Portuguese cooking in the village of Serra, north of Tomar, about €10–15 a head and nearly 600 Google reviews. Call ahead for opening times.",
+   "detail": "R. Manuel Vicente Hilário 15, 2300-251 Serra (Tomar)",
+   "icon": "food",
+   "name_pt": "Café da Serra",
+   "blurb_pt": "Café-restaurante de cozinha tradicional portuguesa na aldeia da Serra, a norte de Tomar, cerca de 10–15 € por pessoa e quase 600 avaliações no Google. Liga antes para confirmar o horário.",
+   "detail_pt": "R. Manuel Vicente Hilário 15, 2300-251 Serra (Tomar)",
+   "name_es": "Café da Serra",
+   "blurb_es": "Café-restaurante de cocina tradicional portuguesa en el pueblo de Serra, al norte de Tomar, unos 10–15 € por persona y casi 600 reseñas en Google. Llama antes para confirmar el horario.",
+   "detail_es": "R. Manuel Vicente Hilário 15, 2300-251 Serra (Tomar)",
+   "sub": [
+    "restaurants",
+    "outoftown"
+   ],
+   "tags": [
+    "restaurant",
+    "portuguese-food"
+   ],
+   "phone": "+351912731773",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+da+Serra%2C+R.+Manuel+Vicente+Hil%C3%A1rio+15%2C+2300-251+Serra+%28Tomar%29"
+   },
+   "id": "cafe-da-serra"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Condenados ao Sabor",
+   "blurb": "A small coffee bar in Paialvo (the name means condemned to flavour), rated 4.7 by its customers. Monday to Saturday, 8:00–20:00.",
+   "detail": "R. Dr. Aurélio Ribeiro 11 R/C, 2300-515 Paialvo (Tomar)",
+   "icon": "coffee",
+   "name_pt": "Condenados ao Sabor",
+   "blurb_pt": "Um pequeno café em Paialvo, com 4,7 de avaliação no Google. Segunda a sábado, 8h–20h.",
+   "detail_pt": "R. Dr. Aurélio Ribeiro 11 R/C, 2300-515 Paialvo (Tomar)",
+   "name_es": "Condenados ao Sabor",
+   "blurb_es": "Un pequeño café en Paialvo (el nombre significa condenados al sabor), con un 4,7 de valoración en Google. De lunes a sábado, 8:00–20:00.",
+   "detail_es": "R. Dr. Aurélio Ribeiro 11 R/C, 2300-515 Paialvo (Tomar)",
+   "sub": [
+    "cafes"
+   ],
+   "tags": [
+    "cafe"
+   ],
+   "phone": "+351933056924",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Condenados+ao+Sabor%2C+R.+Dr.+Aur%C3%A9lio+Ribeiro+11+R%2FC%2C+2300-515+Paialvo+%28Tomar%29"
+   },
+   "hours": {
+    "1": [
+     [
+      8,
+      20
+     ]
+    ],
+    "2": [
+     [
+      8,
+      20
+     ]
+    ],
+    "3": [
+     [
+      8,
+      20
+     ]
+    ],
+    "4": [
+     [
+      8,
+      20
+     ]
+    ],
+    "5": [
+     [
+      8,
+      20
+     ]
+    ],
+    "6": [
+     [
+      8,
+      20
+     ]
+    ]
+   },
+   "id": "condenados-ao-sabor"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Restaurante O Pato Bravo",
+   "blurb": "A roadside restaurant at Madalena, south of Tomar, with everyday Portuguese food at about €10–15 and 500+ Google reviews. Open 7:00–21:00; closed on Wednesdays.",
+   "detail": "EM535, Madalena (Tomar)",
+   "icon": "food",
+   "name_pt": "Restaurante O Pato Bravo",
+   "blurb_pt": "Restaurante à beira da estrada na Madalena, a sul de Tomar, com comida portuguesa do dia a dia por cerca de 10–15 € e mais de 500 avaliações no Google. Aberto 7h–21h; fecha à quarta.",
+   "detail_pt": "EM535, Madalena (Tomar)",
+   "name_es": "Restaurante O Pato Bravo",
+   "blurb_es": "Restaurante de carretera en Madalena, al sur de Tomar, con comida portuguesa de diario por unos 10–15 € y más de 500 reseñas en Google. Abierto 7:00–21:00; cierra los miércoles.",
+   "detail_es": "EM535, Madalena (Tomar)",
+   "sub": [
+    "restaurants",
+    "outoftown"
+   ],
+   "tags": [
+    "restaurant",
+    "portuguese-food"
+   ],
+   "phone": "+351249327085",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Restaurante+O+Pato+Bravo%2C+EM535%2C+Madalena+%28Tomar%29"
+   },
+   "hours": {
+    "1": [
+     [
+      7,
+      21
+     ]
+    ],
+    "2": [
+     [
+      7,
+      21
+     ]
+    ],
+    "4": [
+     [
+      7,
+      21
+     ]
+    ],
+    "5": [
+     [
+      7,
+      21
+     ]
+    ],
+    "6": [
+     [
+      7,
+      21
+     ]
+    ],
+    "0": [
+     [
+      7,
+      21
+     ]
+    ]
+   },
+   "id": "o-pato-bravo"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Café Castelo do Bode",
+   "blurb": "A café by the Castelo do Bode dam, handy for a coffee or a snack (€5–10) on a day at the reservoir. Open from 10:00, Monday to Saturday; closed on Sundays.",
+   "detail": "Castelo do Bode, São Pedro de Tomar",
+   "icon": "coffee",
+   "name_pt": "Café Castelo do Bode",
+   "blurb_pt": "Um café junto à barragem do Castelo do Bode, útil para um café ou um lanche (5–10 €) num dia na albufeira. Abre às 10h, de segunda a sábado; fecha ao domingo.",
+   "detail_pt": "Castelo do Bode, São Pedro de Tomar",
+   "name_es": "Café Castelo do Bode",
+   "blurb_es": "Un café junto a la presa de Castelo do Bode, práctico para un café o algo de picar (5–10 €) en un día en el embalse. Abre a las 10:00, de lunes a sábado; cierra los domingos.",
+   "detail_es": "Castelo do Bode, São Pedro de Tomar",
+   "sub": [
+    "cafes",
+    "outoftown"
+   ],
+   "tags": [
+    "cafe"
+   ],
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Castelo+do+Bode%2C+Castelo+do+Bode%2C+S%C3%A3o+Pedro+de+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      10,
+      20.5
+     ]
+    ],
+    "2": [
+     [
+      10,
+      20.5
+     ]
+    ],
+    "3": [
+     [
+      10,
+      21.5
+     ]
+    ],
+    "4": [
+     [
+      10,
+      21.5
+     ]
+    ],
+    "5": [
+     [
+      10,
+      22
+     ]
+    ],
+    "6": [
+     [
+      10,
+      22
+     ]
+    ]
+   },
+   "id": "cafe-castelo-do-bode"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Sabores da Alma",
+   "blurb": "A restaurant on the Avenida Dr. Aurélio Ribeiro, about €10–15 a head and rated 4.5 on Google. Lunch and dinner most days; lunch only on Tuesdays, closed on Wednesdays.",
+   "detail": "Av. Dr. Aurélio Ribeiro, Tomar",
+   "icon": "food",
+   "name_pt": "Sabores da Alma",
+   "blurb_pt": "Restaurante na Avenida Dr. Aurélio Ribeiro, cerca de 10–15 € por pessoa e 4,5 de avaliação no Google. Almoço e jantar na maioria dos dias; só almoço à terça e fecha à quarta.",
+   "detail_pt": "Av. Dr. Aurélio Ribeiro, Tomar",
+   "name_es": "Sabores da Alma",
+   "blurb_es": "Restaurante en la Avenida Dr. Aurélio Ribeiro, unos 10–15 € por persona y un 4,5 en Google. Comida y cena casi todos los días; solo mediodía el martes y cierra los miércoles.",
+   "detail_es": "Av. Dr. Aurélio Ribeiro, Tomar",
+   "sub": [
+    "restaurants"
+   ],
+   "tags": [
+    "restaurant",
+    "portuguese-food"
+   ],
+   "phone": "+351249415927",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Sabores+da+Alma%2C+Av.+Dr.+Aur%C3%A9lio+Ribeiro%2C+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      12,
+      15
+     ],
+     [
+      18.5,
+      22
+     ]
+    ],
+    "2": [
+     [
+      12,
+      15
+     ]
+    ],
+    "4": [
+     [
+      12,
+      15
+     ],
+     [
+      18.5,
+      22
+     ]
+    ],
+    "5": [
+     [
+      12,
+      15
+     ],
+     [
+      18.5,
+      22
+     ]
+    ],
+    "6": [
+     [
+      12,
+      15
+     ],
+     [
+      18.5,
+      22
+     ]
+    ],
+    "0": [
+     [
+      12,
+      15
+     ],
+     [
+      18.5,
+      22
+     ]
+    ]
+   },
+   "id": "sabores-da-alma"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Churrasqueira Novos Sabores",
+   "blurb": "A churrasqueira for chicken and meat off the grill, to eat in or take away, with 200 Google reviews. Lunch and dinner Tuesday to Saturday, Sunday lunch; closed on Mondays.",
+   "detail": "R. Gen. Fernando de Oliveira 21A, Tomar",
+   "icon": "food",
+   "name_pt": "Churrasqueira Novos Sabores",
+   "blurb_pt": "Uma churrasqueira de frango e carnes na brasa, para comer lá ou levar, com 200 avaliações no Google. Almoço e jantar de terça a sábado, almoço ao domingo; fecha à segunda.",
+   "detail_pt": "R. Gen. Fernando de Oliveira 21A, Tomar",
+   "name_es": "Churrasqueira Novos Sabores",
+   "blurb_es": "Una churrasqueira de pollo y carnes a la brasa, para comer allí o llevar, con 200 reseñas en Google. Comida y cena de martes a sábado, mediodía el domingo; cierra los lunes.",
+   "detail_es": "R. Gen. Fernando de Oliveira 21A, Tomar",
+   "sub": [
+    "restaurants",
+    "outoftown"
+   ],
+   "tags": [
+    "restaurant",
+    "grill",
+    "takeaway",
+    "portuguese-food"
+   ],
+   "phone": "+351249381195",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Churrasqueira+Novos+Sabores%2C+R.+Gen.+Fernando+de+Oliveira+21A%2C+Tomar"
+   },
+   "hours": {
+    "2": [
+     [
+      11.5,
+      15
+     ],
+     [
+      18.5,
+      22.5
+     ]
+    ],
+    "3": [
+     [
+      11.5,
+      15
+     ],
+     [
+      18.5,
+      22.5
+     ]
+    ],
+    "4": [
+     [
+      11.5,
+      15
+     ],
+     [
+      18.5,
+      22.5
+     ]
+    ],
+    "5": [
+     [
+      11.5,
+      15
+     ],
+     [
+      18.5,
+      22.5
+     ]
+    ],
+    "6": [
+     [
+      11.5,
+      15
+     ],
+     [
+      18.5,
+      22.5
+     ]
+    ],
+    "0": [
+     [
+      11.5,
+      15
+     ]
+    ]
+   },
+   "id": "churrasqueira-novos-sabores"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Restaurante A Familiar",
+   "blurb": "Traditional Portuguese cooking at about €10–15 a head, with nearly 700 Google reviews. Tuesday to Friday 8:00–19:00, weekends until 15:00; closed on Mondays.",
+   "detail": "Acesso Particular 22, Tomar (Plus Code JJGC+8C)",
+   "icon": "food",
+   "name_pt": "Restaurante A Familiar",
+   "blurb_pt": "Cozinha tradicional portuguesa por cerca de 10–15 € por pessoa, com quase 700 avaliações no Google. Terça a sexta 8h–19h, fins de semana até às 15h; fecha à segunda.",
+   "detail_pt": "Acesso Particular 22, Tomar (Plus Code JJGC+8C)",
+   "name_es": "Restaurante A Familiar",
+   "blurb_es": "Cocina tradicional portuguesa por unos 10–15 € por persona, con casi 700 reseñas en Google. De martes a viernes 8:00–19:00, fines de semana hasta las 15:00; cierra los lunes.",
+   "detail_es": "Acesso Particular 22, Tomar (Plus Code JJGC+8C)",
+   "sub": [
+    "restaurants"
+   ],
+   "tags": [
+    "restaurant",
+    "portuguese-food"
+   ],
+   "phone": "+351919595586",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Restaurante+A+Familiar%2C+Acesso+Particular+22%2C+Tomar+%28Plus+Code+JJGC%2B8C%29"
+   },
+   "hours": {
+    "2": [
+     [
+      8,
+      19
+     ]
+    ],
+    "3": [
+     [
+      8,
+      19
+     ]
+    ],
+    "4": [
+     [
+      8,
+      19
+     ]
+    ],
+    "5": [
+     [
+      8,
+      19
+     ]
+    ],
+    "6": [
+     [
+      8,
+      15
+     ]
+    ],
+    "0": [
+     [
+      8,
+      15
+     ]
+    ]
+   },
+   "id": "restaurante-a-familiar"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Café Santo Amaro",
+   "blurb": "The village café in Carregueiros, open from early morning until midnight every day, and until 2 am on Fridays and Saturdays.",
+   "detail": "R. 25 de Abril 127, Carregueiros (Tomar)",
+   "icon": "coffee",
+   "name_pt": "Café Santo Amaro",
+   "blurb_pt": "O café da aldeia em Carregueiros, aberto desde manhã cedo até à meia-noite todos os dias, e até às 2h à sexta e ao sábado.",
+   "detail_pt": "R. 25 de Abril 127, Carregueiros (Tomar)",
+   "name_es": "Café Santo Amaro",
+   "blurb_es": "El café del pueblo en Carregueiros, abierto desde primera hora hasta medianoche todos los días, y hasta las 2:00 viernes y sábado.",
+   "detail_es": "R. 25 de Abril 127, Carregueiros (Tomar)",
+   "sub": [
+    "cafes",
+    "bars"
+   ],
+   "tags": [
+    "cafe",
+    "bar"
+   ],
+   "phone": "+351249324281",
+   "links": {
+    "instagram": "https://www.instagram.com/cafesantoamaro21/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Santo+Amaro%2C+R.+25+de+Abril+127%2C+Carregueiros+%28Tomar%29"
+   },
+   "hours": {
+    "1": [
+     [
+      7,
+      24
+     ]
+    ],
+    "2": [
+     [
+      7,
+      24
+     ]
+    ],
+    "3": [
+     [
+      7,
+      24
+     ]
+    ],
+    "4": [
+     [
+      7,
+      24
+     ]
+    ],
+    "5": [
+     [
+      7,
+      2
+     ]
+    ],
+    "6": [
+     [
+      8,
+      2
+     ]
+    ],
+    "0": [
+     [
+      9,
+      24
+     ]
+    ]
+   },
+   "id": "cafe-santo-amaro"
+  },
+  {
+   "category": "eat",
+   "zone": "centro",
+   "name": "Restaurante Landeira",
+   "blurb": "A restaurant on the Rua da Silva Magalhães, in the old town, about €20–25 a head and rated 4.4 on Google. Lunch and dinner; closed on Wednesdays and Thursdays.",
+   "detail": "R. da Silva Magalhães, 2300-593 Tomar",
+   "icon": "food",
+   "name_pt": "Restaurante Landeira",
+   "blurb_pt": "Restaurante na Rua da Silva Magalhães, no centro histórico, cerca de 20–25 € por pessoa e 4,4 no Google. Almoço e jantar; fecha à quarta e à quinta.",
+   "detail_pt": "R. da Silva Magalhães, 2300-593 Tomar",
+   "name_es": "Restaurante Landeira",
+   "blurb_es": "Restaurante en la Rua da Silva Magalhães, en el casco antiguo, unos 20–25 € por persona y un 4,4 en Google. Comida y cena; cierra miércoles y jueves.",
+   "detail_es": "R. da Silva Magalhães, 2300-593 Tomar",
+   "sub": [
+    "restaurants"
+   ],
+   "tags": [
+    "restaurant",
+    "portuguese-food"
+   ],
+   "phone": "+351930583204",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Restaurante+Landeira%2C+R.+da+Silva+Magalh%C3%A3es%2C+2300-593+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      22
+     ]
+    ],
+    "2": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      22
+     ]
+    ],
+    "5": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      22
+     ]
+    ],
+    "6": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      22
+     ]
+    ],
+    "0": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      22
+     ]
+    ]
+   },
+   "id": "restaurante-landeira"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Refúgio",
+   "blurb": "A basement restaurant (the name means the refuge) with everyday food at about €10–15 and 300 Google reviews. Monday to Saturday, 8:00–22:00; closed on Sundays.",
+   "detail": "R. Carlos Campeão 6, cave, 2300-456 Tomar",
+   "icon": "food",
+   "name_pt": "Refúgio",
+   "blurb_pt": "Um restaurante numa cave, com comida do dia a dia por cerca de 10–15 € e 300 avaliações no Google. Segunda a sábado, 8h–22h; fecha ao domingo.",
+   "detail_pt": "R. Carlos Campeão 6, cave, 2300-456 Tomar",
+   "name_es": "Refúgio",
+   "blurb_es": "Un restaurante en un sótano (el nombre significa el refugio), con comida de diario por unos 10–15 € y 300 reseñas en Google. De lunes a sábado, 8:00–22:00; cierra los domingos.",
+   "detail_es": "R. Carlos Campeão 6, cave, 2300-456 Tomar",
+   "sub": [
+    "restaurants"
+   ],
+   "tags": [
+    "restaurant",
+    "portuguese-food"
+   ],
+   "phone": "+351249404648",
+   "links": {
+    "facebook": "https://www.facebook.com/refugioTomar",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Ref%C3%BAgio%2C+R.+Carlos+Campe%C3%A3o+6%2C+cave%2C+2300-456+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8,
+      22
+     ]
+    ],
+    "2": [
+     [
+      8,
+      22
+     ]
+    ],
+    "3": [
+     [
+      8,
+      22
+     ]
+    ],
+    "4": [
+     [
+      8,
+      22
+     ]
+    ],
+    "5": [
+     [
+      8,
+      22
+     ]
+    ],
+    "6": [
+     [
+      8,
+      22
+     ]
+    ]
+   },
+   "id": "refugio-tomar"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Café Restaurante São Pedro",
+   "blurb": "A café-restaurant in São Pedro de Tomar, on the way to the Castelo do Bode, with 350+ Google reviews. Open from breakfast to 22:00; closed on Mondays.",
+   "detail": "EM533 42B, 2300-187 São Pedro de Tomar",
+   "icon": "food",
+   "name_pt": "Café Restaurante São Pedro",
+   "blurb_pt": "Café-restaurante em São Pedro de Tomar, a caminho do Castelo do Bode, com mais de 350 avaliações no Google. Aberto do pequeno-almoço às 22h; fecha à segunda.",
+   "detail_pt": "EM533 42B, 2300-187 São Pedro de Tomar",
+   "name_es": "Café Restaurante São Pedro",
+   "blurb_es": "Café-restaurante en São Pedro de Tomar, de camino a Castelo do Bode, con más de 350 reseñas en Google. Abierto desde el desayuno hasta las 22:00; cierra los lunes.",
+   "detail_es": "EM533 42B, 2300-187 São Pedro de Tomar",
+   "sub": [
+    "restaurants",
+    "outoftown"
+   ],
+   "tags": [
+    "restaurant",
+    "cafe",
+    "portuguese-food"
+   ],
+   "phone": "+351249381232",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Restaurante+S%C3%A3o+Pedro%2C+EM533+42B%2C+2300-187+S%C3%A3o+Pedro+de+Tomar"
+   },
+   "hours": {
+    "2": [
+     [
+      7.5,
+      22
+     ]
+    ],
+    "3": [
+     [
+      7.5,
+      22
+     ]
+    ],
+    "4": [
+     [
+      7.5,
+      22
+     ]
+    ],
+    "5": [
+     [
+      7.5,
+      22
+     ]
+    ],
+    "6": [
+     [
+      8,
+      22
+     ]
+    ],
+    "0": [
+     [
+      8,
+      22
+     ]
+    ]
+   },
+   "id": "cafe-restaurante-sao-pedro"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Café Pastelaria Arcádia",
+   "blurb": "A café-pastelaria on the Avenida Torres Pinheiro for breakfast, coffee and cakes. Open every day from 7:00 (8:00 on Sundays) to 20:00.",
+   "detail": "Av. Torres Pinheiro 59, 2300-537 Tomar",
+   "icon": "croissant",
+   "name_pt": "Café Pastelaria Arcádia",
+   "blurb_pt": "Café-pastelaria na Avenida Torres Pinheiro para o pequeno-almoço, o café e o bolo. Aberto todos os dias das 7h (8h ao domingo) às 20h.",
+   "detail_pt": "Av. Torres Pinheiro 59, 2300-537 Tomar",
+   "name_es": "Café Pastelaria Arcádia",
+   "blurb_es": "Café-pastelería en la Avenida Torres Pinheiro para el desayuno, el café y algo dulce. Abierto todos los días de 7:00 (8:00 los domingos) a 20:00.",
+   "detail_es": "Av. Torres Pinheiro 59, 2300-537 Tomar",
+   "sub": [
+    "cafes"
+   ],
+   "tags": [
+    "cafe",
+    "bakery"
+   ],
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Pastelaria+Arc%C3%A1dia%2C+Av.+Torres+Pinheiro+59%2C+2300-537+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      7,
+      20
+     ]
+    ],
+    "2": [
+     [
+      7,
+      20
+     ]
+    ],
+    "3": [
+     [
+      7,
+      20
+     ]
+    ],
+    "4": [
+     [
+      7,
+      20
+     ]
+    ],
+    "5": [
+     [
+      7,
+      20
+     ]
+    ],
+    "6": [
+     [
+      7,
+      20
+     ]
+    ],
+    "0": [
+     [
+      8,
+      20
+     ]
+    ]
+   },
+   "id": "pastelaria-arcadia"
   }
  ],
  "patches": {
