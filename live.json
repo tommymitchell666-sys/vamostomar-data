@@ -1,6 +1,6 @@
 {
- "rev": 52,
- "updated": "2026-10-13T15:09:32.000Z",
+ "rev": 53,
+ "updated": "2026-10-13T18:51:57.000Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -346,6 +346,136 @@
    "place_es": "Complejo Cultural da Levada — Sala Multiusos",
    "venue": "levada-tomar",
    "url": "https://www.cm-tomar.pt/comunicacao/agenda"
+  },
+  {
+   "id": "ev-2026-10-16-workshop-bd-da-ideia-a-pagina",
+   "date": "2026-10-16",
+   "dateEnd": "2026-10-17",
+   "name": "Comics workshop: from idea to page",
+   "name_pt": "Workshop de BD | Da Ideia à Página",
+   "name_es": "Taller de cómic: de la idea a la página",
+   "blurb": "Two days on how a comic is built, from the first panel to a finished page: shots and angles, speech balloons, ellipses, sound effects and silence. Led by Diogo Carvalho, comics author, illustrator and teacher. Free, but places are limited and you need to sign up by email (producao@cm-tomar.pt). In Portuguese.",
+   "blurb_pt": "Dois dias sobre a construção de uma banda desenhada, da primeira vinheta à prancha completa: planos e ângulos, balões, elipses, onomatopeias e o silêncio. Orientado por Diogo Carvalho, autor de BD, ilustrador e professor. Gratuito, mas com vagas limitadas e inscrição por email (producao@cm-tomar.pt).",
+   "blurb_es": "Dos días sobre cómo se construye un cómic, de la primera viñeta a la página completa: planos y ángulos, bocadillos, elipsis, onomatopeyas y el silencio. Lo imparte Diogo Carvalho, autor de cómic, ilustrador y profesor. Gratis, pero con plazas limitadas e inscripción por email (producao@cm-tomar.pt). En portugués.",
+   "place": "A Moagem — Fábrica das Artes",
+   "place_pt": "A Moagem — Fábrica das Artes",
+   "place_es": "A Moagem — Fábrica das Artes",
+   "venue": "a-moagem",
+   "price": "Free",
+   "price_pt": "Grátis",
+   "price_es": "Gratis",
+   "url": "https://www.cm-tomar.pt/comunicacao/agenda/outros-eventos/workshop-de-bd-da-ideia-a-pagina"
+  },
+  {
+   "id": "ev-2026-10-20-orwell-cineclube",
+   "date": "2026-10-20",
+   "time": "19:00",
+   "name": "Orwell: 2+2=5 (Cineclube de Tomar)",
+   "name_pt": "Orwell: 2+2=5 | Cineclube de Tomar",
+   "name_es": "Orwell: 2+2=5 (Cineclube de Tomar)",
+   "blurb": "The film club screens Raoul Peck’s 2025 documentary on George Orwell and the ideas behind 1984 (newspeak, doublethink, Big Brother), with Damian Lewis. M/14, 119 min. €4; €3 with the Cartão Jovem or over 65; €2 for club members.",
+   "blurb_pt": "O Cineclube exibe o documentário de Raoul Peck (2025) sobre George Orwell e as ideias de 1984 (a novilíngua, o duplo pensamento, o Big Brother), com Damian Lewis. M/14, 119 min. 4 €; 3 € com Cartão Jovem ou mais de 65 anos; 2 € para sócios.",
+   "blurb_es": "El cineclub proyecta el documental de Raoul Peck (2025) sobre George Orwell y las ideas de 1984 (la neolengua, el doblepensar, el Gran Hermano), con Damian Lewis. M/14, 119 min. 4 €; 3 € con Cartão Jovem o mayores de 65; 2 € para socios.",
+   "place": "Cine-Teatro Paraíso",
+   "place_pt": "Cine-Teatro Paraíso",
+   "place_es": "Cine-Teatro Paraíso",
+   "venue": "cineteatro-paraiso",
+   "price": "€4",
+   "price_pt": "4 €",
+   "price_es": "4 €",
+   "url": "https://cineteatro.cm-tomar.pt/orwell-225-",
+   "dateEnd": null
+  },
+  {
+   "id": "ev-2026-11-07-workshop-empalhamento-vime",
+   "date": "2026-11-07",
+   "time": "09:00",
+   "name": "Wicker workshop: weave round a bottle",
+   "name_pt": "Workshop de Empalhamento em Vime",
+   "name_es": "Taller de mimbre: forrar una botella",
+   "blurb": "Part of the Dias Abertos Artes & Ofícios: a morning (9:00–13:00, with a coffee break) learning basic basketry with Cestaria Andorinha, wrapping a glass bottle in wicker to take home. All materials included. Ages 14 and up. Sign up by 29 October; places are limited.",
+   "blurb_pt": "Integrado nos Dias Abertos Artes & Ofícios: uma manhã (9h–13h, com pausa para café) a aprender técnicas básicas de cestaria com a Cestaria Andorinha, empalhando em vime uma garrafa para levar para casa. Materiais incluídos. A partir dos 14 anos. Inscrições até 29 de outubro, sujeitas às vagas.",
+   "blurb_es": "Dentro de los Dias Abertos Artes & Ofícios: una mañana (9:00–13:00, con pausa para café) aprendiendo cestería básica con Cestaria Andorinha, forrando de mimbre una botella para llevar a casa. Materiales incluidos. A partir de 14 años. Inscripciones hasta el 29 de octubre, según plazas.",
+   "place": "Oficina de Artes Tradicionais, Convento de São Francisco",
+   "place_pt": "Oficina de Artes Tradicionais, Convento de São Francisco",
+   "place_es": "Taller de Artes Tradicionales, Convento de São Francisco",
+   "venue": "convento-sao-francisco",
+   "url": "https://www.bienalarteseoficios.pt/product-page/workshop-de-empalhamento-em-vime",
+   "dateEnd": null
+  },
+  {
+   "id": "ev-2026-11-13-festival-zero-folk-songs",
+   "date": "2026-11-13",
+   "time": "21:30",
+   "name": "Festival Zero: Folk Songs & Songs",
+   "name_pt": "Festival Zero | Folk Songs & Songs",
+   "name_es": "Festival Zero: Folk Songs & Songs",
+   "blurb": "Seventeenth-century European song (Dowland, Purcell and others) sung by soprano Eduarda Melo, with Nuno da Rocha on electric guitar as the continuo, staged by Rui Horta. Part of Festival Zero. M/6, 60 min, €5 at the box office (Tue–Sat 15:00–18:00) or bol.pt.",
+   "blurb_pt": "Canção europeia do século XVII (Dowland, Purcell e outros) pela soprano Eduarda Melo, com Nuno da Rocha na guitarra elétrica como baixo contínuo e encenação de Rui Horta. Integrado no Festival Zero. M/6, 60 min, 5 € na bilheteira (terça a sábado, 15h–18h) ou em bol.pt.",
+   "blurb_es": "Canción europea del siglo XVII (Dowland, Purcell y otros) a cargo de la soprano Eduarda Melo, con Nuno da Rocha a la guitarra eléctrica como bajo continuo y puesta en escena de Rui Horta. Dentro del Festival Zero. M/6, 60 min, 5 € en taquilla (martes a sábado, 15:00–18:00) o en bol.pt.",
+   "place": "Cine-Teatro Paraíso",
+   "place_pt": "Cine-Teatro Paraíso",
+   "place_es": "Cine-Teatro Paraíso",
+   "venue": "cineteatro-paraiso",
+   "price": "€5",
+   "price_pt": "5 €",
+   "price_es": "5 €",
+   "url": "https://cineteatro.cm-tomar.pt/festival-zero--folk-songs--songs-",
+   "dateEnd": null
+  },
+  {
+   "id": "ev-2026-11-19-duo-contracello",
+   "date": "2026-11-19",
+   "time": "19:15",
+   "name": "Duo Contracello: see sounds, hear movement",
+   "name_pt": "Duo Contracello: Ver Sons, Ouvir Movimentos",
+   "name_es": "Duo Contracello: ver sonidos, oír movimientos",
+   "blurb": "Templo da Música concert: Miguel Rocha (cello) and Adriano Aguiar (double bass) play a selection from their VSOM project, music built on the link between sound, imagination and movement. The dance part is left out in this space.",
+   "blurb_pt": "Concerto do Templo da Música: Miguel Rocha (violoncelo) e Adriano Aguiar (contrabaixo) revisitam o projeto VSOM, música que parte do diálogo entre o som, a imaginação e o movimento. Sem a componente coreográfica, devido ao espaço.",
+   "blurb_es": "Concierto del Templo da Música: Miguel Rocha (violonchelo) y Adriano Aguiar (contrabajo) revisitan su proyecto VSOM, música que nace del diálogo entre sonido, imaginación y movimiento. Sin la parte coreográfica, por el espacio.",
+   "place": "Igreja da Misericórdia",
+   "place_pt": "Igreja da Misericórdia",
+   "place_es": "Igreja da Misericórdia",
+   "venue": "igreja-misericordia",
+   "url": "https://www.cm-tomar.pt/comunicacao/agenda",
+   "dateEnd": null
+  },
+  {
+   "id": "ev-2026-11-21-welcome-to-europe",
+   "date": "2026-11-21",
+   "time": "18:00",
+   "name": "Welcome to Europe, by Ricardo Correia",
+   "name_pt": "Welcome to Europe, de Ricardo Correia",
+   "name_es": "Welcome to Europe, de Ricardo Correia",
+   "blurb": "Theatre staged as a guided tour of a living museum, with rooms on memory, identity and politics that ask what being European means today. M/14, 70 min, €5; tickets soon at the Cine-Teatro Paraíso and bol.pt.",
+   "blurb_pt": "Teatro em forma de visita guiada a um museu vivo, com salas de memória, identidade e política que perguntam o que é, hoje, ser europeu. M/14, 70 min, 5 €; bilhetes brevemente no Cine-Teatro Paraíso e em bol.pt.",
+   "blurb_es": "Teatro planteado como una visita guiada a un museo vivo, con salas de memoria, identidad y política que preguntan qué significa hoy ser europeo. M/14, 70 min, 5 €; entradas pronto en el Cine-Teatro Paraíso y en bol.pt.",
+   "place": "Complexo Cultural da Levada",
+   "place_pt": "Complexo Cultural da Levada",
+   "place_es": "Complejo Cultural da Levada",
+   "venue": "levada-tomar",
+   "price": "€5",
+   "price_pt": "5 €",
+   "price_es": "5 €",
+   "url": "https://cineteatro.cm-tomar.pt/welcome-to-europe-de-ricardo-correia-",
+   "dateEnd": null
+  },
+  {
+   "id": "ev-2026-12-17-concerto-de-natal",
+   "date": "2026-12-17",
+   "time": "19:15",
+   "name": "Christmas concert: Zêzere Arts Vocal Ensemble & Musicamerata",
+   "name_pt": "Concerto de Natal: Zêzere Arts Vocal Ensemble & Musicamerata",
+   "name_es": "Concierto de Navidad: Zêzere Arts Vocal Ensemble & Musicamerata",
+   "blurb": "The Templo da Música’s traditional Christmas concert: festive classical music and Christmas readings, from celebration to quiet reflection.",
+   "blurb_pt": "O tradicional concerto de Natal do Templo da Música: música clássica festiva e textos de inspiração natalícia, entre a celebração e a contemplação.",
+   "blurb_es": "El tradicional concierto de Navidad del Templo da Música: música clásica festiva y textos navideños, entre la celebración y la contemplación.",
+   "place": "Igreja da Misericórdia",
+   "place_pt": "Igreja da Misericórdia",
+   "place_es": "Igreja da Misericórdia",
+   "venue": "igreja-misericordia",
+   "url": "https://www.cm-tomar.pt/comunicacao/agenda",
+   "dateEnd": null
   }
  ],
  "listings": [
@@ -4676,6 +4806,660 @@
     ]
    },
    "id": "pastelaria-arcadia"
+  },
+  {
+   "category": "eat",
+   "zone": "centro",
+   "name": "Café Tendinha",
+   "blurb": "A small coffee shop in the Rua dos Arcos, in the old town, opening at 6:30 on weekdays. Rated 4.9 on Google. Saturdays 7:00–15:00; closed on Sundays.",
+   "detail": "R. dos Arcos 72, 2300-574 Tomar",
+   "icon": "coffee",
+   "name_pt": "Café Tendinha",
+   "blurb_pt": "Um pequeno café na Rua dos Arcos, no centro histórico, que abre às 6h30 nos dias úteis. Com 4,9 no Google. Sábado 7h–15h; fecha ao domingo.",
+   "detail_pt": "R. dos Arcos 72, 2300-574 Tomar",
+   "name_es": "Café Tendinha",
+   "blurb_es": "Una pequeña cafetería en la Rua dos Arcos, en el casco antiguo, que abre a las 6:30 entre semana. Un 4,9 en Google. Sábados 7:00–15:00; cierra los domingos.",
+   "detail_es": "R. dos Arcos 72, 2300-574 Tomar",
+   "sub": [
+    "cafes",
+    "brunch"
+   ],
+   "tags": [
+    "cafe"
+   ],
+   "links": {
+    "website": "https://www.cafetendinha.com/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Tendinha%2C+R.+dos+Arcos+72%2C+2300-574+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      6.5,
+      20
+     ]
+    ],
+    "2": [
+     [
+      6.5,
+      20
+     ]
+    ],
+    "3": [
+     [
+      6.5,
+      20
+     ]
+    ],
+    "4": [
+     [
+      6.5,
+      20
+     ]
+    ],
+    "5": [
+     [
+      6.5,
+      20
+     ]
+    ],
+    "6": [
+     [
+      7,
+      15
+     ]
+    ]
+   },
+   "id": "cafe-tendinha"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Lodge",
+   "blurb": "A busy restaurant with more than 1,000 Google reviews, about €10–25 a head. Lunch and dinner every day.",
+   "detail": "R. Carlos Maria Pereira 7A, 2300-457 Tomar",
+   "icon": "food",
+   "name_pt": "Lodge",
+   "blurb_pt": "Um restaurante muito procurado, com mais de 1000 avaliações no Google e refeições por cerca de 10–25 €. Almoço e jantar todos os dias.",
+   "detail_pt": "R. Carlos Maria Pereira 7A, 2300-457 Tomar",
+   "name_es": "Lodge",
+   "blurb_es": "Un restaurante muy concurrido, con más de 1.000 reseñas en Google y comidas por unos 10–25 €. Comida y cena todos los días.",
+   "detail_es": "R. Carlos Maria Pereira 7A, 2300-457 Tomar",
+   "sub": [
+    "restaurants"
+   ],
+   "tags": [
+    "restaurant"
+   ],
+   "phone": "+351249346359",
+   "links": {
+    "website": "https://www.restaurantelodge.com/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Lodge%2C+R.+Carlos+Maria+Pereira+7A%2C+2300-457+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      12,
+      15
+     ],
+     [
+      18.5,
+      23
+     ]
+    ],
+    "2": [
+     [
+      12,
+      15
+     ],
+     [
+      18.5,
+      23
+     ]
+    ],
+    "3": [
+     [
+      12,
+      15
+     ],
+     [
+      18.5,
+      23
+     ]
+    ],
+    "4": [
+     [
+      12,
+      15
+     ],
+     [
+      18.5,
+      23
+     ]
+    ],
+    "5": [
+     [
+      12,
+      15
+     ],
+     [
+      18.5,
+      23
+     ]
+    ],
+    "6": [
+     [
+      12,
+      15
+     ],
+     [
+      18.5,
+      23
+     ]
+    ],
+    "0": [
+     [
+      12,
+      15
+     ],
+     [
+      18.5,
+      23
+     ]
+    ]
+   },
+   "id": "lodge-tomar"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Restaurante O Carrão",
+   "blurb": "A village restaurant at Caniçal, Madalena, about €20–25 a head with 500+ Google reviews (4.4). Lunch most days, dinner too on Fridays and Saturdays; closed on Tuesdays.",
+   "detail": "Rua de Tomar 9, Caniçal, 2305-403 Madalena (Tomar)",
+   "icon": "food",
+   "name_pt": "Restaurante O Carrão",
+   "blurb_pt": "Restaurante de aldeia no Caniçal, Madalena, cerca de 20–25 € por pessoa e mais de 500 avaliações no Google (4,4). Almoço na maioria dos dias e também jantar à sexta e ao sábado; fecha à terça.",
+   "detail_pt": "Rua de Tomar 9, Caniçal, 2305-403 Madalena (Tomar)",
+   "name_es": "Restaurante O Carrão",
+   "blurb_es": "Restaurante de pueblo en Caniçal, Madalena, unos 20–25 € por persona y más de 500 reseñas en Google (4,4). Comida casi todos los días y también cena viernes y sábado; cierra los martes.",
+   "detail_es": "Rua de Tomar 9, Caniçal, 2305-403 Madalena (Tomar)",
+   "sub": [
+    "restaurants",
+    "outoftown"
+   ],
+   "tags": [
+    "restaurant",
+    "portuguese-food"
+   ],
+   "phone": "+351917358116",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Restaurante+O+Carr%C3%A3o%2C+Rua+de+Tomar+9%2C+Cani%C3%A7al%2C+2305-403+Madalena+%28Tomar%29"
+   },
+   "hours": {
+    "1": [
+     [
+      12,
+      15
+     ]
+    ],
+    "3": [
+     [
+      12,
+      15
+     ]
+    ],
+    "4": [
+     [
+      12,
+      15
+     ]
+    ],
+    "5": [
+     [
+      12,
+      15
+     ],
+     [
+      19.5,
+      21.25
+     ]
+    ],
+    "6": [
+     [
+      12,
+      15
+     ],
+     [
+      19.5,
+      21.25
+     ]
+    ],
+    "0": [
+     [
+      12,
+      15
+     ]
+    ]
+   },
+   "id": "restaurante-o-carrao"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Coração de Alviobeira",
+   "blurb": "The café at the heart of the village of Alviobeira, north of Tomar, with 200 Google reviews (4.4). Open every day, from 7:00 (8:00 on Sundays).",
+   "detail": "R. da Escola 4, 2305-061 Alviobeira (Tomar)",
+   "icon": "coffee",
+   "name_pt": "Coração de Alviobeira",
+   "blurb_pt": "O café no coração da aldeia de Alviobeira, a norte de Tomar, com 200 avaliações no Google (4,4). Aberto todos os dias, a partir das 7h (8h ao domingo).",
+   "detail_pt": "R. da Escola 4, 2305-061 Alviobeira (Tomar)",
+   "name_es": "Coração de Alviobeira",
+   "blurb_es": "El café en el corazón del pueblo de Alviobeira, al norte de Tomar, con 200 reseñas en Google (4,4). Abierto todos los días, desde las 7:00 (8:00 los domingos).",
+   "detail_es": "R. da Escola 4, 2305-061 Alviobeira (Tomar)",
+   "sub": [
+    "cafes",
+    "outoftown"
+   ],
+   "tags": [
+    "cafe"
+   ],
+   "phone": "+351249302160",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Cora%C3%A7%C3%A3o+de+Alviobeira%2C+R.+da+Escola+4%2C+2305-061+Alviobeira+%28Tomar%29"
+   },
+   "hours": {
+    "1": [
+     [
+      7,
+      20
+     ]
+    ],
+    "2": [
+     [
+      7,
+      20
+     ]
+    ],
+    "3": [
+     [
+      7,
+      20
+     ]
+    ],
+    "4": [
+     [
+      7,
+      20
+     ]
+    ],
+    "5": [
+     [
+      7,
+      20
+     ]
+    ],
+    "6": [
+     [
+      7,
+      20
+     ]
+    ],
+    "0": [
+     [
+      8,
+      17
+     ]
+    ]
+   },
+   "id": "coracao-de-alviobeira"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Restaurante Galão",
+   "blurb": "A small daytime restaurant in Alviobeira, about €10–15 a head. Monday to Saturday, 8:00–16:00; closed on Sundays.",
+   "detail": "R. António João Antunes, 2305-061 Alviobeira (Tomar)",
+   "icon": "food",
+   "name_pt": "Restaurante Galão",
+   "blurb_pt": "Pequeno restaurante de dia em Alviobeira, cerca de 10–15 € por pessoa. Segunda a sábado, 8h–16h; fecha ao domingo.",
+   "detail_pt": "R. António João Antunes, 2305-061 Alviobeira (Tomar)",
+   "name_es": "Restaurante Galão",
+   "blurb_es": "Pequeño restaurante de día en Alviobeira, unos 10–15 € por persona. De lunes a sábado, 8:00–16:00; cierra los domingos.",
+   "detail_es": "R. António João Antunes, 2305-061 Alviobeira (Tomar)",
+   "sub": [
+    "restaurants",
+    "outoftown"
+   ],
+   "tags": [
+    "restaurant",
+    "portuguese-food"
+   ],
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Restaurante+Gal%C3%A3o%2C+R.+Ant%C3%B3nio+Jo%C3%A3o+Antunes%2C+2305-061+Alviobeira+%28Tomar%29"
+   },
+   "hours": {
+    "1": [
+     [
+      8,
+      16
+     ]
+    ],
+    "2": [
+     [
+      8,
+      16
+     ]
+    ],
+    "3": [
+     [
+      8,
+      16
+     ]
+    ],
+    "4": [
+     [
+      8,
+      16
+     ]
+    ],
+    "5": [
+     [
+      8,
+      16
+     ]
+    ],
+    "6": [
+     [
+      8,
+      16
+     ]
+    ]
+   },
+   "id": "restaurante-galao"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Restaurante Parreirinha",
+   "blurb": "A small restaurant at about €10–15 a head, rated 4.5 by its customers. Open 10:00–22:00 on weekdays, Sundays until 16:00; closed on Saturdays.",
+   "detail": "Tv. Brites Gonçalves 6, 2300-519 Tomar",
+   "icon": "food",
+   "name_pt": "Restaurante Parreirinha",
+   "blurb_pt": "Um pequeno restaurante com refeições por cerca de 10–15 €, com 4,5 de avaliação. Aberto das 10h às 22h nos dias úteis e ao domingo até às 16h; fecha ao sábado.",
+   "detail_pt": "Tv. Brites Gonçalves 6, 2300-519 Tomar",
+   "name_es": "Restaurante Parreirinha",
+   "blurb_es": "Un pequeño restaurante con comidas por unos 10–15 €, con un 4,5 de valoración. Abierto de 10:00 a 22:00 entre semana y los domingos hasta las 16:00; cierra los sábados.",
+   "detail_es": "Tv. Brites Gonçalves 6, 2300-519 Tomar",
+   "sub": [
+    "restaurants"
+   ],
+   "tags": [
+    "restaurant",
+    "portuguese-food"
+   ],
+   "phone": "+351919108448",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Restaurante+Parreirinha%2C+Tv.+Brites+Gon%C3%A7alves+6%2C+2300-519+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      10,
+      22
+     ]
+    ],
+    "2": [
+     [
+      10,
+      22
+     ]
+    ],
+    "3": [
+     [
+      10,
+      22
+     ]
+    ],
+    "4": [
+     [
+      10,
+      22
+     ]
+    ],
+    "5": [
+     [
+      10,
+      22
+     ]
+    ],
+    "0": [
+     [
+      10,
+      16
+     ]
+    ]
+   },
+   "id": "restaurante-parreirinha"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Água na Boca",
+   "blurb": "A restaurant whose name means mouth-watering, with meals at about €5–10 and a 4.4 rating on Google. Open from noon, Monday to Saturday; closed on Sundays.",
+   "detail": "R. Gen. Fernando de Oliveira 17, Tomar",
+   "icon": "food",
+   "name_pt": "Água na Boca",
+   "blurb_pt": "Um restaurante com refeições por cerca de 5–10 € e 4,4 de avaliação no Google. Aberto a partir do meio-dia, de segunda a sábado; fecha ao domingo.",
+   "detail_pt": "R. Gen. Fernando de Oliveira 17, Tomar",
+   "name_es": "Água na Boca",
+   "blurb_es": "Un restaurante cuyo nombre significa se me hace la boca agua, con comidas por unos 5–10 € y un 4,4 en Google. Abierto desde mediodía, de lunes a sábado; cierra los domingos.",
+   "detail_es": "R. Gen. Fernando de Oliveira 17, Tomar",
+   "sub": [
+    "restaurants"
+   ],
+   "tags": [
+    "restaurant"
+   ],
+   "phone": "+351249313177",
+   "links": {
+    "website": "https://www.aguanaboca.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=%C3%81gua+na+Boca%2C+R.+Gen.+Fernando+de+Oliveira+17%2C+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      12,
+      15
+     ],
+     [
+      18,
+      22
+     ]
+    ],
+    "2": [
+     [
+      12,
+      22
+     ]
+    ],
+    "3": [
+     [
+      12,
+      22
+     ]
+    ],
+    "4": [
+     [
+      12,
+      22
+     ]
+    ],
+    "5": [
+     [
+      12,
+      22
+     ]
+    ],
+    "6": [
+     [
+      12,
+      22
+     ]
+    ]
+   },
+   "id": "agua-na-boca"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "A Taverna",
+   "blurb": "A village taverna-restaurant south of Tomar, about €10–15 a head and rated 4.5 by almost 200 Google reviewers. No opening hours online, so call ahead.",
+   "detail": "Largo de São Francisco, 2305-123 Tomar",
+   "icon": "food",
+   "name_pt": "A Taverna",
+   "blurb_pt": "Uma taberna-restaurante de aldeia a sul de Tomar, cerca de 10–15 € por pessoa e 4,5 em quase 200 avaliações no Google. Não tem horário online, por isso liga antes.",
+   "detail_pt": "Largo de São Francisco, 2305-123 Tomar",
+   "name_es": "A Taverna",
+   "blurb_es": "Una taberna-restaurante de pueblo al sur de Tomar, unos 10–15 € por persona y un 4,5 en casi 200 reseñas de Google. No tiene horario en internet, así que llama antes.",
+   "detail_es": "Largo de São Francisco, 2305-123 Tomar",
+   "sub": [
+    "restaurants",
+    "outoftown"
+   ],
+   "tags": [
+    "restaurant",
+    "petiscos"
+   ],
+   "phone": "+351249382005",
+   "links": {
+    "instagram": "https://www.instagram.com/_ataverna_/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=A+Taverna%2C+Largo+de+S%C3%A3o+Francisco%2C+2305-123+Tomar"
+   },
+   "id": "a-taverna-asseiceira"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Galeão",
+   "blurb": "A restaurant on the Avenida Norton de Matos, by the Mercado Municipal, about €15–20 a head and rated 4.8 on Google. Monday to Saturday, 10:00–23:00.",
+   "detail": "Av. Norton de Matos 10, 2300-438 Tomar",
+   "icon": "food",
+   "name_pt": "Galeão",
+   "blurb_pt": "Restaurante na Avenida Norton de Matos, junto ao Mercado Municipal, cerca de 15–20 € por pessoa e 4,8 no Google. Segunda a sábado, 10h–23h.",
+   "detail_pt": "Av. Norton de Matos 10, 2300-438 Tomar",
+   "name_es": "Galeão",
+   "blurb_es": "Restaurante en la Avenida Norton de Matos, junto al Mercado Municipal, unos 15–20 € por persona y un 4,8 en Google. De lunes a sábado, 10:00–23:00.",
+   "detail_es": "Av. Norton de Matos 10, 2300-438 Tomar",
+   "sub": [
+    "restaurants"
+   ],
+   "tags": [
+    "restaurant"
+   ],
+   "phone": "+351912154680",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Gale%C3%A3o%2C+Av.+Norton+de+Matos+10%2C+2300-438+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      10,
+      23
+     ]
+    ],
+    "2": [
+     [
+      10,
+      23
+     ]
+    ],
+    "3": [
+     [
+      10,
+      23
+     ]
+    ],
+    "4": [
+     [
+      10,
+      23
+     ]
+    ],
+    "5": [
+     [
+      10,
+      23
+     ]
+    ],
+    "6": [
+     [
+      10,
+      23
+     ]
+    ]
+   },
+   "id": "galeao-tomar"
+  },
+  {
+   "category": "eat",
+   "zone": "town",
+   "name": "Casa de Caná",
+   "blurb": "Specialty coffee and a wine shop (garrafeira) in one, inside the Mercado Municipal. Mornings only: Tuesday to Saturday, until 14:00 (from 7:30 on Fridays and Saturdays).",
+   "detail": "Mercado Municipal de Tomar, loja 5, Av. Norton de Matos, 2300-438 Tomar",
+   "icon": "coffee",
+   "name_pt": "Casa de Caná",
+   "blurb_pt": "Café de especialidade e garrafeira no mesmo espaço, dentro do Mercado Municipal. Só de manhã: terça a sábado, até às 14h (a partir das 7h30 à sexta e ao sábado).",
+   "detail_pt": "Mercado Municipal de Tomar, loja 5, Av. Norton de Matos, 2300-438 Tomar",
+   "name_es": "Casa de Caná",
+   "blurb_es": "Café de especialidad y tienda de vinos (garrafeira) en un mismo espacio, dentro del Mercado Municipal. Solo por la mañana: de martes a sábado, hasta las 14:00 (desde las 7:30 viernes y sábado).",
+   "detail_es": "Mercado Municipal de Tomar, loja 5, Av. Norton de Matos, 2300-438 Tomar",
+   "sub": [
+    "brunch",
+    "wine",
+    "markets"
+   ],
+   "tags": [
+    "cafe",
+    "wine",
+    "food-shop"
+   ],
+   "phone": "+351917089155",
+   "links": {
+    "website": "https://acasadecana.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Casa+de+Can%C3%A1%2C+Mercado+Municipal+de+Tomar%2C+loja+5%2C+Av.+Norton+de+Matos%2C+2300-438+Tomar"
+   },
+   "hours": {
+    "2": [
+     [
+      8,
+      14
+     ]
+    ],
+    "3": [
+     [
+      8,
+      14
+     ]
+    ],
+    "4": [
+     [
+      8,
+      14
+     ]
+    ],
+    "5": [
+     [
+      7.5,
+      14
+     ]
+    ],
+    "6": [
+     [
+      7.5,
+      14
+     ]
+    ]
+   },
+   "id": "casa-de-cana"
   }
  ],
  "patches": {
