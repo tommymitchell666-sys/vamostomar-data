@@ -1,6 +1,6 @@
 {
- "rev": 53,
- "updated": "2026-10-13T18:51:57.000Z",
+ "rev": 54,
+ "updated": "2026-10-14T14:25:28.207Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -3327,6 +3327,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Tomar%2C+Estr.+do+Barreiro+9A%2C+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      7,
+      23
+     ]
+    ],
     "1": [
      [
       7,
@@ -3358,12 +3364,6 @@
      ]
     ],
     "6": [
-     [
-      7,
-      23
-     ]
-    ],
-    "0": [
      [
       7,
       23
@@ -3398,6 +3398,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Cap%C3%ADtulo%2C+Av.+Norton+de+Matos%2C+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      14,
+      2
+     ]
+    ],
     "1": [
      [
       8,
@@ -3431,12 +3437,6 @@
     "6": [
      [
       8,
-      2
-     ]
-    ],
-    "0": [
-     [
-      14,
       2
      ]
     ]
@@ -3469,6 +3469,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Mr.+Pizza+Tomar%2C+R.+Cel.+Garc%C3%AAs+Teixeira+14%2C+loja+A%2C+2300-460+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      12,
+      22.5
+     ]
+    ],
     "1": [
      [
       12,
@@ -3500,12 +3506,6 @@
      ]
     ],
     "6": [
-     [
-      12,
-      22.5
-     ]
-    ],
-    "0": [
      [
       12,
       22.5
@@ -3541,6 +3541,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Star+Kebab+%26+Pizza+Tomar%2C+R.+Marqu%C3%AAs+de+Pombal+54%2C+2300-510+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      11,
+      23
+     ]
+    ],
     "1": [
      [
       11,
@@ -3572,12 +3578,6 @@
      ]
     ],
     "6": [
-     [
-      11,
-      23
-     ]
-    ],
-    "0": [
      [
       11,
       23
@@ -3678,6 +3678,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Snack-Bar+Esperan%C3%A7a%2C+R.+F%C3%A1brica+da+Fia%C3%A7%C3%A3o+56A%2C+2300-465+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      9,
+      15.5
+     ]
+    ],
     "2": [
      [
       9,
@@ -3707,12 +3713,6 @@
       9,
       23
      ]
-    ],
-    "0": [
-     [
-      9,
-      15.5
-     ]
     ]
    },
    "id": "cafe-snack-bar-esperanca"
@@ -3741,6 +3741,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=D%27Arco+Caf%C3%A9+Snack-Bar%2C+R.+Santa+Iria+37%2C+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      7,
+      21
+     ]
+    ],
     "1": [
      [
       7,
@@ -3772,12 +3778,6 @@
      ]
     ],
     "6": [
-     [
-      7,
-      21
-     ]
-    ],
-    "0": [
      [
       7,
       21
@@ -3877,6 +3877,16 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Justsushi+Tomar%2C+R.+dos+Arcos+13%2C+2300-574+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      22.5
+     ]
+    ],
     "2": [
      [
       12,
@@ -3918,16 +3928,6 @@
      ]
     ],
     "6": [
-     [
-      12,
-      15
-     ],
-     [
-      19,
-      22.5
-     ]
-    ],
-    "0": [
      [
       12,
       15
@@ -4120,6 +4120,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Restaurante+O+Pato+Bravo%2C+EM535%2C+Madalena+%28Tomar%29"
    },
    "hours": {
+    "0": [
+     [
+      7,
+      21
+     ]
+    ],
     "1": [
      [
       7,
@@ -4145,12 +4151,6 @@
      ]
     ],
     "6": [
-     [
-      7,
-      21
-     ]
-    ],
-    "0": [
      [
       7,
       21
@@ -4247,6 +4247,16 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Sabores+da+Alma%2C+Av.+Dr.+Aur%C3%A9lio+Ribeiro%2C+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      12,
+      15
+     ],
+     [
+      18.5,
+      22
+     ]
+    ],
     "1": [
      [
       12,
@@ -4284,16 +4294,6 @@
      ]
     ],
     "6": [
-     [
-      12,
-      15
-     ],
-     [
-      18.5,
-      22
-     ]
-    ],
-    "0": [
      [
       12,
       15
@@ -4334,6 +4334,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Churrasqueira+Novos+Sabores%2C+R.+Gen.+Fernando+de+Oliveira+21A%2C+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      11.5,
+      15
+     ]
+    ],
     "2": [
      [
       11.5,
@@ -4382,12 +4388,6 @@
      [
       18.5,
       22.5
-     ]
-    ],
-    "0": [
-     [
-      11.5,
-      15
      ]
     ]
    },
@@ -4418,6 +4418,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Restaurante+A+Familiar%2C+Acesso+Particular+22%2C+Tomar+%28Plus+Code+JJGC%2B8C%29"
    },
    "hours": {
+    "0": [
+     [
+      8,
+      15
+     ]
+    ],
     "2": [
      [
       8,
@@ -4443,12 +4449,6 @@
      ]
     ],
     "6": [
-     [
-      8,
-      15
-     ]
-    ],
-    "0": [
      [
       8,
       15
@@ -4484,6 +4484,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Santo+Amaro%2C+R.+25+de+Abril+127%2C+Carregueiros+%28Tomar%29"
    },
    "hours": {
+    "0": [
+     [
+      9,
+      24
+     ]
+    ],
     "1": [
      [
       7,
@@ -4519,12 +4525,6 @@
       8,
       2
      ]
-    ],
-    "0": [
-     [
-      9,
-      24
-     ]
     ]
    },
    "id": "cafe-santo-amaro"
@@ -4554,6 +4554,16 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Restaurante+Landeira%2C+R.+da+Silva+Magalh%C3%A3es%2C+2300-593+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      12,
+      15
+     ],
+     [
+      19,
+      22
+     ]
+    ],
     "1": [
      [
       12,
@@ -4585,16 +4595,6 @@
      ]
     ],
     "6": [
-     [
-      12,
-      15
-     ],
-     [
-      19,
-      22
-     ]
-    ],
-    "0": [
      [
       12,
       15
@@ -4699,6 +4699,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Restaurante+S%C3%A3o+Pedro%2C+EM533+42B%2C+2300-187+S%C3%A3o+Pedro+de+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      8,
+      22
+     ]
+    ],
     "2": [
      [
       7.5,
@@ -4724,12 +4730,6 @@
      ]
     ],
     "6": [
-     [
-      8,
-      22
-     ]
-    ],
-    "0": [
      [
       8,
       22
@@ -4762,6 +4762,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+Pastelaria+Arc%C3%A1dia%2C+Av.+Torres+Pinheiro+59%2C+2300-537+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      8,
+      20
+     ]
+    ],
     "1": [
      [
       7,
@@ -4795,12 +4801,6 @@
     "6": [
      [
       7,
-      20
-     ]
-    ],
-    "0": [
-     [
-      8,
       20
      ]
     ]
@@ -4896,6 +4896,16 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Lodge%2C+R.+Carlos+Maria+Pereira+7A%2C+2300-457+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      12,
+      15
+     ],
+     [
+      18.5,
+      23
+     ]
+    ],
     "1": [
      [
       12,
@@ -4947,16 +4957,6 @@
      ]
     ],
     "6": [
-     [
-      12,
-      15
-     ],
-     [
-      18.5,
-      23
-     ]
-    ],
-    "0": [
      [
       12,
       15
@@ -4995,6 +4995,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Restaurante+O+Carr%C3%A3o%2C+Rua+de+Tomar+9%2C+Cani%C3%A7al%2C+2305-403+Madalena+%28Tomar%29"
    },
    "hours": {
+    "0": [
+     [
+      12,
+      15
+     ]
+    ],
     "1": [
      [
       12,
@@ -5032,12 +5038,6 @@
       19.5,
       21.25
      ]
-    ],
-    "0": [
-     [
-      12,
-      15
-     ]
     ]
    },
    "id": "restaurante-o-carrao"
@@ -5067,6 +5067,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Cora%C3%A7%C3%A3o+de+Alviobeira%2C+R.+da+Escola+4%2C+2305-061+Alviobeira+%28Tomar%29"
    },
    "hours": {
+    "0": [
+     [
+      8,
+      17
+     ]
+    ],
     "1": [
      [
       7,
@@ -5101,12 +5107,6 @@
      [
       7,
       20
-     ]
-    ],
-    "0": [
-     [
-      8,
-      17
      ]
     ]
    },
@@ -5201,6 +5201,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Restaurante+Parreirinha%2C+Tv.+Brites+Gon%C3%A7alves+6%2C+2300-519+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      10,
+      16
+     ]
+    ],
     "1": [
      [
       10,
@@ -5229,12 +5235,6 @@
      [
       10,
       22
-     ]
-    ],
-    "0": [
-     [
-      10,
-      16
      ]
     ]
    },
@@ -5906,7 +5906,8 @@
   "aldeia-do-mato",
   "terlaser-saude",
   "boca-a-boca",
-  "affidea"
+  "affidea",
+  "yukul-pizza"
  ],
  "guestbook": [],
  "insider": [],
