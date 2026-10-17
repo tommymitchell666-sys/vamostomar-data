@@ -1,6 +1,6 @@
 {
- "rev": 55,
- "updated": "2026-10-14T14:25:40.197Z",
+ "rev": 56,
+ "updated": "2026-10-17T16:08:56.000Z",
  "events": [
   {
    "date": "2026-10-03",
@@ -5460,6 +5460,1968 @@
     ]
    },
    "id": "casa-de-cana"
+  },
+  {
+   "id": "cozinha-antiga",
+   "category": "eat",
+   "zone": "sul",
+   "icon": "food",
+   "sub": [
+    "restaurants"
+   ],
+   "tags": [
+    "restaurant",
+    "portuguese-food"
+   ],
+   "name": "Cozinha Antiga",
+   "name_pt": "Cozinha Antiga",
+   "name_es": "Cozinha Antiga",
+   "blurb": "A daytime Portuguese restaurant on the south side of town, about €10–15 a head. Dine in or take away. Open 9:00–15:00, Monday to Saturday.",
+   "blurb_pt": "Restaurante português de dia, no lado sul da cidade, cerca de 10–15 € por pessoa. Para comer lá ou levar. Aberto das 9h às 15h, de segunda a sábado.",
+   "blurb_es": "Restaurante portugués de día, en el lado sur de la ciudad, unos 10–15 € por persona. Para comer allí o para llevar. Abre de 9:00 a 15:00, de lunes a sábado.",
+   "detail": "R. Pêssego, 2300-168 Tomar",
+   "detail_pt": "R. Pêssego, 2300-168 Tomar",
+   "detail_es": "R. Pêssego, 2300-168 Tomar",
+   "phone": "+351935826900",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Cozinha+Antiga%2C+R.+P%C3%AAssego%2C+2300-168+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      15
+     ]
+    ],
+    "2": [
+     [
+      9,
+      15
+     ]
+    ],
+    "3": [
+     [
+      9,
+      15
+     ]
+    ],
+    "4": [
+     [
+      9,
+      15
+     ]
+    ],
+    "5": [
+     [
+      9,
+      15
+     ]
+    ],
+    "6": [
+     [
+      9,
+      15
+     ]
+    ]
+   }
+  },
+  {
+   "id": "legenda-medieval",
+   "category": "eat",
+   "zone": "centro",
+   "icon": "coffee",
+   "sub": [
+    "cafes",
+    "restaurants"
+   ],
+   "tags": [
+    "cafe",
+    "restaurant",
+    "templars"
+   ],
+   "name": "Legenda Medieval",
+   "name_pt": "Legenda Medieval",
+   "name_es": "Legenda Medieval",
+   "blurb": "A medieval-themed café-restaurant on the main avenue, open every day from breakfast to early evening.",
+   "blurb_pt": "Café-restaurante de temática medieval na avenida principal, aberto todos os dias do pequeno-almoço ao fim da tarde.",
+   "blurb_es": "Café-restaurante de temática medieval en la avenida principal, abierto todos los días del desayuno a última hora de la tarde.",
+   "detail": "Av. Dr. Cândido Madureira 81, 2300-531 Tomar",
+   "detail_pt": "Av. Dr. Cândido Madureira 81, 2300-531 Tomar",
+   "detail_es": "Av. Dr. Cândido Madureira 81, 2300-531 Tomar",
+   "phone": "+351249092980",
+   "links": {
+    "facebook": "https://www.facebook.com/legendamedieval",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Legenda+Medieval%2C+Av.+Dr.+C%C3%A2ndido+Madureira+81%2C+2300-531+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      8,
+      19
+     ]
+    ],
+    "1": [
+     [
+      8,
+      19
+     ]
+    ],
+    "2": [
+     [
+      8,
+      19
+     ]
+    ],
+    "3": [
+     [
+      8,
+      19
+     ]
+    ],
+    "4": [
+     [
+      8,
+      19
+     ]
+    ],
+    "5": [
+     [
+      8,
+      19
+     ]
+    ],
+    "6": [
+     [
+      8,
+      19
+     ]
+    ]
+   }
+  },
+  {
+   "id": "a-primorosa",
+   "category": "eat",
+   "zone": "town",
+   "icon": "coffee",
+   "sub": [
+    "cafes"
+   ],
+   "tags": [
+    "cafe"
+   ],
+   "name": "A Primorosa",
+   "name_pt": "A Primorosa",
+   "name_es": "A Primorosa",
+   "blurb": "A neighbourhood café that carries an old Tomar name: the original Primorosa was in the Casa Vieira Guimarães. Open late most nights; closed Mondays.",
+   "blurb_pt": "Café de bairro com um nome antigo de Tomar: a Primorosa original ficava na Casa Vieira Guimarães. Aberto até tarde quase todas as noites; fecha à segunda.",
+   "blurb_es": "Café de barrio con un nombre antiguo de Tomar: la Primorosa original estaba en la Casa Vieira Guimarães. Abre hasta tarde casi todas las noches; cierra los lunes.",
+   "detail": "Praceta de Olivença 2, 2300-629 Tomar",
+   "detail_pt": "Praceta de Olivença 2, 2300-629 Tomar",
+   "detail_es": "Praceta de Olivença 2, 2300-629 Tomar",
+   "phone": "+351916426604",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=A+Primorosa%2C+Praceta+de+Oliven%C3%A7a+2%2C+2300-629+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "2": [
+     [
+      8.5,
+      24
+     ]
+    ],
+    "3": [
+     [
+      8.5,
+      24
+     ]
+    ],
+    "4": [
+     [
+      8.5,
+      24
+     ]
+    ],
+    "5": [
+     [
+      8.5,
+      24
+     ]
+    ],
+    "6": [
+     [
+      8.5,
+      24
+     ]
+    ]
+   }
+  },
+  {
+   "id": "restaurante-alvora",
+   "category": "eat",
+   "zone": "arredores",
+   "icon": "food",
+   "sub": [
+    "restaurants",
+    "outoftown"
+   ],
+   "tags": [
+    "restaurant",
+    "portuguese-food"
+   ],
+   "name": "Restaurante Alvora",
+   "name_pt": "Restaurante Alvora",
+   "name_es": "Restaurante Alvora",
+   "blurb": "A well-rated lunch spot in the village of Maxieira, São Pedro, a short drive out of town. Lunch only, Monday to Saturday; worth calling ahead.",
+   "blurb_pt": "Restaurante bem avaliado para almoçar na aldeia da Maxieira, em São Pedro, a poucos minutos de carro. Só almoços, de segunda a sábado; convém ligar antes.",
+   "blurb_es": "Restaurante bien valorado para comer en la aldea de Maxieira, en São Pedro, a pocos minutos en coche. Solo comidas, de lunes a sábado; mejor llamar antes.",
+   "detail": "Maxieira 74, São Pedro, 2300-179 Tomar",
+   "detail_pt": "Maxieira 74, São Pedro, 2300-179 Tomar",
+   "detail_es": "Maxieira 74, São Pedro, 2300-179 Tomar",
+   "phone": "+351960256926",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Restaurante+Alvora%2C+Maxieira+74%2C+S%C3%A3o+Pedro%2C+2300-179+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      12,
+      14
+     ]
+    ],
+    "2": [
+     [
+      12,
+      14
+     ]
+    ],
+    "3": [
+     [
+      12,
+      14
+     ]
+    ],
+    "4": [
+     [
+      12,
+      14
+     ]
+    ],
+    "5": [
+     [
+      12,
+      14
+     ]
+    ],
+    "6": [
+     [
+      12,
+      14
+     ]
+    ]
+   }
+  },
+  {
+   "id": "casa-das-tripas",
+   "category": "eat",
+   "zone": "arredores",
+   "icon": "food",
+   "sub": [
+    "restaurants",
+    "petiscos",
+    "outoftown"
+   ],
+   "tags": [
+    "restaurant",
+    "portuguese-food",
+    "petiscos"
+   ],
+   "name": "Casa das Tripas (Café Central)",
+   "name_pt": "Casa das Tripas (Café Central)",
+   "name_es": "Casa das Tripas (Café Central)",
+   "blurb": "A village café-restaurant in Suimo known for tripe — the dish it is named after. Open every day except Monday.",
+   "blurb_pt": "Café-restaurante de aldeia no Suimo, conhecido pelas tripas que lhe dão o nome. Aberto todos os dias exceto à segunda.",
+   "blurb_es": "Café-restaurante de aldea en Suimo, conocido por los callos (tripas) que le dan nombre. Abre todos los días salvo los lunes.",
+   "detail": "Suimo, 2305 Tomar",
+   "detail_pt": "Suimo, 2305 Tomar",
+   "detail_es": "Suimo, 2305 Tomar",
+   "phone": "+351249566147",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Casa+das+Tripas+%28Caf%C3%A9+Central%29%2C+Suimo%2C+2305+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      9,
+      23
+     ]
+    ],
+    "2": [
+     [
+      9,
+      23
+     ]
+    ],
+    "3": [
+     [
+      9,
+      23
+     ]
+    ],
+    "4": [
+     [
+      9,
+      23
+     ]
+    ],
+    "5": [
+     [
+      9,
+      23
+     ]
+    ],
+    "6": [
+     [
+      9,
+      23
+     ]
+    ]
+   }
+  },
+  {
+   "id": "tasquinha-ao-rio",
+   "category": "eat",
+   "zone": "arredores",
+   "icon": "food",
+   "sub": [
+    "petiscos",
+    "riverside",
+    "outoftown"
+   ],
+   "tags": [
+    "petiscos",
+    "riverside",
+    "river-beach"
+   ],
+   "name": "Tasquinha ao Rio",
+   "name_pt": "Tasquinha ao Rio",
+   "name_es": "Tasquinha ao Rio",
+   "blurb": "A tasca right on the river beach at Fontes, on the Castelo de Bode reservoir — lunch or an early dinner after a swim. Open daily from 13:00.",
+   "blurb_pt": "Tasca mesmo na praia fluvial de Fontes, na albufeira de Castelo de Bode — almoço ou jantar cedo depois de um mergulho. Aberta todos os dias a partir das 13h.",
+   "blurb_es": "Tasca a pie de la playa fluvial de Fontes, en el embalse de Castelo de Bode: comida o cena temprana después de un baño. Abre todos los días desde las 13:00.",
+   "detail": "Praia Fluvial de Fontes, R. do Zêzere, 2230-836 Fontes (Abrantes)",
+   "detail_pt": "Praia Fluvial de Fontes, R. do Zêzere, 2230-836 Fontes (Abrantes)",
+   "detail_es": "Praia Fluvial de Fontes, R. do Zêzere, 2230-836 Fontes (Abrantes)",
+   "phone": "+351965275752",
+   "links": {
+    "website": "http://www.tasquinhaaorio.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Tasquinha+ao+Rio%2C+Praia+Fluvial+de+Fontes%2C+R.+do+Z%C3%AAzere%2C+2230-836+Fontes+%28Abrantes%29"
+   },
+   "hours": {
+    "0": [
+     [
+      13,
+      21
+     ]
+    ],
+    "1": [
+     [
+      13,
+      21
+     ]
+    ],
+    "2": [
+     [
+      13,
+      24
+     ]
+    ],
+    "3": [
+     [
+      13,
+      21
+     ]
+    ],
+    "4": [
+     [
+      13,
+      21
+     ]
+    ],
+    "5": [
+     [
+      13,
+      21
+     ]
+    ],
+    "6": [
+     [
+      13,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "id": "indian-grocery-tomar",
+   "category": "eat",
+   "zone": "centro",
+   "icon": "market",
+   "sub": [
+    "markets",
+    "world"
+   ],
+   "tags": [
+    "food-shop",
+    "world-food"
+   ],
+   "name": "Indian Grocery Store Tomar",
+   "name_pt": "Mercearia Indiana de Tomar",
+   "name_es": "Tienda india de Tomar",
+   "blurb": "Indian groceries in the historic centre — spices, rice, flours and more. Open every day, 9:00 to 21:00.",
+   "blurb_pt": "Mercearia indiana no centro histórico — especiarias, arroz, farinhas e mais. Aberta todos os dias, das 9h às 21h.",
+   "blurb_es": "Tienda de alimentación india en el centro histórico: especias, arroz, harinas y más. Abre todos los días, de 9:00 a 21:00.",
+   "detail": "R. São João 11, 2300-568 Tomar",
+   "detail_pt": "R. São João 11, 2300-568 Tomar",
+   "detail_es": "R. São João 11, 2300-568 Tomar",
+   "phone": "+351920322816",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Indian+Grocery+Store+Tomar%2C+R.+S%C3%A3o+Jo%C3%A3o+11%2C+2300-568+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      9,
+      21
+     ]
+    ],
+    "1": [
+     [
+      9,
+      21
+     ]
+    ],
+    "2": [
+     [
+      9,
+      21
+     ]
+    ],
+    "3": [
+     [
+      9,
+      21
+     ]
+    ],
+    "4": [
+     [
+      9,
+      21
+     ]
+    ],
+    "5": [
+     [
+      9,
+      21
+     ]
+    ],
+    "6": [
+     [
+      9,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "id": "nutribem",
+   "category": "eat",
+   "zone": "town",
+   "icon": "leaf",
+   "sub": [
+    "markets",
+    "vegetarian"
+   ],
+   "tags": [
+    "health-food",
+    "food-shop"
+   ],
+   "name": "Nutribem Ervanária",
+   "name_pt": "Nutribem Ervanária",
+   "name_es": "Nutribem Ervanária",
+   "blurb": "Health-food shop and herbalist by the municipal market, with over 400 Google reviews. Closed Sundays.",
+   "blurb_pt": "Ervanária e loja de produtos naturais junto ao mercado municipal, com mais de 400 avaliações no Google. Fecha ao domingo.",
+   "blurb_es": "Herbolario y tienda de productos naturales junto al mercado municipal, con más de 400 reseñas en Google. Cierra los domingos.",
+   "detail": "Av. Norton de Matos 38, loja, 2300-438 Tomar",
+   "detail_pt": "Av. Norton de Matos 38, loja, 2300-438 Tomar",
+   "detail_es": "Av. Norton de Matos 38, loja, 2300-438 Tomar",
+   "phone": "+351961239294",
+   "links": {
+    "website": "https://www.nutribem.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Nutribem+Ervan%C3%A1ria%2C+Av.+Norton+de+Matos+38%2C+loja%2C+2300-438+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      19
+     ]
+    ],
+    "2": [
+     [
+      9,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9,
+      13
+     ],
+     [
+      14,
+      18
+     ]
+    ]
+   }
+  },
+  {
+   "id": "mercearia-tianica",
+   "category": "eat",
+   "zone": "centro",
+   "icon": "market",
+   "sub": [
+    "markets"
+   ],
+   "tags": [
+    "food-shop",
+    "crafts",
+    "shop"
+   ],
+   "name": "Mercearia Tianica",
+   "name_pt": "Mercearia Tianica",
+   "name_es": "Mercearia Tianica",
+   "blurb": "A small grocer and deli in the centre that also stocks local crafts. Open every day, 9:00 to 17:00.",
+   "blurb_pt": "Pequena mercearia no centro que também vende artesanato local. Aberta todos os dias, das 9h às 17h.",
+   "blurb_es": "Pequeña tienda de ultramarinos en el centro que también vende artesanía local. Abre todos los días, de 9:00 a 17:00.",
+   "detail": "R. Alexandre Herculano 91, 2300 Tomar",
+   "detail_pt": "R. Alexandre Herculano 91, 2300 Tomar",
+   "detail_es": "R. Alexandre Herculano 91, 2300 Tomar",
+   "phone": "+351917594282",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Mercearia+Tianica%2C+R.+Alexandre+Herculano+91%2C+2300+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      9,
+      17
+     ]
+    ],
+    "1": [
+     [
+      9,
+      17
+     ]
+    ],
+    "2": [
+     [
+      9,
+      17
+     ]
+    ],
+    "3": [
+     [
+      9,
+      17
+     ]
+    ],
+    "4": [
+     [
+      9,
+      17
+     ]
+    ],
+    "5": [
+     [
+      9,
+      17
+     ]
+    ],
+    "6": [
+     [
+      9,
+      17
+     ]
+    ]
+   }
+  },
+  {
+   "id": "capela-sra-lapas",
+   "category": "see",
+   "zone": "norte",
+   "icon": "church",
+   "sub": [
+    "monuments",
+    "walks"
+   ],
+   "tags": [
+    "church",
+    "history",
+    "walking",
+    "riverside"
+   ],
+   "name": "Capela de Nossa Senhora das Lapas",
+   "name_pt": "Capela de Nossa Senhora das Lapas",
+   "name_es": "Capilla de Nossa Senhora das Lapas",
+   "blurb": "A small chapel cut into the rock beside the Nabão, north of town at Além da Ribeira. A quiet stop on a riverside walk; the rock face is also used by climbers.",
+   "blurb_pt": "Pequena capela escavada na rocha junto ao Nabão, a norte da cidade, em Além da Ribeira. Uma paragem tranquila num passeio à beira-rio; a escarpa também é usada para escalada.",
+   "blurb_es": "Pequeña capilla excavada en la roca junto al Nabão, al norte de la ciudad, en Além da Ribeira. Una parada tranquila en un paseo junto al río; la pared también se usa para escalada.",
+   "detail": "Além da Ribeira, by the Nabão · open air",
+   "detail_pt": "Além da Ribeira, junto ao Nabão · ao ar livre",
+   "detail_es": "Além da Ribeira, junto al Nabão · al aire libre",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Capela+de+Nossa+Senhora+das+Lapas%2C+Rio+Nab%C3%A3o%2C+Al%C3%A9m+da+Ribeira%2C+Tomar"
+   }
+  },
+  {
+   "id": "parque-canino",
+   "category": "see",
+   "zone": "town",
+   "icon": "paw",
+   "sub": [
+    "parks"
+   ],
+   "tags": [
+    "park",
+    "dog-friendly",
+    "free"
+   ],
+   "name": "Parque Canino (dog park)",
+   "name_pt": "Parque Canino",
+   "name_es": "Parque canino",
+   "blurb": "A dog park in town. Free and open at all hours.",
+   "blurb_pt": "Parque canino na cidade. Gratuito e sempre aberto.",
+   "blurb_es": "Parque canino en la ciudad. Gratuito y siempre abierto.",
+   "detail": "Tomar · free · open 24 hours",
+   "detail_pt": "Tomar · gratuito · aberto 24 horas",
+   "detail_es": "Tomar · gratuito · abierto 24 horas",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Parque+Canino+%28dog+park%29%2C+Tomar"
+   }
+  },
+  {
+   "id": "t-experience",
+   "category": "see",
+   "zone": "centro",
+   "icon": "river",
+   "sub": [
+    "active"
+   ],
+   "tags": [
+    "water-sports",
+    "outdoor",
+    "tours",
+    "kids"
+   ],
+   "name": "T-Experience — kayaks & adventure",
+   "name_pt": "T-Experience — kayak e aventura",
+   "name_es": "T-Experience — kayak y aventura",
+   "blurb": "Canoe and kayak trips, adventure activities and team events, run by a Tomar-based operator. Book ahead.",
+   "blurb_pt": "Descidas de canoa e kayak, atividades de aventura e eventos de grupo, de uma empresa de Tomar. Reserve com antecedência.",
+   "blurb_es": "Descensos en canoa y kayak, actividades de aventura y eventos de grupo, de una empresa de Tomar. Reserve con antelación.",
+   "detail": "R. João Carlos Everard 3, 2º E, 2300-329 Tomar",
+   "detail_pt": "R. João Carlos Everard 3, 2º E, 2300-329 Tomar",
+   "detail_es": "R. João Carlos Everard 3, 2º E, 2300-329 Tomar",
+   "phone": "+351912877262",
+   "links": {
+    "website": "https://t-experience.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=T-Experience+%E2%80%94+kayaks+%26+adventure%2C+R.+Jo%C3%A3o+Carlos+Everard+3%2C+2%C2%BA+E%2C+2300-329+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "1": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "2": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "3": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "4": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "5": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "6": [
+     [
+      9,
+      19.5
+     ]
+    ]
+   },
+   "licence": {
+    "type": "RNAAT",
+    "no": "39/2021"
+   }
+  },
+  {
+   "id": "naturz",
+   "category": "see",
+   "zone": "arredores",
+   "icon": "river",
+   "sub": [
+    "active"
+   ],
+   "tags": [
+    "water-sports",
+    "outdoor"
+   ],
+   "name": "Naturz — kayak trips",
+   "name_pt": "Naturz — descidas em kayak",
+   "name_es": "Naturz — descensos en kayak",
+   "blurb": "Kayak and canoe hire and guided river descents, based at Peralva, just outside Tomar.",
+   "blurb_pt": "Aluguer de kayaks e canoas e descidas de rio acompanhadas, com base na Peralva, mesmo à saída de Tomar.",
+   "blurb_es": "Alquiler de kayaks y canoas y descensos de río guiados, con base en Peralva, a las afueras de Tomar.",
+   "detail": "R. Quatro nº 7, Peralva, 2305-516 Paialvo",
+   "detail_pt": "R. Quatro nº 7, Peralva, 2305-516 Paialvo",
+   "detail_es": "R. Quatro nº 7, Peralva, 2305-516 Paialvo",
+   "phone": "+351914739370",
+   "links": {
+    "website": "https://www.descidas-em-kayak.com/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Naturz+%E2%80%94+kayak+trips%2C+R.+Quatro+n%C2%BA+7%2C+Peralva%2C+2305-516+Paialvo"
+   },
+   "hours": {
+    "0": [
+     [
+      9,
+      19
+     ]
+    ],
+    "1": [
+     [
+      9,
+      19
+     ]
+    ],
+    "2": [
+     [
+      9,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9,
+      19
+     ]
+    ]
+   },
+   "licence": {
+    "type": "RNAAT",
+    "no": "127/2023"
+   }
+  },
+  {
+   "id": "agua-doce-passeios",
+   "category": "see",
+   "zone": "arredores",
+   "icon": "river",
+   "sub": [
+    "active",
+    "tours"
+   ],
+   "tags": [
+    "water-sports",
+    "lake",
+    "tours"
+   ],
+   "name": "Água Doce — private boat trips",
+   "name_pt": "Água Doce — passeios náuticos privados",
+   "name_es": "Água Doce — paseos privados en barco",
+   "blurb": "Private boat trips on the Castelo de Bode reservoir. Friday to Sunday; book by phone.",
+   "blurb_pt": "Passeios de barco privados na albufeira de Castelo de Bode. De sexta a domingo; reserva por telefone.",
+   "blurb_es": "Paseos privados en barco por el embalse de Castelo de Bode. De viernes a domingo; reserva por teléfono.",
+   "detail": "Albufeira de Castelo de Bode",
+   "detail_pt": "Albufeira de Castelo de Bode",
+   "detail_es": "Albufeira de Castelo de Bode",
+   "phone": "+351917278874",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=%C3%81gua+Doce+%E2%80%94+private+boat+trips%2C+Albufeira+de+Castelo+de+Bode"
+   },
+   "hours": {
+    "0": [
+     [
+      10,
+      20
+     ]
+    ],
+    "5": [
+     [
+      10,
+      20
+     ]
+    ],
+    "6": [
+     [
+      10,
+      20
+     ]
+    ]
+   },
+   "licence": {
+    "type": "RNAAT",
+    "no": "393/2021"
+   }
+  },
+  {
+   "id": "crossfit-tomar",
+   "category": "health",
+   "zone": "sul",
+   "icon": "dumbbell",
+   "sub": [
+    "gyms"
+   ],
+   "tags": [
+    "gym",
+    "sport"
+   ],
+   "name": "CrossFit Tomar",
+   "name_pt": "CrossFit Tomar",
+   "name_es": "CrossFit Tomar",
+   "blurb": "CrossFit box with morning and evening classes on weekdays and a Saturday morning session.",
+   "blurb_pt": "Box de CrossFit com aulas de manhã e ao fim do dia durante a semana e uma sessão ao sábado de manhã.",
+   "blurb_es": "Box de CrossFit con clases por la mañana y por la tarde entre semana y una sesión el sábado por la mañana.",
+   "detail": "R. Dr. João de Oliveira Casquilho 4, R/C, 2300-576 Tomar",
+   "detail_pt": "R. Dr. João de Oliveira Casquilho 4, R/C, 2300-576 Tomar",
+   "detail_es": "R. Dr. João de Oliveira Casquilho 4, R/C, 2300-576 Tomar",
+   "phone": "+351936835595",
+   "links": {
+    "website": "https://www.crossfittomar.com/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=CrossFit+Tomar%2C+R.+Dr.+Jo%C3%A3o+de+Oliveira+Casquilho+4%2C+R%2FC%2C+2300-576+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      12
+     ],
+     [
+      16.5,
+      21.5
+     ]
+    ],
+    "2": [
+     [
+      9,
+      12
+     ],
+     [
+      16.5,
+      21.5
+     ]
+    ],
+    "3": [
+     [
+      9,
+      12
+     ],
+     [
+      16.5,
+      21.5
+     ]
+    ],
+    "4": [
+     [
+      9,
+      12
+     ],
+     [
+      16.5,
+      21.5
+     ]
+    ],
+    "5": [
+     [
+      9,
+      12
+     ],
+     [
+      16.5,
+      21.5
+     ]
+    ],
+    "6": [
+     [
+      10,
+      12
+     ]
+    ]
+   }
+  },
+  {
+   "id": "gfteam-tomar",
+   "category": "health",
+   "zone": "sul",
+   "icon": "dumbbell",
+   "sub": [
+    "gyms"
+   ],
+   "tags": [
+    "gym",
+    "sport",
+    "kids"
+   ],
+   "name": "GFTeam Tomar — jiu-jitsu & grappling",
+   "name_pt": "GFTeam Tomar — jiu-jitsu e grappling",
+   "name_es": "GFTeam Tomar — jiu-jitsu y grappling",
+   "blurb": "Brazilian jiu-jitsu and grappling classes in the evenings (Associação Luso Brasileiro de Grappling).",
+   "blurb_pt": "Aulas de jiu-jitsu brasileiro e grappling ao fim do dia (Associação Luso Brasileiro de Grappling).",
+   "blurb_es": "Clases de jiu-jitsu brasileño y grappling por la tarde (Associação Luso Brasileiro de Grappling).",
+   "detail": "Av. António da Fonseca Simões 18, 2300-530 Tomar",
+   "detail_pt": "Av. António da Fonseca Simões 18, 2300-530 Tomar",
+   "detail_es": "Av. António da Fonseca Simões 18, 2300-530 Tomar",
+   "phone": "+351937192225",
+   "links": {
+    "website": "https://lsjiujitsu.org/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=GFTeam+Tomar+%E2%80%94+jiu-jitsu+%26+grappling%2C+Av.+Ant%C3%B3nio+da+Fonseca+Sim%C3%B5es+18%2C+2300-530+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      18,
+      21
+     ]
+    ],
+    "2": [
+     [
+      16,
+      21
+     ]
+    ],
+    "3": [
+     [
+      18,
+      21
+     ]
+    ],
+    "4": [
+     [
+      16,
+      21
+     ]
+    ],
+    "5": [
+     [
+      19,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "id": "ginasio-clube-tomar",
+   "category": "health",
+   "zone": "leste",
+   "icon": "dumbbell",
+   "sub": [
+    "gyms"
+   ],
+   "tags": [
+    "gym",
+    "sport"
+   ],
+   "name": "Ginásio Clube de Tomar",
+   "name_pt": "Ginásio Clube de Tomar",
+   "name_es": "Ginásio Clube de Tomar",
+   "blurb": "The town's long-standing gym club, open from 8:00 to 22:00 on weekdays and on Saturdays until 17:00.",
+   "blurb_pt": "O clube de ginástica de longa data da cidade, aberto das 8h às 22h durante a semana e ao sábado até às 17h.",
+   "blurb_es": "El club de gimnasia de toda la vida de la ciudad, abierto de 8:00 a 22:00 entre semana y los sábados hasta las 17:00.",
+   "detail": "R. José Raimundo Ribeiro 32, 2300-532 Tomar",
+   "detail_pt": "R. José Raimundo Ribeiro 32, 2300-532 Tomar",
+   "detail_es": "R. José Raimundo Ribeiro 32, 2300-532 Tomar",
+   "phone": "+351249324381",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Gin%C3%A1sio+Clube+de+Tomar%2C+R.+Jos%C3%A9+Raimundo+Ribeiro+32%2C+2300-532+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8,
+      22
+     ]
+    ],
+    "2": [
+     [
+      8,
+      22
+     ]
+    ],
+    "3": [
+     [
+      8,
+      22
+     ]
+    ],
+    "4": [
+     [
+      8,
+      22
+     ]
+    ],
+    "5": [
+     [
+      8,
+      22
+     ]
+    ],
+    "6": [
+     [
+      9,
+      13.5
+     ],
+     [
+      14.5,
+      17
+     ]
+    ]
+   }
+  },
+  {
+   "id": "zen-spa-by-marisa",
+   "category": "health",
+   "zone": "town",
+   "icon": "massage",
+   "sub": [
+    "massage"
+   ],
+   "tags": [
+    "spa",
+    "massage"
+   ],
+   "name": "Zen Spa by Marisa",
+   "name_pt": "Zen Spa by Marisa",
+   "name_es": "Zen Spa by Marisa",
+   "blurb": "Day spa offering massages and treatments, Tuesday to Saturday. Book ahead.",
+   "blurb_pt": "Day spa com massagens e tratamentos, de terça a sábado. Marcação prévia.",
+   "blurb_es": "Day spa con masajes y tratamientos, de martes a sábado. Con cita previa.",
+   "detail": "R. Diogo de Arruda 20, 2300-455 Tomar",
+   "detail_pt": "R. Diogo de Arruda 20, 2300-455 Tomar",
+   "detail_es": "R. Diogo de Arruda 20, 2300-455 Tomar",
+   "phone": "+351919639482",
+   "links": {
+    "website": "https://linktr.ee/zen_spa_by_marisa",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Zen+Spa+by+Marisa%2C+R.+Diogo+de+Arruda+20%2C+2300-455+Tomar"
+   },
+   "hours": {
+    "2": [
+     [
+      10,
+      19
+     ]
+    ],
+    "3": [
+     [
+      10,
+      19
+     ]
+    ],
+    "4": [
+     [
+      10,
+      19
+     ]
+    ],
+    "5": [
+     [
+      10,
+      19
+     ]
+    ],
+    "6": [
+     [
+      10,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "terra-flores-spa",
+   "category": "health",
+   "zone": "praca",
+   "icon": "massage",
+   "sub": [
+    "massage"
+   ],
+   "tags": [
+    "spa",
+    "massage"
+   ],
+   "name": "Terra Flores Spa",
+   "name_pt": "Terra Flores Spa",
+   "name_es": "Terra Flores Spa",
+   "blurb": "Day spa on the main square, open to everyone, Tuesday to Saturday.",
+   "blurb_pt": "Day spa na praça principal, aberto a todos, de terça a sábado.",
+   "blurb_es": "Day spa en la plaza principal, abierto a todo el público, de martes a sábado.",
+   "detail": "Praça da República 15, 2300-550 Tomar",
+   "detail_pt": "Praça da República 15, 2300-550 Tomar",
+   "detail_es": "Praça da República 15, 2300-550 Tomar",
+   "phone": "+351937406388",
+   "links": {
+    "instagram": "https://www.instagram.com/terrafloresspa.tomar/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Terra+Flores+Spa%2C+Pra%C3%A7a+da+Rep%C3%BAblica+15%2C+2300-550+Tomar"
+   },
+   "hours": {
+    "2": [
+     [
+      10,
+      18
+     ]
+    ],
+    "3": [
+     [
+      10,
+      18
+     ]
+    ],
+    "4": [
+     [
+      10,
+      18
+     ]
+    ],
+    "5": [
+     [
+      10,
+      18
+     ]
+    ],
+    "6": [
+     [
+      10,
+      18
+     ]
+    ]
+   }
+  },
+  {
+   "id": "beleve-pilates",
+   "category": "health",
+   "zone": "centro",
+   "icon": "yoga",
+   "sub": [
+    "yoga"
+   ],
+   "tags": [
+    "pilates",
+    "yoga"
+   ],
+   "name": "BeLeve Pilates Studio",
+   "name_pt": "BeLeve Pilates Studio",
+   "name_es": "BeLeve Pilates Studio",
+   "blurb": "Pilates studio in the historic centre with classes from early morning to the evening, Monday to Saturday.",
+   "blurb_pt": "Estúdio de pilates no centro histórico, com aulas desde manhã cedo até à noite, de segunda a sábado.",
+   "blurb_es": "Estudio de pilates en el centro histórico, con clases desde primera hora hasta la noche, de lunes a sábado.",
+   "detail": "R. Dr. Joaquim Jacinto 83, 2300-577 Tomar",
+   "detail_pt": "R. Dr. Joaquim Jacinto 83, 2300-577 Tomar",
+   "detail_es": "R. Dr. Joaquim Jacinto 83, 2300-577 Tomar",
+   "phone": "+351914100095",
+   "links": {
+    "facebook": "https://www.facebook.com/beleve.pilates.studio",
+    "maps": "https://www.google.com/maps/search/?api=1&query=BeLeve+Pilates+Studio%2C+R.+Dr.+Joaquim+Jacinto+83%2C+2300-577+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8,
+      13
+     ],
+     [
+      13.5,
+      20.5
+     ]
+    ],
+    "2": [
+     [
+      7.5,
+      12.5
+     ],
+     [
+      16.5,
+      20.5
+     ]
+    ],
+    "3": [
+     [
+      7.5,
+      14.5
+     ],
+     [
+      15.5,
+      20.5
+     ]
+    ],
+    "4": [
+     [
+      7.5,
+      20.5
+     ]
+    ],
+    "5": [
+     [
+      7.5,
+      20.5
+     ]
+    ],
+    "6": [
+     [
+      8.5,
+      13.5
+     ]
+    ]
+   }
+  },
+  {
+   "id": "catia-santos-massagens",
+   "category": "health",
+   "zone": "norte",
+   "icon": "massage",
+   "sub": [
+    "massage"
+   ],
+   "tags": [
+    "massage"
+   ],
+   "name": "Cátia Santos — therapeutic massage",
+   "name_pt": "Cátia Santos — massagens terapêuticas",
+   "name_es": "Cátia Santos — masajes terapéuticos",
+   "blurb": "Therapeutic massage, with more than 150 five-star Google reviews. By appointment, Monday to Saturday.",
+   "blurb_pt": "Massagens terapêuticas, com mais de 150 avaliações de cinco estrelas no Google. Por marcação, de segunda a sábado.",
+   "blurb_es": "Masajes terapéuticos, con más de 150 reseñas de cinco estrellas en Google. Con cita, de lunes a sábado.",
+   "detail": "Tomar Parque 20, 2300-241 Tomar",
+   "detail_pt": "Tomar Parque 20, 2300-241 Tomar",
+   "detail_es": "Tomar Parque 20, 2300-241 Tomar",
+   "phone": "+351934801722",
+   "links": {
+    "website": "https://www.catiasantosmassagens.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=C%C3%A1tia+Santos+%E2%80%94+therapeutic+massage%2C+Tomar+Parque+20%2C+2300-241+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      20
+     ]
+    ],
+    "2": [
+     [
+      9,
+      20
+     ]
+    ],
+    "3": [
+     [
+      9,
+      20
+     ]
+    ],
+    "4": [
+     [
+      9,
+      20
+     ]
+    ],
+    "5": [
+     [
+      9,
+      20
+     ]
+    ],
+    "6": [
+     [
+      9,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "centro-veterinario-tomar",
+   "category": "health",
+   "zone": "town",
+   "icon": "paw",
+   "sub": [
+    "vets"
+   ],
+   "tags": [
+    "vet"
+   ],
+   "name": "Centro Veterinário de Tomar",
+   "name_pt": "Centro Veterinário de Tomar",
+   "name_es": "Centro Veterinário de Tomar",
+   "blurb": "Veterinary clinic, open weekdays (closed at lunch) and Saturday mornings.",
+   "blurb_pt": "Clínica veterinária, aberta nos dias úteis (fecha à hora de almoço) e ao sábado de manhã.",
+   "blurb_es": "Clínica veterinaria, abierta entre semana (cierra a mediodía) y los sábados por la mañana.",
+   "detail": "R. Carrasqueira 19, 2300-337 Tomar",
+   "detail_pt": "R. Carrasqueira 19, 2300-337 Tomar",
+   "detail_es": "R. Carrasqueira 19, 2300-337 Tomar",
+   "phone": "+351917228697",
+   "links": {
+    "facebook": "https://www.facebook.com/cvet.tomar",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Centro+Veterin%C3%A1rio+de+Tomar%2C+R.+Carrasqueira+19%2C+2300-337+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19.5
+     ]
+    ],
+    "2": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19.5
+     ]
+    ],
+    "3": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19.5
+     ]
+    ],
+    "4": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19.5
+     ]
+    ],
+    "5": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19.5
+     ]
+    ],
+    "6": [
+     [
+      10,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "lufada-encantada",
+   "category": "services",
+   "zone": "centro",
+   "icon": "services",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop",
+    "crafts"
+   ],
+   "name": "LuFada Encantada",
+   "name_pt": "LuFada Encantada",
+   "name_es": "LuFada Encantada",
+   "blurb": "A handicraft shop on the Corredoura for handmade gifts. Tuesday to Saturday.",
+   "blurb_pt": "Loja de artesanato na Corredoura, para presentes feitos à mão. De terça a sábado.",
+   "blurb_es": "Tienda de artesanía en la Corredoura, para regalos hechos a mano. De martes a sábado.",
+   "detail": "R. Infantaria 15 nº 40, 2300-582 Tomar",
+   "detail_pt": "R. Infantaria 15 nº 40, 2300-582 Tomar",
+   "detail_es": "R. Infantaria 15 nº 40, 2300-582 Tomar",
+   "phone": "+351249191907",
+   "links": {
+    "facebook": "https://www.facebook.com/LufadaEncantada",
+    "maps": "https://www.google.com/maps/search/?api=1&query=LuFada+Encantada%2C+R.+Infantaria+15+n%C2%BA+40%2C+2300-582+Tomar"
+   },
+   "hours": {
+    "2": [
+     [
+      10.5,
+      13.5
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "3": [
+     [
+      10.5,
+      13.5
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "4": [
+     [
+      10.5,
+      13.5
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "5": [
+     [
+      10.5,
+      13.5
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "6": [
+     [
+      10.5,
+      13.5
+     ],
+     [
+      15,
+      19
+     ]
+    ]
+   }
+  },
+  {
+   "id": "drogaria-antiqua",
+   "category": "services",
+   "zone": "centro",
+   "icon": "services",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop"
+   ],
+   "name": "Drogaria Antiqua",
+   "name_pt": "Drogaria Antiqua",
+   "name_es": "Drogaria Antiqua",
+   "blurb": "An old-style drogaria in the centre. Weekdays and Saturday mornings.",
+   "blurb_pt": "Uma drogaria à moda antiga no centro. Nos dias úteis e ao sábado de manhã.",
+   "blurb_es": "Una droguería de las de antes en el centro. Entre semana y los sábados por la mañana.",
+   "detail": "R. dos Moínhos 61, 2300-575 Tomar",
+   "detail_pt": "R. dos Moínhos 61, 2300-575 Tomar",
+   "detail_es": "R. dos Moínhos 61, 2300-575 Tomar",
+   "phone": "+351249323317",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Drogaria+Antiqua%2C+R.+dos+Mo%C3%ADnhos+61%2C+2300-575+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      10,
+      13
+     ],
+     [
+      14.5,
+      19
+     ]
+    ],
+    "2": [
+     [
+      10,
+      13
+     ],
+     [
+      14.5,
+      19
+     ]
+    ],
+    "3": [
+     [
+      10,
+      13
+     ],
+     [
+      14.5,
+      19
+     ]
+    ],
+    "4": [
+     [
+      10,
+      13
+     ],
+     [
+      14.5,
+      19
+     ]
+    ],
+    "5": [
+     [
+      10,
+      13
+     ],
+     [
+      14.5,
+      19
+     ]
+    ],
+    "6": [
+     [
+      10,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "bosch-car-service-francisco-gaspar",
+   "category": "services",
+   "zone": "town",
+   "icon": "car",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "car"
+   ],
+   "name": "Bosch Car Service — Francisco AS Gaspar",
+   "name_pt": "Bosch Car Service — Francisco AS Gaspar",
+   "name_es": "Bosch Car Service — Francisco AS Gaspar",
+   "blurb": "Car repairs and servicing at a Bosch Car Service garage. Call for times.",
+   "blurb_pt": "Reparação e revisões automóvel numa oficina Bosch Car Service. Ligue para saber o horário.",
+   "blurb_es": "Reparación y revisiones de coches en un taller Bosch Car Service. Llame para el horario.",
+   "detail": "Av. Dr. Egas Moniz 40, 2300-436 Tomar",
+   "detail_pt": "Av. Dr. Egas Moniz 40, 2300-436 Tomar",
+   "detail_es": "Av. Dr. Egas Moniz 40, 2300-436 Tomar",
+   "phone": "+351249323583",
+   "links": {
+    "website": "https://www.franciscoasgaspar.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Bosch+Car+Service+%E2%80%94+Francisco+AS+Gaspar%2C+Av.+Dr.+Egas+Moniz+40%2C+2300-436+Tomar"
+   }
+  },
+  {
+   "id": "chave-porta-forte",
+   "category": "services",
+   "zone": "centro",
+   "icon": "services",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "handyman"
+   ],
+   "name": "Chave Porta Forte — locksmith",
+   "name_pt": "Chave Porta Forte — chaves e fechaduras",
+   "name_es": "Chave Porta Forte — cerrajero",
+   "blurb": "Locksmith on the main avenue: keys cut, locks and doors. Weekdays and Saturday mornings.",
+   "blurb_pt": "Serralharia e chaves na avenida principal: cópias de chaves, fechaduras e portas. Nos dias úteis e ao sábado de manhã.",
+   "blurb_es": "Cerrajería en la avenida principal: copias de llaves, cerraduras y puertas. Entre semana y los sábados por la mañana.",
+   "detail": "Av. Dr. Cândido Madureira 113, 2300-531 Tomar",
+   "detail_pt": "Av. Dr. Cândido Madureira 113, 2300-531 Tomar",
+   "detail_es": "Av. Dr. Cândido Madureira 113, 2300-531 Tomar",
+   "phone": "+351934554145",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Chave+Porta+Forte+%E2%80%94+locksmith%2C+Av.+Dr.+C%C3%A2ndido+Madureira+113%2C+2300-531+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "2": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "estudio-sete",
+   "category": "services",
+   "zone": "centro",
+   "icon": "services",
+   "sub": [
+    "community"
+   ],
+   "tags": [
+    "music",
+    "club"
+   ],
+   "name": "Estúdio Sete — dance school",
+   "name_pt": "Estúdio Sete — escola de dança",
+   "name_es": "Estúdio Sete — escuela de danza",
+   "blurb": "Dance school in the centre; see their site for classes and the timetable.",
+   "blurb_pt": "Escola de dança no centro; aulas e horário no site.",
+   "blurb_es": "Escuela de danza en el centro; clases y horarios en su web.",
+   "detail": "Travessa Vasco 3, R/C Esq., 2300-601 Tomar",
+   "detail_pt": "Travessa Vasco 3, R/C Esq., 2300-601 Tomar",
+   "detail_es": "Travessa Vasco 3, R/C Esq., 2300-601 Tomar",
+   "phone": "+351931999173",
+   "links": {
+    "website": "https://www.estudiosete.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Est%C3%BAdio+Sete+%E2%80%94+dance+school%2C+Travessa+Vasco+3%2C+R%2FC+Esq.%2C+2300-601+Tomar"
+   }
+  },
+  {
+   "id": "novo-perfil",
+   "category": "services",
+   "zone": "centro",
+   "icon": "services",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "hairdresser"
+   ],
+   "name": "Novo Perfil — hair & beauty",
+   "name_pt": "Novo Perfil — cabeleireiro e estética",
+   "name_es": "Novo Perfil — peluquería y estética",
+   "blurb": "Hair and beauty salon on the main avenue, Tuesday to Saturday.",
+   "blurb_pt": "Cabeleireiro e estética na avenida principal, de terça a sábado.",
+   "blurb_es": "Peluquería y estética en la avenida principal, de martes a sábado.",
+   "detail": "Av. Dr. Cândido Madureira 74, 2300-531 Tomar",
+   "detail_pt": "Av. Dr. Cândido Madureira 74, 2300-531 Tomar",
+   "detail_es": "Av. Dr. Cândido Madureira 74, 2300-531 Tomar",
+   "phone": "+351915525338",
+   "links": {
+    "facebook": "https://www.facebook.com/novoperfiltomar",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Novo+Perfil+%E2%80%94+hair+%26+beauty%2C+Av.+Dr.+C%C3%A2ndido+Madureira+74%2C+2300-531+Tomar"
+   },
+   "hours": {
+    "2": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ]
+   }
+  },
+  {
+   "id": "fastwash-tomar",
+   "category": "services",
+   "zone": "town",
+   "icon": "services",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "laundry"
+   ],
+   "name": "FastWash — self-service laundry",
+   "name_pt": "FastWash — lavandaria self-service",
+   "name_es": "FastWash — lavandería autoservicio",
+   "blurb": "Self-service launderette, open every day from 7:00 to 23:00.",
+   "blurb_pt": "Lavandaria self-service, aberta todos os dias das 7h às 23h.",
+   "blurb_es": "Lavandería autoservicio, abierta todos los días de 7:00 a 23:00.",
+   "detail": "R. Alfredo da Maia Pereira 2G, 2300-449 Tomar",
+   "detail_pt": "R. Alfredo da Maia Pereira 2G, 2300-449 Tomar",
+   "detail_es": "R. Alfredo da Maia Pereira 2G, 2300-449 Tomar",
+   "phone": "+351934288902",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=FastWash+%E2%80%94+self-service+laundry%2C+R.+Alfredo+da+Maia+Pereira+2G%2C+2300-449+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      7,
+      23
+     ]
+    ],
+    "1": [
+     [
+      7,
+      23
+     ]
+    ],
+    "2": [
+     [
+      7,
+      23
+     ]
+    ],
+    "3": [
+     [
+      7,
+      23
+     ]
+    ],
+    "4": [
+     [
+      7,
+      23
+     ]
+    ],
+    "5": [
+     [
+      7,
+      23
+     ]
+    ],
+    "6": [
+     [
+      7,
+      23
+     ]
+    ]
+   }
+  },
+  {
+   "id": "chavetejo",
+   "category": "services",
+   "zone": "centro",
+   "icon": "estate",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "estate-agent",
+    "english"
+   ],
+   "name": "Chavetejo — Central Portugal Properties",
+   "name_pt": "Chavetejo — Central Portugal Properties",
+   "name_es": "Chavetejo — Central Portugal Properties",
+   "blurb": "Estate agency in Tomar, set up with a focus on English-speaking buyers. Weekdays.",
+   "blurb_pt": "Imobiliária em Tomar, criada a pensar sobretudo em compradores de língua inglesa. Nos dias úteis.",
+   "blurb_es": "Inmobiliaria en Tomar, creada pensando sobre todo en compradores de habla inglesa. Entre semana.",
+   "detail": "Av. Dr. Cândido Madureira 41, 2300-531 Tomar",
+   "detail_pt": "Av. Dr. Cândido Madureira 41, 2300-531 Tomar",
+   "detail_es": "Av. Dr. Cândido Madureira 41, 2300-531 Tomar",
+   "phone": "+351249327700",
+   "links": {
+    "website": "https://www.chavetejo.com/",
+    "facebook": "https://www.facebook.com/Chavetejo/",
+    "instagram": "https://www.instagram.com/chavetejo_imobiliaria/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Chavetejo+%E2%80%94+Central+Portugal+Properties%2C+Av.+Dr.+C%C3%A2ndido+Madureira+41%2C+2300-531+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      13
+     ],
+     [
+      14,
+      18
+     ]
+    ],
+    "2": [
+     [
+      9,
+      13
+     ],
+     [
+      14,
+      18
+     ]
+    ],
+    "3": [
+     [
+      9,
+      13
+     ],
+     [
+      14,
+      18
+     ]
+    ],
+    "4": [
+     [
+      9,
+      13
+     ],
+     [
+      14,
+      18
+     ]
+    ],
+    "5": [
+     [
+      9,
+      13
+     ],
+     [
+      14,
+      18
+     ]
+    ]
+   },
+   "licence": {
+    "type": "AMI",
+    "no": "7856"
+   }
   }
  ],
  "patches": {
