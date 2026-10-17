@@ -1,70 +1,70 @@
 {
  "schema": 2,
- "date": "2026-10-11",
- "edition": 3,
- "publishAt": "2026-10-10T22:59:06.326Z",
- "generatedAt": "2026-10-10T17:28:30Z",
+ "date": "2026-10-18",
+ "edition": 4,
+ "publishAt": "2026-10-18T08:00:00+01:00",
+ "generatedAt": "2026-10-17T09:51:57Z",
  "range": {
-  "en": "11 – 17 October 2026",
-  "pt": "11 – 17 de outubro de 2026",
-  "es": "11 – 17 de octubre de 2026"
+  "en": "18 – 24 October 2026",
+  "pt": "18 – 24 de outubro de 2026",
+  "es": "18 – 24 de octubre de 2026"
  },
  "weather": {
   "source": "MET Norway",
   "note": {
-   "en": "Summer-like and dry for most of the week, up to 30° on Wednesday; a little rain is possible on Saturday.",
-   "pt": "Uma semana com ar de verão e sem chuva quase até ao fim, até 30° na quarta-feira; no sábado pode chover um pouco.",
-   "es": "Una semana con aire de verano y seca casi hasta el final, hasta 30° el miércoles; el sábado puede llover un poco."
+   "en": "Sunny and warm on Sunday and Monday, then cooler and cloudier from Tuesday, but dry all week. Nights drop to around 10°C, and the clocks go back early on Sunday 25.",
+   "pt": "Sol e calor no domingo e na segunda, depois mais fresco e nublado a partir de terça, mas seco toda a semana. As noites descem até cerca de 10 °C, e a hora muda na madrugada de domingo, 25.",
+   "es": "Sol y calor el domingo y el lunes, luego más fresco y nublado desde el martes, pero seco toda la semana. Las noches bajan a unos 10 °C, y la hora cambia la madrugada del domingo 25."
   },
   "days": [
    {
-    "date": "2026-10-11",
-    "icon": "partly",
-    "max": 24,
+    "date": "2026-10-18",
+    "icon": "sun",
+    "max": 23,
     "min": 15,
     "rain": 0
    },
    {
-    "date": "2026-10-12",
-    "icon": "partly",
-    "max": 26,
-    "min": 14,
-    "rain": 0
-   },
-   {
-    "date": "2026-10-13",
+    "date": "2026-10-19",
     "icon": "sun",
-    "max": 25,
-    "min": 15,
+    "max": 22,
+    "min": 13,
     "rain": 0
    },
    {
-    "date": "2026-10-14",
-    "icon": "partly",
-    "max": 30,
-    "min": 14,
+    "date": "2026-10-20",
+    "icon": "cloud",
+    "max": 19,
+    "min": 10,
     "rain": 0
    },
    {
-    "date": "2026-10-15",
-    "icon": "partly",
-    "max": 27,
-    "min": 20,
-    "rain": 0
-   },
-   {
-    "date": "2026-10-16",
+    "date": "2026-10-21",
     "icon": "sun",
-    "max": 28,
-    "min": 17,
+    "max": 20,
+    "min": 10,
     "rain": 0
    },
    {
-    "date": "2026-10-17",
-    "icon": "rain",
-    "max": 27,
-    "min": 16,
-    "rain": 1.8
+    "date": "2026-10-22",
+    "icon": "cloud",
+    "max": 20,
+    "min": 11,
+    "rain": 0
+   },
+   {
+    "date": "2026-10-23",
+    "icon": "cloud",
+    "max": 22,
+    "min": 9,
+    "rain": 0.1
+   },
+   {
+    "date": "2026-10-24",
+    "icon": "partly",
+    "max": 19,
+    "min": 11,
+    "rain": 0
    }
   ]
  },
@@ -76,35 +76,35 @@
    "es": "Feira de Santa Iria 2026"
   },
   "dek": {
-   "en": "400 years of the fair, the first Iria Music Fest, a procession to the river. Opens Friday.",
-   "pt": "400 anos de feira, o primeiro Iria Music Fest e a procissão até ao rio. Abre na sexta.",
-   "es": "400 años de feria, el primer Iria Music Fest y la procesión hasta el río. Abre el viernes."
+   "en": "The 400th fair's final week: free nights, the procession on Tuesday, GNR on Friday.",
+   "pt": "A última semana da feira dos 400 anos: noites grátis, procissão na terça, GNR na sexta.",
+   "es": "La última semana de la feria de los 400 años: noches gratis, procesión el martes, GNR el viernes."
   },
   "title": {
-   "en": "Four hundred years of Santa Iria, and a new festival",
-   "pt": "Quatro séculos de Santa Iria, e um festival novo",
-   "es": "Cuatro siglos de Santa Iria, y un festival nuevo"
+   "en": "Santa Iria's second week, night by night",
+   "pt": "A segunda semana de Santa Iria, noite a noite",
+   "es": "La segunda semana de Santa Iria, noche a noche"
   },
   "story": [
    {
-    "en": "The Feira de Santa Iria was created by royal charter in 1626, and this year it turns 400. From Friday 16 to Sunday 25 October it fills the Várzea Grande, opening on the 16th at 17:00 at the Convento de São Francisco.",
-    "pt": "A Feira de Santa Iria foi criada por carta régia em 1626 e este ano faz 400 anos. De sexta, 16, a domingo, 25 de outubro, enche a Várzea Grande, com a abertura no dia 16, às 17h00, no Convento de São Francisco.",
-    "es": "La Feira de Santa Iria nació por carta real en 1626 y este año cumple 400. Del viernes 16 al domingo 25 de octubre llena la Várzea Grande, con la apertura el día 16 a las 17:00 en el Convento de São Francisco."
+    "en": "The Feira de Santa Iria, created by royal charter in 1626, is in its 400th year and runs until Sunday 25 October at the Várzea Grande. Getting into the fair is free every day: 15:00–24:00 Monday to Thursday, until 02:00 on Friday and Saturday.",
+    "pt": "A Feira de Santa Iria, criada por carta régia em 1626, está no ano dos 400 anos e continua até domingo, 25 de outubro, na Várzea Grande. A entrada é livre todos os dias: das 15h00 às 24h00 de segunda a quinta, até às 2h00 à sexta e ao sábado.",
+    "es": "La Feira de Santa Iria, creada por carta real en 1626, cumple 400 años y sigue hasta el domingo 25 de octubre en la Várzea Grande. La entrada es libre todos los días: de 15:00 a 24:00 de lunes a jueves, hasta las 2:00 viernes y sábado."
    },
    {
-    "en": "New for the anniversary is the Iria Music Fest in the Várzea Grande tent: Padre Guilherme on the 16th, Chico da Tina on the 17th, Quinta do Bill on the 20th, Ivandro on the 21st, GNR and Karetus on the 23rd, FH5 and Bárbara Tinoco on the 24th.",
-    "pt": "A novidade do aniversário é o Iria Music Fest, na tenda da Várzea Grande: Padre Guilherme a 16, Chico da Tina a 17, Quinta do Bill a 20, Ivandro a 21, GNR e Karetus a 23, FH5 e Bárbara Tinoco a 24.",
-    "es": "La novedad del aniversario es el Iria Music Fest, en la carpa de la Várzea Grande: Padre Guilherme el 16, Chico da Tina el 17, Quinta do Bill el 20, Ivandro el 21, GNR y Karetus el 23, FH5 y Bárbara Tinoco el 24."
+    "en": "Three free nights open the week: Dia da Família on Sunday 18 (Pão de Ló and bouncy castles at 14:00, folk dancing at 20:30), Noite de Fados with DJ JBK on Monday 19, and Quinta do Bill with DJ Superfly on Tuesday 20.",
+    "pt": "A semana abre com três noites grátis: Dia da Família no domingo, 18 (Pão de Ló e insufláveis às 14h00, folclore às 20h30), Noite de Fados com DJ JBK na segunda, 19, e Quinta do Bill com DJ Superfly na terça, 20.",
+    "es": "La semana empieza con tres noches gratis: Dia da Família el domingo 18 (Pão de Ló e hinchables a las 14:00, folclore a las 20:30), Noite de Fados con DJ JBK el lunes 19 y Quinta do Bill con DJ Superfly el martes 20."
    },
    {
-    "en": "Getting into the fair is free every day. Concerts need a ticket on the 16th (€10) and on the 17th, 21st, 22nd, 23rd and 24th (€7 each), or the €25 Passe Geral for all six. Under-12s go free, and the 18th, 19th, 20th and 25th are free nights.",
-    "pt": "A entrada na feira é livre todos os dias. Os concertos pedem bilhete a 16 (10 €) e a 17, 21, 22, 23 e 24 (7 € cada), ou o Passe Geral de 25 € para as seis noites. Menores de 12 não pagam, e 18, 19, 20 e 25 são noites grátis.",
-    "es": "La entrada a la feria es libre todos los días. Los conciertos piden entrada el 16 (10 €) y el 17, 21, 22, 23 y 24 (7 € cada uno), o el Passe Geral de 25 € para las seis noches. Los menores de 12 no pagan, y el 18, 19, 20 y 25 son noches gratis."
+    "en": "Then the €7 nights in the tent: Ivandro on Wednesday 21, Banda Réplika and ÁTOA on Thursday 22, GNR and Karetus on Friday 23, FH5 and Bárbara Tinoco on Saturday 24. Even with an online ticket you need a wristband to get in. On opening night, long queues of people who left it to the last minute meant many missed the start of the show, so don't leave it late.",
+    "pt": "Depois, as noites a 7 € na tenda: Ivandro na quarta, 21, Banda Réplika e ÁTOA na quinta, 22, GNR e Karetus na sexta, 23, FH5 e Bárbara Tinoco no sábado, 24. Mesmo com bilhete comprado online, é preciso uma pulseira para entrar. Na noite de abertura, as longas filas de quem deixou isso para a última hora fizeram muitos perder o início do concerto: não deixem para o fim.",
+    "es": "Después, las noches de 7 € en la carpa: Ivandro el miércoles 21, Banda Réplika y ÁTOA el jueves 22, GNR y Karetus el viernes 23, FH5 y Bárbara Tinoco el sábado 24. Aunque tengas la entrada online, necesitas una pulsera para entrar. En la noche de apertura, las largas colas de quien lo dejó para el último momento hicieron que muchos se perdieran el inicio del concierto: no lo dejéis para el final."
    },
    {
-    "en": "Tuesday 20 is Dia de Santa Iria: Mass at 09:00 at Santa Maria do Olival, then the procession at 10:00 to the Ponte Velha, where petals are thrown into the Nabão. Come for a night of music, the Urban Race on Saturday 17, or the petals on the river.",
-    "pt": "Terça, 20, é Dia de Santa Iria: missa às 9h00 em Santa Maria do Olival e, às 10h00, a procissão até à Ponte Velha, onde se lançam pétalas ao Nabão. Venham para uma noite de música, para a Urban Race de sábado, 17, ou para as pétalas no rio.",
-    "es": "El martes 20 es el Dia de Santa Iria: misa a las 9:00 en Santa Maria do Olival y, a las 10:00, la procesión hasta la Ponte Velha, donde se lanzan pétalos al Nabão. Venid por una noche de música, por la Urban Race del sábado 17 o por los pétalos en el río."
+    "en": "Tuesday 20 is Dia de Santa Iria: Mass at 09:00 at Santa Maria do Olival, then the procession at 10:00 to the Ponte Velha, where petals are thrown into the Nabão. The day-by-day programme, tickets and parking are all in our fair guide.",
+    "pt": "Terça, 20, é Dia de Santa Iria: missa às 9h00 em Santa Maria do Olival e, às 10h00, a procissão até à Ponte Velha, onde se lançam pétalas ao Nabão. O programa dia a dia, os bilhetes e o estacionamento estão no nosso guia da feira.",
+    "es": "El martes 20 es el Dia de Santa Iria: misa a las 9:00 en Santa Maria do Olival y, a las 10:00, la procesión hasta la Ponte Velha, donde se lanzan pétalos al Nabão. El programa día a día, las entradas y el aparcamiento están en nuestra guía de la feria."
    }
   ],
   "photo": "https://vamostomar.pt/data/images/santa-iria-400-cover-20261010.webp",
@@ -116,38 +116,26 @@
   "facts": [
    {
     "k": {
-     "en": "When",
-     "pt": "Quando",
-     "es": "Cuándo"
-    },
-    "v": {
-     "en": "16–25 October 2026",
-     "pt": "16 a 25 de outubro de 2026",
-     "es": "16–25 de octubre de 2026"
-    }
-   },
-   {
-    "k": {
      "en": "Where",
      "pt": "Onde",
      "es": "Dónde"
     },
     "v": {
-     "en": "Várzea Grande, Tomar",
-     "pt": "Várzea Grande, Tomar",
-     "es": "Várzea Grande, Tomar"
+     "en": "Várzea Grande · until Sun 25 Oct",
+     "pt": "Várzea Grande · até dom 25 out",
+     "es": "Várzea Grande · hasta dom 25 oct"
     }
    },
    {
     "k": {
-     "en": "The fair",
-     "pt": "A feira",
-     "es": "La feria"
+     "en": "Free nights",
+     "pt": "Noites grátis",
+     "es": "Noches gratis"
     },
     "v": {
-     "en": "Free entry every day",
-     "pt": "Entrada livre todos os dias",
-     "es": "Entrada libre todos los días"
+     "en": "18, 19, 20 and 25 Oct",
+     "pt": "18, 19, 20 e 25 out",
+     "es": "18, 19, 20 y 25 oct"
     }
    },
    {
@@ -157,9 +145,21 @@
      "es": "Conciertos"
     },
     "v": {
-     "en": "€10 (16th), €7 a night · Passe Geral €25",
-     "pt": "10 € (dia 16), 7 € por noite · Passe Geral 25 €",
-     "es": "10 € (día 16), 7 € por noche · Passe Geral 25 €"
+     "en": "€7 on 21–24 Oct · under-12s free",
+     "pt": "7 € de 21 a 24 out · menores de 12 grátis",
+     "es": "7 € del 21 al 24 oct · menores de 12 gratis"
+    }
+   },
+   {
+    "k": {
+     "en": "Online ticket?",
+     "pt": "Bilhete online?",
+     "es": "¿Entrada online?"
+    },
+    "v": {
+     "en": "Wristband still needed — go early",
+     "pt": "Pulseira obrigatória — vão cedo",
+     "es": "Pulsera obligatoria — id con tiempo"
     }
    }
   ],
@@ -198,345 +198,370 @@
    {
     "name": "Câmara Municipal de Tomar",
     "url": "https://www.cm-tomar.pt/comunicacao/agenda/festas-e-feiras/feira-de-santa-iria-2026-iria-music-fest"
+   },
+   {
+    "name": "Rádio Hertz",
+    "url": "https://radiohertz.pt/tomar-feira-de-santa-iria-comeca-hoje-feira-das-passas-restauracao-e-acesso-aos-concertos-registam-as-mudancas-mais-significativas/"
    }
   ]
  },
  "feature": {
   "title": {
-   "en": "Five days to go: get your concert tickets",
-   "pt": "Faltam cinco dias: garanta os bilhetes",
-   "es": "Faltan cinco días: consigue tus entradas"
+   "en": "The fair's last week: good to know",
+   "pt": "Última semana da feira: o que convém saber",
+   "es": "Última semana de la feria: lo que conviene saber"
   },
   "text": {
-   "en": "Tickets are on sale online and at the Posto de Turismo until Thursday 15 October; after that, at the fair. The Passe Geral covers all six ticketed nights for €25, and under-12s go free.",
-   "pt": "Os bilhetes estão à venda online e no Posto de Turismo até quinta-feira, 15 de outubro; depois, na própria feira. O Passe Geral dá as seis noites pagas por 25 €, e os menores de 12 não pagam.",
-   "es": "Las entradas están a la venta online y en el Posto de Turismo hasta el jueves 15 de octubre; después, en la propia feria. El Passe Geral cubre las seis noches de pago por 25 €, y los menores de 12 no pagan."
+   "en": "On €7 nights the concert grounds are free until 19:00, then close for ticket checks and reopen at 20:00. At weekends Avenida Norton de Matos is shut to cars between the Bombeiros roundabout and Praceta Alves Redol. The clocks go back on Saturday night, and the fair closes at 02:00 old time.",
+   "pt": "Nas noites a 7 € o recinto dos concertos é livre até às 19h00, fecha para controlo de bilhetes e reabre às 20h00. Aos fins de semana a Avenida Norton de Matos está cortada ao trânsito entre a rotunda dos Bombeiros e a Praceta Alves Redol. A hora muda na noite de sábado e a feira fecha às 2h00 da hora antiga.",
+   "es": "En las noches de 7 € el recinto de conciertos es libre hasta las 19:00, cierra para el control de entradas y reabre a las 20:00. Los fines de semana la Avenida Norton de Matos está cortada al tráfico entre la rotonda de los Bombeiros y la Praceta Alves Redol. La hora cambia el sábado por la noche y la feria cierra a las 2:00 de la hora antigua."
   },
   "cta": {
-   "en": "Buy tickets →",
-   "pt": "Comprar bilhetes →",
-   "es": "Comprar entradas →"
+   "en": "Open the fair guide →",
+   "pt": "Abrir o guia da feira →",
+   "es": "Abrir la guía de la feria →"
   },
-  "url": "https://feirasantairiatomar.360city.pt",
+  "url": "https://vamostomar.pt/pt/feira-de-santa-iria/",
   "badge": {
-   "big": "5",
+   "big": "8",
    "small": {
-    "en": "days to the opening",
-    "pt": "dias para a abertura",
-    "es": "días para la apertura"
+    "en": "days of fair left",
+    "pt": "dias de feira",
+    "es": "días de feria"
    },
    "date": {
-    "en": "Fri 16 Oct · 17:00",
-    "pt": "Sex 16 out · 17:00",
-    "es": "Vie 16 oct · 17:00"
+    "en": "Until Sun 25 Oct",
+    "pt": "Até dom 25 out",
+    "es": "Hasta dom 25 oct"
    }
   }
  },
  "events": [
   {
-   "date": "2026-10-13",
+   "date": "2026-10-20",
    "dateEnd": null,
-   "time": "21:30",
+   "time": "10:00",
    "featured": true,
-   "free": true,
-   "icon": "military",
-   "photo": null,
-   "url": "https://thomarhonoris.pt/",
-   "when": {
-    "en": "Tuesday 13 Oct · 21:30",
-    "pt": "Terça 13 out · 21:30",
-    "es": "Martes 13 oct · 21:30"
-   },
-   "title": {
-    "en": "Templar parade for Gualdim Pais",
-    "pt": "Cortejo Templário por D. Gualdim Pais",
-    "es": "Desfile templario por Gualdim Pais"
-   },
-   "text": {
-    "en": "Thomar Honoris and the OPCTJ walk from the Alameda Um de Março along the Corredoura to his statue in the Praça. Free.",
-    "pt": "A Thomar Honoris e a OPCTJ descem da Alameda Um de Março pela Corredoura até à estátua do fundador, na Praça. Grátis.",
-    "es": "Thomar Honoris y la OPCTJ van de la Alameda Um de Março por la Corredoura hasta la estatua del fundador, en la Praça. Gratis."
-   },
-   "place": {
-    "en": "Alameda Um de Março → Praça da República",
-    "pt": "Alameda Um de Março → Praça da República",
-    "es": "Alameda Um de Março → Praça da República"
-   }
-  },
-  {
-   "date": "2026-10-11",
-   "dateEnd": null,
-   "time": "09:30",
-   "featured": false,
-   "free": null,
-   "icon": "military",
-   "photo": null,
-   "url": "https://thomarhonoris.pt/",
-   "when": {
-    "en": "Sunday 11 Oct · 09:30",
-    "pt": "Domingo 11 out · 09:30",
-    "es": "Domingo 11 oct · 09:30"
-   },
-   "title": {
-    "en": "Campeonato dos Castelos",
-    "pt": "Campeonato dos Castelos",
-    "es": "Campeonato dos Castelos"
-   },
-   "text": {
-    "en": "A historic bow and crossbow tournament at the Templar castle, run by Thomar Honoris with the national archers' federation.",
-    "pt": "Torneio de arco e besta históricos no castelo templário, pela Thomar Honoris com a Federação de Arqueiros e Besteiros.",
-    "es": "Torneo de arco y ballesta históricos en el castillo templario, de Thomar Honoris con la federación de arqueros."
-   },
-   "place": {
-    "en": "Castelo de Tomar",
-    "pt": "Castelo de Tomar",
-    "es": "Castillo de Tomar"
-   }
-  },
-  {
-   "date": "2026-10-12",
-   "dateEnd": null,
-   "time": "15:00",
-   "featured": false,
-   "free": null,
-   "icon": "landmark",
-   "photo": null,
-   "url": "https://www.cm-tomar.pt/comunicacao/agenda",
-   "when": {
-    "en": "Monday 12 Oct · 15:00",
-    "pt": "Segunda 12 out · 15:00",
-    "es": "Lunes 12 oct · 15:00"
-   },
-   "title": {
-    "en": "The Capela dos Valle altarpiece, restored",
-    "pt": "O retábulo da Capela dos Valle, restaurado",
-    "es": "El retablo de la Capela dos Valle, restaurado"
-   },
-   "text": {
-    "en": "The conservation work on the altarpiece in the Santa Iria church is presented, a week before Dia de Santa Iria.",
-    "pt": "Apresentação do trabalho de conservação no retábulo da Igreja de Santa Iria, uma semana antes do Dia de Santa Iria.",
-    "es": "Se presenta la conservación del retablo de la iglesia de Santa Iria, una semana antes del Dia de Santa Iria."
-   },
-   "place": {
-    "en": "Laboratório d'Artes — CEFT, Casa dos Cubos",
-    "pt": "Laboratório d'Artes — CEFT, Casa dos Cubos",
-    "es": "Laboratório d'Artes — CEFT, Casa dos Cubos"
-   }
-  },
-  {
-   "date": "2026-10-16",
-   "dateEnd": null,
-   "time": "17:00",
-   "featured": false,
    "free": true,
    "icon": "festival",
    "photo": null,
    "url": "https://vamostomar.pt/pt/feira-de-santa-iria/",
    "when": {
-    "en": "Friday 16 Oct · 17:00",
-    "pt": "Sexta 16 out · 17:00",
-    "es": "Viernes 16 oct · 17:00"
+    "en": "Tuesday 20 Oct · 09:00 & 10:00",
+    "pt": "Terça 20 out · 9:00 e 10:00",
+    "es": "Martes 20 oct · 9:00 y 10:00"
    },
    "title": {
-    "en": "Opening night of the Feira de Santa Iria",
-    "pt": "Abertura da Feira de Santa Iria",
-    "es": "Apertura de la Feira de Santa Iria"
+    "en": "Procession of Santa Iria",
+    "pt": "Procissão de Santa Iria",
+    "es": "Procesión de Santa Iria"
    },
    "text": {
-    "en": "Official opening at 17:00 at the Convento de São Francisco, then a walk to the fair; Padre Guilherme in the tent at 22:30 (€10).",
-    "pt": "Abertura oficial às 17h00 no Convento de São Francisco e caminhada até à feira; Padre Guilherme na tenda às 22h30 (10 €).",
-    "es": "Apertura oficial a las 17:00 en el Convento de São Francisco y paseo hasta la feria; Padre Guilherme en la carpa a las 22:30 (10 €)."
+    "en": "Mass at 09:00 at Santa Maria do Olival, then the procession at 10:00 to the Ponte Velha, where petals go into the Nabão. Free.",
+    "pt": "Missa às 9h00 em Santa Maria do Olival e procissão às 10h00 até à Ponte Velha, onde se lançam pétalas ao Nabão. Grátis.",
+    "es": "Misa a las 9:00 en Santa Maria do Olival y procesión a las 10:00 hasta la Ponte Velha, con pétalos al Nabão. Gratis."
    },
    "place": {
-    "en": "Convento de São Francisco → Várzea Grande",
-    "pt": "Convento de São Francisco → Várzea Grande",
-    "es": "Convento de São Francisco → Várzea Grande"
+    "en": "Santa Maria do Olival → Ponte Velha",
+    "pt": "Santa Maria do Olival → Ponte Velha",
+    "es": "Santa Maria do Olival → Ponte Velha"
+   }
+  },
+  {
+   "date": "2026-10-18",
+   "dateEnd": null,
+   "time": "14:00",
+   "featured": false,
+   "free": true,
+   "icon": "family",
+   "photo": null,
+   "url": "https://vamostomar.pt/pt/feira-de-santa-iria/",
+   "when": {
+    "en": "Sunday 18 Oct · 14:00",
+    "pt": "Domingo 18 out · 14:00",
+    "es": "Domingo 18 oct · 14:00"
+   },
+   "title": {
+    "en": "Dia da Família at the fair",
+    "pt": "Dia da Família na feira",
+    "es": "Dia da Família en la feria"
+   },
+   "text": {
+    "en": "Pão de Ló and bouncy castles from 14:00, folk dancing at 20:30. Free.",
+    "pt": "Pão de Ló e insufláveis a partir das 14h00, folclore às 20h30. Grátis.",
+    "es": "Pão de Ló e hinchables desde las 14:00, folclore a las 20:30. Gratis."
+   },
+   "place": {
+    "en": "Várzea Grande",
+    "pt": "Várzea Grande",
+    "es": "Várzea Grande"
+   }
+  },
+  {
+   "date": "2026-10-19",
+   "dateEnd": null,
+   "time": "22:00",
+   "featured": false,
+   "free": true,
+   "icon": "music",
+   "photo": null,
+   "url": "https://vamostomar.pt/pt/feira-de-santa-iria/",
+   "when": {
+    "en": "Monday 19 Oct · 22:00",
+    "pt": "Segunda 19 out · 22:00",
+    "es": "Lunes 19 oct · 22:00"
+   },
+   "title": {
+    "en": "Noite de Fados, then DJ JBK",
+    "pt": "Noite de Fados e DJ JBK",
+    "es": "Noite de Fados y DJ JBK"
+   },
+   "text": {
+    "en": "Rui Tanoeiro, João Chora and Ana Paula Martins sing, with Custódio Castelo on the Portuguese guitar. Free.",
+    "pt": "Cantam Rui Tanoeiro, João Chora e Ana Paula Martins, com Custódio Castelo na guitarra portuguesa. Grátis.",
+    "es": "Cantan Rui Tanoeiro, João Chora y Ana Paula Martins, con Custódio Castelo a la guitarra portuguesa. Gratis."
+   },
+   "place": {
+    "en": "Iria Music Fest tent, Várzea Grande",
+    "pt": "Tenda do Iria Music Fest, Várzea Grande",
+    "es": "Carpa del Iria Music Fest, Várzea Grande"
+   }
+  },
+  {
+   "date": "2026-10-23",
+   "dateEnd": null,
+   "time": "22:30",
+   "featured": false,
+   "free": false,
+   "icon": "music",
+   "photo": null,
+   "url": "https://feirasantairiatomar.360city.pt",
+   "when": {
+    "en": "Friday 23 Oct · 22:30",
+    "pt": "Sexta 23 out · 22:30",
+    "es": "Viernes 23 oct · 22:30"
+   },
+   "title": {
+    "en": "GNR and Karetus",
+    "pt": "GNR e Karetus",
+    "es": "GNR y Karetus"
+   },
+   "text": {
+    "en": "GNR, then Karetus, in the fair tent. €7, under-12s free.",
+    "pt": "Os GNR e, a seguir, os Karetus na tenda da feira. 7 €, menores de 12 grátis.",
+    "es": "GNR y, después, Karetus en la carpa de la feria. 7 €, menores de 12 gratis."
+   },
+   "place": {
+    "en": "Iria Music Fest tent, Várzea Grande",
+    "pt": "Tenda do Iria Music Fest, Várzea Grande",
+    "es": "Carpa del Iria Music Fest, Várzea Grande"
    }
   }
  ],
  "news": [
   {
-   "cat": "community",
-   "src": "mediotejo.net",
-   "url": "https://mediotejo.net/tomar-prepara-mais-oito-fogos-de-arrendamento-acessivel-na-choromela/",
+   "cat": "camara",
+   "src": "Rádio Hertz",
+   "url": "https://radiohertz.pt/tomar-prazo-para-candidaturas-a-habitacoes-a-custos-acessiveis-termina-no-dia-23-cada-familia-nao-ira-pagar-mais-do-que-35-dos-seus-rendimentos/",
    "head": {
-    "en": "Eight more affordable-rent flats planned at Choromela",
-    "pt": "Mais oito casas de renda acessível na Choromela",
-    "es": "Ocho pisos más de alquiler asequible en Choromela"
+    "en": "Affordable homes: applications close on Friday 23 October",
+    "pt": "Habitação a custos acessíveis: candidaturas até sexta, 23",
+    "es": "Vivienda asequible: solicitudes hasta el viernes 23"
    },
    "body": {
-    "en": "The Câmara approved a four-storey block of T1 and T3 flats. Applications for affordable rent in Choromela and Marmelais close on 23 October.",
-    "pt": "A Câmara aprovou um prédio de quatro pisos com T1 e T3. As candidaturas à renda acessível na Choromela e em Marmelais fecham a 23 de outubro.",
-    "es": "La Câmara aprobó un edificio de cuatro plantas con T1 y T3. Las solicitudes de alquiler asequible en Choromela y Marmelais cierran el 23 de octubre."
+    "en": "44 homes in Choromela and Marmelais. Rent is 35% of household income or a cap of €543 (T2) or €669 (T3), whichever is lower.",
+    "pt": "São 44 casas na Choromela e em Marmelais. A renda é 35% do rendimento ou o teto de 543 € (T2) ou 669 € (T3), o que for menor.",
+    "es": "Son 44 viviendas en Choromela y Marmelais. El alquiler es el 35% de los ingresos o un tope de 543 € (T2) o 669 € (T3), lo menor."
    }
   },
   {
    "cat": "community",
    "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/tomar-continuam-as-queixas-pela-demora-na-entrega-de-correspondencia-no-concelho-desta-feita-de-pensionistas-que-ainda-nao-receberam-as-reformas/",
+   "url": "https://radiohertz.pt/tomar-uls-medio-tejo-admite-transtornos-perante-falta-de-medico-de-recurso-na-nabancia-utentes-sem-medico-de-familia-que-necessitem-de-avaliacao-devem-contactar-o-sns-24/",
    "head": {
-    "en": "Post delays now hold up pensions by mail",
-    "pt": "Atrasos no correio já atrasam reformas",
-    "es": "Los retrasos del correo ya frenan pensiones"
+    "en": "Fewer same-day appointments at the USF de Santa Maria",
+    "pt": "Atendimento de recurso condicionado na USF de Santa Maria",
+    "es": "Menos citas del día en la USF de Santa Maria"
    },
    "body": {
-    "en": "Some pensioners are collecting letters at the CTT centre themselves. The postal workers' union says Tomar is 12 staff short.",
-    "pt": "Há pensionistas a ir buscar as cartas ao centro de distribuição dos CTT. O sindicato diz que faltam 12 trabalhadores em Tomar.",
-    "es": "Hay pensionistas que recogen sus cartas en el centro de los CTT. El sindicato dice que faltan 12 trabajadores en Tomar."
+    "en": "A doctor left in September. Patients without a family doctor should call SNS 24 (808 24 24 24); urgent cases go to Tomar's urgency service.",
+    "pt": "Um médico saiu em setembro. Utentes sem médico de família devem ligar para o SNS 24 (808 24 24 24); casos urgentes vão à urgência de Tomar.",
+    "es": "Un médico se fue en septiembre. Quien no tenga médico de familia debe llamar al SNS 24 (808 24 24 24); lo urgente, a urgencias de Tomar."
    }
   },
   {
    "cat": "camara",
-   "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/tomar-avenida-candido-madureira-devera-ser-pavimentada-ate-final-deste-ano-e-passadeiras-em-calcada-da-alameda-um-de-marco-serao-substituidas/",
-   "head": {
-    "en": "Avenida Cândido Madureira to be resurfaced by year's end",
-    "pt": "Avenida Cândido Madureira repavimentada até ao fim do ano",
-    "es": "La Avenida Cândido Madureira, repavimentada antes de fin de año"
-   },
-   "body": {
-    "en": "Mayor Tiago Carrão says the avenue, on the Tabuleiros route, will be paved this year, and the cobbled crossings on the Alameda Um de Março replaced.",
-    "pt": "O presidente Tiago Carrão diz que a avenida, no percurso dos Tabuleiros, é pavimentada este ano, e as passadeiras em calçada da Alameda serão trocadas.",
-    "es": "El alcalde Tiago Carrão dice que la avenida, en el recorrido de los Tabuleiros, se asfalta este año y se cambiarán los pasos de cebra empedrados de la Alameda."
-   }
-  },
-  {
-   "cat": "camara",
-   "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/tomar-ps-acusa-executivo-camarario-de-prejudicar-associacoes-na-feira-de-santa-iria-samuel-fontes-nega-e-garante-que-coletividades-tem-sido-informadas/",
-   "head": {
-    "en": "Councillors split over the fair's fenced concert nights",
-    "pt": "Vereadores divididos sobre o recinto vedado da feira",
-    "es": "Concejales divididos por el recinto vallado de la feria"
-   },
-   "body": {
-    "en": "PS councillors say local associations lose out on ticketed nights; councillor Samuel Fontes, for the executive, says they have been kept informed.",
-    "pt": "Os vereadores do PS dizem que as coletividades saem prejudicadas nas noites pagas; o vereador Samuel Fontes, do executivo, garante que foram informadas.",
-    "es": "Los concejales del PS dicen que las asociaciones pierden en las noches de pago; Samuel Fontes, del ejecutivo, asegura que han sido informadas."
-   }
-  },
-  {
-   "cat": "business",
    "src": "mediotejo.net",
-   "url": "https://mediotejo.net/tomar-inicia-alteracao-do-pdm-para-criar-nova-zona-empresarial-em-vale-dos-ovos/",
+   "url": "https://mediotejo.net/tomar-admite-financiamento-insuficiente-para-tres-grandes-obras-e-reve-projeto-da-en110/",
    "head": {
-    "en": "First step towards a business park at Vale dos Ovos",
-    "pt": "Primeiro passo para a zona empresarial de Vale dos Ovos",
-    "es": "Primer paso hacia el polígono empresarial de Vale dos Ovos"
+    "en": "€5m isn't enough for three big works, the Câmara says",
+    "pt": "Câmara diz que 5 milhões não chegam para três grandes obras",
+    "es": "La Câmara dice que 5 millones no bastan para tres grandes obras"
    },
    "body": {
-    "en": "The Câmara unanimously began a PDM change to turn rural land near the IC9 into an area for businesses. Public consultation comes later.",
-    "pt": "A Câmara aprovou por unanimidade iniciar a alteração do PDM para tornar urbano o solo rústico junto ao IC9. A discussão pública vem depois.",
-    "es": "La Câmara aprobó por unanimidad iniciar el cambio del PDM para recalificar suelo rústico junto al IC9. La consulta pública llegará después."
+    "en": "The EN110, the historic centre and an avenue extension compete for it. The EN110 plan is being revised; phase one could start late 2027.",
+    "pt": "A EN110, o centro histórico e o prolongamento de uma avenida disputam a verba. O projeto da EN110 está em revisão; a 1.ª fase pode arrancar no fim de 2027.",
+    "es": "La EN110, el centro histórico y la prolongación de una avenida compiten por el dinero. El proyecto de la EN110 se revisa; la 1.ª fase, quizá a finales de 2027."
    }
   },
   {
    "cat": "freguesias",
    "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/tomar-parte-do-aqueduto-dos-pegoes-podera-nao-resistir-ao-inverno-que-se-avizinha-monumento-tem-sido-esquecido-por-muitos/",
+   "url": "https://radiohertz.pt/tomar-primeiro-ano-de-mandato-em-casais-alviobeira-luis-freire-nao-esconde-revolta-perante-falta-de-iluminacao-publica-devido-a-tempestade-e-centro-de-saude-continua-sem-janelas-e-sem-medicos/",
    "head": {
-    "en": "Pegões aqueduct: fears of a new collapse this winter",
-    "pt": "Aqueduto dos Pegões: receio de nova derrocada no inverno",
-    "es": "Acueducto de Pegões: temor a un nuevo derrumbe en invierno"
+    "en": "Casais e Alviobeira still waiting on storm repairs",
+    "pt": "Casais e Alviobeira ainda à espera de reparações da tempestade",
+    "es": "Casais e Alviobeira sigue esperando reparaciones tras la tormenta"
    },
    "body": {
-    "en": "The Carregueiros parish president warns of serious stability problems. The Câmara will pay about €30,000 for an in-depth LNEC inspection.",
-    "pt": "O presidente da Junta de Carregueiros alerta para graves problemas de estabilidade. A Câmara vai pagar cerca de 30 mil euros por uma inspeção do LNEC.",
-    "es": "El presidente de la junta de Carregueiros alerta de graves problemas de estabilidad. La Câmara pagará unos 30.000 € por una inspección del LNEC."
+    "en": "A year in, parish president Luís Freire points to street lights, cables on the ground and a health centre without windows since 28 January.",
+    "pt": "Um ano depois, o presidente da Junta, Luís Freire, aponta a iluminação pública, cabos no chão e um centro de saúde sem janelas desde 28 de janeiro.",
+    "es": "Un año después, el presidente de la junta, Luís Freire, señala el alumbrado, cables por el suelo y un centro de salud sin ventanas desde el 28 de enero."
    }
   },
   {
    "cat": "culture",
-   "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/tomar-reabilitacao-do-antigo-edificio-do-tribunal-do-trabalho-obriga-a-esforco-financeiro-de-16-milhoes/",
+   "src": "O Templário",
+   "url": "https://otemplario.pt/comboio-historico-a-vapor-templario-liga-entroncamento-a-tomar/",
    "head": {
-    "en": "Old Labour Court on Largo do Pelourinho could become a museum",
-    "pt": "Antigo Tribunal do Trabalho pode ser espaço museológico",
-    "es": "El antiguo Tribunal de Trabajo podría ser un museo"
+    "en": "A steam train to Tomar on 7 and 8 November",
+    "pt": "Comboio a vapor até Tomar a 7 e 8 de novembro",
+    "es": "Un tren de vapor a Tomar el 7 y 8 de noviembre"
    },
    "body": {
-    "en": "The Câmara is buying the building for about €900,000 to house a collection that may be donated; restoring it would cost about €1.6 million.",
-    "pt": "A Câmara vai comprar o edifício por cerca de 900 mil euros para receber uma coleção que poderá ser doada; reabilitá-lo custará cerca de 1,6 milhões.",
-    "es": "La Câmara compra el edificio por unos 900.000 € para acoger una colección que podría ser donada; rehabilitarlo costaría unos 1,6 millones."
+    "en": "CP's century-old locomotive 0186 runs from Entroncamento with Templar entertainment. €26 per route, €13 for children aged 4–12.",
+    "pt": "A locomotiva 0186 da CP, com cerca de 100 anos, sai do Entroncamento com animação templária. 26 € por trajeto, 13 € dos 4 aos 12 anos.",
+    "es": "La locomotora 0186 de CP, de unos 100 años, sale de Entroncamento con animación templaria. 26 € por trayecto, 13 € de 4 a 12 años."
+   }
+  },
+  {
+   "cat": "community",
+   "src": "Rádio Hertz",
+   "url": "https://radiohertz.pt/atualidade-tomarense-pedro-moura-toma-posse-amanha-como-diretor-nacional-da-psp/",
+   "head": {
+    "en": "Tomar-born Pedro Moura named head of the PSP",
+    "pt": "O tomarense Pedro Moura é o novo diretor nacional da PSP",
+    "es": "El tomarense Pedro Moura, nuevo director nacional de la PSP"
+   },
+   "body": {
+    "en": "The superintendente-chefe, 59, was due to be sworn in as national director on 13 October. He once commanded the Abrantes station.",
+    "pt": "O superintendente-chefe, de 59 anos, tinha a tomada de posse como diretor nacional marcada para 13 de outubro. Já comandou a esquadra de Abrantes.",
+    "es": "El superintendente jefe, de 59 años, tenía prevista su toma de posesión como director nacional el 13 de octubre. Dirigió la comisaría de Abrantes."
+   }
+  },
+  {
+   "cat": "culture",
+   "src": "O Templário",
+   "url": "https://otemplario.pt/bonecos-do-carnaval-de-tomar-vao-ganhar-forma-no-atelier-de-mona-martins-na-barquinha/",
+   "head": {
+    "en": "Tomar's 2027 Carnival figures take shape in Barquinha",
+    "pt": "Bonecos do Carnaval de Tomar 2027 nascem na Barquinha",
+    "es": "Los muñecos del Carnaval de Tomar 2027 nacen en Barquinha"
+   },
+   "body": {
+    "en": "They are being made at the atelier of Mona Martins, a São Paulo artist who worked on Carnival floats and costumes in Brazil.",
+    "pt": "Estão a ser feitos no atelier de Mona Martins, artista de São Paulo que trabalhou em carros e figurinos de Carnaval no Brasil.",
+    "es": "Se hacen en el taller de Mona Martins, artista de São Paulo que trabajó en carrozas y vestuario de Carnaval en Brasil."
    }
   }
  ],
  "fact": {
-  "id": "siege-1190",
-  "en": "In 1190 an Almohad army besieged Tomar and failed to take it. Gualdim Pais, then about 70, held the walls, and the Porta do Sangue is still named for that summer.",
-  "pt": "Em 1190 um exército almóada cercou Tomar e não a conseguiu tomar. Gualdim Pais, então com cerca de 70 anos, segurou as muralhas, e a Porta do Sangue ainda tem o nome desse verão.",
-  "es": "En 1190 un ejército almohade sitió Tomar y no logró tomarla. Gualdim Pais, con unos 70 años, defendió las murallas, y la Porta do Sangue aún lleva el nombre de aquel verano."
+  "id": "order-of-christ",
+  "en": "When the Templars were dissolved, Portugal created the Order of Christ in 1319 to inherit their property. In 1356 the new order moved its seat back to Tomar.",
+  "pt": "Quando os Templários foram extintos, Portugal criou a Ordem de Cristo em 1319 para herdar os seus bens. Em 1356 a nova ordem voltou a ter sede em Tomar.",
+  "es": "Cuando se disolvió el Temple, Portugal creó en 1319 la Orden de Cristo para heredar sus bienes. En 1356 la nueva orden volvió a tener su sede en Tomar."
  },
  "coming": [
   {
    "when": {
-    "en": "Sun 18 Oct",
-    "pt": "Dom 18 out",
-    "es": "Dom 18 oct"
+    "en": "Sun 25 Oct",
+    "pt": "Dom 25 out",
+    "es": "Dom 25 oct"
    },
    "text": {
-    "en": "Dia da Família at the fair: Pão de Ló and bouncy castles at 14:00, folk dancing at 20:30. Free.",
-    "pt": "Dia da Família na feira: Pão de Ló e insufláveis às 14h00, folclore às 20h30. Grátis.",
-    "es": "Dia da Família en la feria: Pão de Ló e hinchables a las 14:00, folclore a las 20:30. Gratis."
+    "en": "The fair's last day: Rádio Cidade de Tomar's anniversary party in the tent at 15:00. Free.",
+    "pt": "Último dia da feira: aniversário da Rádio Cidade de Tomar na tenda, às 15h00. Grátis.",
+    "es": "Último día de la feria: aniversario de Rádio Cidade de Tomar en la carpa, a las 15:00. Gratis."
    }
   },
   {
    "when": {
-    "en": "Mon 19 Oct",
-    "pt": "Seg 19 out",
-    "es": "Lun 19 oct"
+    "en": "Sun 25 Oct",
+    "pt": "Dom 25 out",
+    "es": "Dom 25 oct"
    },
    "text": {
-    "en": "Noite de Fados, then DJ JBK, in the fair tent. Free.",
-    "pt": "Noite de Fados e DJ JBK na tenda da feira. Grátis.",
-    "es": "Noite de Fados y DJ JBK en la carpa de la feria. Gratis."
+    "en": "National field archery championship, bow and crossbow, at the Regimento de Infantaria 15 from 09:30.",
+    "pt": "Campeonato nacional de campo de arco e besta no Regimento de Infantaria 15, a partir das 9h30.",
+    "es": "Campeonato nacional de campo de arco y ballesta en el Regimiento de Infantería 15, desde las 9:30."
    }
   },
   {
    "when": {
-    "en": "Tue 20 Oct",
-    "pt": "Ter 20 out",
-    "es": "Mar 20 oct"
+    "en": "Wed 28 Oct",
+    "pt": "Qua 28 out",
+    "es": "Mié 28 oct"
    },
    "text": {
-    "en": "Dia de Santa Iria: procession at 10:00 to the Ponte Velha; Quinta do Bill at night, free.",
-    "pt": "Dia de Santa Iria: procissão às 10h00 até à Ponte Velha; à noite, Quinta do Bill, grátis.",
-    "es": "Dia de Santa Iria: procesión a las 10:00 hasta la Ponte Velha; por la noche, Quinta do Bill, gratis."
+    "en": "VI Mostra Criativa: final-year students of the Politécnica open their show at the Casa dos Cubos, 16:30.",
+    "pt": "VI Mostra Criativa: os finalistas da Politécnica inauguram a exposição na Casa dos Cubos, às 16h30.",
+    "es": "VI Mostra Criativa: los alumnos de último curso del Politécnico inauguran en la Casa dos Cubos, 16:30."
    }
   },
   {
    "when": {
-    "en": "Fri 23 Oct",
-    "pt": "Sex 23 out",
-    "es": "Vie 23 oct"
+    "en": "Sat 31 Oct",
+    "pt": "Sáb 31 out",
+    "es": "Sáb 31 oct"
    },
    "text": {
-    "en": "GNR and Karetus on the Iria Music Fest stage (€7).",
-    "pt": "GNR e Karetus no palco do Iria Music Fest (7 €).",
-    "es": "GNR y Karetus en el escenario del Iria Music Fest (7 €)."
+    "en": "Two new shows open at the Levada and Festival Zero begins at the Cine-Teatro Paraíso.",
+    "pt": "Duas exposições abrem na Levada e começa o Festival Zero no Cine-Teatro Paraíso.",
+    "es": "Dos exposiciones abren en la Levada y empieza el Festival Zero en el Cine-Teatro Paraíso."
    }
   },
   {
    "when": {
-    "en": "Sat 24 Oct",
-    "pt": "Sáb 24 out",
-    "es": "Sáb 24 oct"
+    "en": "Halloween",
+    "pt": "Halloween",
+    "es": "Halloween"
    },
    "text": {
-    "en": "FH5, Bárbara Tinoco and I Love The 90's (€7). The clocks go back that night.",
-    "pt": "FH5, Bárbara Tinoco e I Love The 90's (7 €). Nessa noite a hora muda.",
-    "es": "FH5, Bárbara Tinoco e I Love The 90's (7 €). Esa noche cambia la hora."
+    "en": "🎃 A special surprise is coming to Vamos Tomar for Halloween. Keep an eye on @vamostomarinsta.",
+    "pt": "🎃 Vem aí uma surpresa especial do Vamos Tomar para o Halloween. Fiquem atentos ao @vamostomarinsta.",
+    "es": "🎃 Llega una sorpresa especial de Vamos Tomar para Halloween. Atentos a @vamostomarinsta."
    }
   }
  ],
  "whatsapp": {
-  "en": "This Week in Tomar (11 – 17 Oct): the 400th Feira de Santa Iria opens Friday, a Templar parade on Tuesday night and a historic archery tournament at the castle.\nhttps://vamostomar.pt/weekly/?lang=en",
-  "pt": "Esta Semana em Tomar (11 – 17 out): a Feira de Santa Iria dos 400 anos abre na sexta, cortejo templário na terça à noite e torneio de arco e besta no castelo.\nhttps://vamostomar.pt/weekly/",
-  "es": "Esta Semana en Tomar (11 – 17 oct): la Feira de Santa Iria de los 400 años abre el viernes, desfile templario el martes por la noche y torneo de arco y ballesta en el castillo.\nhttps://vamostomar.pt/weekly/?lang=es"
+  "en": "This Week in Tomar (18 – 24 Oct): the Feira de Santa Iria's last week, with free fado and Quinta do Bill, the procession to the river on Tuesday and GNR on Friday.\nhttps://vamostomar.pt/weekly/?lang=en",
+  "pt": "Esta Semana em Tomar (18 – 24 out): a última semana da Feira de Santa Iria, com fados e Quinta do Bill grátis, a procissão até ao rio na terça e os GNR na sexta.\nhttps://vamostomar.pt/weekly/",
+  "es": "Esta Semana en Tomar (18 – 24 oct): la última semana de la Feira de Santa Iria, con fados y Quinta do Bill gratis, la procesión al río el martes y GNR el viernes.\nhttps://vamostomar.pt/weekly/?lang=es"
+ },
+ "instagram": {
+  "spotlight": {
+   "caption": "A Feira de Santa Iria entra na última semana, e começa com três noites grátis. 🎡\n\nDomingo, 18, é Dia da Família; segunda, 19, Noite de Fados; terça, 20, @quintadobill.\n\nTerça é também Dia de Santa Iria: procissão às 10h00 até à Ponte Velha, com pétalas no Nabão.\n\nDepois, noites a 7 € na tenda: @ivandro73 na quarta, @bandareplika e @atoa.oficial na quinta, @osgnr e @karetus na sexta, @bandafh5 e @tinoco.barbara no sábado. Menores de 12 não pagam.\n\n📍 Várzea Grande, Tomar · até domingo, 25\nPrograma dia a dia no nosso guia da feira (link na bio), e a feira volta a fazer a capa de «Esta Semana em Tomar» no domingo às 8h.\n\n#vamostomar #tomar #tomarportugal #feiradesantairia",
+   "en": "The Feira de Santa Iria enters its last week, and it starts with three free nights. 🎡\n\nSunday 18 is Dia da Família; Monday 19, Noite de Fados; Tuesday 20, @quintadobill.\n\nTuesday is also Dia de Santa Iria: procession at 10:00 to the Ponte Velha, with petals on the Nabão.\n\nThen the €7 nights in the tent: @ivandro73 on Wednesday, @bandareplika and @atoa.oficial on Thursday, @osgnr and @karetus on Friday, @bandafh5 and @tinoco.barbara on Saturday. Under-12s go free.\n\n📍 Várzea Grande, Tomar · until Sunday 25\nThe day-by-day programme is in our fair guide (link in bio), and the fair is the cover of \"This Week in Tomar\" again on Sunday at 8am.",
+   "alt": {
+    "pt": "Última semana dos 400 anos de Santa Iria: noites grátis, a procissão de terça e os GNR na sexta. 🎡",
+    "en": "The last week of Santa Iria's 400th: free nights, Tuesday's procession and GNR on Friday. 🎡"
+   },
+   "check": [
+    "Spotlight post is about the fair again this week, as you asked today.",
+    "Tag @municipiodetomar and @paroquiadetomar too if you want (confirmed handles; left out to keep it short)."
+   ]
+  },
+  "edition": {
+   "caption": "🗞️ «Esta Semana em Tomar» n.º 4 já está no ar: de 18 a 24 de outubro.\n\nNesta edição:\n🎡 A última semana da Feira de Santa Iria, noite a noite, com @quintadobill e @osgnr\n🌸 Procissão de Santa Iria, terça às 10h00, até à Ponte Velha\n🏠 Casas a custos acessíveis: candidaturas até sexta, 23\n🚂 Comboio a vapor do Entroncamento a Tomar, a 7 e 8 de novembro\n\nE ainda o tempo, os eventos e uma curiosidade da semana. Leiam em vamostomar.pt (link na bio).\n\n#vamostomar #tomar #tomarportugal #feiradesantairia",
+   "en": "🗞️ \"This Week in Tomar\" no. 4 is out: 18 to 24 October.\n\nIn this edition:\n🎡 The last week of the Feira de Santa Iria, night by night, with @quintadobill and @osgnr\n🌸 The Santa Iria procession, Tuesday at 10:00, to the Ponte Velha\n🏠 Affordable homes: applications until Friday 23\n🚂 A steam train from Entroncamento to Tomar on 7 and 8 November\n\nPlus the weather, the events and a fact of the week. Read it on vamostomar.pt (link in bio).",
+   "check": [
+    "Tag @municipiodetomar on the housing line if you like (confirmed handle)."
+   ]
+  }
  },
  "sourcesChecked": [
   {
-   "src": "MET Norway (Tomar)",
+   "src": "MET Norway",
    "ok": true,
    "items": 7
   },
@@ -548,12 +573,12 @@
   {
    "src": "Rádio Hertz (local)",
    "ok": true,
-   "items": 10
+   "items": 20
   },
   {
    "src": "Rádio Hertz (desporto)",
    "ok": true,
-   "items": 10
+   "items": 0
   },
   {
    "src": "O Templário",
@@ -562,50 +587,24 @@
   },
   {
    "src": "Cidade de Tomar",
-   "ok": true,
-   "items": 10
+   "ok": false,
+   "items": 0
   },
   {
-   "src": "mediotejo.net (Tomar feed)",
+   "src": "mediotejo.net",
    "ok": true,
    "items": 10
   },
   {
    "src": "Cine-Teatro Paraíso",
    "ok": true,
-   "items": 12
+   "items": 7
   },
   {
    "src": "live.json",
    "ok": true,
-   "items": 6
-  },
-  {
-   "src": "Santa Iria project notes + cm-tomar 2026 programme",
-   "ok": true,
-   "items": 1
+   "items": 24
   }
  ],
- "instagram": {
-  "spotlight": {
-   "caption": "A Feira de Santa Iria faz 400 anos e abre na sexta-feira, 16 de outubro, na Várzea Grande. 🎡\n\nCriada por carta régia em 1626, traz este ano o primeiro Iria Music Fest: @padre.guilherme, @chicodaconcertina, @quintadobill, @ivandro73, @osgnr, @tinoco.barbara e mais.\n\nA entrada na feira é livre todos os dias. Concertos a 7 € (10 € na abertura) ou Passe Geral a 25 €; 18, 19, 20 e 25 são noites grátis.\n\nTerça, 20, é Dia de Santa Iria: procissão às 10h00 até à Ponte Velha, com pétalas no Nabão.\n\n📍 Várzea Grande, Tomar · 16 a 25 de outubro\nGuia completo em vamostomar.pt (link na bio). No domingo às 8h, a feira faz a capa de «Esta Semana em Tomar».\n\n#vamostomar #tomar #tomarportugal #feiradesantairia",
-   "en": "The Feira de Santa Iria turns 400 and opens on Friday 16 October at the Várzea Grande. 🎡\n\nCreated by royal charter in 1626, this year it brings the first Iria Music Fest: @padre.guilherme, @chicodaconcertina, @quintadobill, @ivandro73, @osgnr, @tinoco.barbara and more.\n\nGetting into the fair is free every day. Concerts €7 (€10 on opening night) or the €25 Passe Geral; the 18th, 19th, 20th and 25th are free nights.\n\nTuesday 20 is Dia de Santa Iria: procession at 10:00 to the Ponte Velha, with petals on the Nabão.\n\n📍 Várzea Grande, Tomar · 16 to 25 October\nFull guide on vamostomar.pt (link in bio). On Sunday at 8am, the fair is the cover of \"This Week in Tomar\".",
-   "alt": {
-    "pt": "400 anos, dez dias e o primeiro Iria Music Fest: a Feira de Santa Iria abre na sexta, 16, em Tomar. 🎡",
-    "en": "400 years, ten days and the first Iria Music Fest: the Feira de Santa Iria opens on Friday 16 in Tomar. 🎡"
-   },
-   "check": [
-    "This week's spotlight post is about the fair, not a business (as you asked on 8 Oct).",
-    "Tag @municipiodetomar too if you want the Câmara to see it (confirmed handle; left out of the caption to keep it short)."
-   ]
-  },
-  "edition": {
-   "caption": "🗞️ «Esta Semana em Tomar» n.º 3 já está no ar: de 11 a 17 de outubro.\n\nNesta edição:\n🎡 Os 400 anos da Feira de Santa Iria, que abre sexta, 16, na Várzea Grande\n🎟️ Bilhetes no Posto de Turismo até quinta, 15; Passe Geral a 25 €\n⚔️ Cortejo templário por D. Gualdim Pais, terça às 21h30, até à Praça\n🏛️ Aqueduto dos Pegões: a Câmara encomenda uma inspeção ao LNEC\n\nE ainda o tempo, os eventos e uma curiosidade da semana. Leiam em vamostomar.pt (link na bio).\n\n#vamostomar #tomar #tomarportugal #feiradesantairia",
-   "en": "🗞️ \"This Week in Tomar\" no. 3 is out: 11 to 17 October.\n\nIn this edition:\n🎡 The 400th Feira de Santa Iria, opening Friday 16 at the Várzea Grande\n🎟️ Tickets at the Posto de Turismo until Thursday 15; Passe Geral €25\n⚔️ Templar parade for D. Gualdim Pais, Tuesday at 21:30, to the Praça\n🏛️ Pegões aqueduct: the Câmara orders an inspection from LNEC\n\nPlus the weather, the events and a fact of the week. Read it on vamostomar.pt (link in bio).",
-   "check": [
-    "@ for Thomar Honoris (organiser of the Templar parade)? Not confirmed, so it's written without a tag."
-   ]
-  }
- },
- "confirmedAt": "2026-10-10T22:59:06.327Z"
+ "confirmedAt": "2026-10-17T16:08:49.555Z"
 }
