@@ -1,28 +1,7 @@
 {
- "rev": 56,
- "updated": "2026-10-17T16:08:56.000Z",
+ "rev": 57,
+ "updated": "2026-10-20T13:29:01.030Z",
  "events": [
-  {
-   "date": "2026-10-03",
-   "dateEnd": null,
-   "name": "Ceramics at Fábrica das Artes",
-   "blurb": "Make and decorate your own flower pot! Included in the Workshop: Clay + Tools + Paints to decorate the pieces + their glaze ( made by me later to receive the pieces already completed) + ovens + snacks and flavored water. €45.",
-   "place": "A Moagem — Fábrica das Artes",
-   "name_pt": "Cerâmica na Fábrica das Artes",
-   "name_es": "Cerámica en Fábrica das Artes",
-   "blurb_pt": "Faz e decora o teu próprio vaso para flores! Incluido no Workshop: Barro + Ferramentas + Tintas para decorar as peças + o vidrado das mesmas ( feito por mim posteriormente para receberem as peças já completas) + fornadas + snacks e água aromatizada.\n45€.",
-   "blurb_es": "¡Haz y decora tu propia maceta! Incluido en el Taller: Arcilla + Herramientas + Pinturas para decorar las piezas + su esmalte ( hecho por mí más tarde para recibir las piezas ya terminadas) + hornos + snacks y agua saborizada. 45€.",
-   "place_pt": "A Moagem — Fábrica das Artes",
-   "place_es": "A Moagem — Fábrica das Artes",
-   "time": "10:00",
-   "venue": "a-moagem",
-   "maps": "https://www.google.com/maps/search/?api=1&query=A+Moagem+Fabrica+das+Artes%2C+Tomar",
-   "url": "https://jmceramics.bigcartel.com",
-   "photo": {
-    "src": "data/images/ceramics-at-fabrica-das-artes-poster-20260928-o5m3.webp"
-   },
-   "id": "ev-2026-10-03-ceramics-at-fabrica-das-artes"
-  },
   {
    "date": "2026-10-09",
    "dateEnd": null,
@@ -7422,6 +7401,53 @@
     "type": "AMI",
     "no": "7856"
    }
+  },
+  {
+   "category": "see",
+   "zone": "centro",
+   "name": "Nabao Adventure",
+   "blurb": "Nature and Adventure Park in the Sabacheira Mountains (next to the GDR Serras-Sabacheira), 5 minutes from Fátima Station and 10 minutes from the Agroal River Beach. Leisure space for adults and children with good access, nature, PICNIC space, parking and activities such as Paintball, hiking along the Nabão trails, etc. They organize outdoor activities for groups, companies, associations and create dynamic events, always associated with Nature.",
+   "detail": "Perto da Praia Fluvial do Agroal",
+   "name_pt": "Nabao Adventure",
+   "blurb_pt": "Parque Natureza e Aventura nas Serras da Sabacheira (junto ao GDR Serras-Sabacheira), 5 minutos da Estação de Fátima e 10 minutos da Praia Fluvial do Agroal. Espaço de lazer para adultos e crianças com bons acessos, natureza, espaço de PIC-NIC, estacionamento e atividades como Paintball, caminhadas pelos trilhos do Nabão, etc.\nOrganizam atividades outdoor para grupos, empresas, associações e criam eventos dinâmicos, sempre associados à Natureza.",
+   "detail_pt": "Perto da Praia Fluvial do Agroal",
+   "name_es": "Aventura en Nabao",
+   "blurb_es": "Parque Natural y de Aventura en la Sierra de Sabacheira (junto a la RDA Serras-Sabacheira), a 5 minutos de la Estación de Fátima y a 10 minutos de la Playa del Río Agroal. Espacio de ocio para adultos y niños con buen acceso, naturaleza, zona de PICNIC, parking y actividades como Paintball, senderismo por los senderos de Nabão, etc. Organizan actividades al aire libre para grupos, empresas, asociaciones y crean eventos dinámicos, siempre asociados a la Naturaleza.",
+   "detail_es": "Perto da Praia Fluvial do Agroal",
+   "price": "Desde 18€",
+   "price_pt": "Desde 18€",
+   "price_es": "Desde 18 €",
+   "sub": [],
+   "tags": [
+    "outdoor",
+    "kids",
+    "english"
+   ],
+   "phone": "+351 911998595",
+   "email": "nabaoadventure@gmail.com",
+   "links": {
+    "website": "https://www.nabaoadventure.com",
+    "instagram": "https://www.instagram.com/nabao.adventure/",
+    "facebook": "https://web.facebook.com/profile.php?id=61591532683475",
+    "maps": "https://maps.app.goo.gl/oVfrJomdAB1LLgii7"
+   },
+   "hours": {
+    "0": [
+     8,
+     20
+    ],
+    "6": [
+     8,
+     20
+    ],
+    "note": "Aberto todos os fins de semana das 08:00h às 20:00h"
+   },
+   "id": "nabao-adventure",
+   "photos": [
+    {
+     "src": "data/images/nabao-adventure-20261020-pojv.webp"
+    }
+   ]
   }
  ],
  "patches": {
