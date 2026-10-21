@@ -1,6 +1,6 @@
 {
- "rev": 58,
- "updated": "2026-10-21T09:07:57.000Z",
+ "rev": 59,
+ "updated": "2026-10-21T09:48:15.212Z",
  "events": [
   {
    "date": "2026-10-09",
@@ -7512,34 +7512,6 @@
       23
      ]
     ]
-   }
-  },
-  {
-   "id": "mcdonalds-tomar",
-   "category": "eat",
-   "zone": "town",
-   "icon": "food",
-   "sub": [
-    "restaurants"
-   ],
-   "tags": [
-    "burgers",
-    "takeaway",
-    "kids"
-   ],
-   "name": "McDonald's Tomar",
-   "name_pt": "McDonald's Tomar",
-   "name_es": "McDonald's Tomar",
-   "blurb": "Tomar's McDonald's, reopened fully renovated in July 2026. Handy for a quick, predictable meal with kids.",
-   "blurb_pt": "O McDonald's de Tomar, que reabriu totalmente renovado em julho de 2026. Prático para uma refeição rápida com miúdos.",
-   "blurb_es": "El McDonald's de Tomar, reabierto totalmente renovado en julio de 2026. Práctico para una comida rápida con niños.",
-   "detail": "R. Cel. Garcês Teixeira 49, 2300-463 Tomar",
-   "detail_pt": "R. Cel. Garcês Teixeira 49, 2300-463 Tomar",
-   "detail_es": "R. Cel. Garcês Teixeira 49, 2300-463 Tomar",
-   "phone": "+351249322453",
-   "links": {
-    "website": "https://www.mcdonalds.pt/",
-    "maps": "https://www.google.com/maps/search/?api=1&query=McDonald%27s+Tomar%2C+R.+Cel.+Garc%C3%AAs+Teixeira+49%2C+2300-463+Tomar"
    }
   },
   {
