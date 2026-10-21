@@ -25,7 +25,7 @@ information (counts as verified, no web sources needed, `sources: []`).
   Under-13s can play but can't enter. Always say "competição"/"competition", never "sorteio", "passatempo" or "giveaway".
 - **How to enter (put these four steps in the story, in order):**
   1. Play in **Competition** mode at vamostomar.pt/halloween (3 lives, Round 1 to the end).
-  2. At the end, tap **"Criar post para o Instagram"** (EN "Make an Instagram post"), then **Copy caption** and **Save image**.
+  2. At the end, tap **"Criar post para o Instagram"** (EN "Make an Instagram post"), type your **Instagram @** in the box (it puts your score on the scoreboard), then **Copy caption** and **Save image**.
   3. Publish a **feed post** on your own Instagram with that image and the caption pasted **exactly as it is**, by Sat 31 Oct at 23:59.
   4. **One entry per person**: your first post counts. Keep the account public until 8 November; private accounts send the image and caption by DM to @vamostomarinsta.
 - Full rules: in the game, "Regras" button. Instagram line (keep it in the story's last paragraph or the facts): the competition is not sponsored, endorsed or run by Instagram.
