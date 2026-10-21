@@ -36,7 +36,7 @@ Shape:
   (4) **how to enter, the four steps in one paragraph** + "Rules in the game". Keep each paragraph within the validator's limit (≤ 420 characters), so be tight.
 - `facts`: When / 24–31 Oct · winner 1 Nov · Prize / Voucher up to €10 at Santa Iria Café · Who / Free · ages 13+ · Where / vamostomar.pt/halloween
 - `tags`: Halloween, Pão-por-Deus, Game, Family
-- `photo`: https://vamostomar.pt/data/images/halloween-game-cover-20261021.webp (the game's title art, sponsor badge included)
+- `photo`: https://vamostomar.pt/data/images/halloween-game-cover-20261021b.webp (Tommy's highlight image: title, sponsor badge and the three rounds; it's 4:3, keep it whole). `photoAlt`: the game's title over the three rounds (Praça da República, Mouchão, Convento de Cristo), sponsored by Santa Iria Café.
 - `url`: https://vamostomar.pt/halloween/ · `links`: {} (no maps link)
 - `cover.lines`: lead with the game ("Halloween game: win a voucher at Santa Iria Café"), then the fair's last day, then one news line.
 
