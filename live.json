@@ -1,6 +1,6 @@
 {
- "rev": 57,
- "updated": "2026-10-20T13:29:01.030Z",
+ "rev": 58,
+ "updated": "2026-10-21T09:07:57.000Z",
  "events": [
   {
    "date": "2026-10-09",
@@ -7448,6 +7448,1620 @@
      "src": "data/images/nabao-adventure-20261020-pojv.webp"
     }
    ]
+  },
+  {
+   "id": "d-bacalhau",
+   "category": "eat",
+   "zone": "town",
+   "icon": "food",
+   "sub": [
+    "restaurants"
+   ],
+   "tags": [
+    "restaurant",
+    "portuguese-food",
+    "takeaway"
+   ],
+   "name": "D. Bacalhau",
+   "name_pt": "D. Bacalhau",
+   "name_es": "D. Bacalhau",
+   "blurb": "Salt-cod house near the old Fiação: bacalhau com natas is the one people order, with cozido à portuguesa on the menu too. Around €10–15 a head; dine in, take away or delivery.",
+   "blurb_pt": "Casa de bacalhau junto à antiga Fiação: o bacalhau com natas é o pedido da casa, e há também cozido à portuguesa. Cerca de 10–15 € por pessoa; à mesa, para levar ou entrega.",
+   "blurb_es": "Casa de bacalao junto a la antigua Fiação: el bacalao con nata es lo que todos piden, y también hay cozido à portuguesa. Unos 10–15 € por persona; en el local, para llevar o a domicilio.",
+   "detail": "R. Fábrica da Fiação 46, 2300 Tomar",
+   "detail_pt": "R. Fábrica da Fiação 46, 2300 Tomar",
+   "detail_es": "R. Fábrica da Fiação 46, 2300 Tomar",
+   "phone": "+351249316121",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=D.+Bacalhau%2C+R.+F%C3%A1brica+da+Fia%C3%A7%C3%A3o+46%2C+2300+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8,
+      20
+     ]
+    ],
+    "2": [
+     [
+      8,
+      20
+     ]
+    ],
+    "3": [
+     [
+      8,
+      20
+     ]
+    ],
+    "4": [
+     [
+      8,
+      20
+     ]
+    ],
+    "5": [
+     [
+      8,
+      23
+     ]
+    ],
+    "6": [
+     [
+      8,
+      23
+     ]
+    ]
+   }
+  },
+  {
+   "id": "mcdonalds-tomar",
+   "category": "eat",
+   "zone": "town",
+   "icon": "food",
+   "sub": [
+    "restaurants"
+   ],
+   "tags": [
+    "burgers",
+    "takeaway",
+    "kids"
+   ],
+   "name": "McDonald's Tomar",
+   "name_pt": "McDonald's Tomar",
+   "name_es": "McDonald's Tomar",
+   "blurb": "Tomar's McDonald's, reopened fully renovated in July 2026. Handy for a quick, predictable meal with kids.",
+   "blurb_pt": "O McDonald's de Tomar, que reabriu totalmente renovado em julho de 2026. Prático para uma refeição rápida com miúdos.",
+   "blurb_es": "El McDonald's de Tomar, reabierto totalmente renovado en julio de 2026. Práctico para una comida rápida con niños.",
+   "detail": "R. Cel. Garcês Teixeira 49, 2300-463 Tomar",
+   "detail_pt": "R. Cel. Garcês Teixeira 49, 2300-463 Tomar",
+   "detail_es": "R. Cel. Garcês Teixeira 49, 2300-463 Tomar",
+   "phone": "+351249322453",
+   "links": {
+    "website": "https://www.mcdonalds.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=McDonald%27s+Tomar%2C+R.+Cel.+Garc%C3%AAs+Teixeira+49%2C+2300-463+Tomar"
+   }
+  },
+  {
+   "id": "padaria-rosa",
+   "category": "eat",
+   "zone": "town",
+   "icon": "croissant",
+   "sub": [
+    "cafes"
+   ],
+   "tags": [
+    "bakery",
+    "cafe"
+   ],
+   "name": "Padaria Rosa",
+   "name_pt": "Padaria Rosa",
+   "name_es": "Padaria Rosa",
+   "blurb": "Bakery-café on Rua de Coimbra, open every day from 7 am to 9 pm. Bread, cakes and a quick coffee; Turismo de Tomar lists it among the town's sweet stops.",
+   "blurb_pt": "Padaria e pastelaria na Rua de Coimbra, aberta todos os dias das 7h às 21h. Pão, bolos e um café rápido; o Turismo de Tomar inclui-a nos sabores doces da cidade.",
+   "blurb_es": "Panadería-cafetería en la Rua de Coimbra, abierta todos los días de 7:00 a 21:00. Pan, pasteles y un café rápido; Turismo de Tomar la incluye entre los sabores dulces de la ciudad.",
+   "detail": "R. de Coimbra 71, Tomar",
+   "detail_pt": "R. de Coimbra 71, Tomar",
+   "detail_es": "R. de Coimbra 71, Tomar",
+   "phone": "+351919401275",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Padaria+Rosa%2C+R.+de+Coimbra+71%2C+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      7,
+      21
+     ]
+    ],
+    "1": [
+     [
+      7,
+      21
+     ]
+    ],
+    "2": [
+     [
+      7,
+      21
+     ]
+    ],
+    "3": [
+     [
+      7,
+      21
+     ]
+    ],
+    "4": [
+     [
+      7,
+      21
+     ]
+    ],
+    "5": [
+     [
+      7,
+      21
+     ]
+    ],
+    "6": [
+     [
+      7,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "id": "pastelaria-suica",
+   "category": "eat",
+   "zone": "town",
+   "icon": "croissant",
+   "sub": [
+    "cafes"
+   ],
+   "tags": [
+    "bakery",
+    "cafe"
+   ],
+   "name": "Pastelaria Suíça",
+   "name_pt": "Pastelaria Suíça",
+   "name_es": "Pastelaria Suíça",
+   "blurb": "Neighbourhood pastelaria on Rua de Coimbra for breakfast, a galão and a cake. Opens at 7 am on weekdays.",
+   "blurb_pt": "Pastelaria de bairro na Rua de Coimbra para o pequeno-almoço, um galão e um bolo. Abre às 7h nos dias úteis.",
+   "blurb_es": "Pastelería de barrio en la Rua de Coimbra para desayunar, un galão y un pastel. Abre a las 7:00 entre semana.",
+   "detail": "R. de Coimbra 11, Tomar",
+   "detail_pt": "R. de Coimbra 11, Tomar",
+   "detail_es": "R. de Coimbra 11, Tomar",
+   "phone": "+351926603425",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Pastelaria+Su%C3%AD%C3%A7a%2C+R.+de+Coimbra+11%2C+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      7,
+      20
+     ]
+    ],
+    "2": [
+     [
+      7,
+      20
+     ]
+    ],
+    "3": [
+     [
+      7,
+      20
+     ]
+    ],
+    "4": [
+     [
+      7,
+      20
+     ]
+    ],
+    "5": [
+     [
+      7,
+      20
+     ]
+    ],
+    "6": [
+     [
+      7,
+      15
+     ]
+    ]
+   }
+  },
+  {
+   "id": "cafe-a-severa",
+   "category": "eat",
+   "zone": "town",
+   "icon": "coffee",
+   "sub": [
+    "cafes"
+   ],
+   "tags": [
+    "cafe"
+   ],
+   "name": "Café A Severa",
+   "name_pt": "Café A Severa",
+   "name_es": "Café A Severa",
+   "blurb": "Friendly local café, open every day from 8 am to 10 pm. A good spot for a coffee or a drink away from the tourist streets.",
+   "blurb_pt": "Café de bairro simpático, aberto todos os dias das 8h às 22h. Bom para um café ou uma bebida longe das ruas turísticas.",
+   "blurb_es": "Café de barrio agradable, abierto todos los días de 8:00 a 22:00. Buen sitio para un café o una copa lejos de las calles turísticas.",
+   "detail": "R. João dos Santos Simões 2, 2300-499 Tomar",
+   "detail_pt": "R. João dos Santos Simões 2, 2300-499 Tomar",
+   "detail_es": "R. João dos Santos Simões 2, 2300-499 Tomar",
+   "phone": "+351249311845",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+A+Severa%2C+R.+Jo%C3%A3o+dos+Santos+Sim%C3%B5es+2%2C+2300-499+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      8,
+      22
+     ]
+    ],
+    "1": [
+     [
+      8,
+      22
+     ]
+    ],
+    "2": [
+     [
+      8,
+      22
+     ]
+    ],
+    "3": [
+     [
+      8,
+      22
+     ]
+    ],
+    "4": [
+     [
+      8,
+      22
+     ]
+    ],
+    "5": [
+     [
+      8,
+      22
+     ]
+    ],
+    "6": [
+     [
+      8,
+      22
+     ]
+    ]
+   }
+  },
+  {
+   "id": "adega-casal-martins",
+   "category": "eat",
+   "zone": "arredores",
+   "icon": "food",
+   "sub": [
+    "wine"
+   ],
+   "tags": [
+    "wine"
+   ],
+   "name": "Adega Casal Martins",
+   "name_pt": "Adega Casal Martins",
+   "name_es": "Adega Casal Martins",
+   "blurb": "Family-run winery in the Tejo wine region, making red, white, rosé and sparkling wines in Tomar. Call ahead before visiting or to buy.",
+   "blurb_pt": "Adega familiar na região vitivinícola do Tejo, com tintos, brancos, rosés e espumantes feitos em Tomar. Ligue antes de visitar ou para comprar.",
+   "blurb_es": "Bodega familiar de la región vinícola del Tajo, con tintos, blancos, rosados y espumosos hechos en Tomar. Llame antes de visitarla o para comprar.",
+   "detail": "Fontinha 1A, 2305-319 Tomar",
+   "detail_pt": "Fontinha 1A, 2305-319 Tomar",
+   "detail_es": "Fontinha 1A, 2305-319 Tomar",
+   "phone": "+351918369211",
+   "links": {
+    "website": "http://adegacasalmartins.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Adega+Casal+Martins%2C+Fontinha+1A%2C+2305-319+Tomar"
+   }
+  },
+  {
+   "id": "tomar-natural",
+   "category": "eat",
+   "zone": "arredores",
+   "icon": "leaf",
+   "sub": [
+    "markets"
+   ],
+   "tags": [
+    "food-shop",
+    "health-food"
+   ],
+   "name": "Tomar Natural — artisanal spirulina",
+   "name_pt": "Tomar Natural — espirulina artesanal",
+   "name_es": "Tomar Natural — espirulina artesanal",
+   "blurb": "A family project on an agroforestry farm near Tomar growing artisanal spirulina, sold as dried strands or powder. Order online for home delivery or ring ahead.",
+   "blurb_pt": "Projeto familiar numa quinta agroflorestal perto de Tomar que produz espirulina artesanal, em fios secos ou em pó. Encomende online com entrega em casa ou ligue antes.",
+   "blurb_es": "Proyecto familiar en una finca agroforestal cerca de Tomar que cultiva espirulina artesanal, en hebras secas o en polvo. Pida online con entrega a domicilio o llame antes.",
+   "detail": "Rua Outeiro dos Cucos 750, 2305-412 Madalena, Tomar",
+   "detail_pt": "Rua Outeiro dos Cucos 750, 2305-412 Madalena, Tomar",
+   "detail_es": "Rua Outeiro dos Cucos 750, 2305-412 Madalena, Tomar",
+   "phone": "+351964565460",
+   "links": {
+    "website": "https://tomarnatural.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Tomar+Natural+%E2%80%94+artisanal+spirulina%2C+Rua+Outeiro+dos+Cucos+750%2C+2305-412+Madalena%2C+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      18
+     ]
+    ],
+    "2": [
+     [
+      9,
+      18
+     ]
+    ],
+    "3": [
+     [
+      9,
+      18
+     ]
+    ],
+    "4": [
+     [
+      9,
+      18
+     ]
+    ],
+    "5": [
+     [
+      9,
+      18
+     ]
+    ]
+   }
+  },
+  {
+   "id": "loja-ribatejo-norte",
+   "category": "eat",
+   "zone": "town",
+   "icon": "market",
+   "sub": [
+    "markets"
+   ],
+   "tags": [
+    "food-shop",
+    "health-food"
+   ],
+   "name": "Loja do Ribatejo Norte",
+   "name_pt": "Loja do Ribatejo Norte",
+   "name_es": "Loja do Ribatejo Norte",
+   "blurb": "Small shop for regional and organic products from the north Ribatejo.",
+   "blurb_pt": "Pequena loja de produtos regionais e biológicos do Ribatejo Norte.",
+   "blurb_es": "Pequeña tienda de productos regionales y ecológicos del norte del Ribatejo.",
+   "detail": "R. Jácome Ratton 2i, Loja C, 2300-449 Tomar",
+   "detail_pt": "R. Jácome Ratton 2i, Loja C, 2300-449 Tomar",
+   "detail_es": "R. Jácome Ratton 2i, Loja C, 2300-449 Tomar",
+   "phone": "+351249322205",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Loja+do+Ribatejo+Norte%2C+R.+J%C3%A1come+Ratton+2i%2C+Loja+C%2C+2300-449+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      10,
+      19
+     ]
+    ],
+    "2": [
+     [
+      10,
+      19
+     ]
+    ],
+    "3": [
+     [
+      10,
+      19
+     ]
+    ],
+    "4": [
+     [
+      10,
+      19
+     ]
+    ],
+    "5": [
+     [
+      10,
+      19
+     ]
+    ],
+    "6": [
+     [
+      10,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "talhos-cruzarte",
+   "category": "eat",
+   "zone": "town",
+   "icon": "market",
+   "sub": [
+    "markets"
+   ],
+   "tags": [
+    "butcher",
+    "food-shop"
+   ],
+   "name": "Talhos Cruzarte",
+   "name_pt": "Talhos Cruzarte",
+   "name_es": "Talhos Cruzarte",
+   "blurb": "Well-reviewed local butcher. Closed at lunchtime (1–3 pm) and from Saturday afternoon.",
+   "blurb_pt": "Talho de bairro muito bem avaliado. Fecha à hora de almoço (13h–15h) e a partir de sábado à tarde.",
+   "blurb_es": "Carnicería de barrio muy bien valorada. Cierra al mediodía (13:00–15:00) y desde el sábado por la tarde.",
+   "detail": "R. João dos Santos Simões 32, 2300-499 Tomar",
+   "detail_pt": "R. João dos Santos Simões 32, 2300-499 Tomar",
+   "detail_es": "R. João dos Santos Simões 32, 2300-499 Tomar",
+   "phone": "+351249322576",
+   "links": {
+    "website": "http://www.talhoscruzarte.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Talhos+Cruzarte%2C+R.+Jo%C3%A3o+dos+Santos+Sim%C3%B5es+32%2C+2300-499+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "2": [
+     [
+      8,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "3": [
+     [
+      8,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "4": [
+     [
+      8,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "5": [
+     [
+      8,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "6": [
+     [
+      8,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "arco-das-freiras",
+   "category": "see",
+   "zone": "centro",
+   "icon": "church",
+   "sub": [
+    "monuments"
+   ],
+   "tags": [
+    "history",
+    "monument"
+   ],
+   "name": "Arco das Freiras (Nuns' Arch)",
+   "name_pt": "Arco das Freiras",
+   "name_es": "Arco das Freiras (Arco de las Monjas)",
+   "blurb": "A 16th-century covered bridge over Rua de Santa Iria that once linked the Convent of Santa Iria with the palace across the street, so the nuns could cross unseen. Free to see from the street.",
+   "blurb_pt": "Passadiço coberto do século XVI sobre a Rua de Santa Iria, que ligava o Convento de Santa Iria ao palácio do outro lado da rua, para as freiras passarem sem serem vistas. Vê-se da rua, sem custo.",
+   "blurb_es": "Pasadizo cubierto del siglo XVI sobre la Rua de Santa Iria, que unía el Convento de Santa Iria con el palacio de enfrente para que las monjas cruzaran sin ser vistas. Se ve gratis desde la calle.",
+   "detail": "R. Santa Iria 4, 2300 Tomar",
+   "detail_pt": "R. Santa Iria 4, 2300 Tomar",
+   "detail_es": "R. Santa Iria 4, 2300 Tomar",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Arco+das+Freiras+%28Nuns%27+Arch%29%2C+R.+Santa+Iria+4%2C+2300+Tomar"
+   }
+  },
+  {
+   "id": "miradouro-colina-castelo",
+   "category": "see",
+   "zone": "centro",
+   "icon": "info",
+   "sub": [
+    "walks"
+   ],
+   "tags": [
+    "viewpoint",
+    "walking",
+    "outdoor"
+   ],
+   "name": "Miradouro da Colina do Castelo",
+   "name_pt": "Miradouro da Colina do Castelo",
+   "name_es": "Mirador de la Colina del Castillo",
+   "blurb": "Viewpoint on the castle hill looking out over the old town's rooftops and the Nabão valley. Worth a stop on the walk up to the Convento.",
+   "blurb_pt": "Miradouro na colina do castelo com vista sobre os telhados do centro histórico e o vale do Nabão. Vale a paragem na subida para o Convento.",
+   "blurb_es": "Mirador en la colina del castillo con vistas a los tejados del casco antiguo y al valle del Nabão. Merece una parada en la subida al Convento.",
+   "detail": "R. Dr. José Maria de Sousa 28, 2300 Tomar",
+   "detail_pt": "R. Dr. José Maria de Sousa 28, 2300 Tomar",
+   "detail_es": "R. Dr. José Maria de Sousa 28, 2300 Tomar",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Miradouro+da+Colina+do+Castelo%2C+R.+Dr.+Jos%C3%A9+Maria+de+Sousa+28%2C+2300+Tomar"
+   }
+  },
+  {
+   "id": "pavilhao-patricia-sampaio",
+   "category": "see",
+   "zone": "town",
+   "icon": "dumbbell",
+   "sub": [
+    "active"
+   ],
+   "tags": [
+    "sport"
+   ],
+   "name": "Pavilhão Municipal Patrícia Sampaio",
+   "name_pt": "Pavilhão Municipal Patrícia Sampaio",
+   "name_es": "Pavilhão Municipal Patrícia Sampaio",
+   "blurb": "The town's main indoor sports hall, named after Tomar's Olympic judo medallist. Hosts club games, tournaments and big indoor events.",
+   "blurb_pt": "O principal pavilhão desportivo da cidade, com o nome da judoca olímpica tomarense. Recebe jogos dos clubes, torneios e grandes eventos em recinto coberto.",
+   "blurb_es": "El principal pabellón deportivo de la ciudad, con el nombre de la judoca olímpica de Tomar. Acoge partidos de los clubes, torneos y grandes eventos bajo techo.",
+   "detail": "R. Centro Republicano 50, 2300-593 Tomar",
+   "detail_pt": "R. Centro Republicano 50, 2300-593 Tomar",
+   "detail_es": "R. Centro Republicano 50, 2300-593 Tomar",
+   "phone": "+351249320300",
+   "links": {
+    "website": "http://www.cm-tomar.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Pavilh%C3%A3o+Municipal+Patr%C3%ADcia+Sampaio%2C+R.+Centro+Republicano+50%2C+2300-593+Tomar"
+   }
+  },
+  {
+   "id": "continente-modelo-tomar",
+   "category": "services",
+   "zone": "town",
+   "icon": "market",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "shop",
+    "food-shop"
+   ],
+   "name": "Continente Modelo Tomar",
+   "name_pt": "Continente Modelo Tomar",
+   "name_es": "Continente Modelo Tomar",
+   "blurb": "Large supermarket at Palhavã, open every day 8 am–10 pm.",
+   "blurb_pt": "Supermercado grande na Palhavã, aberto todos os dias das 8h às 22h.",
+   "blurb_es": "Supermercado grande en Palhavã, abierto todos los días de 8:00 a 22:00.",
+   "detail": "Av. Dr. Aurélio Ribeiro, Palhavã, 2300-410 Tomar",
+   "detail_pt": "Av. Dr. Aurélio Ribeiro, Palhavã, 2300-410 Tomar",
+   "detail_es": "Av. Dr. Aurélio Ribeiro, Palhavã, 2300-410 Tomar",
+   "phone": "+351249109000",
+   "links": {
+    "website": "https://feed.continente.pt/lojas/continente-modelo-tomar",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Continente+Modelo+Tomar%2C+Av.+Dr.+Aur%C3%A9lio+Ribeiro%2C+Palhav%C3%A3%2C+2300-410+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      8,
+      22
+     ]
+    ],
+    "1": [
+     [
+      8,
+      22
+     ]
+    ],
+    "2": [
+     [
+      8,
+      22
+     ]
+    ],
+    "3": [
+     [
+      8,
+      22
+     ]
+    ],
+    "4": [
+     [
+      8,
+      22
+     ]
+    ],
+    "5": [
+     [
+      8,
+      22
+     ]
+    ],
+    "6": [
+     [
+      8,
+      22
+     ]
+    ]
+   }
+  },
+  {
+   "id": "intermarche-tomar",
+   "category": "services",
+   "zone": "town",
+   "icon": "market",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "shop",
+    "food-shop"
+   ],
+   "name": "Intermarché Tomar",
+   "name_pt": "Intermarché Tomar",
+   "name_es": "Intermarché Tomar",
+   "blurb": "Supermarket at Quinta das Gorduchas, open every day 9 am–9 pm.",
+   "blurb_pt": "Supermercado na Quinta das Gorduchas, aberto todos os dias das 9h às 21h.",
+   "blurb_es": "Supermercado en la Quinta das Gorduchas, abierto todos los días de 9:00 a 21:00.",
+   "detail": "R. da Quinta das Gorduchas, 2300-394 Tomar",
+   "detail_pt": "R. da Quinta das Gorduchas, 2300-394 Tomar",
+   "detail_es": "R. da Quinta das Gorduchas, 2300-394 Tomar",
+   "phone": "+351249320080",
+   "links": {
+    "website": "https://www.intermarche.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Intermarch%C3%A9+Tomar%2C+R.+da+Quinta+das+Gorduchas%2C+2300-394+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      9,
+      21
+     ]
+    ],
+    "1": [
+     [
+      9,
+      21
+     ]
+    ],
+    "2": [
+     [
+      9,
+      21
+     ]
+    ],
+    "3": [
+     [
+      9,
+      21
+     ]
+    ],
+    "4": [
+     [
+      9,
+      21
+     ]
+    ],
+    "5": [
+     [
+      9,
+      21
+     ]
+    ],
+    "6": [
+     [
+      9,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "id": "lidl-tomar",
+   "category": "services",
+   "zone": "town",
+   "icon": "market",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "shop",
+    "food-shop"
+   ],
+   "name": "Lidl Tomar",
+   "name_pt": "Lidl Tomar",
+   "name_es": "Lidl Tomar",
+   "blurb": "Discount supermarket at the top of Rua de Coimbra, open every day 8 am–10 pm.",
+   "blurb_pt": "Supermercado de desconto no início da Rua de Coimbra, aberto todos os dias das 8h às 22h.",
+   "blurb_es": "Supermercado de descuento al principio de la Rua de Coimbra, abierto todos los días de 8:00 a 22:00.",
+   "detail": "R. de Coimbra 1, 2300-471 Tomar",
+   "detail_pt": "R. de Coimbra 1, 2300-471 Tomar",
+   "detail_es": "R. de Coimbra 1, 2300-471 Tomar",
+   "phone": "+351210207000",
+   "links": {
+    "website": "https://www.lidl.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Lidl+Tomar%2C+R.+de+Coimbra+1%2C+2300-471+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      8,
+      22
+     ]
+    ],
+    "1": [
+     [
+      8,
+      22
+     ]
+    ],
+    "2": [
+     [
+      8,
+      22
+     ]
+    ],
+    "3": [
+     [
+      8,
+      22
+     ]
+    ],
+    "4": [
+     [
+      8,
+      22
+     ]
+    ],
+    "5": [
+     [
+      8,
+      22
+     ]
+    ],
+    "6": [
+     [
+      8,
+      22
+     ]
+    ]
+   }
+  },
+  {
+   "id": "bricomarche-tomar",
+   "category": "services",
+   "zone": "town",
+   "icon": "services",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop"
+   ],
+   "name": "Bricomarché Tomar",
+   "name_pt": "Bricomarché Tomar",
+   "name_es": "Bricomarché Tomar",
+   "blurb": "DIY, garden and home-improvement store, open every day 9 am–8 pm.",
+   "blurb_pt": "Loja de bricolage, jardim e casa, aberta todos os dias das 9h às 20h.",
+   "blurb_es": "Tienda de bricolaje, jardín y hogar, abierta todos los días de 9:00 a 20:00.",
+   "detail": "Av. Maria de Lourdes de Mello e Castro, 2300-625 Tomar",
+   "detail_pt": "Av. Maria de Lourdes de Mello e Castro, 2300-625 Tomar",
+   "detail_es": "Av. Maria de Lourdes de Mello e Castro, 2300-625 Tomar",
+   "phone": "+351249248230",
+   "links": {
+    "website": "http://www.bricomarche.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Bricomarch%C3%A9+Tomar%2C+Av.+Maria+de+Lourdes+de+Mello+e+Castro%2C+2300-625+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      9,
+      20
+     ]
+    ],
+    "1": [
+     [
+      9,
+      20
+     ]
+    ],
+    "2": [
+     [
+      9,
+      20
+     ]
+    ],
+    "3": [
+     [
+      9,
+      20
+     ]
+    ],
+    "4": [
+     [
+      9,
+      20
+     ]
+    ],
+    "5": [
+     [
+      9,
+      20
+     ]
+    ],
+    "6": [
+     [
+      9,
+      20
+     ]
+    ]
+   }
+  },
+  {
+   "id": "agriloja-tomar",
+   "category": "services",
+   "zone": "arredores",
+   "icon": "leaf",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop"
+   ],
+   "name": "Agriloja de Tomar",
+   "name_pt": "Agriloja de Tomar",
+   "name_es": "Agriloja de Tomar",
+   "blurb": "Farm, garden and pet store: seeds, plants, tools, animal feed and outdoor gear. Closed on Sundays.",
+   "blurb_pt": "Loja agrícola, de jardim e de animais: sementes, plantas, ferramentas, rações e material de exterior. Fecha ao domingo.",
+   "blurb_es": "Tienda agrícola, de jardín y de mascotas: semillas, plantas, herramientas, piensos y material de exterior. Cierra los domingos.",
+   "detail": "Marmelais de Baixo 43, 2300-401 Tomar",
+   "detail_pt": "Marmelais de Baixo 43, 2300-401 Tomar",
+   "detail_es": "Marmelais de Baixo 43, 2300-401 Tomar",
+   "phone": "+351249328000",
+   "links": {
+    "website": "http://www.agriloja.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Agriloja+de+Tomar%2C+Marmelais+de+Baixo+43%2C+2300-401+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8,
+      20
+     ]
+    ],
+    "2": [
+     [
+      8,
+      20
+     ]
+    ],
+    "3": [
+     [
+      8,
+      20
+     ]
+    ],
+    "4": [
+     [
+      8,
+      20
+     ]
+    ],
+    "5": [
+     [
+      8,
+      20
+     ]
+    ],
+    "6": [
+     [
+      8,
+      20
+     ]
+    ]
+   }
+  },
+  {
+   "id": "roady-tomar",
+   "category": "services",
+   "zone": "arredores",
+   "icon": "car",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "car"
+   ],
+   "name": "Roady Tomar",
+   "name_pt": "Roady Tomar",
+   "name_es": "Roady Tomar",
+   "blurb": "Tyres, servicing and car parts, open seven days (shorter hours on Sundays).",
+   "blurb_pt": "Pneus, revisões e peças auto, aberto sete dias por semana (horário reduzido ao domingo).",
+   "blurb_es": "Neumáticos, revisiones y recambios, abierto los siete días (horario reducido el domingo).",
+   "detail": "Edif. Roady, Lameirão, Avessadas, 2300 Tomar",
+   "detail_pt": "Edif. Roady, Lameirão, Avessadas, 2300 Tomar",
+   "detail_es": "Edif. Roady, Lameirão, Avessadas, 2300 Tomar",
+   "phone": "+351249244000",
+   "links": {
+    "website": "https://roady.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Roady+Tomar%2C+Edif.+Roady%2C+Lameir%C3%A3o%2C+Avessadas%2C+2300+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      9.5,
+      13
+     ],
+     [
+      14.5,
+      19
+     ]
+    ],
+    "1": [
+     [
+      9,
+      19
+     ]
+    ],
+    "2": [
+     [
+      9,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9,
+      19
+     ]
+    ]
+   }
+  },
+  {
+   "id": "taxi-lux-tomar",
+   "category": "services",
+   "zone": "town",
+   "icon": "car",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "taxi"
+   ],
+   "name": "Tomar Taxi | Táxi Lux",
+   "name_pt": "Táxi Lux",
+   "name_es": "Táxi Lux",
+   "blurb": "Fully electric taxi based at the rank on Av. Combatentes da Grande Guerra. Runs around the clock, with airport transfers and luggage delivery. Book by phone.",
+   "blurb_pt": "Táxi 100% elétrico com praça na Av. Combatentes da Grande Guerra. Funciona 24 horas, com transfers para o aeroporto e entrega de bagagem. Reserva por telefone.",
+   "blurb_es": "Taxi 100 % eléctrico con parada en la Av. Combatentes da Grande Guerra. Funciona las 24 horas, con traslados al aeropuerto y entrega de equipaje. Reserva por teléfono.",
+   "detail": "Av. Combatentes da Grande Guerra, 2300-533 Tomar",
+   "detail_pt": "Av. Combatentes da Grande Guerra, 2300-533 Tomar",
+   "detail_es": "Av. Combatentes da Grande Guerra, 2300-533 Tomar",
+   "phone": "+351911951543",
+   "links": {
+    "website": "https://www.taxilux.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Tomar+Taxi+%7C+T%C3%A1xi+Lux%2C+Av.+Combatentes+da+Grande+Guerra%2C+2300-533+Tomar"
+   }
+  },
+  {
+   "id": "rg-taxis-tomar",
+   "category": "services",
+   "zone": "town",
+   "icon": "car",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "taxi"
+   ],
+   "name": "Taxi Tomar — RG Táxis & Transfers",
+   "name_pt": "Taxi Tomar — RG Táxis & Transfers",
+   "name_es": "Taxi Tomar — RG Táxis & Transfers",
+   "blurb": "Tomar taxi firm for local rides and transfers, working from the rank on Av. Combatentes da Grande Guerra. Book by phone.",
+   "blurb_pt": "Táxis de Tomar para viagens locais e transfers, a partir da praça na Av. Combatentes da Grande Guerra. Reserva por telefone.",
+   "blurb_es": "Taxis de Tomar para trayectos locales y traslados, desde la parada de la Av. Combatentes da Grande Guerra. Reserva por teléfono.",
+   "detail": "Av. Combatentes da Grande Guerra, 2300-533 Tomar",
+   "detail_pt": "Av. Combatentes da Grande Guerra, 2300-533 Tomar",
+   "detail_es": "Av. Combatentes da Grande Guerra, 2300-533 Tomar",
+   "phone": "+351913872711",
+   "links": {
+    "website": "https://taxis-rui-tomar-e-ferreira-do-zezere-9.webnode.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Taxi+Tomar+%E2%80%94+RG+T%C3%A1xis+%26+Transfers%2C+Av.+Combatentes+da+Grande+Guerra%2C+2300-533+Tomar"
+   }
+  },
+  {
+   "id": "loja-dos-templarios",
+   "category": "services",
+   "zone": "centro",
+   "icon": "services",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop",
+    "templars",
+    "crafts"
+   ],
+   "name": "Loja dos Templários",
+   "name_pt": "Loja dos Templários",
+   "name_es": "Loja dos Templários",
+   "blurb": "Templar-themed shop in the historic centre: swords, helmets, capes and figures, plus books and pieces tied to Portugal's history. Closed on Sundays.",
+   "blurb_pt": "Loja temática templária no centro histórico: espadas, elmos, capas e figuras, além de livros e peças ligadas à história de Portugal. Fecha ao domingo.",
+   "blurb_es": "Tienda temática templaria en el centro histórico: espadas, yelmos, capas y figuras, además de libros y piezas ligadas a la historia de Portugal. Cierra los domingos.",
+   "detail": "R. dos Moinhos 31, 2300-575 Tomar",
+   "detail_pt": "R. dos Moinhos 31, 2300-575 Tomar",
+   "detail_es": "R. dos Moinhos 31, 2300-575 Tomar",
+   "phone": "+351926838812",
+   "links": {
+    "website": "https://lojatemplarios.com/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Loja+dos+Templ%C3%A1rios%2C+R.+dos+Moinhos+31%2C+2300-575+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      10,
+      19
+     ]
+    ],
+    "2": [
+     [
+      10,
+      19
+     ]
+    ],
+    "3": [
+     [
+      10,
+      19
+     ]
+    ],
+    "4": [
+     [
+      10,
+      19
+     ]
+    ],
+    "5": [
+     [
+      10,
+      19
+     ]
+    ],
+    "6": [
+     [
+      10,
+      19
+     ]
+    ]
+   }
+  },
+  {
+   "id": "loja-templarium",
+   "category": "services",
+   "zone": "centro",
+   "icon": "services",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop",
+    "templars",
+    "crafts"
+   ],
+   "name": "Loja Templarium",
+   "name_pt": "Loja Templarium",
+   "name_es": "Loja Templarium",
+   "blurb": "Gift and souvenir shop on Av. Marquês de Tomar, by the river. Closed on Sundays.",
+   "blurb_pt": "Loja de presentes e lembranças na Av. Marquês de Tomar, junto ao rio. Fecha ao domingo.",
+   "blurb_es": "Tienda de regalos y recuerdos en la Av. Marquês de Tomar, junto al río. Cierra los domingos.",
+   "detail": "Av. Marquês de Tomar 18, 2300-586 Tomar",
+   "detail_pt": "Av. Marquês de Tomar 18, 2300-586 Tomar",
+   "detail_es": "Av. Marquês de Tomar 18, 2300-586 Tomar",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Loja+Templarium%2C+Av.+Marqu%C3%AAs+de+Tomar+18%2C+2300-586+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      16
+     ]
+    ],
+    "2": [
+     [
+      9,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9,
+      19
+     ]
+    ]
+   }
+  },
+  {
+   "id": "o-cruzado-thomar-arte",
+   "category": "services",
+   "zone": "centro",
+   "icon": "services",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop",
+    "crafts",
+    "culture"
+   ],
+   "name": "O Cruzado / Thomar Arte",
+   "name_pt": "O Cruzado / Thomar Arte",
+   "name_es": "O Cruzado / Thomar Arte",
+   "blurb": "Antiques and art gallery on Rua da Silva Magalhães, the restaurant street in the old town.",
+   "blurb_pt": "Antiguidades e galeria de arte na Rua da Silva Magalhães, a rua dos restaurantes do centro histórico.",
+   "blurb_es": "Antigüedades y galería de arte en la Rua da Silva Magalhães, la calle de los restaurantes del casco antiguo.",
+   "detail": "R. da Silva Magalhães 18, 2300-390 Tomar",
+   "detail_pt": "R. da Silva Magalhães 18, 2300-390 Tomar",
+   "detail_es": "R. da Silva Magalhães 18, 2300-390 Tomar",
+   "phone": "+351917008875",
+   "links": {
+    "website": "http://www.thomararte.com/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=O+Cruzado+%2F+Thomar+Arte%2C+R.+da+Silva+Magalh%C3%A3es+18%2C+2300-390+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9.5,
+      19
+     ]
+    ],
+    "2": [
+     [
+      9.5,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "skate-plaza-shop",
+   "category": "services",
+   "zone": "centro",
+   "icon": "services",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop"
+   ],
+   "name": "Skate Plaza Shop",
+   "name_pt": "Skate Plaza Shop",
+   "name_es": "Skate Plaza Shop",
+   "blurb": "Skate shop and tattoo studio, going for over ten years. Closed on Sundays.",
+   "blurb_pt": "Loja de skate e estúdio de tatuagem, com mais de dez anos. Fecha ao domingo.",
+   "blurb_es": "Tienda de skate y estudio de tatuaje, con más de diez años. Cierra los domingos.",
+   "detail": "R. Serpa Pinto 66, 2300-592 Tomar",
+   "detail_pt": "R. Serpa Pinto 66, 2300-592 Tomar",
+   "detail_es": "R. Serpa Pinto 66, 2300-592 Tomar",
+   "phone": "+351910855266",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Skate+Plaza+Shop%2C+R.+Serpa+Pinto+66%2C+2300-592+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      10.5,
+      19
+     ]
+    ],
+    "2": [
+     [
+      10.5,
+      19
+     ]
+    ],
+    "3": [
+     [
+      10.5,
+      19
+     ]
+    ],
+    "4": [
+     [
+      10.5,
+      19
+     ]
+    ],
+    "5": [
+     [
+      10.5,
+      19
+     ]
+    ],
+    "6": [
+     [
+      10.5,
+      15
+     ]
+    ]
+   }
+  },
+  {
+   "id": "hotel-canino-quinta-das-rosas",
+   "category": "services",
+   "zone": "arredores",
+   "icon": "paw",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [],
+   "name": "Hotel Canino — Quinta das Rosas (dog hotel)",
+   "name_pt": "Hotel Canino — Quinta das Rosas",
+   "name_es": "Hotel Canino — Quinta das Rosas (hotel para perros)",
+   "blurb": "Boarding for dogs on a quinta outside town — useful if you are visiting with a dog and want a day at the Convento or a trip away. Call to book.",
+   "blurb_pt": "Hotel para cães numa quinta fora da cidade — útil para quem visita com o cão e quer um dia no Convento ou uma escapadela. Ligue para reservar.",
+   "blurb_es": "Residencia canina en una quinta a las afueras — útil si visita con perro y quiere pasar un día en el Convento o hacer una escapada. Llame para reservar.",
+   "detail": "R. Casal dos Matos, Tomar",
+   "detail_pt": "R. Casal dos Matos, Tomar",
+   "detail_es": "R. Casal dos Matos, Tomar",
+   "phone": "+351934017034",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Hotel+Canino+%E2%80%94+Quinta+das+Rosas+%28dog+hotel%29%2C+R.+Casal+dos+Matos%2C+Tomar"
+   }
+  },
+  {
+   "id": "sociedade-filarmonica-gualdim-pais",
+   "category": "services",
+   "zone": "centro",
+   "icon": "services",
+   "sub": [
+    "community"
+   ],
+   "tags": [
+    "music",
+    "culture",
+    "club"
+   ],
+   "name": "Sociedade Filarmónica Gualdim Pais",
+   "name_pt": "Sociedade Filarmónica Gualdim Pais",
+   "name_es": "Sociedade Filarmónica Gualdim Pais",
+   "blurb": "Tomar's philharmonic society, founded in 1877: a community band, a music school and a nursery, with concerts and events through the year.",
+   "blurb_pt": "A sociedade filarmónica de Tomar, fundada em 1877: banda, escola de música e creche, com concertos e eventos ao longo do ano.",
+   "blurb_es": "La sociedad filarmónica de Tomar, fundada en 1877: banda, escuela de música y guardería, con conciertos y eventos durante todo el año.",
+   "detail": "R. Manuel de Matos, 2300-580 Tomar",
+   "detail_pt": "R. Manuel de Matos, 2300-580 Tomar",
+   "detail_es": "R. Manuel de Matos, 2300-580 Tomar",
+   "phone": "+351249313585",
+   "links": {
+    "website": "http://www.sfgp.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Sociedade+Filarm%C3%B3nica+Gualdim+Pais%2C+R.+Manuel+de+Matos%2C+2300-580+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "2": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "3": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "4": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "5": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "note": "Horário da secretaria"
+   }
+  },
+  {
+   "id": "politecnico-de-tomar",
+   "category": "services",
+   "zone": "town",
+   "icon": "info",
+   "sub": [
+    "community"
+   ],
+   "tags": [
+    "culture"
+   ],
+   "name": "Polytechnic University of Tomar (IPT)",
+   "name_pt": "Universidade Politécnica de Tomar (IPT)",
+   "name_es": "Universidad Politécnica de Tomar (IPT)",
+   "blurb": "Tomar's public polytechnic university (formerly Instituto Politécnico de Tomar), with degree courses in technology, management, art and heritage.",
+   "blurb_pt": "A universidade politécnica pública de Tomar (antigo Instituto Politécnico de Tomar), com licenciaturas em tecnologia, gestão, arte e património.",
+   "blurb_es": "La universidad politécnica pública de Tomar (antiguo Instituto Politécnico de Tomar), con grados en tecnología, gestión, arte y patrimonio.",
+   "detail": "Av. Dr. Aurélio Ribeiro 3, 2300-313 Tomar",
+   "detail_pt": "Av. Dr. Aurélio Ribeiro 3, 2300-313 Tomar",
+   "detail_es": "Av. Dr. Aurélio Ribeiro 3, 2300-313 Tomar",
+   "phone": "+351249328100",
+   "links": {
+    "website": "http://www.ipt.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Polytechnic+University+of+Tomar+%28IPT%29%2C+Av.+Dr.+Aur%C3%A9lio+Ribeiro+3%2C+2300-313+Tomar"
+   }
+  },
+  {
+   "id": "farmacia-torres-pinheiro",
+   "category": "health",
+   "zone": "centro",
+   "icon": "services",
+   "sub": [
+    "pharmacy"
+   ],
+   "tags": [
+    "pharmacy"
+   ],
+   "name": "Farmácia Torres Pinheiro",
+   "name_pt": "Farmácia Torres Pinheiro",
+   "name_es": "Farmácia Torres Pinheiro",
+   "blurb": "Pharmacy in the centre on Rua Serpa Pinto, open every day 9 am–7:30 pm.",
+   "blurb_pt": "Farmácia no centro, na Rua Serpa Pinto, aberta todos os dias das 9h às 19h30.",
+   "blurb_es": "Farmacia en el centro, en la Rua Serpa Pinto, abierta todos los días de 9:00 a 19:30.",
+   "detail": "R. Serpa Pinto 27, 2300-538 Tomar",
+   "detail_pt": "R. Serpa Pinto 27, 2300-538 Tomar",
+   "detail_es": "R. Serpa Pinto 27, 2300-538 Tomar",
+   "phone": "+351249312206",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Farm%C3%A1cia+Torres+Pinheiro%2C+R.+Serpa+Pinto+27%2C+2300-538+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "1": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "2": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "3": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "4": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "5": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "6": [
+     [
+      9,
+      19.5
+     ]
+    ]
+   }
+  },
+  {
+   "id": "farmacia-nova-tomar",
+   "category": "health",
+   "zone": "town",
+   "icon": "services",
+   "sub": [
+    "pharmacy"
+   ],
+   "tags": [
+    "pharmacy"
+   ],
+   "name": "Farmácia Nova de Tomar",
+   "name_pt": "Farmácia Nova de Tomar",
+   "name_es": "Farmácia Nova de Tomar",
+   "blurb": "Pharmacy next to Lidl on Rua de Coimbra, open late every day (until 10 pm).",
+   "blurb_pt": "Farmácia junto ao Lidl na Rua de Coimbra, aberta até tarde todos os dias (até às 22h).",
+   "blurb_es": "Farmacia junto al Lidl en la Rua de Coimbra, abierta hasta tarde todos los días (hasta las 22:00).",
+   "detail": "R. de Coimbra 1, 2300-471 Tomar",
+   "detail_pt": "R. de Coimbra 1, 2300-471 Tomar",
+   "detail_es": "R. de Coimbra 1, 2300-471 Tomar",
+   "phone": "+351249310360",
+   "links": {
+    "website": "https://www.farmaciasportuguesas.pt/farmacia/farmacia-nova-tomar-09199/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Farm%C3%A1cia+Nova+de+Tomar%2C+R.+de+Coimbra+1%2C+2300-471+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      9,
+      22
+     ]
+    ],
+    "1": [
+     [
+      8.5,
+      22
+     ]
+    ],
+    "2": [
+     [
+      8.5,
+      22
+     ]
+    ],
+    "3": [
+     [
+      8.5,
+      22
+     ]
+    ],
+    "4": [
+     [
+      8.5,
+      22
+     ]
+    ],
+    "5": [
+     [
+      8.5,
+      22
+     ]
+    ],
+    "6": [
+     [
+      9,
+      22
+     ]
+    ]
+   }
+  },
+  {
+   "id": "susan-catarine-yoga",
+   "category": "health",
+   "zone": "town",
+   "icon": "yoga",
+   "sub": [
+    "yoga"
+   ],
+   "tags": [
+    "yoga"
+   ],
+   "name": "Susan Catarine Yoga",
+   "name_pt": "Susan Catarine Yoga",
+   "name_es": "Susan Catarine Yoga",
+   "blurb": "Yoga classes with a local instructor. Class times are short and few, so message on Instagram or phone first.",
+   "blurb_pt": "Aulas de yoga com uma instrutora local. Os horários das aulas são poucos, por isso envie mensagem no Instagram ou ligue antes.",
+   "blurb_es": "Clases de yoga con una instructora local. Hay pocos horarios, así que escriba por Instagram o llame antes.",
+   "detail": "R. João dos Santos Simões 38, 2300-499 Tomar",
+   "detail_pt": "R. João dos Santos Simões 38, 2300-499 Tomar",
+   "detail_es": "R. João dos Santos Simões 38, 2300-499 Tomar",
+   "phone": "+351968096602",
+   "links": {
+    "instagram": "https://www.instagram.com/susancatarineyoga/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Susan+Catarine+Yoga%2C+R.+Jo%C3%A3o+dos+Santos+Sim%C3%B5es+38%2C+2300-499+Tomar"
+   }
   }
  ],
  "patches": {
