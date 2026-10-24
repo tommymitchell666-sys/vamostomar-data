@@ -1,0 +1,626 @@
+{
+ "schema": 2,
+ "date": "2026-10-25",
+ "edition": 5,
+ "publishAt": "2026-10-25T08:00:00+00:00",
+ "generatedAt": "2026-10-24T11:12:29Z",
+ "range": {
+  "en": "25 – 31 October 2026",
+  "pt": "25 – 31 de outubro de 2026",
+  "es": "25 – 31 de octubre de 2026"
+ },
+ "weather": {
+  "source": "yr.no (MET Norway)",
+  "note": {
+   "en": "Dry and sunny all week, 22–26 °C by day, with a little more cloud from Wednesday.",
+   "pt": "Semana seca e de sol, com 22 a 26 °C durante o dia e um pouco mais de nuvens a partir de quarta.",
+   "es": "Semana seca y soleada, de 22 a 26 °C durante el día, con algo más de nubes desde el miércoles."
+  },
+  "days": [
+   {
+    "date": "2026-10-25",
+    "icon": "sun",
+    "max": 22,
+    "min": 11,
+    "rain": 0
+   },
+   {
+    "date": "2026-10-26",
+    "icon": "sun",
+    "max": 25,
+    "min": 11,
+    "rain": 0
+   },
+   {
+    "date": "2026-10-27",
+    "icon": "sun",
+    "max": 22,
+    "min": 12,
+    "rain": 0.1
+   },
+   {
+    "date": "2026-10-28",
+    "icon": "partly",
+    "max": 24,
+    "min": 13,
+    "rain": 0
+   },
+   {
+    "date": "2026-10-29",
+    "icon": "partly",
+    "max": 24,
+    "min": 11,
+    "rain": 0
+   },
+   {
+    "date": "2026-10-30",
+    "icon": "cloud",
+    "max": 26,
+    "min": 12,
+    "rain": 0
+   },
+   {
+    "date": "2026-10-31",
+    "icon": "partly",
+    "max": 24,
+    "min": 14,
+    "rain": 0
+   }
+  ]
+ },
+ "spotlight": {
+  "listing": "halloween-game",
+  "name": {
+   "en": "Hey Zombie, Give Me a Treat!",
+   "pt": "Ó Zombie, Dá-me um Doce!",
+   "es": "¡Eh, Zombi, Dame un Dulce!"
+  },
+  "dek": {
+   "en": "Pão-por-Deus meets Halloween in a free game set in Tomar, with a prize from Santa Iria Café.",
+   "pt": "O Pão-por-Deus encontra o Halloween num jogo grátis passado em Tomar, com prémio do Santa Iria Café.",
+   "es": "El Pão-por-Deus se encuentra con Halloween en un juego gratis ambientado en Tomar, con premio de Santa Iria Café."
+  },
+  "title": {
+   "en": "Tomar's own Halloween game is out",
+   "pt": "Já chegou o jogo de Halloween de Tomar",
+   "es": "Ya está aquí el juego de Halloween de Tomar"
+  },
+  "story": [
+   {
+    "en": "On Pão-por-Deus, children go door to door asking for bread and treats. \"Hey Zombie, Give Me a Treat!\" mixes that tradition with Halloween: pick a little Templar, grab the treats the tias hand out before the zombies eat them, and use your sword to turn the zombies back into neighbours. It's free at vamostomar.pt/halloween.",
+    "pt": "No Pão-por-Deus, as crianças andam de porta em porta a pedir pão e doces. O «Ó Zombie, Dá-me um Doce!» junta essa tradição ao Halloween: escolhes um pequeno Templário, apanhas os doces que as tias dão antes que os zombies os comam e, com a espada, voltas a transformar os zombies em vizinhos. É grátis em vamostomar.pt/halloween.",
+    "es": "En el Pão-por-Deus, los niños van de puerta en puerta pidiendo pan y dulces. «¡Eh, Zombi, Dame un Dulce!» mezcla esa tradición con Halloween: eliges a un pequeño Templario, recoges los dulces que reparten las tías antes de que se los coman los zombis y, con la espada, conviertes a los zombis otra vez en vecinos. Es gratis en vamostomar.pt/halloween."
+   },
+   {
+    "en": "There are three rounds in real Tomar places: the Praça da República and the São João Baptista church; the Mouchão and its water wheel, hopping across the Nabão, with the Santa Iria Café by the Ponte Velha; and the Convento de Cristo, where a Zombie Templar waits by the cloister.",
+    "pt": "São três rondas em sítios bem conhecidos de Tomar: a Praça da República e a igreja de São João Baptista; o Mouchão e a roda, a saltar sobre o Nabão, com o Santa Iria Café junto à Ponte Velha; e o Convento de Cristo, onde um Templário Zombie espera junto ao claustro.",
+    "es": "Son tres rondas en lugares reales de Tomar: la Praça da República y la iglesia de São João Baptista; el Mouchão y su noria, saltando sobre el Nabão, con el Santa Iria Café junto a la Ponte Velha; y el Convento de Cristo, donde un Templario Zombi espera junto al claustro."
+   },
+   {
+    "en": "The competition runs until Saturday 31 October at 23:59. The top score wins a voucher worth up to €10 at Santa Iria — Café Bistrot, offered by the café. It's a game of skill, not luck: everyone plays the same rounds. Ages 13+ (13–17 with a parent's consent). The winner is announced on 1 November.",
+    "pt": "A competição decorre até sábado, 31 de outubro, às 23h59. A melhor pontuação ganha um vale até 10 € no Santa Iria — Café Bistrot, oferecido pelo café. É um jogo de perícia, não de sorte: todos jogam as mesmas rondas. Maiores de 13 anos (13–17 com autorização dos pais). O vencedor é anunciado a 1 de novembro.",
+    "es": "La competición dura hasta el sábado 31 de octubre a las 23:59. La mejor puntuación gana un vale de hasta 10 € en Santa Iria — Café Bistrot, por cortesía del café. Es un juego de habilidad, no de suerte: todos juegan las mismas rondas. Mayores de 13 (13–17 con permiso de los padres). El ganador se anuncia el 1 de noviembre."
+   },
+   {
+    "en": "To enter: 1) play in Competition mode; 2) at the end tap \"Make an Instagram post\", type your @, then Copy caption and Save image; 3) post the image with the caption exactly as it is by 31 Oct, 23:59; 4) one entry per person. Rules in the game. Not sponsored, endorsed or run by Instagram.",
+    "pt": "Para participar: 1) joga no modo Competição; 2) no fim, toca em «Criar post para o Instagram», escreve o teu @ e toca em Copiar legenda e Guardar imagem; 3) publica a imagem com a legenda tal como está até 31/10, às 23h59; 4) uma participação por pessoa. Regras no jogo. Não é patrocinada nem gerida pelo Instagram.",
+    "es": "Para participar: 1) juega en modo Competición; 2) al final, toca «Crear post para Instagram», escribe tu @ y toca Copiar texto y Guardar imagen; 3) publica la imagen con el texto tal cual hasta el 31/10 a las 23:59; 4) una participación por persona. Bases en el juego. No la patrocina ni gestiona Instagram."
+   }
+  ],
+  "photo": "https://vamostomar.pt/data/images/halloween-game-cover-20261021b.webp",
+  "photoAlt": {
+   "en": "The game's title over its three rounds (Praça da República, Mouchão, Convento de Cristo), sponsored by Santa Iria Café",
+   "pt": "O título do jogo sobre as três rondas (Praça da República, Mouchão, Convento de Cristo), com o patrocínio do Santa Iria Café",
+   "es": "El título del juego sobre sus tres rondas (Praça da República, Mouchão, Convento de Cristo), patrocinado por Santa Iria Café"
+  },
+  "facts": [
+   {
+    "k": {
+     "en": "When",
+     "pt": "Quando",
+     "es": "Cuándo"
+    },
+    "v": {
+     "en": "24–31 Oct · winner 1 Nov",
+     "pt": "24–31 out · vencedor a 1 nov",
+     "es": "24–31 oct · ganador el 1 nov"
+    }
+   },
+   {
+    "k": {
+     "en": "Prize",
+     "pt": "Prémio",
+     "es": "Premio"
+    },
+    "v": {
+     "en": "Voucher up to €10 at Santa Iria Café",
+     "pt": "Vale até 10 € no Santa Iria Café",
+     "es": "Vale de hasta 10 € en Santa Iria Café"
+    }
+   },
+   {
+    "k": {
+     "en": "Who",
+     "pt": "Quem",
+     "es": "Quién"
+    },
+    "v": {
+     "en": "Free · ages 13+",
+     "pt": "Grátis · maiores de 13",
+     "es": "Gratis · mayores de 13"
+    }
+   },
+   {
+    "k": {
+     "en": "Where",
+     "pt": "Onde",
+     "es": "Dónde"
+    },
+    "v": {
+     "en": "vamostomar.pt/halloween",
+     "pt": "vamostomar.pt/halloween",
+     "es": "vamostomar.pt/halloween"
+    }
+   }
+  ],
+  "tags": [
+   {
+    "en": "Halloween",
+    "pt": "Halloween",
+    "es": "Halloween"
+   },
+   {
+    "en": "Pão-por-Deus",
+    "pt": "Pão-por-Deus",
+    "es": "Pão-por-Deus"
+   },
+   {
+    "en": "Game",
+    "pt": "Jogo",
+    "es": "Juego"
+   },
+   {
+    "en": "Family",
+    "pt": "Família",
+    "es": "Familia"
+   }
+  ],
+  "url": "https://vamostomar.pt/halloween/",
+  "links": {},
+  "sources": []
+ },
+ "feature": {
+  "title": {
+   "en": "The 400th fair's last day",
+   "pt": "O último dia da feira dos 400 anos",
+   "es": "El último día de la feria de los 400 años"
+  },
+  "text": {
+   "en": "Sunday is the Feira de Santa Iria's last day. Rádio Cidade de Tomar marks its 37th birthday in the Várzea Grande tent from 15:00, with José Cid, Nuno Ricky, Ricardo José, Mário Mata and the Tuna Templária, free. The antiques fair is at the Mercado Municipal from 10:00 to 22:00, and the clocks go back an hour overnight.",
+   "pt": "Domingo é o último dia da Feira de Santa Iria. A Rádio Cidade de Tomar festeja 37 anos na tenda da Várzea Grande a partir das 15h, com José Cid, Nuno Ricky, Ricardo José, Mário Mata e a Tuna Templária, com entrada livre. A feira de velharias está no Mercado Municipal das 10h às 22h, e de madrugada os relógios atrasam uma hora.",
+   "es": "El domingo es el último día de la Feria de Santa Iria. Rádio Cidade de Tomar celebra 37 años en la carpa de la Várzea Grande desde las 15:00, con José Cid, Nuno Ricky, Ricardo José, Mário Mata y la Tuna Templária, entrada libre. El mercadillo de antigüedades está en el Mercado Municipal de 10:00 a 22:00, y de madrugada los relojes se atrasan una hora."
+  },
+  "cta": {
+   "en": "Open the fair guide",
+   "pt": "Ver o guia da feira",
+   "es": "Ver la guía de la feria"
+  },
+  "url": "https://vamostomar.pt/pt/feira-de-santa-iria/",
+  "badge": {
+   "big": "400",
+   "small": {
+    "en": "Years · last day",
+    "pt": "Anos · último dia",
+    "es": "Años · último día"
+   },
+   "date": {
+    "en": "Sunday 25 October",
+    "pt": "Domingo, 25 de outubro",
+    "es": "Domingo 25 de octubre"
+   }
+  }
+ },
+ "cover": {
+  "lines": [
+   {
+    "label": {
+     "en": "Santa Iria Fair",
+     "pt": "Feira de Santa Iria",
+     "es": "Feria de Santa Iria"
+    },
+    "text": {
+     "en": "The 400th fair's last day",
+     "pt": "O último dia da feira dos 400 anos",
+     "es": "El último día de la feria de los 400 años"
+    },
+    "href": "#feature"
+   },
+   {
+    "label": {
+     "en": "Don't miss",
+     "pt": "A não perder",
+     "es": "No te pierdas"
+    },
+    "text": {
+     "en": "Festival Zero opens on Saturday",
+     "pt": "O Festival Zero abre no sábado",
+     "es": "El Festival Zero abre el sábado"
+    },
+    "href": "#dm-h"
+   },
+   {
+    "label": {
+     "en": "News",
+     "pt": "Notícias",
+     "es": "Noticias"
+    },
+    "text": {
+     "en": "€35,000 for the Escola Profissional de Tomar",
+     "pt": "35 mil euros para a Escola Profissional de Tomar",
+     "es": "35.000 € para la Escola Profissional de Tomar"
+    },
+    "href": "#nw-h"
+   }
+  ]
+ },
+ "events": [
+  {
+   "date": "2026-10-31",
+   "dateEnd": null,
+   "time": "21:30",
+   "featured": true,
+   "free": false,
+   "icon": "stage",
+   "photo": null,
+   "url": "https://www.viralagenda.com/pt/events/1867177/festival-zero-26",
+   "when": {
+    "en": "Sat 31 Oct · 21:30",
+    "pt": "Sáb 31 out · 21:30",
+    "es": "Sáb 31 oct · 21:30"
+   },
+   "title": {
+    "en": "Festival Zero opens with Vieira's sermon",
+    "pt": "O Festival Zero abre com o sermão de Vieira",
+    "es": "El Festival Zero abre con el sermón de Vieira"
+   },
+   "text": {
+    "en": "Espaço 0 – Teatro performs \"Sermão aos peixes\" in the Capela de Santa Iria, opening two weeks of theatre, photography and poetry.",
+    "pt": "O Espaço 0 – Teatro apresenta o «Sermão aos peixes» na Capela de Santa Iria e abre duas semanas de teatro, fotografia e poesia.",
+    "es": "Espaço 0 – Teatro presenta el «Sermão aos peixes» en la Capilla de Santa Iria y abre dos semanas de teatro, fotografía y poesía."
+   },
+   "place": {
+    "en": "Capela de Santa Iria",
+    "pt": "Capela de Santa Iria",
+    "es": "Capilla de Santa Iria"
+   }
+  },
+  {
+   "date": "2026-10-25",
+   "dateEnd": null,
+   "time": "09:30",
+   "featured": false,
+   "free": false,
+   "icon": "sport",
+   "photo": null,
+   "url": "https://thomarhonoris.pt/",
+   "when": {
+    "en": "Sunday 25 Oct · 09:30",
+    "pt": "Domingo 25 out · 09:30",
+    "es": "Domingo 25 oct · 09:30"
+   },
+   "title": {
+    "en": "National field archery championship",
+    "pt": "Campeonato nacional de tiro de campo",
+    "es": "Campeonato nacional de tiro de campo"
+   },
+   "text": {
+    "en": "Bow and crossbow archers from around Portugal compete at the Regimento de Infantaria 15, organised by Thomar Honoris.",
+    "pt": "Arqueiros e besteiros de todo o país competem no Regimento de Infantaria 15, numa organização da Thomar Honoris.",
+    "es": "Arqueros y ballesteros de todo Portugal compiten en el Regimento de Infantaria 15, organizado por Thomar Honoris."
+   },
+   "place": {
+    "en": "Regimento de Infantaria 15",
+    "pt": "Regimento de Infantaria 15",
+    "es": "Regimento de Infantaria 15"
+   }
+  },
+  {
+   "date": "2026-10-28",
+   "dateEnd": null,
+   "time": "16:30",
+   "featured": false,
+   "free": false,
+   "icon": "landmark",
+   "photo": null,
+   "url": "https://www.cm-tomar.pt/comunicacao/agenda",
+   "when": {
+    "en": "Wed 28 Oct · 16:30",
+    "pt": "Qua 28 out · 16:30",
+    "es": "Mié 28 oct · 16:30"
+   },
+   "title": {
+    "en": "VI Mostra Criativa opens",
+    "pt": "Abre a VI Mostra Criativa",
+    "es": "Abre la VI Mostra Criativa"
+   },
+   "text": {
+    "en": "Final-year students of the Universidade Politécnica de Tomar show their work at the Casa dos Cubos, on until 27 December.",
+    "pt": "Os finalistas da Universidade Politécnica de Tomar mostram os seus trabalhos na Casa dos Cubos, até 27 de dezembro.",
+    "es": "Los estudiantes de último curso de la Universidade Politécnica de Tomar exponen en la Casa dos Cubos, hasta el 27 de diciembre."
+   },
+   "place": {
+    "en": "Laboratório d'Artes — CEFT, Casa dos Cubos",
+    "pt": "Laboratório d'Artes — CEFT, Casa dos Cubos",
+    "es": "Laboratório d'Artes — CEFT, Casa dos Cubos"
+   }
+  },
+  {
+   "date": "2026-10-31",
+   "dateEnd": "2026-11-01",
+   "time": null,
+   "featured": false,
+   "free": false,
+   "icon": "star",
+   "photo": null,
+   "url": "https://calendly.com/direcao-jato/jato-escape-rooms-a-convidada",
+   "when": {
+    "en": "Sat 31 Oct – Sun 1 Nov",
+    "pt": "Sáb 31 out – Dom 1 nov",
+    "es": "Sáb 31 oct – Dom 1 nov"
+   },
+   "title": {
+    "en": "JATO's horror escape room",
+    "pt": "A escape room de terror do JATO",
+    "es": "El escape room de terror de JATO"
+   },
+   "text": {
+    "en": "\"A Convidada\": 60 minutes to solve the puzzles, for teams of 2 to 5, ages 14+. €6–9 a person; booking needed.",
+    "pt": "«A Convidada»: 60 minutos para resolver os enigmas, em equipas de 2 a 5, maiores de 14. 6 a 9 € por pessoa; marcação obrigatória.",
+    "es": "«A Convidada»: 60 minutos para resolver los enigmas, en equipos de 2 a 5, mayores de 14. De 6 a 9 € por persona; con reserva."
+   },
+   "place": {
+    "en": "Sociedade Filarmónica Gualdim Pais",
+    "pt": "Sociedade Filarmónica Gualdim Pais",
+    "es": "Sociedade Filarmónica Gualdim Pais"
+   }
+  }
+ ],
+ "news": [
+  {
+   "cat": "community",
+   "src": "Tomar na Rede",
+   "url": "https://tomarnarede.pt/destaque/horario-de-inverno-entra-em-vigor-na-madrugada-deste-domingo/",
+   "head": {
+    "en": "Winter time: the clocks go back overnight",
+    "pt": "Hora de inverno: os relógios atrasam esta madrugada",
+    "es": "Horario de invierno: los relojes se atrasan esta madrugada"
+   },
+   "body": {
+    "en": "At 02:00 on Sunday 25 October the clocks go back to 01:00 in mainland Portugal.",
+    "pt": "Às 2h de domingo, 25 de outubro, os relógios voltam à 1h em Portugal continental.",
+    "es": "A las 2:00 del domingo 25 de octubre los relojes vuelven a la 1:00 en Portugal continental."
+   }
+  },
+  {
+   "cat": "camara",
+   "src": "mediotejo.net",
+   "url": "https://mediotejo.net/tomar-aprova-apoio-de-35-mil-euros-a-escola-profissional-com-dificuldades-financeiras/",
+   "head": {
+    "en": "€35,000 to help the Escola Profissional de Tomar",
+    "pt": "35 mil euros para ajudar a Escola Profissional de Tomar",
+    "es": "35.000 € para ayudar a la Escola Profissional de Tomar"
+   },
+   "body": {
+    "en": "The Câmara, which owns half the company behind the school, approved the support unanimously while it prepares to sell the company.",
+    "pt": "A Câmara, dona de metade da empresa da escola, aprovou o apoio por unanimidade enquanto prepara a venda da empresa.",
+    "es": "La Câmara, dueña de la mitad de la empresa de la escuela, aprobó la ayuda por unanimidad mientras prepara su venta."
+   }
+  },
+  {
+   "cat": "camara",
+   "src": "mediotejo.net",
+   "url": "https://mediotejo.net/tomar-ps-critica-exclusao-do-judo-das-atividades-escolares-e-psd-defende-novo-modelo/",
+   "head": {
+    "en": "Judo drops out of after-class school activities",
+    "pt": "O judo sai das atividades de enriquecimento escolar",
+    "es": "El judo sale de las actividades extraescolares"
+   },
+   "body": {
+    "en": "The PS says children who rely on school activities lose out; the PSD education councillor says each group still gets two sport days a week.",
+    "pt": "O PS diz que perdem as crianças que dependem da escola; a vereadora da Educação (PSD) diz que cada grupo tem dois dias de desporto por semana.",
+    "es": "El PS dice que pierden los niños que dependen de la escuela; la concejala de Educación (PSD) dice que cada grupo tiene dos días de deporte a la semana."
+   }
+  },
+  {
+   "cat": "environment",
+   "src": "mediotejo.net",
+   "url": "https://mediotejo.net/tomar-adere-a-rede-nacional-para-melhorar-mobilidade-pedonal-e-espacos-publicos/",
+   "head": {
+    "en": "Tomar joins the network of towns that walk",
+    "pt": "Tomar entra na rede de cidades que caminham",
+    "es": "Tomar entra en la red de ciudades que caminan"
+   },
+   "body": {
+    "en": "The Câmara voted unanimously to join the Rede de Cidades e Vilas que Caminham, for €3,000 a year plus VAT, to make streets safer to walk.",
+    "pt": "A Câmara aprovou por unanimidade a adesão à Rede de Cidades e Vilas que Caminham, por 3000 € por ano mais IVA, para ruas mais seguras a pé.",
+    "es": "La Câmara aprobó por unanimidad unirse a la Rede de Cidades e Vilas que Caminham, por 3.000 € al año más IVA, para calles más seguras a pie."
+   }
+  },
+  {
+   "cat": "community",
+   "src": "Tomar na Rede",
+   "url": "https://tomarnarede.pt/destaque/camara-contrata-apoio-psicologico-para-os-bombeiros/",
+   "head": {
+    "en": "Psychological support for Tomar's firefighters",
+    "pt": "Apoio psicológico para os bombeiros de Tomar",
+    "es": "Apoyo psicológico para los bomberos de Tomar"
+   },
+   "body": {
+    "en": "The Câmara hired an Ourém firm for six months of psychological support for the municipal firefighters, for €9,975 plus VAT.",
+    "pt": "A Câmara contratou uma empresa de Ourém para seis meses de apoio psicológico aos bombeiros municipais, por 9975 € mais IVA.",
+    "es": "La Câmara contrató a una empresa de Ourém para seis meses de apoyo psicológico a los bomberos municipales, por 9.975 € más IVA."
+   }
+  },
+  {
+   "cat": "sport",
+   "src": "mediotejo.net",
+   "url": "https://mediotejo.net/treinador-do-sporting-de-tomar-faz-historia-ao-conquistar-mundial-de-hoquei-pela-franca/",
+   "head": {
+    "en": "Sporting de Tomar's coach wins the World Cup with France",
+    "pt": "Treinador do Sporting de Tomar campeão do mundo pela França",
+    "es": "El técnico del Sporting de Tomar, campeón del mundo con Francia"
+   },
+   "body": {
+    "en": "Nuno Lopes led France to their first roller hockey world title, beating Argentina on penalties in Paraguay on 18 October.",
+    "pt": "Nuno Lopes levou a França ao primeiro título mundial de hóquei em patins, nos penáltis frente à Argentina, no Paraguai, a 18 de outubro.",
+    "es": "Nuno Lopes llevó a Francia a su primer título mundial de hockey sobre patines, en los penaltis ante Argentina, en Paraguay, el 18 de octubre."
+   }
+  }
+ ],
+ "fact": {
+  "id": "caravel-cross",
+  "en": "The red cross on the sails of Portugal's caravels is the cross of the Order of Christ, based in Tomar. Henry the Navigator governed the order from 1420, and its money helped pay for the voyages.",
+  "pt": "A cruz vermelha nas velas das caravelas é a cruz da Ordem de Cristo, sediada em Tomar. O Infante D. Henrique governou a ordem a partir de 1420, e o dinheiro dela ajudou a pagar as viagens.",
+  "es": "La cruz roja de las velas de las carabelas portuguesas es la de la Orden de Cristo, con sede en Tomar. Enrique el Navegante la gobernó desde 1420, y su dinero ayudó a pagar los viajes."
+ },
+ "coming": [
+  {
+   "when": {
+    "en": "Sun 1 Nov",
+    "pt": "Dom 1 nov",
+    "es": "Dom 1 nov"
+   },
+   "text": {
+    "en": "All Saints' Day and Pão-por-Deus, a public holiday. The Halloween game winner is announced on @vamostomarinsta.",
+    "pt": "Dia de Todos os Santos e do Pão-por-Deus, feriado. O vencedor do jogo de Halloween é anunciado na @vamostomarinsta.",
+    "es": "Día de Todos los Santos y del Pão-por-Deus, festivo. El ganador del juego de Halloween se anuncia en @vamostomarinsta."
+   }
+  },
+  {
+   "when": {
+    "en": "Mon 2 – Wed 4 Nov",
+    "pt": "Seg 2 – Qua 4 nov",
+    "es": "Lun 2 – Mié 4 nov"
+   },
+   "text": {
+    "en": "Dias da Fotografia: evening talks with photographers at the Moinho da Ordem, 21:30, part of Festival Zero.",
+    "pt": "Dias da Fotografia: conversas com fotógrafos no Moinho da Ordem, às 21h30, no Festival Zero.",
+    "es": "Dias da Fotografia: charlas con fotógrafos en el Moinho da Ordem, a las 21:30, dentro del Festival Zero."
+   }
+  },
+  {
+   "when": {
+    "en": "Thu 5 Nov",
+    "pt": "Qui 5 nov",
+    "es": "Jue 5 nov"
+   },
+   "text": {
+    "en": "Life, Love & Legend: Baroque songs at the Igreja da Misericórdia, 19:15.",
+    "pt": "Life, Love & Legend: canções barrocas na Igreja da Misericórdia, às 19h15.",
+    "es": "Life, Love & Legend: canciones barrocas en la Igreja da Misericórdia, a las 19:15."
+   }
+  },
+  {
+   "when": {
+    "en": "Fri 6 Nov",
+    "pt": "Sex 6 nov",
+    "es": "Vie 6 nov"
+   },
+   "text": {
+    "en": "Theatre: \"O amigo dedicado\" by Te Ato (Leiria) at the Biblioteca António Cartaxo da Fonseca, 21:30.",
+    "pt": "Teatro: «O amigo dedicado», pela Te Ato (Leiria), na Biblioteca António Cartaxo da Fonseca, às 21h30.",
+    "es": "Teatro: «O amigo dedicado», de Te Ato (Leiria), en la Biblioteca António Cartaxo da Fonseca, a las 21:30."
+   }
+  },
+  {
+   "when": {
+    "en": "Sat 7 Nov",
+    "pt": "Sáb 7 nov",
+    "es": "Sáb 7 nov"
+   },
+   "text": {
+    "en": "The steam train comes to Tomar (also Sunday), and a family play at the Cine-Teatro Paraíso at 17:00.",
+    "pt": "O comboio a vapor chega a Tomar (também no domingo) e há teatro para famílias no Cine-Teatro Paraíso, às 17h.",
+    "es": "El tren de vapor llega a Tomar (también el domingo) y hay teatro familiar en el Cine-Teatro Paraíso, a las 17:00."
+   }
+  }
+ ],
+ "whatsapp": {
+  "en": "This Week in Tomar (25–31 Oct): our Halloween game with a voucher from Santa Iria Café, the Santa Iria fair's last day and Festival Zero opening. https://vamostomar.pt/weekly/?lang=en",
+  "pt": "Esta Semana em Tomar (25–31 out): o jogo de Halloween com um vale do Santa Iria Café, o último dia da Feira de Santa Iria e o Festival Zero a abrir. https://vamostomar.pt/weekly/",
+  "es": "Esta Semana en Tomar (25–31 oct): el juego de Halloween con un vale de Santa Iria Café, el último día de la Feria de Santa Iria y el Festival Zero. https://vamostomar.pt/weekly/?lang=es"
+ },
+ "instagram": {
+  "spotlight": {
+   "caption": "🎃 O «Ó Zombie, Dá-me um Doce!» já está no ar em vamostomar.pt/halloween, e o @santairiacafebistrot oferece um vale até 10 € à melhor pontuação.\n\nEscolham o vosso Templário e apanhem os doces das tias na Praça da República, no Mouchão e no Convento de Cristo, antes dos zombies.\n\nPara participar: joguem no modo Competição, escrevam o vosso @, copiem a legenda e publiquem o cartão num post até sábado, 31 de outubro, às 23h59. Uma participação por pessoa, maiores de 13. Esta competição não é patrocinada, apoiada nem gerida pelo Instagram.\n\nMais no «Esta Semana em Tomar», domingo às 8h — link na bio.\n\n#vamostomar #tomar #halloween #paopordeus",
+   "en": "🎃 \"Hey Zombie, Give Me a Treat!\" is live at vamostomar.pt/halloween, and @santairiacafebistrot is offering a voucher worth up to €10 to the top score.\n\nPick your Templar and grab the tias' treats in the Praça da República, at the Mouchão and at the Convento de Cristo, before the zombies do.\n\nTo enter: play in Competition mode, type your @, copy the caption and post your card by Saturday 31 October at 23:59. One entry per person, ages 13+. This competition is not sponsored, endorsed or run by Instagram.\n\nMore in \"This Week in Tomar\", Sunday at 8:00 — link in bio.",
+   "alt": {
+    "pt": "🎃 Já jogaram o jogo de Halloween de Tomar? A melhor pontuação ganha um vale no @santairiacafebistrot.",
+    "en": "🎃 Have you played Tomar's Halloween game yet? The top score wins a voucher at @santairiacafebistrot."
+   },
+   "check": [
+    "You already posted the launch at 08:00 — use this only for a second post or a story."
+   ]
+  },
+  "edition": {
+   "caption": "🗞️ «Esta Semana em Tomar» n.º 5 já está no ar: de 25 a 31 de outubro.\n\nNesta edição:\n🎃 O jogo de Halloween: a melhor pontuação ganha um vale no @santairiacafebistrot\n🎡 O último dia da Feira de Santa Iria, com a festa da Rádio Cidade de Tomar\n🏫 35 mil euros da Câmara para a Escola Profissional de Tomar\n🏆 Nuno Lopes, treinador do Sporting de Tomar, campeão do mundo pela França\n\nE ainda o tempo, os eventos e uma curiosidade da semana. Leiam em vamostomar.pt (link na bio). A competição de Halloween não é patrocinada, apoiada nem gerida pelo Instagram.\n\n#vamostomar #tomar #paopordeus #feiradesantairia",
+   "en": "🗞️ \"This Week in Tomar\" no. 5 is out: 25 to 31 October.\n\nIn this edition:\n🎃 The Halloween game: the top score wins a voucher at @santairiacafebistrot\n🎡 The Santa Iria fair's last day, with Rádio Cidade de Tomar's party\n🏫 €35,000 from the Câmara for the Escola Profissional de Tomar\n🏆 Nuno Lopes, Sporting de Tomar's coach, world champion with France\n\nPlus the weather, the events and a fact of the week. Read it at vamostomar.pt (link in bio). The Halloween competition is not sponsored, endorsed or run by Instagram.",
+   "check": [
+    "@ for Rádio Cidade de Tomar?",
+    "@ for Sporting Clube de Tomar?"
+   ]
+  }
+ },
+ "sourcesChecked": [
+  {
+   "src": "yr.no (MET Norway) Tomar forecast",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "src": "MET Norway API",
+   "ok": false,
+   "items": 0
+  },
+  {
+   "src": "IPMA warnings",
+   "ok": false,
+   "items": 0
+  },
+  {
+   "src": "Rádio Hertz feeds",
+   "ok": false,
+   "items": 0
+  },
+  {
+   "src": "O Templário feed",
+   "ok": false,
+   "items": 0
+  },
+  {
+   "src": "Cidade de Tomar feed",
+   "ok": false,
+   "items": 0
+  },
+  {
+   "src": "Tomar na Rede (destaque)",
+   "ok": true,
+   "items": 14
+  },
+  {
+   "src": "mediotejo.net (front page)",
+   "ok": true,
+   "items": 8
+  },
+  {
+   "src": "Viral Agenda / Festival Zero'26",
+   "ok": true,
+   "items": 13
+  },
+  {
+   "src": "live.json + site EVENTS",
+   "ok": true,
+   "items": 11
+  }
+ ]
+}
