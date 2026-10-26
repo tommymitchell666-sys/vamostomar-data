@@ -1,6 +1,6 @@
 {
- "rev": 63,
- "updated": "2026-10-26T10:51:58.033Z",
+ "rev": 64,
+ "updated": "2026-10-26T10:53:14.291Z",
  "events": [
   {
    "date": "2026-10-17",
@@ -9428,16 +9428,6 @@
  "links": [],
  "spotlight": {
   "on": true,
-  "items": [
-   {
-    "id": "sp-2026-09-26-cafe-paraiso-y5u",
-    "listing": "cafe-paraiso-y5u",
-    "start": "2026-09-26",
-    "ll": [
-     39.60395,
-     -8.41406
-    ]
-   }
-  ]
+  "items": []
  }
 }
