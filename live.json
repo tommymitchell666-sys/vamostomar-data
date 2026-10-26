@@ -1,50 +1,7 @@
 {
- "rev": 60,
- "updated": "2026-10-21T12:54:55.852Z",
+ "rev": 61,
+ "updated": "2026-10-26T09:41:47.776Z",
  "events": [
-  {
-   "date": "2026-10-09",
-   "dateEnd": null,
-   "name": "Free Lecture - Love, Medicine and Miracles: A New Perspective on Cancer",
-   "blurb": "What if the disease manifested itself to help us be happier? A new vision of such an overwhelming theme, through the voice of those who have gone through 2 cancers.",
-   "place": "Moinho da Ordem Room - Levada cultural complex",
-   "name_pt": "Palestra gratuita - Amor, Medicina e Milagres Uma Nova Perspectiva sobre o cancro",
-   "name_es": "Conferencia gratuita - Amor, medicina y milagros: una nueva perspectiva sobre el cáncer",
-   "blurb_pt": "E se a doença se manifestasse para nos ajudar a ser mais felizes? \nUma nova visão de um tema tão avassalador, pela voz de quem passou por 2 cancros.",
-   "blurb_es": "¿Qué pasaría si la enfermedad se manifestara para ayudarnos a ser más felices? Una nueva visión de un tema tan abrumador, a través de la voz de aquellos que han pasado por 2 cánceres.",
-   "place_pt": "Sala Moinho da Ordem - complexo cultural da Levada",
-   "place_es": "Sala Moinho da Ordem - Complejo cultural de Levada",
-   "price": "Free",
-   "price_pt": "Grátis",
-   "price_es": "Gratis",
-   "time": "20:30",
-   "maps": "https://maps.google.com/?q=Complexo%20Cultural%20da%20Levada,%20Nab%C3%A3o%20River,%20Portogallo,%202300%20Tomar&ftid=0xd187fbd76d8e8e9:0xba85fc133c4d8c2&entry=gps&shh=CAE&lucs=,94297699,94231188,94280568,100821559,47071704,94218641,94282134,100835699,94286869,100820247,100822504,100838877,121816461&g_st=ic",
-   "url": "https://Cristinacapela.com",
-   "photo": {
-    "src": "data/images/free-lecture-love-medicine-and-miracles-a-new-pe-20261002-x036.webp"
-   },
-   "id": "ev-2026-10-09-free-lecture-love-medicine-and-miracles-a-new-"
-  },
-  {
-   "date": "2026-10-10",
-   "dateEnd": null,
-   "name": "Dias Templários no Convento de Cristo",
-   "blurb": "A day of living history outside the Convent of Christ, from 10:00 am to 6:00 pm. A military and civilian camp showcases the medieval daily life, equipment, weapons and customs of the Templar era, with demonstrations of historical fencing, historical dances, archery and medieval coquinaria. There is also a Historical Conference on the Templar legacy and the Mercado da Estrelinha – Medieval/Templar Special, with local artisans. Organization of the Thomar Honoris Association and the OPCTJ, in partnership with the Union of Parishes of Tomar and the Convent of Christ. Ideal for families.",
-   "place": "Exterior do Convento de Cristo, Tomar",
-   "name_pt": "Dias Templários no Convento de Cristo",
-   "name_es": "Dias Templários no Convento de Cristo",
-   "blurb_pt": "Um dia de história viva no exterior do Convento de Cristo, das 10h00 às 18h00. Um acampamento militar e civil dá a conhecer o quotidiano medieval, os equipamentos, as armas e os costumes da época templária, com demonstrações de esgrima histórica, danças históricas, tiro com arco e coquinaria medieval. Há ainda uma Conferência Histórica sobre o legado templário e o Mercado da Estrelinha – Especial Medieval/Templário, com artesãos locais. Organização da Associação Thomar Honoris e da OPCTJ, em parceria com a União das Freguesias de Tomar e o Convento de Cristo. Ideal para famílias.",
-   "blurb_es": "Un día de historia viva fuera del Convento de Cristo, de 10:00 a 18:00 horas. Un campamento militar y civil muestra la vida cotidiana medieval, el equipamiento, las armas y las costumbres de la época templaria, con demostraciones de esgrima histórica, danzas históricas, tiro con arco y coquinaria medieval. También hay una Conferencia Histórica sobre el legado templario y el Mercado da Estrelinha – Especial medieval/templario, con artesanos locales. Organización de la Asociación Thomar Honoris y la OPCTJ, en colaboración con la Unión de Parroquias de Tomar y el Convento de Cristo. Ideal para familias.",
-   "place_pt": "Exterior do Convento de Cristo, Tomar",
-   "place_es": "Exterior del Convento de Cristo, Tomar",
-   "time": "10:00",
-   "venue": "convento-de-cristo",
-   "maps": "https://maps.app.goo.gl/4jr4Bi6FJPtU5rfq5",
-   "photo": {
-    "src": "data/images/dias-templarios-no-convento-de-cristo-poster-20260928-na17.webp"
-   },
-   "id": "ev-2026-10-10-dias-templarios-no-convento-de-cristo"
-  },
   {
    "date": "2026-10-17",
    "dateEnd": null,
@@ -63,23 +20,6 @@
     "src": "data/images/dance-through-the-decades-poster-20261008-2qiz.webp"
    },
    "id": "ev-2026-10-17-dance-through-the-decades"
-  },
-  {
-   "id": "ev-2026-10-11-campeonato-dos-castelos",
-   "date": "2026-10-11",
-   "dateEnd": null,
-   "name": "Campeonato dos Castelos",
-   "name_pt": "Campeonato dos Castelos",
-   "name_es": "Campeonato dos Castelos",
-   "blurb": "A historic bow and crossbow tournament at the Templar castle, run by Thomar Honoris with the Federação de Arqueiros e Besteiros de Portugal. From 09:30.",
-   "blurb_pt": "Torneio de arco e besta históricos no castelo templário, organizado pela Thomar Honoris com a Federação de Arqueiros e Besteiros de Portugal. A partir das 9h30.",
-   "blurb_es": "Torneo de arco y ballesta históricos en el castillo templario, organizado por Thomar Honoris con la Federação de Arqueiros e Besteiros de Portugal. Desde las 9:30.",
-   "place": "Castelo de Tomar",
-   "place_pt": "Castelo de Tomar",
-   "place_es": "Castillo de Tomar",
-   "time": "09:30",
-   "venue": "castelo-de-tomar",
-   "url": "https://thomarhonoris.pt/"
   },
   {
    "id": "ev-2026-10-11-dia-nacional-do-peregrino",
@@ -9487,7 +9427,7 @@
  "insider": [],
  "links": [],
  "spotlight": {
-  "on": true,
+  "on": false,
   "items": [
    {
     "id": "sp-2026-09-26-cafe-paraiso-y5u",
