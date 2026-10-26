@@ -1,6 +1,6 @@
 {
- "rev": 64,
- "updated": "2026-10-26T10:53:14.291Z",
+ "rev": 65,
+ "updated": "2026-10-26T10:57:41.319Z",
  "events": [
   {
    "date": "2026-10-17",
@@ -9428,6 +9428,9 @@
  "links": [],
  "spotlight": {
   "on": true,
+  "cards": {
+   "business": false
+  },
   "items": []
  }
 }
