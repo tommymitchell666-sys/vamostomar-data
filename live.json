@@ -1,6 +1,6 @@
 {
- "rev": 65,
- "updated": "2026-10-26T10:57:41.319Z",
+ "rev": 66,
+ "updated": "2026-10-27T09:05:12.820Z",
  "events": [
   {
    "date": "2026-10-17",
@@ -43,26 +43,6 @@
     "convento-de-cristo",
     "nossa-senhora-piedade",
     "sao-joao-baptista"
-   ],
-   "url": "https://www.cm-tomar.pt/comunicacao/agenda"
-  },
-  {
-   "id": "ev-2026-10-12-retabulo-capela-dos-valle",
-   "date": "2026-10-12",
-   "dateEnd": null,
-   "name": "The Capela dos Valle altarpiece: conservation work presented",
-   "name_pt": "Apresentação da intervenção no retábulo da Capela dos Valle",
-   "name_es": "Presentación de la intervención en el retablo de la Capilla de los Valle",
-   "blurb": "A presentation of the conservation work on the altarpiece in the Capela dos Valle, the side chapel of the Santa Iria church, a week before the Santa Iria festivities. 15:00.",
-   "blurb_pt": "Apresentação da intervenção de conservação no retábulo da Capela dos Valle, na Igreja de Santa Iria, uma semana antes das festas de Santa Iria. 15h.",
-   "blurb_es": "Presentación de la intervención de conservación en el retablo de la Capilla de los Valle, en la iglesia de Santa Iria, una semana antes de las fiestas de Santa Iria. 15:00.",
-   "place": "Laboratório d'Artes — CEFT, Casa dos Cubos",
-   "place_pt": "Laboratório d'Artes — CEFT, Casa dos Cubos",
-   "place_es": "Laboratório d'Artes — CEFT, Casa dos Cubos",
-   "time": "15:00",
-   "venue": [
-    "casa-dos-cubos",
-    "capela-santa-iria"
    ],
    "url": "https://www.cm-tomar.pt/comunicacao/agenda"
   },
@@ -8974,6 +8954,73 @@
     "instagram": "https://www.instagram.com/susancatarineyoga/",
     "maps": "https://www.google.com/maps/search/?api=1&query=Susan+Catarine+Yoga%2C+R.+Jo%C3%A3o+dos+Santos+Sim%C3%B5es+38%2C+2300-499+Tomar"
    }
+  },
+  {
+   "category": "services",
+   "zone": "centro",
+   "name": "Morefashion",
+   "blurb": "New clothes every week, always featuring different pieces - fashion that’s always up to date.",
+   "detail": "Rua marques pombal 20 Tomar",
+   "name_pt": "Morefashion",
+   "blurb_pt": "Roupas novas todas as semanas sempre com peças diferentes , moda sempre actual",
+   "detail_pt": "Rua Marques de Pombal, n\" 25- centro",
+   "name_es": "Morefashion",
+   "blurb_es": "Ropa nueva cada semana, siempre con prendas diferentes; moda siempre actual.",
+   "detail_es": "Rua marques pombal 20 Tomar",
+   "sub": [],
+   "tags": [
+    "shop"
+   ],
+   "email": "morefashiontomar@hotmail.com",
+   "links": {
+    "facebook": "https://www.facebook.com/share/1E8fUQsFaN/"
+   },
+   "hours": {
+    "1": [
+     10,
+     12.5
+    ],
+    "2": [
+     [
+      10,
+      12.5
+     ],
+     [
+      15,
+      17
+     ]
+    ],
+    "3": [
+     10,
+     12.5
+    ],
+    "4": [
+     [
+      10,
+      12.5
+     ],
+     [
+      15,
+      17
+     ]
+    ],
+    "5": [
+     [
+      10,
+      12.5
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "6": [
+     10,
+     14
+    ],
+    "note": "Encerra das 12:30 às 15h"
+   },
+   "id": "morefashion"
   }
  ],
  "patches": {
