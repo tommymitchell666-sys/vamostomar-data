@@ -1,6 +1,6 @@
 {
- "rev": 67,
- "updated": "2026-10-28T11:04:19.876Z",
+ "rev": 68,
+ "updated": "2026-10-28T19:42:40.349Z",
  "events": [
   {
    "id": "ev-2026-10-14-hora-do-conto",
@@ -260,6 +260,28 @@
     "src": "data/images/halloween-80s-90s-night-poster-20261028-dupn.webp"
    },
    "id": "ev-2026-10-31-halloween-80s-90s-night"
+  },
+  {
+   "date": "2026-10-31",
+   "dateEnd": null,
+   "name": "Halloween Party",
+   "blurb": "Halloween party to the tune of Dj T_AUG",
+   "place": "Junceira Association",
+   "name_pt": "Festa de Halloween",
+   "name_es": "Fiesta de Halloween",
+   "blurb_pt": "Festa de Halloween ao som do Dj T_AGO",
+   "blurb_es": "Fiesta de Halloween al son del Dj T_AGO",
+   "place_pt": "Associação da Junceira",
+   "place_es": "Asociación Junceira",
+   "price": "Free",
+   "price_pt": "Grátis",
+   "price_es": "Gratis",
+   "time": "23:00",
+   "maps": "https://maps.app.goo.gl/2WiBTQBNDA86bVEf6?g_st=ipc",
+   "photo": {
+    "src": "data/images/halloween-party-poster-20261028-vf13.webp"
+   },
+   "id": "ev-2026-10-31-halloween-party"
   },
   {
    "id": "ev-2026-11-07-workshop-empalhamento-vime",
