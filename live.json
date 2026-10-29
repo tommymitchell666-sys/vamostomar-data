@@ -1,6 +1,6 @@
 {
- "rev": 68,
- "updated": "2026-10-28T19:42:40.349Z",
+ "rev": 69,
+ "updated": "2026-10-29T16:51:39.000Z",
  "events": [
   {
    "id": "ev-2026-10-14-hora-do-conto",
@@ -9019,6 +9019,1962 @@
     "note": "Encerra das 12:30 às 15h"
    },
    "id": "morefashion"
+  },
+  {
+   "id": "quinta-cafe",
+   "category": "eat",
+   "zone": "arredores",
+   "icon": "coffee",
+   "sub": [
+    "cafes",
+    "outoftown"
+   ],
+   "tags": [
+    "cafe"
+   ],
+   "name": "Quinta Café",
+   "name_pt": "Quinta Café",
+   "name_es": "Quinta Café",
+   "blurb": "Neighbourhood café out on the Castelo de Bode road, open for coffee, snacks and lunch most days. Closed on Sundays.",
+   "blurb_pt": "Café de bairro na estrada de Castelo de Bode, aberto para café, snacks e almoço quase todos os dias. Fecha ao domingo.",
+   "blurb_es": "Café de barrio en la carretera de Castelo de Bode, abierto para café, snacks y comida casi todos los días. Cierra los domingos.",
+   "detail": "Estrada de Castelo de Bode 19, Quinta do Falcão, 2300-184 Tomar",
+   "detail_pt": "Estrada de Castelo de Bode 19, Quinta do Falcão, 2300-184 Tomar",
+   "detail_es": "Estrada de Castelo de Bode 19, Quinta do Falcão, 2300-184 Tomar",
+   "phone": "+351915676694",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Quinta+Caf%C3%A9%2C+Estrada+de+Castelo+de+Bode+19%2C+Quinta+do+Falc%C3%A3o%2C+2300-184+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8.5,
+      17
+     ]
+    ],
+    "2": [
+     [
+      8.5,
+      17
+     ]
+    ],
+    "3": [
+     [
+      8.5,
+      21
+     ]
+    ],
+    "4": [
+     [
+      8.5,
+      21
+     ]
+    ],
+    "5": [
+     [
+      8.5,
+      21
+     ]
+    ],
+    "6": [
+     [
+      8.5,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "id": "cafe-a-fonte",
+   "category": "eat",
+   "zone": "town",
+   "icon": "coffee",
+   "sub": [
+    "cafes"
+   ],
+   "tags": [
+    "cafe"
+   ],
+   "name": "Café A Fonte",
+   "name_pt": "Café A Fonte",
+   "name_es": "Café A Fonte",
+   "blurb": "Everyday local café with long opening hours, Monday to Saturday from 7:30 am. Closed on Sundays.",
+   "blurb_pt": "Café de bairro com horário alargado, de segunda a sábado a partir das 7h30. Fecha ao domingo.",
+   "blurb_es": "Café de barrio con horario amplio, de lunes a sábado desde las 7:30. Cierra los domingos.",
+   "detail": "Estrada dos Carvalheiros 14, 2300-334 Tomar",
+   "detail_pt": "Estrada dos Carvalheiros 14, 2300-334 Tomar",
+   "detail_es": "Estrada dos Carvalheiros 14, 2300-334 Tomar",
+   "phone": "+351249321794",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Caf%C3%A9+A+Fonte%2C+Estrada+dos+Carvalheiros+14%2C+2300-334+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      7.5,
+      20
+     ]
+    ],
+    "2": [
+     [
+      7.5,
+      20
+     ]
+    ],
+    "3": [
+     [
+      7.5,
+      20
+     ]
+    ],
+    "4": [
+     [
+      7.5,
+      20
+     ]
+    ],
+    "5": [
+     [
+      7.5,
+      20
+     ]
+    ],
+    "6": [
+     [
+      7.5,
+      20
+     ]
+    ]
+   }
+  },
+  {
+   "id": "os-frutinhos",
+   "category": "eat",
+   "zone": "centro",
+   "icon": "market",
+   "sub": [
+    "markets"
+   ],
+   "tags": [
+    "food-shop"
+   ],
+   "name": "Os Frutinhos",
+   "name_pt": "Os Frutinhos",
+   "name_es": "Os Frutinhos",
+   "blurb": "Small local fruit shop in the town centre. Closes at lunchtime (1–3 pm) and from Saturday afternoon.",
+   "blurb_pt": "Pequena loja de fruta no centro da cidade. Fecha à hora de almoço (13h–15h) e a partir de sábado à tarde.",
+   "blurb_es": "Pequeña tienda de fruta en el centro de la ciudad. Cierra al mediodía (13:00–15:00) y desde el sábado por la tarde.",
+   "detail": "Rua Amorim Rosa 19 R/C, 2300-452 Tomar",
+   "detail_pt": "Rua Amorim Rosa 19 R/C, 2300-452 Tomar",
+   "detail_es": "Rua Amorim Rosa 19 R/C, 2300-452 Tomar",
+   "phone": "+351249151506",
+   "links": {
+    "facebook": "https://www.facebook.com/FrutinhosTomar/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Os+Frutinhos%2C+Rua+Amorim+Rosa+19+R%2FC%2C+2300-452+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "2": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "malheiro-cafe",
+   "category": "eat",
+   "zone": "town",
+   "icon": "coffee",
+   "sub": [
+    "cafes"
+   ],
+   "tags": [
+    "cafe"
+   ],
+   "name": "Malheiro Café",
+   "name_pt": "Malheiro Café",
+   "name_es": "Malheiro Café",
+   "blurb": "Café on the N110 road with a long day: open from 7 am to 9 pm, including Sundays.",
+   "blurb_pt": "Café na estrada N110, com horário longo: aberto das 7h às 21h, também ao domingo.",
+   "blurb_es": "Café en la carretera N110, con horario largo: abierto de 7:00 a 21:00, también los domingos.",
+   "detail": "N110 30A, 2300-329 Tomar",
+   "detail_pt": "N110 30A, 2300-329 Tomar",
+   "detail_es": "N110 30A, 2300-329 Tomar",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Malheiro+Caf%C3%A9%2C+N110+30A%2C+2300-329+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      7,
+      21
+     ]
+    ],
+    "2": [
+     [
+      7,
+      21
+     ]
+    ],
+    "3": [
+     [
+      7,
+      21
+     ]
+    ],
+    "4": [
+     [
+      7,
+      21
+     ]
+    ],
+    "5": [
+     [
+      7,
+      21
+     ]
+    ],
+    "6": [
+     [
+      7,
+      21
+     ]
+    ],
+    "0": [
+     [
+      8,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "id": "cantinho-da-choromela",
+   "category": "eat",
+   "zone": "town",
+   "icon": "coffee",
+   "sub": [
+    "cafes"
+   ],
+   "tags": [
+    "cafe"
+   ],
+   "name": "Cantinho da Choromela",
+   "name_pt": "Cantinho da Choromela",
+   "name_es": "Cantinho da Choromela",
+   "blurb": "Small local café, open every day from early morning until 10 pm.",
+   "blurb_pt": "Pequeno café de bairro, aberto todos os dias desde cedo até às 22h.",
+   "blurb_es": "Pequeño café de barrio, abierto todos los días desde primera hora hasta las 22:00.",
+   "detail": "Rua António Duarte Faustino 3, 2300 Tomar",
+   "detail_pt": "Rua António Duarte Faustino 3, 2300 Tomar",
+   "detail_es": "Rua António Duarte Faustino 3, 2300 Tomar",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Cantinho+da+Choromela%2C+Rua+Ant%C3%B3nio+Duarte+Faustino+3%2C+2300+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      7,
+      22
+     ]
+    ],
+    "1": [
+     [
+      7,
+      22
+     ]
+    ],
+    "2": [
+     [
+      7,
+      22
+     ]
+    ],
+    "3": [
+     [
+      7,
+      22
+     ]
+    ],
+    "4": [
+     [
+      7,
+      22
+     ]
+    ],
+    "5": [
+     [
+      7,
+      22
+     ]
+    ],
+    "6": [
+     [
+      7,
+      22
+     ]
+    ]
+   }
+  },
+  {
+   "id": "a-quinta-bar",
+   "category": "eat",
+   "zone": "arredores",
+   "icon": "cocktail",
+   "sub": [
+    "bars"
+   ],
+   "tags": [
+    "bar",
+    "nightlife"
+   ],
+   "name": "A Quinta Bar",
+   "name_pt": "A Quinta Bar",
+   "name_es": "A Quinta Bar",
+   "blurb": "Late-night bar that opens on Saturday nights only (10 pm to 4 am). Ring ahead before going.",
+   "blurb_pt": "Bar noturno que abre só aos sábados à noite (22h às 4h). Ligue antes de ir.",
+   "blurb_es": "Bar nocturno que abre solo los sábados por la noche (22:00 a 4:00). Llame antes de ir.",
+   "detail": "Rua Principal 26, 2300-184 Tomar",
+   "detail_pt": "Rua Principal 26, 2300-184 Tomar",
+   "detail_es": "Rua Principal 26, 2300-184 Tomar",
+   "phone": "+351910681234",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=A+Quinta+Bar%2C+Rua+Principal+26%2C+2300-184+Tomar"
+   },
+   "hours": {
+    "6": [
+     [
+      22,
+      24
+     ]
+    ],
+    "note": "Sáb. 22h–4h"
+   }
+  },
+  {
+   "id": "praia-fluvial-sobreirinho",
+   "category": "see",
+   "zone": "arredores",
+   "icon": "river",
+   "sub": [
+    "parks"
+   ],
+   "tags": [
+    "river-beach",
+    "outdoor",
+    "free",
+    "riverside"
+   ],
+   "name": "Sobreirinho river beach",
+   "name_pt": "Praia Fluvial do Sobreirinho",
+   "name_es": "Playa fluvial de Sobreirinho",
+   "blurb": "A river beach on the Nabão close to town, free to visit and open at any hour. Check the water quality notice before swimming.",
+   "blurb_pt": "Praia fluvial no Nabão perto da cidade, de entrada livre e acessível a qualquer hora. Confirme o aviso da qualidade da água antes de nadar.",
+   "blurb_es": "Playa fluvial en el Nabão cerca de la ciudad, de entrada libre y accesible a cualquier hora. Consulte el aviso de calidad del agua antes de bañarse.",
+   "detail": "Caminho do Rio, 2305-020 Pedreira",
+   "detail_pt": "Caminho do Rio, 2305-020 Pedreira",
+   "detail_es": "Caminho do Rio, 2305-020 Pedreira",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Sobreirinho+river+beach%2C+Caminho+do+Rio%2C+2305-020+Pedreira"
+   }
+  },
+  {
+   "id": "praia-fluvial-montes",
+   "category": "see",
+   "zone": "arredores",
+   "icon": "river",
+   "sub": [
+    "parks"
+   ],
+   "tags": [
+    "river-beach",
+    "outdoor",
+    "free",
+    "riverside"
+   ],
+   "name": "Montes river beach",
+   "name_pt": "Praia Fluvial de Montes",
+   "name_es": "Playa fluvial de Montes",
+   "blurb": "A quiet river beach at Cabeço da Moura on the Castelo de Bode side of the municipality. Free to visit; check the water quality notice before swimming.",
+   "blurb_pt": "Uma praia fluvial sossegada no Cabeço da Moura, do lado de Castelo de Bode. De entrada livre; confirme o aviso da qualidade da água antes de nadar.",
+   "blurb_es": "Una playa fluvial tranquila en Cabeço da Moura, del lado de Castelo de Bode. De entrada libre; consulte el aviso de calidad del agua antes de bañarse.",
+   "detail": "Cabeço da Moura, 2300-070 Tomar",
+   "detail_pt": "Cabeço da Moura, 2300-070 Tomar",
+   "detail_es": "Cabeço da Moura, 2300-070 Tomar",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Montes+river+beach%2C+Cabe%C3%A7o+da+Moura%2C+2300-070+Tomar"
+   }
+  },
+  {
+   "id": "praia-fluvial-alqueidao",
+   "category": "see",
+   "zone": "arredores",
+   "icon": "river",
+   "sub": [
+    "parks"
+   ],
+   "tags": [
+    "river-beach",
+    "outdoor",
+    "free",
+    "riverside"
+   ],
+   "name": "Alqueidão river beach",
+   "name_pt": "Praia Fluvial do Alqueidão",
+   "name_es": "Playa fluvial de Alqueidão",
+   "blurb": "River beach at Olalhas, free to visit and open at any hour. Check the water quality notice before swimming.",
+   "blurb_pt": "Praia fluvial em Olalhas, de entrada livre e acessível a qualquer hora. Confirme o aviso da qualidade da água antes de nadar.",
+   "blurb_es": "Playa fluvial en Olalhas, de entrada libre y accesible a cualquier hora. Consulte el aviso de calidad del agua antes de bañarse.",
+   "detail": "EM530-2, Olalhas",
+   "detail_pt": "EM530-2, Olalhas",
+   "detail_es": "EM530-2, Olalhas",
+   "links": {
+    "website": "http://aquapolis.com.pt/praia-fluvial-alqueidao-olalhas-tomar/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Alqueid%C3%A3o+river+beach%2C+EM530-2%2C+Olalhas"
+   }
+  },
+  {
+   "id": "praia-fluvial-vila-nova-da-serra",
+   "category": "see",
+   "zone": "arredores",
+   "icon": "river",
+   "sub": [
+    "parks"
+   ],
+   "tags": [
+    "river-beach",
+    "outdoor",
+    "free",
+    "riverside"
+   ],
+   "name": "Vila Nova da Serra river beach",
+   "name_pt": "Praia Fluvial de Vila Nova da Serra",
+   "name_es": "Playa fluvial de Vila Nova da Serra",
+   "blurb": "River beach in the village of Vila Nova da Serra, free to visit and open at any hour. Check the water quality notice before swimming.",
+   "blurb_pt": "Praia fluvial na aldeia de Vila Nova da Serra, de entrada livre e acessível a qualquer hora. Confirme o aviso da qualidade da água antes de nadar.",
+   "blurb_es": "Playa fluvial en el pueblo de Vila Nova da Serra, de entrada libre y accesible a cualquier hora. Consulte el aviso de calidad del agua antes de bañarse.",
+   "detail": "Vila Nova da Serra, Serra, Tomar",
+   "detail_pt": "Vila Nova da Serra, Serra, Tomar",
+   "detail_es": "Vila Nova da Serra, Serra, Tomar",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Vila+Nova+da+Serra+river+beach%2C+Vila+Nova+da+Serra%2C+Serra%2C+Tomar"
+   }
+  },
+  {
+   "id": "auto-clinica-do-nabao",
+   "category": "services",
+   "zone": "arredores",
+   "icon": "car",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "car",
+    "garage"
+   ],
+   "name": "Auto Clínica do Nabão",
+   "name_pt": "Auto Clínica do Nabão",
+   "name_es": "Auto Clínica do Nabão",
+   "blurb": "Independent car workshop at Venda da Gaita, very well reviewed. Open weekdays and Saturday mornings.",
+   "blurb_pt": "Oficina auto independente na Venda da Gaita, muito bem avaliada. Aberta nos dias úteis e sábado de manhã.",
+   "blurb_es": "Taller de coches independiente en Venda da Gaita, muy bien valorado. Abierto entre semana y los sábados por la mañana.",
+   "detail": "Cova da Sobreira, Lote 3, Venda da Gaita, 2300-620 Tomar",
+   "detail_pt": "Cova da Sobreira, Lote 3, Venda da Gaita, 2300-620 Tomar",
+   "detail_es": "Cova da Sobreira, Lote 3, Venda da Gaita, 2300-620 Tomar",
+   "phone": "+351249341270",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Auto+Cl%C3%ADnica+do+Nab%C3%A3o%2C+Cova+da+Sobreira%2C+Lote+3%2C+Venda+da+Gaita%2C+2300-620+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8.5,
+      13
+     ],
+     [
+      14.5,
+      19.5
+     ]
+    ],
+    "2": [
+     [
+      8.5,
+      13
+     ],
+     [
+      14.5,
+      19.5
+     ]
+    ],
+    "3": [
+     [
+      8.5,
+      13
+     ],
+     [
+      14.5,
+      19.5
+     ]
+    ],
+    "4": [
+     [
+      8.5,
+      13
+     ],
+     [
+      14.5,
+      19.5
+     ]
+    ],
+    "5": [
+     [
+      8.5,
+      13
+     ],
+     [
+      14.5,
+      19.5
+     ]
+    ],
+    "6": [
+     [
+      9,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "escola-conducao-tomar-drive",
+   "category": "services",
+   "zone": "town",
+   "icon": "car",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "driving-school",
+    "car"
+   ],
+   "name": "Escola de Condução Tomar Drive",
+   "name_pt": "Escola de Condução Tomar Drive",
+   "name_es": "Escola de Condução Tomar Drive",
+   "blurb": "Driving school with a large number of positive reviews. Open weekdays and Saturday mornings.",
+   "blurb_pt": "Escola de condução com muitas avaliações positivas. Aberta nos dias úteis e sábado de manhã.",
+   "blurb_es": "Autoescuela con muchas valoraciones positivas. Abierta entre semana y los sábados por la mañana.",
+   "detail": "Estrada do Barreiro 9B, 2300-442 Tomar",
+   "detail_pt": "Estrada do Barreiro 9B, 2300-442 Tomar",
+   "detail_es": "Estrada do Barreiro 9B, 2300-442 Tomar",
+   "phone": "+351960372610",
+   "links": {
+    "facebook": "https://www.facebook.com/tomardrive/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Escola+de+Condu%C3%A7%C3%A3o+Tomar+Drive%2C+Estrada+do+Barreiro+9B%2C+2300-442+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      13
+     ],
+     [
+      14,
+      19
+     ]
+    ],
+    "2": [
+     [
+      9,
+      13
+     ],
+     [
+      14,
+      20
+     ]
+    ],
+    "3": [
+     [
+      9,
+      13
+     ],
+     [
+      14,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9,
+      13
+     ],
+     [
+      14,
+      20
+     ]
+    ],
+    "5": [
+     [
+      9,
+      13
+     ],
+     [
+      14,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "carolina-lemos-beauty",
+   "category": "services",
+   "zone": "town",
+   "icon": "services",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "beauty"
+   ],
+   "name": "Carolina Lemos Beauty",
+   "name_pt": "Carolina Lemos Beauty",
+   "name_es": "Carolina Lemos Beauty",
+   "blurb": "Beauty studio with top reviews on Google. Open Monday to Friday 9 am–7 pm and Saturday mornings; follow on Instagram for news.",
+   "blurb_pt": "Estúdio de beleza com excelentes avaliações no Google. Aberto de segunda a sexta das 9h às 19h e sábado de manhã; siga no Instagram para novidades.",
+   "blurb_es": "Estudio de belleza con excelentes valoraciones en Google. Abierto de lunes a viernes de 9:00 a 19:00 y los sábados por la mañana; sígalos en Instagram para novedades.",
+   "detail": "Rua Alfredo da Maia Pereira, 2300-449 Tomar",
+   "detail_pt": "Rua Alfredo da Maia Pereira, 2300-449 Tomar",
+   "detail_es": "Rua Alfredo da Maia Pereira, 2300-449 Tomar",
+   "phone": "+351917678503",
+   "links": {
+    "instagram": "https://www.instagram.com/carolinalemosbeauty/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Carolina+Lemos+Beauty%2C+Rua+Alfredo+da+Maia+Pereira%2C+2300-449+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      19
+     ]
+    ],
+    "2": [
+     [
+      9,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9,
+      14
+     ]
+    ]
+   }
+  },
+  {
+   "id": "bruno-lemes-barber",
+   "category": "services",
+   "zone": "town",
+   "icon": "services",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "barber",
+    "hairdresser"
+   ],
+   "name": "Bruno Lemes Barber",
+   "name_pt": "Bruno Lemes Barber",
+   "name_es": "Bruno Lemes Barber",
+   "blurb": "Barbershop with top reviews on Google (also listed as Bruno o Barbeiro). Closed on Sundays.",
+   "blurb_pt": "Barbearia com excelentes avaliações no Google (também conhecida como Bruno o Barbeiro). Fecha ao domingo.",
+   "blurb_es": "Barbería con excelentes valoraciones en Google (también conocida como Bruno o Barbeiro). Cierra los domingos.",
+   "detail": "Rua 13 de Fevereiro 27, 2300-447 Tomar",
+   "detail_pt": "Rua 13 de Fevereiro 27, 2300-447 Tomar",
+   "detail_es": "Rua 13 de Fevereiro 27, 2300-447 Tomar",
+   "phone": "+351961953456",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Bruno+Lemes+Barber%2C+Rua+13+de+Fevereiro+27%2C+2300-447+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19.5
+     ]
+    ],
+    "2": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19.5
+     ]
+    ],
+    "3": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19.5
+     ]
+    ],
+    "4": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19.5
+     ]
+    ],
+    "5": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19.5
+     ]
+    ],
+    "6": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      18.5
+     ]
+    ]
+   }
+  },
+  {
+   "id": "anizoo",
+   "category": "services",
+   "zone": "arredores",
+   "icon": "services",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop",
+    "pets"
+   ],
+   "name": "Anizoo",
+   "name_pt": "Anizoo",
+   "name_es": "Anizoo",
+   "blurb": "Pet shop on the N110 at Pintado, well reviewed. Closed on Sundays.",
+   "blurb_pt": "Loja para animais de estimação na N110, no Pintado, bem avaliada. Fecha ao domingo.",
+   "blurb_es": "Tienda para mascotas en la N110, en Pintado, bien valorada. Cierra los domingos.",
+   "detail": "Estrada Nacional 110, Pintado n.º 27, 2305-324 Tomar",
+   "detail_pt": "Estrada Nacional 110, Pintado n.º 27, 2305-324 Tomar",
+   "detail_es": "Estrada Nacional 110, Pintado n.º 27, 2305-324 Tomar",
+   "phone": "+351967830679",
+   "links": {
+    "website": "http://anizoo.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Anizoo%2C+Estrada+Nacional+110%2C+Pintado+n.%C2%BA+27%2C+2305-324+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9.5,
+      13
+     ],
+     [
+      14.5,
+      19
+     ]
+    ],
+    "2": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "aldi-tomar",
+   "category": "services",
+   "zone": "town",
+   "icon": "market",
+   "sub": [
+    "shops",
+    "everyday"
+   ],
+   "tags": [
+    "supermarket",
+    "shop"
+   ],
+   "name": "ALDI Tomar",
+   "name_pt": "ALDI Tomar",
+   "name_es": "ALDI Tomar",
+   "blurb": "Discount supermarket, open every day from 8 am to 9 pm.",
+   "blurb_pt": "Supermercado de desconto, aberto todos os dias das 8h às 21h.",
+   "blurb_es": "Supermercado de descuento, abierto todos los días de 8:00 a 21:00.",
+   "detail": "Av. Maria de Lourdes de Mello e Castro 941, 2300-625 Tomar",
+   "detail_pt": "Av. Maria de Lourdes de Mello e Castro 941, 2300-625 Tomar",
+   "detail_es": "Av. Maria de Lourdes de Mello e Castro 941, 2300-625 Tomar",
+   "links": {
+    "website": "https://www.aldi.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=ALDI+Tomar%2C+Av.+Maria+de+Lourdes+de+Mello+e+Castro+941%2C+2300-625+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      8,
+      21
+     ]
+    ],
+    "1": [
+     [
+      8,
+      21
+     ]
+    ],
+    "2": [
+     [
+      8,
+      21
+     ]
+    ],
+    "3": [
+     [
+      8,
+      21
+     ]
+    ],
+    "4": [
+     [
+      8,
+      21
+     ]
+    ],
+    "5": [
+     [
+      8,
+      21
+     ]
+    ],
+    "6": [
+     [
+      8,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "id": "spar-tomar",
+   "category": "services",
+   "zone": "centro",
+   "icon": "market",
+   "sub": [
+    "shops",
+    "everyday"
+   ],
+   "tags": [
+    "supermarket",
+    "shop"
+   ],
+   "name": "SPAR Tomar",
+   "name_pt": "SPAR Tomar",
+   "name_es": "SPAR Tomar",
+   "blurb": "Town-centre supermarket on Rua Torres Pinheiro, open Monday to Saturday 8:30 am–8 pm and part of Sunday.",
+   "blurb_pt": "Supermercado no centro, na Rua Torres Pinheiro, aberto de segunda a sábado das 8h30 às 20h e parte do domingo.",
+   "blurb_es": "Supermercado en el centro, en la Rua Torres Pinheiro, abierto de lunes a sábado de 8:30 a 20:00 y parte del domingo.",
+   "detail": "Rua Torres Pinheiro 92-94, Tomar",
+   "detail_pt": "Rua Torres Pinheiro 92-94, Tomar",
+   "detail_es": "Rua Torres Pinheiro 92-94, Tomar",
+   "phone": "+351249405359",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=SPAR+Tomar%2C+Rua+Torres+Pinheiro+92-94%2C+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "2": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "3": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "4": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "5": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "6": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "0": [
+     [
+      8.5,
+      13.5
+     ],
+     [
+      15,
+      18
+     ]
+    ]
+   }
+  },
+  {
+   "id": "singh-comunicacoes",
+   "category": "services",
+   "zone": "centro",
+   "icon": "services",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop",
+    "phones"
+   ],
+   "name": "Singh Comunicações",
+   "name_pt": "Singh Comunicações",
+   "name_es": "Singh Comunicações",
+   "blurb": "Phone and communications shop on Rua Marquês de Pombal, open every day 9 am–9 pm.",
+   "blurb_pt": "Loja de telemóveis e comunicações na Rua Marquês de Pombal, aberta todos os dias das 9h às 21h.",
+   "blurb_es": "Tienda de móviles y comunicaciones en la Rua Marquês de Pombal, abierta todos los días de 9:00 a 21:00.",
+   "detail": "Rua Marquês de Pombal 46, 2300-510 Tomar",
+   "detail_pt": "Rua Marquês de Pombal 46, 2300-510 Tomar",
+   "detail_es": "Rua Marquês de Pombal 46, 2300-510 Tomar",
+   "phone": "+351249103227",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Singh+Comunica%C3%A7%C3%B5es%2C+Rua+Marqu%C3%AAs+de+Pombal+46%2C+2300-510+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      9,
+      21
+     ]
+    ],
+    "1": [
+     [
+      9,
+      21
+     ]
+    ],
+    "2": [
+     [
+      9,
+      21
+     ]
+    ],
+    "3": [
+     [
+      9,
+      21
+     ]
+    ],
+    "4": [
+     [
+      9,
+      21
+     ]
+    ],
+    "5": [
+     [
+      9,
+      21
+     ]
+    ],
+    "6": [
+     [
+      9,
+      21
+     ]
+    ]
+   }
+  },
+  {
+   "id": "auto-check-center",
+   "category": "services",
+   "zone": "town",
+   "icon": "car",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "car",
+    "garage"
+   ],
+   "name": "Auto Check Center — Auto Barreiro",
+   "name_pt": "Auto Check Center — Auto Barreiro",
+   "name_es": "Auto Check Center — Auto Barreiro",
+   "blurb": "Car workshop on Estrada do Barreiro with very good reviews. Open weekdays; closed at weekends.",
+   "blurb_pt": "Oficina auto na Estrada do Barreiro com muito boas avaliações. Aberta nos dias úteis; fecha ao fim de semana.",
+   "blurb_es": "Taller de coches en la Estrada do Barreiro con muy buenas valoraciones. Abierto entre semana; cierra los fines de semana.",
+   "detail": "Estrada do Barreiro 3B, 2300-442 Tomar",
+   "detail_pt": "Estrada do Barreiro 3B, 2300-442 Tomar",
+   "detail_es": "Estrada do Barreiro 3B, 2300-442 Tomar",
+   "phone": "+351913289955",
+   "links": {
+    "website": "http://www.autocheckcenter.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Auto+Check+Center+%E2%80%94+Auto+Barreiro%2C+Estrada+do+Barreiro+3B%2C+2300-442+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8.5,
+      12.5
+     ],
+     [
+      14,
+      18
+     ]
+    ],
+    "2": [
+     [
+      8.5,
+      12.5
+     ],
+     [
+      14,
+      18
+     ]
+    ],
+    "3": [
+     [
+      8.5,
+      12.5
+     ],
+     [
+      14,
+      18
+     ]
+    ],
+    "4": [
+     [
+      8.5,
+      12.5
+     ],
+     [
+      14,
+      18
+     ]
+    ],
+    "5": [
+     [
+      8.5,
+      12.5
+     ],
+     [
+      14,
+      18
+     ]
+    ]
+   }
+  },
+  {
+   "id": "ourivesaria-pereira",
+   "category": "services",
+   "zone": "centro",
+   "icon": "services",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop",
+    "jewellery",
+    "gifts"
+   ],
+   "name": "Ourivesaria Pereira",
+   "name_pt": "Ourivesaria Pereira",
+   "name_es": "Ourivesaria Pereira",
+   "blurb": "Long-established jeweller on Rua dos Arcos, well reviewed. Closed at lunchtime and on Sundays.",
+   "blurb_pt": "Ourivesaria na Rua dos Arcos, bem avaliada. Fecha à hora de almoço e ao domingo.",
+   "blurb_es": "Joyería en la Rua dos Arcos, bien valorada. Cierra al mediodía y los domingos.",
+   "detail": "Rua dos Arcos 75, 2300-574 Tomar",
+   "detail_pt": "Rua dos Arcos 75, 2300-574 Tomar",
+   "detail_es": "Rua dos Arcos 75, 2300-574 Tomar",
+   "phone": "+351249312683",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Ourivesaria+Pereira%2C+Rua+dos+Arcos+75%2C+2300-574+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "2": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9.5,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9.5,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "pinheiro-bravo",
+   "category": "services",
+   "zone": "centro",
+   "icon": "services",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop",
+    "gifts",
+    "homeware"
+   ],
+   "name": "Pinheiro Bravo — Casa & Decoração",
+   "name_pt": "Pinheiro Bravo — Casa & Decoração",
+   "name_es": "Pinheiro Bravo — Casa & Decoração",
+   "blurb": "Homeware and decoration shop on the corner of Rua da Infantaria 15 and Praça da República; a good stop for gifts.",
+   "blurb_pt": "Loja de casa e decoração na esquina da Rua da Infantaria 15 com a Praça da República; boa paragem para prendas.",
+   "blurb_es": "Tienda de hogar y decoración en la esquina de la Rua da Infantaria 15 con la Praça da República; buena parada para regalos.",
+   "detail": "Rua da Infantaria 15, n.º 99-105 e Praça da República 1, 2300-562 Tomar",
+   "detail_pt": "Rua da Infantaria 15, n.º 99-105 e Praça da República 1, 2300-562 Tomar",
+   "detail_es": "Rua da Infantaria 15, n.º 99-105 e Praça da República 1, 2300-562 Tomar",
+   "phone": "+351249316342",
+   "links": {
+    "website": "http://www.pinheirobravo.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Pinheiro+Bravo+%E2%80%94+Casa+%26+Decora%C3%A7%C3%A3o%2C+Rua+da+Infantaria+15%2C+n.%C2%BA+99-105+e+Pra%C3%A7a+da+Rep%C3%BAblica+1%2C+2300-562+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "2": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9,
+      19
+     ]
+    ]
+   }
+  },
+  {
+   "id": "trabcopia",
+   "category": "services",
+   "zone": "town",
+   "icon": "services",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "printing",
+    "copies"
+   ],
+   "name": "Trabcópia — Centro de Cópias",
+   "name_pt": "Trabcópia — Centro de Cópias",
+   "name_es": "Trabcópia — Centro de Cópias",
+   "blurb": "Copy and print centre on Rua João dos Santos Simões. Open weekdays and Saturday mornings.",
+   "blurb_pt": "Centro de cópias e impressões na Rua João dos Santos Simões. Aberto nos dias úteis e sábado de manhã.",
+   "blurb_es": "Centro de copias e impresiones en la Rua João dos Santos Simões. Abierto entre semana y los sábados por la mañana.",
+   "detail": "Rua João dos Santos Simões 66, 2300-501 Tomar",
+   "detail_pt": "Rua João dos Santos Simões 66, 2300-501 Tomar",
+   "detail_es": "Rua João dos Santos Simões 66, 2300-501 Tomar",
+   "phone": "+351918103831",
+   "links": {
+    "website": "http://www.trabcopia.pt/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Trabc%C3%B3pia+%E2%80%94+Centro+de+C%C3%B3pias%2C+Rua+Jo%C3%A3o+dos+Santos+Sim%C3%B5es+66%2C+2300-501+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      13
+     ],
+     [
+      14.5,
+      18
+     ]
+    ],
+    "2": [
+     [
+      9,
+      13
+     ],
+     [
+      14.5,
+      18
+     ]
+    ],
+    "3": [
+     [
+      9,
+      13
+     ],
+     [
+      14.5,
+      18
+     ]
+    ],
+    "4": [
+     [
+      9,
+      13
+     ],
+     [
+      14.5,
+      18
+     ]
+    ],
+    "5": [
+     [
+      9,
+      13
+     ],
+     [
+      14.5,
+      18
+     ]
+    ],
+    "6": [
+     [
+      9,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "taxi-cavaleiros-de-cristo",
+   "category": "services",
+   "zone": "town",
+   "icon": "car",
+   "sub": [
+    "everyday"
+   ],
+   "tags": [
+    "taxi"
+   ],
+   "name": "Táxi Cavaleiros de Cristo",
+   "name_pt": "Táxi Cavaleiros de Cristo",
+   "name_es": "Táxi Cavaleiros de Cristo",
+   "blurb": "Local taxi service in Tomar; ring ahead to book.",
+   "blurb_pt": "Serviço de táxi em Tomar; ligue antes para reservar.",
+   "blurb_es": "Servicio de taxi en Tomar; llame antes para reservar.",
+   "detail": "Av. Combatentes da Grande Guerra, 2300-533 Tomar",
+   "detail_pt": "Av. Combatentes da Grande Guerra, 2300-533 Tomar",
+   "detail_es": "Av. Combatentes da Grande Guerra, 2300-533 Tomar",
+   "phone": "+351911991998",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=T%C3%A1xi+Cavaleiros+de+Cristo%2C+Av.+Combatentes+da+Grande+Guerra%2C+2300-533+Tomar"
+   }
+  },
+  {
+   "id": "worten-tomar",
+   "category": "services",
+   "zone": "town",
+   "icon": "services",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop",
+    "electronics"
+   ],
+   "name": "Worten Tomar",
+   "name_pt": "Worten Tomar",
+   "name_es": "Worten Tomar",
+   "blurb": "Electronics and appliance store in the Continente shopping building, open every day 9 am–10 pm.",
+   "blurb_pt": "Loja de eletrónica e eletrodomésticos no edifício do Continente, aberta todos os dias das 9h às 22h.",
+   "blurb_es": "Tienda de electrónica y electrodomésticos en el edificio del Continente, abierta todos los días de 9:00 a 22:00.",
+   "detail": "Edifício Continente, Av. Dr. Aurélio Ribeiro, 2300-305 Tomar",
+   "detail_pt": "Edifício Continente, Av. Dr. Aurélio Ribeiro, 2300-305 Tomar",
+   "detail_es": "Edifício Continente, Av. Dr. Aurélio Ribeiro, 2300-305 Tomar",
+   "phone": "+351210155222",
+   "links": {
+    "website": "https://www.worten.pt/lojas/worten-tomar-594",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Worten+Tomar%2C+Edif%C3%ADcio+Continente%2C+Av.+Dr.+Aur%C3%A9lio+Ribeiro%2C+2300-305+Tomar"
+   },
+   "hours": {
+    "0": [
+     [
+      9,
+      22
+     ]
+    ],
+    "1": [
+     [
+      9,
+      22
+     ]
+    ],
+    "2": [
+     [
+      9,
+      22
+     ]
+    ],
+    "3": [
+     [
+      9,
+      22
+     ]
+    ],
+    "4": [
+     [
+      9,
+      22
+     ]
+    ],
+    "5": [
+     [
+      9,
+      22
+     ]
+    ],
+    "6": [
+     [
+      9,
+      22
+     ]
+    ]
+   }
+  },
+  {
+   "id": "coviran-diogo-de-arruda",
+   "category": "services",
+   "zone": "centro",
+   "icon": "market",
+   "sub": [
+    "shops",
+    "everyday"
+   ],
+   "tags": [
+    "supermarket",
+    "shop"
+   ],
+   "name": "Coviran — Rua Diogo de Arruda",
+   "name_pt": "Coviran — Rua Diogo de Arruda",
+   "name_es": "Coviran — Rua Diogo de Arruda",
+   "blurb": "Neighbourhood supermarket in the centre, open Monday to Saturday 8 am–8 pm and Sunday mornings.",
+   "blurb_pt": "Supermercado de bairro no centro, aberto de segunda a sábado das 8h às 20h e ao domingo de manhã.",
+   "blurb_es": "Supermercado de barrio en el centro, abierto de lunes a sábado de 8:00 a 20:00 y los domingos por la mañana.",
+   "detail": "Rua Diogo de Arruda 2, 2300-482 Tomar",
+   "detail_pt": "Rua Diogo de Arruda 2, 2300-482 Tomar",
+   "detail_es": "Rua Diogo de Arruda 2, 2300-482 Tomar",
+   "phone": "+351249321116",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Coviran+%E2%80%94+Rua+Diogo+de+Arruda%2C+Rua+Diogo+de+Arruda+2%2C+2300-482+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8,
+      20
+     ]
+    ],
+    "2": [
+     [
+      8,
+      20
+     ]
+    ],
+    "3": [
+     [
+      8,
+      20
+     ]
+    ],
+    "4": [
+     [
+      8,
+      20
+     ]
+    ],
+    "5": [
+     [
+      8,
+      20
+     ]
+    ],
+    "6": [
+     [
+      8,
+      20
+     ]
+    ],
+    "0": [
+     [
+      8,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "abelha-ferragens",
+   "category": "services",
+   "zone": "centro",
+   "icon": "services",
+   "sub": [
+    "shops"
+   ],
+   "tags": [
+    "shop",
+    "hardware",
+    "diy"
+   ],
+   "name": "Abelha — Ferragens e Ferramentas",
+   "name_pt": "Abelha — Ferragens e Ferramentas",
+   "name_es": "Abelha — Ferragens e Ferramentas",
+   "blurb": "Hardware and tools shop in the centre, well reviewed. Closed at lunchtime and on Sundays.",
+   "blurb_pt": "Loja de ferragens e ferramentas no centro, bem avaliada. Fecha à hora de almoço e ao domingo.",
+   "blurb_es": "Ferretería y herramientas en el centro, bien valorada. Cierra al mediodía y los domingos.",
+   "detail": "Rua Dom António Francisco Marques 2, 2300-516 Tomar",
+   "detail_pt": "Rua Dom António Francisco Marques 2, 2300-516 Tomar",
+   "detail_es": "Rua Dom António Francisco Marques 2, 2300-516 Tomar",
+   "phone": "+351249327626",
+   "links": {
+    "facebook": "https://www.facebook.com/abelhatomar/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Abelha+%E2%80%94+Ferragens+e+Ferramentas%2C+Rua+Dom+Ant%C3%B3nio+Francisco+Marques+2%2C+2300-516+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "2": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "3": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "4": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "5": [
+     [
+      9,
+      13
+     ],
+     [
+      15,
+      19
+     ]
+    ],
+    "6": [
+     [
+      9,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "farmacia-dias-costa",
+   "category": "health",
+   "zone": "town",
+   "icon": "services",
+   "sub": [
+    "pharmacy"
+   ],
+   "tags": [
+    "pharmacy"
+   ],
+   "name": "Farmácia Dias Costa",
+   "name_pt": "Farmácia Dias Costa",
+   "name_es": "Farmácia Dias Costa",
+   "blurb": "Pharmacy in Tomar. Closed on Sundays; check the duty-pharmacy rota for evenings and Sundays.",
+   "blurb_pt": "Farmácia em Tomar. Fecha ao domingo; consulte a escala de farmácias de serviço para noites e domingos.",
+   "blurb_es": "Farmacia en Tomar. Cierra los domingos; consulte el turno de farmacias de guardia para las tardes y domingos.",
+   "detail": "Rua Coronel Garcês Teixeira, Lote 9, 13 R/C, 2300-592 Tomar",
+   "detail_pt": "Rua Coronel Garcês Teixeira, Lote 9, 13 R/C, 2300-592 Tomar",
+   "detail_es": "Rua Coronel Garcês Teixeira, Lote 9, 13 R/C, 2300-592 Tomar",
+   "phone": "+351249312203",
+   "links": {
+    "website": "https://www.farmaciasportuguesas.pt/farmacia-info/01376",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Farm%C3%A1cia+Dias+Costa%2C+Rua+Coronel+Garc%C3%AAs+Teixeira%2C+Lote+9%2C+13+R%2FC%2C+2300-592+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "2": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "3": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "4": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "5": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "6": [
+     [
+      9,
+      13
+     ]
+    ]
+   }
+  },
+  {
+   "id": "farmacia-templarios",
+   "category": "health",
+   "zone": "town",
+   "icon": "services",
+   "sub": [
+    "pharmacy"
+   ],
+   "tags": [
+    "pharmacy"
+   ],
+   "name": "Farmácia Templários",
+   "name_pt": "Farmácia Templários",
+   "name_es": "Farmácia Templários",
+   "blurb": "Pharmacy in Tomar. Closed on Sundays; check the duty-pharmacy rota for evenings and Sundays.",
+   "blurb_pt": "Farmácia em Tomar. Fecha ao domingo; consulte a escala de farmácias de serviço para noites e domingos.",
+   "blurb_es": "Farmacia en Tomar. Cierra los domingos; consulte el turno de farmacias de guardia para las tardes y domingos.",
+   "detail": "Av. Dom Nuno Álvares Pereira 62, 2300-532 Tomar",
+   "detail_pt": "Av. Dom Nuno Álvares Pereira 62, 2300-532 Tomar",
+   "detail_es": "Av. Dom Nuno Álvares Pereira 62, 2300-532 Tomar",
+   "phone": "+351249345290",
+   "links": {
+    "facebook": "https://www.facebook.com/share/16fDzJ4hn9/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Farm%C3%A1cia+Templ%C3%A1rios%2C+Av.+Dom+Nuno+%C3%81lvares+Pereira+62%2C+2300-532+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "2": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "3": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "4": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "5": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "6": [
+     [
+      9,
+      13.5
+     ]
+    ]
+   }
+  },
+  {
+   "id": "farmacia-grave",
+   "category": "health",
+   "zone": "town",
+   "icon": "services",
+   "sub": [
+    "pharmacy"
+   ],
+   "tags": [
+    "pharmacy"
+   ],
+   "name": "Farmácia Grave",
+   "name_pt": "Farmácia Grave",
+   "name_es": "Farmácia Grave",
+   "blurb": "Pharmacy in Tomar. Closed on Sundays; check the duty-pharmacy rota for evenings and Sundays.",
+   "blurb_pt": "Farmácia em Tomar. Fecha ao domingo; consulte a escala de farmácias de serviço para noites e domingos.",
+   "blurb_es": "Farmacia en Tomar. Cierra los domingos; consulte el turno de farmacias de guardia para las tardes y domingos.",
+   "detail": "Rua Alfredo da Maia Pereira 6A, 2300-449 Tomar",
+   "detail_pt": "Rua Alfredo da Maia Pereira 6A, 2300-449 Tomar",
+   "detail_es": "Rua Alfredo da Maia Pereira 6A, 2300-449 Tomar",
+   "phone": "+351931740746",
+   "links": {
+    "website": "http://www.farmaciagrave.com/",
+    "maps": "https://www.google.com/maps/search/?api=1&query=Farm%C3%A1cia+Grave%2C+Rua+Alfredo+da+Maia+Pereira+6A%2C+2300-449+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "2": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "3": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "4": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "5": [
+     [
+      8.5,
+      20
+     ]
+    ],
+    "6": [
+     [
+      8.5,
+      13.5
+     ]
+    ]
+   }
+  },
+  {
+   "id": "farmacia-sao-pedro",
+   "category": "health",
+   "zone": "arredores",
+   "icon": "services",
+   "sub": [
+    "pharmacy"
+   ],
+   "tags": [
+    "pharmacy"
+   ],
+   "name": "Farmácia São Pedro",
+   "name_pt": "Farmácia São Pedro",
+   "name_es": "Farmácia São Pedro",
+   "blurb": "Pharmacy in Tomar. In the village of São Pedro de Tomar. Closed on Sundays; check the duty-pharmacy rota for evenings and Sundays.",
+   "blurb_pt": "Farmácia em Tomar. Na aldeia de São Pedro de Tomar. Fecha ao domingo; consulte a escala de farmácias de serviço para noites e domingos.",
+   "blurb_es": "Farmacia en Tomar. En el pueblo de São Pedro de Tomar. Cierra los domingos; consulte el turno de farmacias de guardia para las tardes y domingos.",
+   "detail": "Rua Joaquim da Costa Santos 7, 2300-187 São Pedro de Tomar",
+   "detail_pt": "Rua Joaquim da Costa Santos 7, 2300-187 São Pedro de Tomar",
+   "detail_es": "Rua Joaquim da Costa Santos 7, 2300-187 São Pedro de Tomar",
+   "phone": "+351249381077",
+   "links": {
+    "maps": "https://www.google.com/maps/search/?api=1&query=Farm%C3%A1cia+S%C3%A3o+Pedro%2C+Rua+Joaquim+da+Costa+Santos+7%2C+2300-187+S%C3%A3o+Pedro+de+Tomar"
+   },
+   "hours": {
+    "1": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "2": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "3": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "4": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "5": [
+     [
+      9,
+      19.5
+     ]
+    ],
+    "6": [
+     [
+      9,
+      13
+     ]
+    ]
+   }
   }
  ],
  "patches": {
