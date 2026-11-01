@@ -1,6 +1,6 @@
 {
- "rev": 69,
- "updated": "2026-10-29T16:51:39.000Z",
+ "rev": 70,
+ "updated": "2026-11-01T10:06:36.453Z",
  "events": [
   {
    "id": "ev-2026-10-14-hora-do-conto",
@@ -28,44 +28,6 @@
     ],
     "until": "2026-10-28"
    }
-  },
-  {
-   "id": "ev-2026-10-16-workshop-bd-da-ideia-a-pagina",
-   "date": "2026-10-16",
-   "dateEnd": "2026-10-17",
-   "name": "Comics workshop: from idea to page",
-   "name_pt": "Workshop de BD | Da Ideia à Página",
-   "name_es": "Taller de cómic: de la idea a la página",
-   "blurb": "Two days on how a comic is built, from the first panel to a finished page: shots and angles, speech balloons, ellipses, sound effects and silence. Led by Diogo Carvalho, comics author, illustrator and teacher. Free, but places are limited and you need to sign up by email (producao@cm-tomar.pt). In Portuguese.",
-   "blurb_pt": "Dois dias sobre a construção de uma banda desenhada, da primeira vinheta à prancha completa: planos e ângulos, balões, elipses, onomatopeias e o silêncio. Orientado por Diogo Carvalho, autor de BD, ilustrador e professor. Gratuito, mas com vagas limitadas e inscrição por email (producao@cm-tomar.pt).",
-   "blurb_es": "Dos días sobre cómo se construye un cómic, de la primera viñeta a la página completa: planos y ángulos, bocadillos, elipsis, onomatopeyas y el silencio. Lo imparte Diogo Carvalho, autor de cómic, ilustrador y profesor. Gratis, pero con plazas limitadas e inscripción por email (producao@cm-tomar.pt). En portugués.",
-   "place": "A Moagem — Fábrica das Artes",
-   "place_pt": "A Moagem — Fábrica das Artes",
-   "place_es": "A Moagem — Fábrica das Artes",
-   "venue": "a-moagem",
-   "price": "Free",
-   "price_pt": "Grátis",
-   "price_es": "Gratis",
-   "url": "https://www.cm-tomar.pt/comunicacao/agenda/outros-eventos/workshop-de-bd-da-ideia-a-pagina"
-  },
-  {
-   "date": "2026-10-17",
-   "dateEnd": null,
-   "name": "Dance through the decades!",
-   "blurb": "Music from the 60s right through to the 00s and even some 2020s!! \n\nCome and dance the night away at this fantastic bistro bar with DJ J2S",
-   "place": "Santa Iria — Café Bistrot",
-   "name_pt": "Dance ao longo das décadas!",
-   "name_es": "¡Baila a través de las décadas!",
-   "blurb_pt": "Música dos anos 60 até os anos 00 e até alguns anos 2020!! Venha dançar a noite toda neste fantástico bar bistrô com DJ J2S",
-   "blurb_es": "¡¡Música desde los años 60 hasta los años 00 e incluso algunos años 2020!! Ven a bailar toda la noche en este fantástico bistro bar con DJ J2S",
-   "price": "Free entry",
-   "time": "20:30",
-   "venue": "santa-iria-cafe",
-   "maps": "https://www.google.com/maps/search/?api=1&query=Santa+Iria+Cafe+Bistrot+Tomar",
-   "photo": {
-    "src": "data/images/dance-through-the-decades-poster-20261008-2qiz.webp"
-   },
-   "id": "ev-2026-10-17-dance-through-the-decades"
   },
   {
    "id": "ev-2026-10-17-paisagens-onde-fiquei",
@@ -9255,6 +9217,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Malheiro+Caf%C3%A9%2C+N110+30A%2C+2300-329+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      8,
+      21
+     ]
+    ],
     "1": [
      [
       7,
@@ -9288,12 +9256,6 @@
     "6": [
      [
       7,
-      21
-     ]
-    ],
-    "0": [
-     [
-      8,
       21
      ]
     ]
@@ -10015,6 +9977,16 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=SPAR+Tomar%2C+Rua+Torres+Pinheiro+92-94%2C+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      8.5,
+      13.5
+     ],
+     [
+      15,
+      18
+     ]
+    ],
     "1": [
      [
       8.5,
@@ -10049,16 +10021,6 @@
      [
       8.5,
       20
-     ]
-    ],
-    "0": [
-     [
-      8.5,
-      13.5
-     ],
-     [
-      15,
-      18
      ]
     ]
    }
@@ -10591,6 +10553,12 @@
     "maps": "https://www.google.com/maps/search/?api=1&query=Coviran+%E2%80%94+Rua+Diogo+de+Arruda%2C+Rua+Diogo+de+Arruda+2%2C+2300-482+Tomar"
    },
    "hours": {
+    "0": [
+     [
+      8,
+      13
+     ]
+    ],
     "1": [
      [
       8,
@@ -10625,12 +10593,6 @@
      [
       8,
       20
-     ]
-    ],
-    "0": [
-     [
-      8,
-      13
      ]
     ]
    }
@@ -11428,7 +11390,7 @@
  "insider": [],
  "links": [],
  "spotlight": {
-  "on": true,
+  "on": false,
   "cards": {
    "business": false
   },
