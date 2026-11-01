@@ -202,6 +202,10 @@ button.btn{font-family:var(--body);font-size:15px;font-weight:700}
 .share h2{font-size:24px}
 .share-btns{display:flex;gap:12px;flex-wrap:wrap}
 .share .btn{border-radius:12px}
+.advert{border-left:4px solid var(--red)}
+.advert h2{font-size:22px;margin:0 0 6px}
+.advert p{margin:0;font-size:16px}
+.advert a{color:var(--red);font-weight:700}
 .foot{background:var(--charcoal);border-top:3px solid var(--red);color:#E9E6E1;display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap}
 .foot strong{font-family:var(--display);font-size:18px;color:#fff;display:block;margin-bottom:4px}
 .foot span,.foot div{font-size:14px;color:#C9C4BB}
@@ -333,6 +337,8 @@ var T={
   archive:{en:"View archive",pt:"Ver arquivo",es:"Ver archivo"},
   archiveH:{en:"Past editions",pt:"Edições anteriores",es:"Ediciones anteriores"},
   directory:{en:"Vamos Tomar directory",pt:"Diretório Vamos Tomar",es:"Directorio Vamos Tomar"},
+  adH:{en:"Advertise with us",pt:"Anuncie connosco",es:"Anúnciese con nosotros"},
+  adP:{en:"Would you like to advertise in This Week in Tomar or on Vamos Tomar? Contact us at",pt:"Gostaria de anunciar no «Esta Semana em Tomar» ou no Vamos Tomar? Contacte-nos através de",es:"¿Le gustaría anunciarse en «Esta Semana en Tomar» o en Vamos Tomar? Escríbanos a"},
   powered:{en:"Powered by",pt:"Uma produção",es:"Con la tecnología de"},
   privacy:{en:"Privacy & cookies",pt:"Privacidade e cookies",es:"Privacidad y cookies"},
   terms:{en:"Terms of use",pt:"Termos de utilização",es:"Condiciones de uso"},
@@ -682,6 +688,12 @@ function render(){
     el("div",{class:"share-btns"},shareBtns)
   ]));
   }
+
+  /* advertisers (31 Oct 2026) */
+  app.appendChild(el("section",{class:"tile advert",id:"advertise"},[
+    el("h2",{text:tr(T.adH)}),
+    el("p",null,[tr(T.adP)+" ",el("a",{href:"mailto:contacto@tomarketing.pt",text:"contacto@tomarketing.pt"}),"."])
+  ]));
 
   /* archive + footer */
   var arch=el("section",{class:"tile archive",id:"archive"},[el("h2",{text:tr(T.archiveH)}),el("ul",{id:"archive-list"})]);

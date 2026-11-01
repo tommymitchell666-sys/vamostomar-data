@@ -1,0 +1,631 @@
+{
+ "schema": 2,
+ "date": "2026-11-01",
+ "edition": 6,
+ "publishAt": "2026-11-01T08:00:00+00:00",
+ "generatedAt": "2026-10-31T10:54:41Z",
+ "range": {
+  "en": "1–7 November 2026",
+  "pt": "1–7 de novembro de 2026",
+  "es": "1–7 de noviembre de 2026"
+ },
+ "weather": {
+  "source": "MET Norway",
+  "note": {
+   "en": "Sunny and warm for the holiday, then steadily cooler with some cloud by the weekend; rain looks likely from Sunday 8.",
+   "pt": "Sol e calor no feriado, depois cada vez mais fresco, com nuvens no fim de semana; a chuva deve chegar no domingo, dia 8.",
+   "es": "Sol y calor en el festivo, luego cada vez más fresco y con nubes el fin de semana; la lluvia parece llegar el domingo 8."
+  },
+  "days": [
+   {
+    "date": "2026-11-01",
+    "icon": "sun",
+    "max": 26,
+    "min": 11,
+    "rain": 0
+   },
+   {
+    "date": "2026-11-02",
+    "icon": "sun",
+    "max": 23,
+    "min": 9,
+    "rain": 0
+   },
+   {
+    "date": "2026-11-03",
+    "icon": "cloud",
+    "max": 19,
+    "min": 8,
+    "rain": 0
+   },
+   {
+    "date": "2026-11-04",
+    "icon": "sun",
+    "max": 18,
+    "min": 8,
+    "rain": 0
+   },
+   {
+    "date": "2026-11-05",
+    "icon": "sun",
+    "max": 17,
+    "min": 6,
+    "rain": 0
+   },
+   {
+    "date": "2026-11-06",
+    "icon": "partly",
+    "max": 16,
+    "min": 7,
+    "rain": 0.4
+   },
+   {
+    "date": "2026-11-07",
+    "icon": "cloud",
+    "max": 16,
+    "min": 7,
+    "rain": 0.1
+   }
+  ]
+ },
+ "spotlight": {
+  "listing": "pao-por-deus",
+  "name": {
+   "en": "Pão-por-Deus",
+   "pt": "Pão-por-Deus",
+   "es": "Pão-por-Deus"
+  },
+  "dek": {
+   "en": "Today is All Saints' Day: the morning children knock on doors asking for Pão-por-Deus.",
+   "pt": "Hoje é Dia de Todos os Santos: as crianças batem às portas a pedir Pão-por-Deus.",
+   "es": "Hoy es Todos los Santos: los niños llaman a las puertas pidiendo Pão-por-Deus."
+  },
+  "title": {
+   "en": "Bread for God, door to door",
+   "pt": "Pão por Deus, de porta em porta",
+   "es": "Pan por Dios, de puerta en puerta"
+  },
+  "story": [
+   {
+    "en": "On the morning of 1 November, All Saints' Day, children go out in small groups and knock from door to door. At each one they ask for Pão-por-Deus, \"bread for God\", with a little rhyme: \"Pão por Deus, fiel de Deus, bolinho no saco, andai com Deus.\"",
+    "pt": "Na manhã de 1 de novembro, Dia de Todos os Santos, as crianças saem em pequenos grupos e batem de porta em porta. Em cada uma pedem Pão-por-Deus, com uns versos: «Pão por Deus, fiel de Deus, bolinho no saco, andai com Deus.»",
+    "es": "La mañana del 1 de noviembre, Día de Todos los Santos, los niños salen en pequeños grupos y llaman de puerta en puerta. En cada una piden Pão-por-Deus, «pan por Dios», con unos versos: «Pão por Deus, fiel de Deus, bolinho no saco, andai com Deus.»"
+   },
+   {
+    "en": "Into their cloth bags go bread, broas, pomegranates, nuts and chestnuts, and these days sweets or the odd coin. In some regions godparents give their godchildren a cake called a santoro, and in others the day is known as Dia do Bolinho.",
+    "pt": "Para os sacos de pano vão pão, broas, romãs, frutos secos e castanhas e, hoje em dia, doces ou umas moedas. Em algumas regiões os padrinhos dão aos afilhados um bolo chamado santoro; noutras, o dia chama-se Dia do Bolinho.",
+    "es": "En sus bolsas de tela caen pan, broas, granadas, frutos secos y castañas, y hoy también dulces o alguna moneda. En algunas regiones los padrinos regalan a sus ahijados un bollo llamado santoro, y en otras el día se llama Dia do Bolinho."
+   },
+   {
+    "en": "The custom is tied to the remembrance of the dead, on the eve of All Souls' Day, and to the old habit of sharing bread with the poor. A popular story links it to the Lisbon earthquake of 1 November 1755, but no document has been found to prove it.",
+    "pt": "O costume está ligado à evocação dos mortos, na véspera do Dia dos Fiéis Defuntos, e ao antigo hábito de repartir pão pelos pobres. Uma história popular liga-o ao terramoto de Lisboa de 1 de novembro de 1755, mas não há documentos que o provem.",
+    "es": "La costumbre está ligada al recuerdo de los difuntos, en la víspera del Día de los Fieles Difuntos, y a la vieja costumbre de repartir pan entre los pobres. Una historia popular la une al terremoto de Lisboa del 1 de noviembre de 1755, pero ningún documento lo demuestra."
+   },
+   {
+    "en": "It has been fading since the 1980s, with Halloween taking its place. So keep a few broas or sweets by the door this morning. And the winner of our Halloween game, \"Hey Zombie, Give Me a Treat!\", is announced today on @vamostomarinsta.",
+    "pt": "Tem vindo a perder-se desde os anos 80, com o Halloween a ocupar o lugar. Por isso, tenham umas broas ou uns doces à porta esta manhã. E o vencedor do nosso jogo «Ó Zombie, Dá-me um Doce!» é anunciado hoje no @vamostomarinsta.",
+    "es": "Se ha ido perdiendo desde los años 80, con Halloween ocupando su lugar. Así que tenga unas broas o dulces junto a la puerta esta mañana. Y el ganador de nuestro juego «¡Eh, Zombi, Dame un Dulce!» se anuncia hoy en @vamostomarinsta."
+   }
+  ],
+  "photo": null,
+  "facts": [
+   {
+    "k": {
+     "en": "When",
+     "pt": "Quando",
+     "es": "Cuándo"
+    },
+    "v": {
+     "en": "1 November, in the morning",
+     "pt": "1 de novembro, de manhã",
+     "es": "1 de noviembre, por la mañana"
+    }
+   },
+   {
+    "k": {
+     "en": "Who",
+     "pt": "Quem",
+     "es": "Quién"
+    },
+    "v": {
+     "en": "Children, door to door",
+     "pt": "Crianças, de porta em porta",
+     "es": "Niños, de puerta en puerta"
+    }
+   },
+   {
+    "k": {
+     "en": "In the bag",
+     "pt": "No saco",
+     "es": "En la bolsa"
+    },
+    "v": {
+     "en": "Bread, broas, pomegranates, nuts",
+     "pt": "Pão, broas, romãs, frutos secos",
+     "es": "Pan, broas, granadas, frutos secos"
+    }
+   },
+   {
+    "k": {
+     "en": "Also called",
+     "pt": "Também chamado",
+     "es": "También llamado"
+    },
+    "v": {
+     "en": "Dia do Bolinho",
+     "pt": "Dia do Bolinho",
+     "es": "Dia do Bolinho"
+    }
+   }
+  ],
+  "tags": [
+   {
+    "en": "Tradition",
+    "pt": "Tradição",
+    "es": "Tradición"
+   },
+   {
+    "en": "All Saints' Day",
+    "pt": "Todos os Santos",
+    "es": "Todos los Santos"
+   },
+   {
+    "en": "Family",
+    "pt": "Família",
+    "es": "Familia"
+   }
+  ],
+  "url": "https://vamostomar.pt/",
+  "links": {},
+  "sources": [
+   {
+    "name": "RFM",
+    "url": "https://rfm.pt/atualidade/3600/pao-por-deus-o-que-e-e-porque-se-celebra-a-1-de-novembro"
+   },
+   {
+    "name": "Opus Dei Portugal",
+    "url": "https://opusdei.org/pt-pt/article/uma-tradicao-muito-portuguesa-o-pao-por-deus-no-dia-de-todos-os-santos/"
+   },
+   {
+    "name": "Calendarr",
+    "url": "https://www.calendarr.com/portugal/dia-de-pao-por-deus/"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/P%C3%A3o_por_Deus"
+   }
+  ]
+ },
+ "feature": {
+  "title": {
+   "en": "A steam train with Templars on board",
+   "pt": "Um comboio a vapor com Templários a bordo",
+   "es": "Un tren de vapor con templarios a bordo"
+  },
+  "text": {
+   "en": "On Saturday 7 and Sunday 8 November the historic locomotive CP 0186, in service since 1925, pulls five wooden carriages from Entroncamento to Tomar. There are Templar-themed shows on board and guided visits to the historic centre. More than half the seats had gone by 23 October.",
+   "pt": "No sábado, 7, e no domingo, 8 de novembro, a locomotiva histórica CP 0186, ao serviço desde 1925, traz cinco carruagens de madeira do Entroncamento a Tomar. Há animação templária a bordo e visitas guiadas ao centro histórico. A 23 de outubro já estavam vendidos mais de metade dos lugares.",
+   "es": "El sábado 7 y el domingo 8 de noviembre, la locomotora histórica CP 0186, en servicio desde 1925, trae cinco vagones de madera de Entroncamento a Tomar. Habrá animación templaria a bordo y visitas guiadas al centro histórico. El 23 de octubre ya se había vendido más de la mitad de las plazas."
+  },
+  "cta": {
+   "en": "See it in Events →",
+   "pt": "Ver nos Eventos →",
+   "es": "Ver en Eventos →"
+  },
+  "url": "https://vamostomar.pt/#/events",
+  "badge": {
+   "big": "1925",
+   "small": {
+    "en": "Locomotive CP 0186",
+    "pt": "Locomotiva CP 0186",
+    "es": "Locomotora CP 0186"
+   },
+   "date": {
+    "en": "7–8 November",
+    "pt": "7–8 novembro",
+    "es": "7–8 noviembre"
+   }
+  }
+ },
+ "events": [
+  {
+   "date": "2026-11-01",
+   "dateEnd": "2026-11-04",
+   "time": null,
+   "featured": true,
+   "free": null,
+   "icon": "star",
+   "photo": null,
+   "url": "https://cineteatro.cm-tomar.pt/festival-zero26--",
+   "when": {
+    "en": "Sun 1 – Wed 4 Nov",
+    "pt": "Dom 1 – Qua 4 nov",
+    "es": "Dom 1 – Mié 4 nov"
+   },
+   "title": {
+    "en": "Festival Zero: Dias da Fotografia",
+    "pt": "Festival Zero: Dias da Fotografia",
+    "es": "Festival Zero: Dias da Fotografia"
+   },
+   "text": {
+    "en": "A daguerreotype demo by Luís Pavão on Sunday, 9:00–12:00, then talks with photographers Monday to Wednesday at 21:30.",
+    "pt": "Demonstração de daguerreotipia com Luís Pavão no domingo, 9h–12h, e conversas com fotógrafos de segunda a quarta, às 21h30.",
+    "es": "Demostración de daguerrotipo con Luís Pavão el domingo, 9:00–12:00, y charlas con fotógrafos de lunes a miércoles a las 21:30."
+   },
+   "place": {
+    "en": "Moinho da Ordem",
+    "pt": "Moinho da Ordem",
+    "es": "Moinho da Ordem"
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "dateEnd": null,
+   "time": "16:00",
+   "featured": false,
+   "free": true,
+   "icon": "music",
+   "photo": null,
+   "url": "https://otemplario.pt/filarmonicas-vao-dar-musica-nas-freguesias-de-tomar-em-novembro/",
+   "when": {
+    "en": "Saturday 7 Nov · 16:00",
+    "pt": "Sábado 7 nov · 16:00",
+    "es": "Sábado 7 nov · 16:00"
+   },
+   "title": {
+    "en": "Filarmonias: band music in the parishes",
+    "pt": "Filarmonias: música nas freguesias",
+    "es": "Filarmonias: bandas en las freguesias"
+   },
+   "text": {
+    "en": "The Filarmónica Payalvense opens a month of twelve free, one-hour concerts by four of Tomar's bands.",
+    "pt": "A Filarmónica Payalvense abre um mês com doze concertos gratuitos, de uma hora, por quatro bandas de Tomar.",
+    "es": "La Filarmónica Payalvense abre un mes de doce conciertos gratuitos, de una hora, de cuatro bandas de Tomar."
+   },
+   "place": {
+    "en": "Recinto de Festas, Venda Nova (Casais e Alviobeira)",
+    "pt": "Recinto de Festas da Venda Nova (Casais e Alviobeira)",
+    "es": "Recinto de Festas, Venda Nova (Casais e Alviobeira)"
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "dateEnd": null,
+   "time": "17:00",
+   "featured": false,
+   "free": false,
+   "icon": "family",
+   "photo": null,
+   "url": "https://cineteatro.cm-tomar.pt/historia-de-uma-gaivota-e-do-gato-que-a-ensinou-a-voar-",
+   "when": {
+    "en": "Saturday 7 Nov · 17:00",
+    "pt": "Sábado 7 nov · 17:00",
+    "es": "Sábado 7 nov · 17:00"
+   },
+   "title": {
+    "en": "The seagull and the cat who taught her to fly",
+    "pt": "A gaivota e o gato que a ensinou a voar",
+    "es": "La gaviota y el gato que le enseñó a volar"
+   },
+   "text": {
+    "en": "Teatro Mosca stages Luis Sepúlveda's story for families. 50 minutes, ages 6 and up, €3.",
+    "pt": "O Teatro Mosca leva à cena a história de Luis Sepúlveda, para famílias. 50 minutos, M/6, 3 €.",
+    "es": "Teatro Mosca lleva a escena el cuento de Luis Sepúlveda, para familias. 50 minutos, a partir de 6 años, 3 €."
+   },
+   "place": {
+    "en": "Cine-Teatro Paraíso",
+    "pt": "Cine-Teatro Paraíso",
+    "es": "Cine-Teatro Paraíso"
+   }
+  },
+  {
+   "date": "2026-10-31",
+   "dateEnd": "2026-12-27",
+   "time": null,
+   "featured": false,
+   "free": null,
+   "icon": "landmark",
+   "photo": null,
+   "url": "https://www.cm-tomar.pt/comunicacao/agenda",
+   "when": {
+    "en": "Wed–Sun, until 27 Dec",
+    "pt": "Qua–Dom, até 27 dez",
+    "es": "Mié–Dom, hasta el 27 dic"
+   },
+   "title": {
+    "en": "Printing: impressions that last",
+    "pt": "Indústria Gráfica: Impressões que Permanecem",
+    "es": "Industria gráfica: impresiones que permanecen"
+   },
+   "text": {
+    "en": "Five centuries of printing in machines, photographs and documents. Wed–Fri 14:00–17:00; weekends 10:00–12:00 and 14:00–17:00.",
+    "pt": "Mais de cinco séculos de indústria gráfica em máquinas, fotografias e documentos. Qua–sex 14h–17h; fim de semana 10h–12h e 14h–17h.",
+    "es": "Más de cinco siglos de imprenta en máquinas, fotos y documentos. Mié–vie 14:00–17:00; fines de semana 10:00–12:00 y 14:00–17:00."
+   },
+   "place": {
+    "en": "Casa Vieira Guimarães",
+    "pt": "Casa Vieira Guimarães",
+    "es": "Casa Vieira Guimarães"
+   }
+  }
+ ],
+ "news": [
+  {
+   "cat": "camara",
+   "src": "Rádio Hertz",
+   "url": "https://radiohertz.pt/tomar-taxa-turistica-de-dois-euros-por-dormida-entra-em-vigor-a-1-de-novembro/",
+   "head": {
+    "en": "Tomar's €2-a-night tourist tax starts on 1 November",
+    "pt": "Taxa turística de 2 € por noite começa a 1 de novembro",
+    "es": "La tasa turística de 2 € por noche empieza el 1 de noviembre"
+   },
+   "body": {
+    "en": "Guests aged 13 and over pay €2 per person per night in the concelho's lodgings, all year, for up to five nights in a row.",
+    "pt": "Hóspedes a partir dos 13 anos pagam 2 € por pessoa e por noite no alojamento do concelho, todo o ano, até cinco noites seguidas.",
+    "es": "Los huéspedes desde 13 años pagan 2 € por persona y noche en los alojamientos del concelho, todo el año, hasta cinco noches seguidas."
+   }
+  },
+  {
+   "cat": "community",
+   "src": "O Templário",
+   "url": "https://otemplario.pt/uls-do-medio-tejo-rescinde-contrato-da-obra-de-pedopsiquiatria-em-tomar-apos-sucessivos-atrasos/",
+   "head": {
+    "en": "Child psychiatry building: works contract cancelled",
+    "pt": "Pedopsiquiatria: contrato da obra rescindido",
+    "es": "Psiquiatría infantil: rescindido el contrato de la obra"
+   },
+   "body": {
+    "en": "After missed deadlines, ULS Médio Tejo ended the contract for the new building at Tomar hospital and is preparing a new tender. Care goes on meanwhile.",
+    "pt": "Depois de prazos falhados, a ULS Médio Tejo rescindiu o contrato do novo edifício no hospital de Tomar e prepara novo concurso. As consultas continuam.",
+    "es": "Tras varios plazos incumplidos, la ULS Médio Tejo rescindió el contrato del nuevo edificio del hospital de Tomar y prepara otro concurso. La atención sigue."
+   }
+  },
+  {
+   "cat": "environment",
+   "src": "Cidade de Tomar",
+   "url": "https://www.cidadetomar.pt/2026/10/28/atualidade/mata-dos-sete-montes-reabre-parcialmente-apos-nove-meses-de-recuperacao-e-vai-ser-proposta-para-monumento-nacional/",
+   "head": {
+    "en": "Mata dos Sete Montes partly reopens after the storm",
+    "pt": "Mata dos Sete Montes reabre em parte depois da tempestade",
+    "es": "La Mata dos Sete Montes reabre en parte tras la tormenta"
+   },
+   "body": {
+    "en": "Closed nine months after storm Kristin, it partly reopened on 26 October. Mayor Tiago Carrão will propose it as a Monumento Nacional.",
+    "pt": "Fechada nove meses após a tempestade Kristin, reabriu em parte a 26 de outubro. Tiago Carrão vai propô-la a Monumento Nacional.",
+    "es": "Cerrada nueve meses tras la tormenta Kristin, reabrió en parte el 26 de octubre. El alcalde Tiago Carrão la propondrá como Monumento Nacional."
+   }
+  },
+  {
+   "cat": "camara",
+   "src": "O Templário",
+   "url": "https://otemplario.pt/mercadona-em-tomar-camara-vai-votar-intervencao-na-avenida-e-compensacao-de-138-mil-euros/",
+   "head": {
+    "en": "Câmara votes on Monday on the Mercadona avenue works",
+    "pt": "Câmara vota na segunda-feira obras na avenida do Mercadona",
+    "es": "La Câmara vota el lunes las obras de la avenida del Mercadona"
+   },
+   "body": {
+    "en": "On 2 November the council votes on reshaping Av. Maria de Lourdes de Mello e Castro, with a cycle lane, and a €138,591 payment to the town.",
+    "pt": "A 2 de novembro, a Câmara vota a requalificação da Av. Maria de Lourdes de Mello e Castro, com ciclovia, e uma compensação de 138 591 €.",
+    "es": "El 2 de noviembre la Câmara vota la reforma de la Av. Maria de Lourdes de Mello e Castro, con carril bici, y una compensación de 138 591 €."
+   }
+  },
+  {
+   "cat": "culture",
+   "src": "O Templário",
+   "url": "https://otemplario.pt/camara-de-tomar-vai-votar-atribuicao-da-medalha-municipal-de-merito-de-grau-ouro-a-atriz-isabel-ruth/",
+   "head": {
+    "en": "Gold medal proposed for Tomar-born actress Isabel Ruth",
+    "pt": "Medalha de ouro proposta para a atriz tomarense Isabel Ruth",
+    "es": "Medalla de oro propuesta para la actriz tomarense Isabel Ruth"
+   },
+   "body": {
+    "en": "The Câmara votes on 2 November on its gold Medal of Merit for the actress, born in Tomar in 1940 and known for Os Verdes Anos (1963).",
+    "pt": "A Câmara vota a 2 de novembro a Medalha Municipal de Mérito, grau ouro, para a atriz, nascida em Tomar em 1940, de Os Verdes Anos (1963).",
+    "es": "La Câmara vota el 2 de noviembre su Medalla al Mérito de oro para la actriz, nacida en Tomar en 1940 y conocida por Os Verdes Anos (1963)."
+   }
+  },
+  {
+   "cat": "environment",
+   "src": "O Templário",
+   "url": "https://otemplario.pt/tejo-ambiente-anuncia-financiamento-europeu-de-640-mil-euros-para-obras-de-12-milhoes-em-tomar/",
+   "head": {
+    "en": "€640,000 in EU funds for water and sewers in Paialvo",
+    "pt": "640 mil euros europeus para água e saneamento em Paialvo",
+    "es": "640 000 € europeos para agua y saneamiento en Paialvo"
+   },
+   "body": {
+    "en": "Tejo Ambiente's €1.2 million project brings new sewers and a longer water network to Paialvo, with Centro 2030 money.",
+    "pt": "O projeto de 1,2 milhões da Tejo Ambiente leva novo saneamento e mais rede de água a Paialvo, com verbas do Centro 2030.",
+    "es": "El proyecto de 1,2 millones de Tejo Ambiente lleva nuevo saneamiento y más red de agua a Paialvo, con fondos del Centro 2030."
+   }
+  },
+  {
+   "cat": "sport",
+   "src": "Rádio Hertz",
+   "url": "https://radiohertz.pt/futebol-1-a-distrital-u-tomar-sai-goleado-de-porto-alto-e-samora-correia-e-lider-isolado/",
+   "head": {
+    "en": "União de Tomar lose 5–1 at Porto Alto, third defeat in a row",
+    "pt": "União de Tomar perde 5–1 em Porto Alto, terceira derrota seguida",
+    "es": "El União de Tomar pierde 5–1 en Porto Alto, tercera derrota seguida"
+   },
+   "body": {
+    "en": "The 1.ª Distrital result drops União to seventh; Samora Correia now lead on their own.",
+    "pt": "O resultado na 1.ª Distrital deixa o União em sétimo; o Samora Correia é líder isolado.",
+    "es": "El resultado en la 1.ª Distrital deja al União séptimo; el Samora Correia es líder en solitario."
+   }
+  }
+ ],
+ "coming": [
+  {
+   "when": {
+    "en": "Sun 8 Nov",
+    "pt": "Dom 8 nov",
+    "es": "Dom 8 nov"
+   },
+   "text": {
+    "en": "Second day of the steam train; Filarmonias concerts at the Lar da Misericórdia (11:00) and in Madalena e Beselga (16:00).",
+    "pt": "Segundo dia do comboio a vapor; concertos Filarmonias no Lar da Misericórdia (11h) e em Madalena e Beselga (16h).",
+    "es": "Segundo día del tren de vapor; conciertos Filarmonias en el Lar da Misericórdia (11:00) y en Madalena e Beselga (16:00)."
+   }
+  },
+  {
+   "when": {
+    "en": "Fri 13 Nov",
+    "pt": "Sex 13 nov",
+    "es": "Vie 13 nov"
+   },
+   "text": {
+    "en": "Festival Zero: soprano Eduarda Melo sings 17th-century songs at the Cine-Teatro Paraíso, 21:30, €5.",
+    "pt": "Festival Zero: a soprano Eduarda Melo canta música do século XVII no Cine-Teatro Paraíso, 21h30, 5 €.",
+    "es": "Festival Zero: la soprano Eduarda Melo canta música del siglo XVII en el Cine-Teatro Paraíso, 21:30, 5 €."
+   }
+  },
+  {
+   "when": {
+    "en": "Fri 13 Nov",
+    "pt": "Sex 13 nov",
+    "es": "Vie 13 nov"
+   },
+   "text": {
+    "en": "Fatias de Cá's «O Con(s)certo» at the Nabantina, 21:21, €11.11.",
+    "pt": "«O Con(s)certo», dos Fatias de Cá, na Nabantina, 21h21, 11,11 €.",
+    "es": "«O Con(s)certo», de Fatias de Cá, en la Nabantina, 21:21, 11,11 €."
+   }
+  },
+  {
+   "when": {
+    "en": "Sat 14 Nov",
+    "pt": "Sáb 14 nov",
+    "es": "Sáb 14 nov"
+   },
+   "text": {
+    "en": "Festival Zero closes with «Pensão Marilu» by Teatro Montemuro at the Cine-Teatro Paraíso, 21:30; band concerts in Furadouro (16:00) and Serra (21:00).",
+    "pt": "O Festival Zero fecha com «Pensão Marilu», do Teatro Montemuro, no Cine-Teatro Paraíso, 21h30; concertos no Furadouro (16h) e na Serra (21h).",
+    "es": "El Festival Zero cierra con «Pensão Marilu», de Teatro Montemuro, en el Cine-Teatro Paraíso, 21:30; conciertos en Furadouro (16:00) y Serra (21:00)."
+   }
+  }
+ ],
+ "fact": {
+  "id": "grid-streets",
+  "en": "The straight, criss-crossing streets of Tomar's centre are no accident: the grid was laid out in the time of Henry the Navigator, who ran the town through the Order of Christ.",
+  "pt": "As ruas direitas e cruzadas do centro de Tomar não são obra do acaso: a quadrícula foi traçada no tempo do Infante D. Henrique, que governava a vila através da Ordem de Cristo.",
+  "es": "Las calles rectas y cruzadas del centro de Tomar no son casualidad: la cuadrícula se trazó en tiempos de Enrique el Navegante, que gobernaba la villa a través de la Orden de Cristo."
+ },
+ "whatsapp": {
+  "en": "This Week in Tomar (1–7 Nov): Pão-por-Deus and where it comes from, a Templar steam train on 7–8 Nov, and the new €2 tourist tax. https://vamostomar.pt/weekly/?lang=en",
+  "pt": "Esta Semana em Tomar (1–7 nov): o Pão-por-Deus e a sua história, o comboio a vapor templário a 7 e 8 e a nova taxa turística de 2 €. https://vamostomar.pt/weekly/",
+  "es": "Esta Semana en Tomar (1–7 nov): el Pão-por-Deus y su historia, un tren de vapor templario el 7 y 8 y la nueva tasa turística de 2 €. https://vamostomar.pt/weekly/?lang=es"
+ },
+ "instagram": {
+  "spotlight": {
+   "caption": "No domingo, 1 de novembro, é dia de Pão-por-Deus: as crianças saem de manhã a bater de porta em porta. 🍞\n\n«Pão por Deus, fiel de Deus, bolinho no saco, andai com Deus.»\nPara o saco de pano vão pão, broas, romãs, frutos secos e castanhas.\nÉ um costume ligado à memória dos mortos e ao velho hábito de repartir pão pelos pobres, e tem vindo a perder-se. Tenham umas broas à porta!\n\nA história completa sai no domingo às 8h, em «Esta Semana em Tomar» — link na bio.\n\n#vamostomar #tomar #paopordeus #tradicoesportuguesas",
+   "en": "On Sunday, 1 November, it's Pão-por-Deus: children go out in the morning knocking from door to door. 🍞\n\n\"Bread for God, faithful of God, a little cake in the bag, go with God.\"\nInto the cloth bag go bread, broas, pomegranates, nuts and chestnuts.\nIt's a custom tied to the memory of the dead and the old habit of sharing bread with the poor, and it's been fading. Keep some broas by the door!\n\nThe full story comes out on Sunday at 8am in \"This Week in Tomar\" — link in bio.",
+   "alt": {
+    "pt": "No domingo há crianças à porta? É Pão-por-Deus, e tem mais história do que parece. 🍞",
+    "en": "Children at the door on Sunday? It's Pão-por-Deus, and it has more history than you'd think. 🍞"
+   },
+   "check": [
+    "No business spotlight this week (paid partnerships only from now on): this is a Pão-por-Deus post instead."
+   ]
+  },
+  "edition": {
+   "caption": "🗞️ «Esta Semana em Tomar» n.º 6 já está no ar: de 1 a 7 de novembro.\n\nNesta edição:\n🍞 Hoje é dia de Pão-por-Deus: a tradição e a sua história\n🚂 O comboio histórico a vapor templário chega a Tomar a 7 e 8 de novembro\n🏨 A taxa turística de 2 € por noite entra hoje em vigor\n🌳 A Mata dos Sete Montes reabriu e vai ser proposta a Monumento Nacional\n\nE ainda o tempo, os eventos e uma curiosidade da semana. Leiam em vamostomar.pt (link na bio).\n\n#vamostomar #tomar #tomarportugal #paopordeus #comboioavapor",
+   "en": "🗞️ \"This Week in Tomar\" no. 6 is out: 1 to 7 November.\n\nIn this edition:\n🍞 Today is Pão-por-Deus: the tradition and its history\n🚂 The historic Templar steam train comes to Tomar on 7 and 8 November\n🏨 The €2-a-night tourist tax starts today\n🌳 The Mata dos Sete Montes has reopened and will be proposed as a National Monument\n\nPlus the weather, the events and a fact of the week. Read it at vamostomar.pt (link in bio).",
+   "check": [
+    "CP / Museu Nacional Ferroviário not tagged (handles not confirmed).",
+    "The Halloween winner is a separate post."
+   ]
+  }
+ },
+ "sourcesChecked": [
+  {
+   "src": "MET Norway (Tomar)",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "src": "IPMA warnings (Santarém)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "src": "Rádio Hertz (local)",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "src": "Rádio Hertz (desporto)",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "src": "O Templário",
+   "ok": true,
+   "items": 20
+  },
+  {
+   "src": "Cidade de Tomar",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "src": "mediotejo.net",
+   "ok": false,
+   "items": 0
+  },
+  {
+   "src": "Cine-Teatro Paraíso",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "src": "live.json",
+   "ok": true,
+   "items": 12
+  }
+ ],
+ "cover": {
+  "lines": [
+   {
+    "label": {
+     "en": "The big one",
+     "pt": "Em destaque",
+     "es": "Lo más destacado"
+    },
+    "text": {
+     "en": "A Templar steam train comes to Tomar, 7–8 Nov",
+     "pt": "Comboio a vapor templário em Tomar, 7–8 nov",
+     "es": "Un tren de vapor templario llega a Tomar, 7–8 nov"
+    },
+    "href": "#feature"
+   },
+   {
+    "label": {
+     "en": "Don't miss",
+     "pt": "A não perder",
+     "es": "No te pierdas"
+    },
+    "text": {
+     "en": "Festival Zero's photography days",
+     "pt": "Os Dias da Fotografia do Festival Zero",
+     "es": "Los días de la fotografía del Festival Zero"
+    },
+    "href": "#dm-h"
+   },
+   {
+    "label": {
+     "en": "News",
+     "pt": "Notícias",
+     "es": "Noticias"
+    },
+    "text": {
+     "en": "The €2-a-night tourist tax starts today",
+     "pt": "A taxa turística de 2 € por noite começa hoje",
+     "es": "La tasa turística de 2 € por noche empieza hoy"
+    },
+    "href": "#nw-h"
+   }
+  ]
+ }
+}
