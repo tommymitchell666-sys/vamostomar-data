@@ -1,6 +1,6 @@
 {
- "rev": 70,
- "updated": "2026-11-01T10:06:36.453Z",
+ "rev": 71,
+ "updated": "2026-11-02T16:26:17.279Z",
  "events": [
   {
    "id": "ev-2026-10-14-hora-do-conto",
@@ -261,6 +261,27 @@
    "venue": "convento-sao-francisco",
    "url": "https://www.bienalarteseoficios.pt/product-page/workshop-de-empalhamento-em-vime",
    "dateEnd": null
+  },
+  {
+   "date": "2026-11-07",
+   "dateEnd": null,
+   "name": "Rock music night with DJ J2S",
+   "blurb": "A fantastic night of all types of rock music Including, soft, pop, classic, heavy, metal, indie, grunge, rock n roll and more! \n\nCome and rock your socks off with DJ J2S!!",
+   "place": "Santa Iria — Café Bistrot",
+   "name_pt": "Noite de rock com DJ J2S",
+   "name_es": "Noche de música rock con DJ J2S",
+   "blurb_pt": "Uma noite fantástica de todos os tipos de rock, incluindo soft, pop, clássico, heavy, metal, indie, grunge, rock n roll e muito mais! Venha balançar as meias com o DJ J2S!!",
+   "blurb_es": "¡Una noche fantástica de todo tipo de música rock, incluyendo soft, pop, clásica, heavy, metal, indie, grunge, rock n roll y más! ¡¡Ven y quítate los calcetines con DJ J2S!!",
+   "place_pt": "Santa Iria — Café Bistrot",
+   "place_es": "Santa Iria — Café Bistrot",
+   "price": "Free entry",
+   "time": "21:30",
+   "venue": "santa-iria-cafe",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Santa+Iria+Cafe+Bistrot+Tomar",
+   "photo": {
+    "src": "data/images/rock-music-night-with-dj-j2s-poster-20261102-91sd.webp"
+   },
+   "id": "ev-2026-11-07-rock-music-night-with-dj-j2s"
   },
   {
    "id": "ev-2026-11-13-festival-zero-folk-songs",
