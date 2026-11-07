@@ -1,113 +1,118 @@
 {
  "schema": 2,
- "date": "2026-11-01",
- "edition": 6,
- "publishAt": "2026-11-01T08:00:00+00:00",
- "generatedAt": "2026-10-31T10:54:41Z",
+ "date": "2026-11-08",
+ "edition": 7,
+ "publishAt": "2026-11-08T08:00:00+00:00",
+ "generatedAt": "2026-11-07T13:03:59Z",
  "range": {
-  "en": "1–7 November 2026",
-  "pt": "1–7 de novembro de 2026",
-  "es": "1–7 de noviembre de 2026"
+  "en": "8 – 14 November 2026",
+  "pt": "8 – 14 de novembro de 2026",
+  "es": "8 – 14 de noviembre de 2026"
  },
  "weather": {
   "source": "MET Norway",
   "note": {
-   "en": "Sunny and warm for the holiday, then steadily cooler with some cloud by the weekend; rain looks likely from Sunday 8.",
-   "pt": "Sol e calor no feriado, depois cada vez mais fresco, com nuvens no fim de semana; a chuva deve chegar no domingo, dia 8.",
-   "es": "Sol y calor en el festivo, luego cada vez más fresco y con nubes el fin de semana; la lluvia parece llegar el domingo 8."
+   "en": "Mild but wet all week as Storm Bruna passes: the heaviest rain on Tuesday and Wednesday, cooler by Saturday.",
+   "pt": "Semana amena mas molhada com a passagem da depressão Bruna: chuva mais forte na terça e na quarta, mais fresco no sábado.",
+   "es": "Semana templada pero lluviosa con el paso de la borrasca Bruna: lo más intenso el martes y el miércoles, más fresco el sábado."
   },
   "days": [
    {
-    "date": "2026-11-01",
-    "icon": "sun",
-    "max": 26,
-    "min": 11,
-    "rain": 0
+    "date": "2026-11-08",
+    "icon": "showers",
+    "max": 22,
+    "min": 15,
+    "rain": 12.6
    },
    {
-    "date": "2026-11-02",
-    "icon": "sun",
-    "max": 23,
-    "min": 9,
-    "rain": 0
+    "date": "2026-11-09",
+    "icon": "showers",
+    "max": 21,
+    "min": 16,
+    "rain": 17.3
    },
    {
-    "date": "2026-11-03",
-    "icon": "cloud",
-    "max": 19,
-    "min": 8,
-    "rain": 0
-   },
-   {
-    "date": "2026-11-04",
-    "icon": "sun",
+    "date": "2026-11-10",
+    "icon": "rain",
     "max": 18,
-    "min": 8,
-    "rain": 0
+    "min": 16,
+    "rain": 27.8
    },
    {
-    "date": "2026-11-05",
-    "icon": "sun",
+    "date": "2026-11-11",
+    "icon": "rain",
+    "max": 18,
+    "min": 16,
+    "rain": 15.9
+   },
+   {
+    "date": "2026-11-12",
+    "icon": "showers",
     "max": 17,
-    "min": 6,
-    "rain": 0
+    "min": 14,
+    "rain": 6.1
    },
    {
-    "date": "2026-11-06",
-    "icon": "partly",
-    "max": 16,
-    "min": 7,
-    "rain": 0.4
+    "date": "2026-11-13",
+    "icon": "rain",
+    "max": 18,
+    "min": 13,
+    "rain": 6.6
    },
    {
-    "date": "2026-11-07",
-    "icon": "cloud",
-    "max": 16,
-    "min": 7,
-    "rain": 0.1
+    "date": "2026-11-14",
+    "icon": "rain",
+    "max": 15,
+    "min": 12,
+    "rain": 7.8
    }
   ]
  },
  "spotlight": {
-  "listing": "pao-por-deus",
+  "listing": "sao-martinho",
   "name": {
-   "en": "Pão-por-Deus",
-   "pt": "Pão-por-Deus",
-   "es": "Pão-por-Deus"
+   "en": "São Martinho",
+   "pt": "São Martinho",
+   "es": "San Martín"
   },
   "dek": {
-   "en": "Today is All Saints' Day: the morning children knock on doors asking for Pão-por-Deus.",
-   "pt": "Hoje é Dia de Todos os Santos: as crianças batem às portas a pedir Pão-por-Deus.",
-   "es": "Hoy es Todos los Santos: los niños llaman a las puertas pidiendo Pão-por-Deus."
+   "en": "Chestnuts, new wine and half a cloak: Wednesday is São Martinho.",
+   "pt": "Castanhas, vinho novo e meia capa: quarta-feira é dia de São Martinho.",
+   "es": "Castañas, vino nuevo y media capa: el miércoles es San Martín."
   },
   "title": {
-   "en": "Bread for God, door to door",
-   "pt": "Pão por Deus, de porta em porta",
-   "es": "Pan por Dios, de puerta en puerta"
+   "en": "Half a cloak, a fire and a bag of chestnuts",
+   "pt": "Meia capa, uma fogueira e castanhas assadas",
+   "es": "Media capa, una hoguera y castañas asadas"
   },
   "story": [
    {
-    "en": "On the morning of 1 November, All Saints' Day, children go out in small groups and knock from door to door. At each one they ask for Pão-por-Deus, \"bread for God\", with a little rhyme: \"Pão por Deus, fiel de Deus, bolinho no saco, andai com Deus.\"",
-    "pt": "Na manhã de 1 de novembro, Dia de Todos os Santos, as crianças saem em pequenos grupos e batem de porta em porta. Em cada uma pedem Pão-por-Deus, com uns versos: «Pão por Deus, fiel de Deus, bolinho no saco, andai com Deus.»",
-    "es": "La mañana del 1 de noviembre, Día de Todos los Santos, los niños salen en pequeños grupos y llaman de puerta en puerta. En cada una piden Pão-por-Deus, «pan por Dios», con unos versos: «Pão por Deus, fiel de Deus, bolinho no saco, andai com Deus.»"
+    "en": "Wednesday 11 November is São Martinho, the day Portugal lights the fire for the magusto. Martin was born in 316 in Pannonia, served as a Roman soldier in Gaul and later became bishop of Tours. He died in 397, and his feast falls on the day he was buried in Tours.",
+    "pt": "Quarta-feira, 11 de novembro, é dia de São Martinho, o dia em que o país acende a fogueira do magusto. Martinho nasceu em 316, na Panónia, foi soldado romano na Gália e mais tarde bispo de Tours. Morreu em 397, e a festa cai no dia em que foi sepultado em Tours.",
+    "es": "El miércoles 11 de noviembre es San Martín, el día en que Portugal enciende la hoguera del magusto. Martín nació en 316 en Panonia, fue soldado romano en la Galia y más tarde obispo de Tours. Murió en 397, y su fiesta cae el día en que fue enterrado en Tours."
    },
    {
-    "en": "Into their cloth bags go bread, broas, pomegranates, nuts and chestnuts, and these days sweets or the odd coin. In some regions godparents give their godchildren a cake called a santoro, and in others the day is known as Dia do Bolinho.",
-    "pt": "Para os sacos de pano vão pão, broas, romãs, frutos secos e castanhas e, hoje em dia, doces ou umas moedas. Em algumas regiões os padrinhos dão aos afilhados um bolo chamado santoro; noutras, o dia chama-se Dia do Bolinho.",
-    "es": "En sus bolsas de tela caen pan, broas, granadas, frutos secos y castañas, y hoy también dulces o alguna moneda. En algunas regiones los padrinos regalan a sus ahijados un bollo llamado santoro, y en otras el día se llama Dia do Bolinho."
+    "en": "The story everyone knows: on a cold, wet day the soldier cut his cloak in two and gave half to a beggar. At that moment, the legend goes, the rain stopped and the sun came out. That is the 'Verão de São Martinho', the few mild days that often turn up around 11 November.",
+    "pt": "A história que todos conhecem: num dia frio e chuvoso, o soldado cortou a capa ao meio e deu metade a um pobre. Nesse momento, diz a lenda, a chuva parou e o sol apareceu. É o «verão de São Martinho», os dias amenos que tantas vezes surgem por volta de 11 de novembro.",
+    "es": "La historia que todos conocen: en un día frío y lluvioso, el soldado cortó su capa en dos y dio la mitad a un mendigo. En ese momento, dice la leyenda, dejó de llover y salió el sol. Es el «veranillo de San Martín», los días templados que a menudo llegan hacia el 11 de noviembre."
    },
    {
-    "en": "The custom is tied to the remembrance of the dead, on the eve of All Souls' Day, and to the old habit of sharing bread with the poor. A popular story links it to the Lisbon earthquake of 1 November 1755, but no document has been found to prove it.",
-    "pt": "O costume está ligado à evocação dos mortos, na véspera do Dia dos Fiéis Defuntos, e ao antigo hábito de repartir pão pelos pobres. Uma história popular liga-o ao terramoto de Lisboa de 1 de novembro de 1755, mas não há documentos que o provem.",
-    "es": "La costumbre está ligada al recuerdo de los difuntos, en la víspera del Día de los Fieles Difuntos, y a la vieja costumbre de repartir pan entre los pobres. Una historia popular la une al terremoto de Lisboa del 1 de noviembre de 1755, pero ningún documento lo demuestra."
+    "en": "The magusto is simple: friends and family round a fire, chestnuts cut so they don't burst, and the new wine from the last harvest, or água-pé and jeropiga. In many villages people blacken each other's faces with the soot. The saying sums it up: «No dia de São Martinho, vai à adega e prova o vinho».",
+    "pt": "O magusto é simples: amigos e família à volta do lume, castanhas golpeadas para não rebentarem e o vinho novo da última vindima, ou água-pé e jeropiga. Em muitas aldeias, ainda há quem enfarrusque a cara aos outros com a fuligem. O ditado resume tudo: «No dia de São Martinho, vai à adega e prova o vinho».",
+    "es": "El magusto es sencillo: amigos y familia alrededor del fuego, castañas con un corte para que no revienten y el vino nuevo de la última vendimia, o água-pé y jeropiga. En muchos pueblos aún se tiznan la cara unos a otros con el hollín. El refrán lo resume: «No dia de São Martinho, vai à adega e prova o vinho»."
    },
    {
-    "en": "It has been fading since the 1980s, with Halloween taking its place. So keep a few broas or sweets by the door this morning. And the winner of our Halloween game, \"Hey Zombie, Give Me a Treat!\", is announced today on @vamostomarinsta.",
-    "pt": "Tem vindo a perder-se desde os anos 80, com o Halloween a ocupar o lugar. Por isso, tenham umas broas ou uns doces à porta esta manhã. E o vencedor do nosso jogo «Ó Zombie, Dá-me um Doce!» é anunciado hoje no @vamostomarinsta.",
-    "es": "Se ha ido perdiendo desde los años 80, con Halloween ocupando su lugar. Así que tenga unas broas o dulces junto a la puerta esta mañana. Y el ganador de nuestro juego «¡Eh, Zombi, Dame un Dulce!» se anuncia hoy en @vamostomarinsta."
+    "en": "This year Storm Bruna looks set to keep the São Martinho summer away, so the fire may have to move indoors. Buy a paper cone of roast chestnuts in town, ask at your local café or association about its magusto, and raise a glass of new wine on Wednesday.",
+    "pt": "Este ano a depressão Bruna deve afastar o verão de São Martinho, por isso o lume talvez tenha de ficar dentro de casa. Comprem um cartucho de castanhas assadas na cidade, perguntem no café ou na associação do bairro pelo magusto e provem o vinho novo na quarta-feira.",
+    "es": "Este año la borrasca Bruna parece que alejará el veranillo de San Martín, así que el fuego quizá tenga que quedarse en casa. Comprad un cucurucho de castañas asadas en la ciudad, preguntad en vuestro café o asociación por su magusto y brindad con vino nuevo el miércoles."
    }
   ],
-  "photo": null,
+  "photo": "https://vamostomar.pt/data/images/sao-martinho-cover-20261108.webp",
+  "photoAlt": {
+   "en": "Chestnuts roasting by a fire on old cobbles at dusk, beside a red wool cloak with a cross pattée and stone houses behind",
+   "pt": "Castanhas assadas junto a uma fogueira sobre a calçada antiga ao anoitecer, ao lado de uma capa de lã vermelha com uma cruz pátea e casas de pedra ao fundo",
+   "es": "Castañas asadas junto a una hoguera sobre el empedrado antiguo al anochecer, junto a una capa de lana roja con una cruz patada y casas de piedra al fondo"
+  },
   "facts": [
    {
     "k": {
@@ -116,9 +121,9 @@
      "es": "Cuándo"
     },
     "v": {
-     "en": "1 November, in the morning",
-     "pt": "1 de novembro, de manhã",
-     "es": "1 de noviembre, por la mañana"
+     "en": "Wednesday 11 November",
+     "pt": "Quarta-feira, 11 de novembro",
+     "es": "Miércoles 11 de noviembre"
     }
    },
    {
@@ -128,33 +133,21 @@
      "es": "Quién"
     },
     "v": {
-     "en": "Children, door to door",
-     "pt": "Crianças, de porta em porta",
-     "es": "Niños, de puerta en puerta"
+     "en": "Martin of Tours (316–397)",
+     "pt": "Martinho de Tours (316–397)",
+     "es": "Martín de Tours (316–397)"
     }
    },
    {
     "k": {
-     "en": "In the bag",
-     "pt": "No saco",
-     "es": "En la bolsa"
+     "en": "On the table",
+     "pt": "À mesa",
+     "es": "En la mesa"
     },
     "v": {
-     "en": "Bread, broas, pomegranates, nuts",
-     "pt": "Pão, broas, romãs, frutos secos",
-     "es": "Pan, broas, granadas, frutos secos"
-    }
-   },
-   {
-    "k": {
-     "en": "Also called",
-     "pt": "Também chamado",
-     "es": "También llamado"
-    },
-    "v": {
-     "en": "Dia do Bolinho",
-     "pt": "Dia do Bolinho",
-     "es": "Dia do Bolinho"
+     "en": "Chestnuts, new wine, água-pé, jeropiga",
+     "pt": "Castanhas, vinho novo, água-pé, jeropiga",
+     "es": "Castañas, vino nuevo, água-pé, jeropiga"
     }
    }
   ],
@@ -165,112 +158,143 @@
     "es": "Tradición"
    },
    {
-    "en": "All Saints' Day",
-    "pt": "Todos os Santos",
-    "es": "Todos los Santos"
+    "en": "Magusto",
+    "pt": "Magusto",
+    "es": "Magusto"
    },
    {
-    "en": "Family",
-    "pt": "Família",
-    "es": "Familia"
+    "en": "Chestnuts",
+    "pt": "Castanhas",
+    "es": "Castañas"
+   },
+   {
+    "en": "New wine",
+    "pt": "Vinho novo",
+    "es": "Vino nuevo"
    }
   ],
   "url": "https://vamostomar.pt/",
   "links": {},
   "sources": [
    {
-    "name": "RFM",
-    "url": "https://rfm.pt/atualidade/3600/pao-por-deus-o-que-e-e-porque-se-celebra-a-1-de-novembro"
+    "name": "Calendarr — Dia de São Martinho",
+    "url": "https://www.calendarr.com/portugal/dia-de-sao-martinho/"
    },
    {
-    "name": "Opus Dei Portugal",
-    "url": "https://opusdei.org/pt-pt/article/uma-tradicao-muito-portuguesa-o-pao-por-deus-no-dia-de-todos-os-santos/"
+    "name": "Wikipédia — Martinho de Tours",
+    "url": "https://pt.wikipedia.org/wiki/Martinho_de_Tours"
    },
    {
-    "name": "Calendarr",
-    "url": "https://www.calendarr.com/portugal/dia-de-pao-por-deus/"
+    "name": "Wikipédia — Magusto",
+    "url": "https://pt.wikipedia.org/wiki/Magusto"
    },
    {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/P%C3%A3o_por_Deus"
+    "name": "Ra-Ro — Magusto: o que é, origem e tradições",
+    "url": "https://ra-ro.eu/blogs/atualidades-raras/magusto-o-que-e-origem-tradicoes-sao-martinho"
+   }
+  ]
+ },
+ "cover": {
+  "lines": [
+   {
+    "label": {
+     "en": "The big one",
+     "pt": "Em destaque",
+     "es": "Lo más destacado"
+    },
+    "text": {
+     "en": "Festival Zero's closing weekend, 13–14 Nov",
+     "pt": "O último fim de semana do Festival Zero, 13–14 nov",
+     "es": "El último fin de semana del Festival Zero, 13–14 nov"
+    },
+    "href": "#feature"
+   },
+   {
+    "label": {
+     "en": "Don't miss",
+     "pt": "A não perder",
+     "es": "No te pierdas"
+    },
+    "text": {
+     "en": "Free band concerts in the parishes",
+     "pt": "Concertos gratuitos de filarmónicas nas freguesias",
+     "es": "Conciertos gratuitos de bandas en las freguesias"
+    },
+    "href": "#dm-h"
+   },
+   {
+    "label": {
+     "en": "News",
+     "pt": "Notícias",
+     "es": "Noticias"
+    },
+    "text": {
+     "en": "Storm Bruna: rain and wind until Friday",
+     "pt": "Depressão Bruna: chuva e vento até sexta",
+     "es": "Borrasca Bruna: lluvia y viento hasta el viernes"
+    },
+    "href": "#nw-h"
+   },
+   {
+    "label": {
+     "en": "News",
+     "pt": "Notícias",
+     "es": "Noticias"
+    },
+    "text": {
+     "en": "Tabuleiros parade sign-up opens 20 Nov",
+     "pt": "Inscrições para o Cortejo dos Tabuleiros a 20 nov",
+     "es": "Inscripciones para el desfile de los Tabuleiros el 20 nov"
+    },
+    "href": "#nw-h"
    }
   ]
  },
  "feature": {
   "title": {
-   "en": "A steam train with Templars on board",
-   "pt": "Um comboio a vapor com Templários a bordo",
-   "es": "Un tren de vapor con templarios a bordo"
+   "en": "Festival Zero bows out",
+   "pt": "Festival Zero despede-se",
+   "es": "El Festival Zero se despide"
   },
   "text": {
-   "en": "On Saturday 7 and Sunday 8 November the historic locomotive CP 0186, in service since 1925, pulls five wooden carriages from Entroncamento to Tomar. There are Templar-themed shows on board and guided visits to the historic centre. More than half the seats had gone by 23 October.",
-   "pt": "No sábado, 7, e no domingo, 8 de novembro, a locomotiva histórica CP 0186, ao serviço desde 1925, traz cinco carruagens de madeira do Entroncamento a Tomar. Há animação templária a bordo e visitas guiadas ao centro histórico. A 23 de outubro já estavam vendidos mais de metade dos lugares.",
-   "es": "El sábado 7 y el domingo 8 de noviembre, la locomotora histórica CP 0186, en servicio desde 1925, trae cinco vagones de madera de Entroncamento a Tomar. Habrá animación templaria a bordo y visitas guiadas al centro histórico. El 23 de octubre ya se había vendido más de la mitad de las plazas."
+   "en": "Espaçozero Teatro's festival ends with two nights at the Cine-Teatro Paraíso. On Friday at 21:30 soprano Eduarda Melo sings 17th-century songs by Dowland, Monteverdi, Strozzi and Purcell with Nuno da Rocha on electric guitar; on Saturday at 21:30 Teatro Montemuro plays «Pensão Marilu». €5 each.",
+   "pt": "O festival do Espaçozero Teatro termina com duas noites no Cine-Teatro Paraíso. Na sexta, às 21h30, a soprano Eduarda Melo canta canções do século XVII de Dowland, Monteverdi, Strozzi e Purcell, com Nuno da Rocha na guitarra elétrica; no sábado, às 21h30, o Teatro Montemuro apresenta «Pensão Marilu». 5 € cada.",
+   "es": "El festival de Espaçozero Teatro termina con dos noches en el Cine-Teatro Paraíso. El viernes a las 21:30 la soprano Eduarda Melo canta canciones del siglo XVII de Dowland, Monteverdi, Strozzi y Purcell con Nuno da Rocha a la guitarra eléctrica; el sábado a las 21:30 Teatro Montemuro presenta «Pensão Marilu». 5 € cada una."
   },
   "cta": {
-   "en": "See it in Events →",
-   "pt": "Ver nos Eventos →",
-   "es": "Ver en Eventos →"
+   "en": "See the programme",
+   "pt": "Ver o programa",
+   "es": "Ver el programa"
   },
-  "url": "https://vamostomar.pt/#/events",
+  "url": "https://cineteatro.cm-tomar.pt/festival-zero26--",
   "badge": {
-   "big": "1925",
+   "big": "2",
    "small": {
-    "en": "Locomotive CP 0186",
-    "pt": "Locomotiva CP 0186",
-    "es": "Locomotora CP 0186"
+    "en": "Last nights · Festival Zero",
+    "pt": "Últimas noites · Festival Zero",
+    "es": "Últimas noches · Festival Zero"
    },
    "date": {
-    "en": "7–8 November",
-    "pt": "7–8 novembro",
-    "es": "7–8 noviembre"
+    "en": "13–14 November",
+    "pt": "13–14 novembro",
+    "es": "13–14 noviembre"
    }
   }
  },
  "events": [
   {
-   "date": "2026-11-01",
-   "dateEnd": "2026-11-04",
-   "time": null,
+   "date": "2026-11-08",
+   "dateEnd": "2026-11-14",
+   "time": "11:00",
    "featured": true,
-   "free": null,
-   "icon": "star",
-   "photo": null,
-   "url": "https://cineteatro.cm-tomar.pt/festival-zero26--",
-   "when": {
-    "en": "Sun 1 – Wed 4 Nov",
-    "pt": "Dom 1 – Qua 4 nov",
-    "es": "Dom 1 – Mié 4 nov"
-   },
-   "title": {
-    "en": "Festival Zero: Dias da Fotografia",
-    "pt": "Festival Zero: Dias da Fotografia",
-    "es": "Festival Zero: Dias da Fotografia"
-   },
-   "text": {
-    "en": "A daguerreotype demo by Luís Pavão on Sunday, 9:00–12:00, then talks with photographers Monday to Wednesday at 21:30.",
-    "pt": "Demonstração de daguerreotipia com Luís Pavão no domingo, 9h–12h, e conversas com fotógrafos de segunda a quarta, às 21h30.",
-    "es": "Demostración de daguerrotipo con Luís Pavão el domingo, 9:00–12:00, y charlas con fotógrafos de lunes a miércoles a las 21:30."
-   },
-   "place": {
-    "en": "Moinho da Ordem",
-    "pt": "Moinho da Ordem",
-    "es": "Moinho da Ordem"
-   }
-  },
-  {
-   "date": "2026-11-07",
-   "dateEnd": null,
-   "time": "16:00",
-   "featured": false,
    "free": true,
    "icon": "music",
    "photo": null,
-   "url": "https://otemplario.pt/filarmonicas-vao-dar-musica-nas-freguesias-de-tomar-em-novembro/",
+   "url": "https://mediotejo.net/quatro-bandas-filarmonicas-levam-concertos-as-freguesias-de-tomar/",
    "when": {
-    "en": "Saturday 7 Nov · 16:00",
-    "pt": "Sábado 7 nov · 16:00",
-    "es": "Sábado 7 nov · 16:00"
+    "en": "Sun 8 Nov · 11:00 & 16:00 · Sat 14 Nov · 16:00 & 21:00",
+    "pt": "Dom 8 nov · 11:00 e 16:00 · Sáb 14 nov · 16:00 e 21:00",
+    "es": "Dom 8 nov · 11:00 y 16:00 · Sáb 14 nov · 16:00 y 21:00"
    },
    "title": {
     "en": "Filarmonias: band music in the parishes",
@@ -278,39 +302,39 @@
     "es": "Filarmonias: bandas en las freguesias"
    },
    "text": {
-    "en": "The Filarmónica Payalvense opens a month of twelve free, one-hour concerts by four of Tomar's bands.",
-    "pt": "A Filarmónica Payalvense abre um mês com doze concertos gratuitos, de uma hora, por quatro bandas de Tomar.",
-    "es": "La Filarmónica Payalvense abre un mes de doce conciertos gratuitos, de una hora, de cuatro bandas de Tomar."
+    "en": "Free one-hour concerts: the Payalvense band on Sunday, the Pedreira band on Saturday in Furadouro (Sabacheira) and the Adro da Serra.",
+    "pt": "Concertos gratuitos de uma hora: a Payalvense no domingo, a Banda da Pedreira no sábado no Furadouro (Sabacheira) e no Adro da Serra.",
+    "es": "Conciertos gratuitos de una hora: la Payalvense el domingo y la banda de Pedreira el sábado en Furadouro (Sabacheira) y el Adro da Serra."
    },
    "place": {
-    "en": "Recinto de Festas, Venda Nova (Casais e Alviobeira)",
-    "pt": "Recinto de Festas da Venda Nova (Casais e Alviobeira)",
-    "es": "Recinto de Festas, Venda Nova (Casais e Alviobeira)"
+    "en": "Lar da Misericórdia · Madalena e Beselga · Furadouro · Serra",
+    "pt": "Lar da Misericórdia · Madalena e Beselga · Furadouro · Serra",
+    "es": "Lar da Misericórdia · Madalena e Beselga · Furadouro · Serra"
    }
   },
   {
-   "date": "2026-11-07",
+   "date": "2026-11-10",
    "dateEnd": null,
-   "time": "17:00",
+   "time": "19:00",
    "featured": false,
    "free": false,
-   "icon": "family",
+   "icon": "film",
    "photo": null,
-   "url": "https://cineteatro.cm-tomar.pt/historia-de-uma-gaivota-e-do-gato-que-a-ensinou-a-voar-",
+   "url": "https://cineteatro.cm-tomar.pt/embargo--cineclube-de-tomar-",
    "when": {
-    "en": "Saturday 7 Nov · 17:00",
-    "pt": "Sábado 7 nov · 17:00",
-    "es": "Sábado 7 nov · 17:00"
+    "en": "Tuesday 10 Nov · 19:00",
+    "pt": "Terça 10 nov · 19:00",
+    "es": "Martes 10 nov · 19:00"
    },
    "title": {
-    "en": "The seagull and the cat who taught her to fly",
-    "pt": "A gaivota e o gato que a ensinou a voar",
-    "es": "La gaviota y el gato que le enseñó a volar"
+    "en": "Cineclube: «Embargo», from Saramago",
+    "pt": "Cineclube: «Embargo», de Saramago",
+    "es": "Cineclube: «Embargo», de Saramago"
    },
    "text": {
-    "en": "Teatro Mosca stages Luis Sepúlveda's story for families. 50 minutes, ages 6 and up, €3.",
-    "pt": "O Teatro Mosca leva à cena a história de Luis Sepúlveda, para famílias. 50 minutos, M/6, 3 €.",
-    "es": "Teatro Mosca lleva a escena el cuento de Luis Sepúlveda, para familias. 50 minutos, a partir de 6 años, 3 €."
+    "en": "António Ferreira's 2010 film from José Saramago: an inventor tries to sell his machine during a fuel embargo. €4 (members €2).",
+    "pt": "Filme de António Ferreira (2010) a partir de José Saramago: um inventor tenta vender a sua máquina em plena crise do petróleo. 4 € (sócios 2 €).",
+    "es": "Película de António Ferreira (2010) basada en José Saramago: un inventor intenta vender su máquina en pleno embargo de petróleo. 4 € (socios 2 €)."
    },
    "place": {
     "en": "Cine-Teatro Paraíso",
@@ -323,236 +347,245 @@
    "dateEnd": "2026-12-27",
    "time": null,
    "featured": false,
-   "free": null,
+   "free": true,
    "icon": "landmark",
    "photo": null,
-   "url": "https://www.cm-tomar.pt/comunicacao/agenda",
+   "url": null,
    "when": {
-    "en": "Wed–Sun, until 27 Dec",
-    "pt": "Qua–Dom, até 27 dez",
-    "es": "Mié–Dom, hasta el 27 dic"
+    "en": "Tue–Sun · 10:00–12:00, 14:00–17:00",
+    "pt": "Ter–Dom · 10:00–12:00, 14:00–17:00",
+    "es": "Mar–Dom · 10:00–12:00, 14:00–17:00"
    },
    "title": {
-    "en": "Printing: impressions that last",
-    "pt": "Indústria Gráfica: Impressões que Permanecem",
-    "es": "Industria gráfica: impresiones que permanecen"
+    "en": "Sítios da Palavra: 14 artists on the written word",
+    "pt": "Sítios da Palavra: 14 autores e a escrita",
+    "es": "Sítios da Palavra: 14 artistas y la escritura"
    },
    "text": {
-    "en": "Five centuries of printing in machines, photographs and documents. Wed–Fri 14:00–17:00; weekends 10:00–12:00 and 14:00–17:00.",
-    "pt": "Mais de cinco séculos de indústria gráfica em máquinas, fotografias e documentos. Qua–sex 14h–17h; fim de semana 10h–12h e 14h–17h.",
-    "es": "Más de cinco siglos de imprenta en máquinas, fotos y documentos. Mié–vie 14:00–17:00; fines de semana 10:00–12:00 y 14:00–17:00."
+    "en": "The eighth «Sítios» show, from Tomar's printing and newspaper past to the town today. Until 27 December.",
+    "pt": "A oitava exposição «Sítios», do passado tipográfico e jornalístico de Tomar à cidade de hoje. Até 27 de dezembro.",
+    "es": "La octava muestra «Sítios», del pasado tipográfico y periodístico de Tomar a la ciudad de hoy. Hasta el 27 de diciembre."
    },
    "place": {
-    "en": "Casa Vieira Guimarães",
-    "pt": "Casa Vieira Guimarães",
-    "es": "Casa Vieira Guimarães"
+    "en": "Complexo Cultural da Levada",
+    "pt": "Complexo Cultural da Levada",
+    "es": "Complexo Cultural da Levada"
+   }
+  },
+  {
+   "date": "2026-10-17",
+   "dateEnd": "2026-12-27",
+   "time": null,
+   "featured": false,
+   "free": true,
+   "icon": "star",
+   "photo": null,
+   "url": null,
+   "when": {
+    "en": "Wed–Sun · until 27 Dec",
+    "pt": "Qua–Dom · até 27 dez",
+    "es": "Mié–Dom · hasta el 27 dic"
+   },
+   "title": {
+    "en": "Paisagens Onde Fiquei: paintings",
+    "pt": "Paisagens Onde Fiquei: pintura",
+    "es": "Paisagens Onde Fiquei: pintura"
+   },
+   "text": {
+    "en": "Paintings by Catarina Tavares. Wed–Fri 14:00–17:00; weekends 10:00–12:00 and 14:00–17:00.",
+    "pt": "Pintura de Catarina Tavares. Quarta a sexta, 14h–17h; fins de semana, 10h–12h e 14h–17h.",
+    "es": "Pinturas de Catarina Tavares. De miércoles a viernes, 14:00–17:00; fines de semana, 10:00–12:00 y 14:00–17:00."
+   },
+   "place": {
+    "en": "Casa Manuel Guimarães",
+    "pt": "Casa Manuel Guimarães",
+    "es": "Casa Manuel Guimarães"
    }
   }
  ],
  "news": [
   {
-   "cat": "camara",
-   "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/tomar-taxa-turistica-de-dois-euros-por-dormida-entra-em-vigor-a-1-de-novembro/",
-   "head": {
-    "en": "Tomar's €2-a-night tourist tax starts on 1 November",
-    "pt": "Taxa turística de 2 € por noite começa a 1 de novembro",
-    "es": "La tasa turística de 2 € por noche empieza el 1 de noviembre"
-   },
-   "body": {
-    "en": "Guests aged 13 and over pay €2 per person per night in the concelho's lodgings, all year, for up to five nights in a row.",
-    "pt": "Hóspedes a partir dos 13 anos pagam 2 € por pessoa e por noite no alojamento do concelho, todo o ano, até cinco noites seguidas.",
-    "es": "Los huéspedes desde 13 años pagan 2 € por persona y noche en los alojamientos del concelho, todo el año, hasta cinco noches seguidas."
-   }
-  },
-  {
-   "cat": "community",
-   "src": "O Templário",
-   "url": "https://otemplario.pt/uls-do-medio-tejo-rescinde-contrato-da-obra-de-pedopsiquiatria-em-tomar-apos-sucessivos-atrasos/",
-   "head": {
-    "en": "Child psychiatry building: works contract cancelled",
-    "pt": "Pedopsiquiatria: contrato da obra rescindido",
-    "es": "Psiquiatría infantil: rescindido el contrato de la obra"
-   },
-   "body": {
-    "en": "After missed deadlines, ULS Médio Tejo ended the contract for the new building at Tomar hospital and is preparing a new tender. Care goes on meanwhile.",
-    "pt": "Depois de prazos falhados, a ULS Médio Tejo rescindiu o contrato do novo edifício no hospital de Tomar e prepara novo concurso. As consultas continuam.",
-    "es": "Tras varios plazos incumplidos, la ULS Médio Tejo rescindió el contrato del nuevo edificio del hospital de Tomar y prepara otro concurso. La atención sigue."
-   }
-  },
-  {
    "cat": "environment",
-   "src": "Cidade de Tomar",
-   "url": "https://www.cidadetomar.pt/2026/10/28/atualidade/mata-dos-sete-montes-reabre-parcialmente-apos-nove-meses-de-recuperacao-e-vai-ser-proposta-para-monumento-nacional/",
+   "src": "Rádio Hertz",
+   "url": "https://radiohertz.pt/tomar-depressao-bruna-ameaca-com-chuva-intensa-e-ventos-fortes-ate-13-de-novembro/",
    "head": {
-    "en": "Mata dos Sete Montes partly reopens after the storm",
-    "pt": "Mata dos Sete Montes reabre em parte depois da tempestade",
-    "es": "La Mata dos Sete Montes reabre en parte tras la tormenta"
+    "en": "Storm Bruna brings heavy rain and wind until Friday",
+    "pt": "Depressão Bruna traz chuva forte e vento até sexta",
+    "es": "La borrasca Bruna trae lluvia fuerte y viento hasta el viernes"
    },
    "body": {
-    "en": "Closed nine months after storm Kristin, it partly reopened on 26 October. Mayor Tiago Carrão will propose it as a Monumento Nacional.",
-    "pt": "Fechada nove meses após a tempestade Kristin, reabriu em parte a 26 de outubro. Tiago Carrão vai propô-la a Monumento Nacional.",
-    "es": "Cerrada nueve meses tras la tormenta Kristin, reabrió en parte el 26 de octubre. El alcalde Tiago Carrão la propondrá como Monumento Nacional."
-   }
-  },
-  {
-   "cat": "camara",
-   "src": "O Templário",
-   "url": "https://otemplario.pt/mercadona-em-tomar-camara-vai-votar-intervencao-na-avenida-e-compensacao-de-138-mil-euros/",
-   "head": {
-    "en": "Câmara votes on Monday on the Mercadona avenue works",
-    "pt": "Câmara vota na segunda-feira obras na avenida do Mercadona",
-    "es": "La Câmara vota el lunes las obras de la avenida del Mercadona"
-   },
-   "body": {
-    "en": "On 2 November the council votes on reshaping Av. Maria de Lourdes de Mello e Castro, with a cycle lane, and a €138,591 payment to the town.",
-    "pt": "A 2 de novembro, a Câmara vota a requalificação da Av. Maria de Lourdes de Mello e Castro, com ciclovia, e uma compensação de 138 591 €.",
-    "es": "El 2 de noviembre la Câmara vota la reforma de la Av. Maria de Lourdes de Mello e Castro, con carril bici, y una compensación de 138 591 €."
+    "en": "IPMA expects the weather to worsen from Sunday and stay unsettled until 13 November.",
+    "pt": "O IPMA prevê agravamento a partir de domingo e tempo instável até 13 de novembro.",
+    "es": "El IPMA prevé que empeore desde el domingo y siga inestable hasta el 13 de noviembre."
    }
   },
   {
    "cat": "culture",
-   "src": "O Templário",
-   "url": "https://otemplario.pt/camara-de-tomar-vai-votar-atribuicao-da-medalha-municipal-de-merito-de-grau-ouro-a-atriz-isabel-ruth/",
+   "src": "Rádio Hertz",
+   "url": "https://radiohertz.pt/tomar-festa-dos-tabuleiros-junta-urbana-abre-inscricoes-online-para-o-cortejo-e-desta-forma-evita-filas-durante-horas-a-fio-para-guardar-vagas-interessados-ja-podem-efetuar-registo-previ/",
    "head": {
-    "en": "Gold medal proposed for Tomar-born actress Isabel Ruth",
-    "pt": "Medalha de ouro proposta para a atriz tomarense Isabel Ruth",
-    "es": "Medalla de oro propuesta para la actriz tomarense Isabel Ruth"
+    "en": "Tabuleiros 2027: online sign-up for the parade opens 20 November",
+    "pt": "Tabuleiros 2027: inscrições online no Cortejo abrem a 20 de novembro",
+    "es": "Tabuleiros 2027: las inscripciones online para el desfile abren el 20"
    },
    "body": {
-    "en": "The Câmara votes on 2 November on its gold Medal of Merit for the actress, born in Tomar in 1940 and known for Os Verdes Anos (1963).",
-    "pt": "A Câmara vota a 2 de novembro a Medalha Municipal de Mérito, grau ouro, para a atriz, nascida em Tomar em 1940, de Os Verdes Anos (1963).",
-    "es": "La Câmara vota el 2 de noviembre su Medalla al Mérito de oro para la actriz, nacida en Tomar en 1940 y conocida por Os Verdes Anos (1963)."
+    "en": "The urban Junta moves sign-up online to end the queues. Pre-registration is already open and needed to enrol.",
+    "pt": "A Junta urbana passa as inscrições para a internet para acabar com as filas. O registo prévio já está aberto e é obrigatório.",
+    "es": "La Junta urbana pasa las inscripciones a internet para acabar con las colas. El registro previo ya está abierto y es obligatorio."
    }
   },
   {
-   "cat": "environment",
-   "src": "O Templário",
-   "url": "https://otemplario.pt/tejo-ambiente-anuncia-financiamento-europeu-de-640-mil-euros-para-obras-de-12-milhoes-em-tomar/",
+   "cat": "camara",
+   "src": "Rádio Hertz",
+   "url": "https://radiohertz.pt/tomar-demolicao-do-edificio-da-abegoaria-comeca-na-segunda-feira-este-e-um-compromisso-com-os-trabalhadores-reforca-tiago-carrao/",
    "head": {
-    "en": "€640,000 in EU funds for water and sewers in Paialvo",
-    "pt": "640 mil euros europeus para água e saneamento em Paialvo",
-    "es": "640 000 € europeos para agua y saneamiento en Paialvo"
+    "en": "Abegoaria demolition starts on Monday, facades kept",
+    "pt": "Demolição da Abegoaria começa segunda-feira e mantém fachadas",
+    "es": "La demolición de la Abegoaria empieza el lunes y conserva fachadas"
    },
    "body": {
-    "en": "Tejo Ambiente's €1.2 million project brings new sewers and a longer water network to Paialvo, with Centro 2030 money.",
-    "pt": "O projeto de 1,2 milhões da Tejo Ambiente leva novo saneamento e mais rede de água a Paialvo, com verbas do Centro 2030.",
-    "es": "El proyecto de 1,2 millones de Tejo Ambiente lleva nuevo saneamiento y más red de agua a Paialvo, con fondos del Centro 2030."
+    "en": "The run-down council cleaning-services building near the station comes down from 9 November, to be rebuilt behind its old fronts.",
+    "pt": "O edifício degradado dos serviços de higiene e limpeza, junto à estação, começa a ser demolido a 9 de novembro e será requalificado.",
+    "es": "El edificio deteriorado de los servicios de limpieza, junto a la estación, se derriba desde el 9 de noviembre y será rehabilitado."
+   }
+  },
+  {
+   "cat": "camara",
+   "src": "Rádio Hertz",
+   "url": "https://radiohertz.pt/tomar-obras-na-biblioteca-comecam-no-segundo-trimestre-de-2027-espaco-de-portas-fechadas-durante-15-meses/",
+   "head": {
+    "en": "Municipal library to close for 15 months from spring 2027",
+    "pt": "Biblioteca municipal fecha 15 meses a partir da primavera de 2027",
+    "es": "La biblioteca municipal cerrará 15 meses desde la primavera de 2027"
+   },
+   "body": {
+    "en": "About €1.4 million of works, starting in the second quarter of 2027, bring a new heating and cooling system.",
+    "pt": "Cerca de 1,4 milhões de euros em obras, a partir do 2.º trimestre de 2027, trazem novo sistema de climatização.",
+    "es": "Unos 1,4 millones de euros en obras, desde el segundo trimestre de 2027, traen un nuevo sistema de climatización."
+   }
+  },
+  {
+   "cat": "community",
+   "src": "Rádio Hertz",
+   "url": "https://radiohertz.pt/tomar-e-cenario-praticamente-certo-agua-e-saneamento-sobem-25-em-2027-aumento-nos-residuos-chegara-aos-5/",
+   "head": {
+    "en": "Water and sewerage bills set to rise 2.5% in 2027",
+    "pt": "Água e saneamento devem subir 2,5% em 2027",
+    "es": "El agua y el saneamiento subirán un 2,5 % en 2027"
+   },
+   "body": {
+    "en": "The Tejo Ambiente rise is almost certain; waste charges could go up by as much as 5%.",
+    "pt": "O aumento da Tejo Ambiente é praticamente certo; a tarifa dos resíduos poderá subir até 5%.",
+    "es": "La subida de Tejo Ambiente es casi segura; la tasa de residuos podría subir hasta un 5 %."
+   }
+  },
+  {
+   "cat": "community",
+   "src": "mediotejo.net",
+   "url": "https://mediotejo.net/ministro-desconhecia-10-mil-cartas-por-entregar-em-tomar-e-prometeu-pedir-esclarecimentos-aos-ctt/",
+   "head": {
+    "en": "10,000 undelivered letters: minister will ask CTT to explain",
+    "pt": "10 mil cartas por entregar: ministro vai pedir explicações aos CTT",
+    "es": "10 000 cartas sin entregar: el ministro pedirá explicaciones a CTT"
+   },
+   "body": {
+    "en": "Asked in Parliament by PS MP Hugo Costa, minister Miguel Pinto Luz said he had not known of the backlog in Tomar.",
+    "pt": "Questionado no Parlamento pelo deputado do PS Hugo Costa, o ministro Miguel Pinto Luz disse desconhecer o atraso em Tomar.",
+    "es": "Preguntado en el Parlamento por el diputado del PS Hugo Costa, el ministro Miguel Pinto Luz dijo desconocer el retraso en Tomar."
    }
   },
   {
    "cat": "sport",
-   "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/futebol-1-a-distrital-u-tomar-sai-goleado-de-porto-alto-e-samora-correia-e-lider-isolado/",
+   "src": "O Templário",
+   "url": "https://otemplario.pt/patricia-sampaio-conquista-a-prata-no-grand-slam-de-abu-dhabi/",
    "head": {
-    "en": "União de Tomar lose 5–1 at Porto Alto, third defeat in a row",
-    "pt": "União de Tomar perde 5–1 em Porto Alto, terceira derrota seguida",
-    "es": "El União de Tomar pierde 5–1 en Porto Alto, tercera derrota seguida"
+    "en": "Patrícia Sampaio takes silver at the Abu Dhabi Grand Slam",
+    "pt": "Patrícia Sampaio conquista a prata no Grand Slam de Abu Dhabi",
+    "es": "Patrícia Sampaio logra la plata en el Grand Slam de Abu Dabi"
    },
    "body": {
-    "en": "The 1.ª Distrital result drops União to seventh; Samora Correia now lead on their own.",
-    "pt": "O resultado na 1.ª Distrital deixa o União em sétimo; o Samora Correia é líder isolado.",
-    "es": "El resultado en la 1.ª Distrital deja al União séptimo; el Samora Correia es líder en solitario."
-   }
-  }
- ],
- "coming": [
-  {
-   "when": {
-    "en": "Sun 8 Nov",
-    "pt": "Dom 8 nov",
-    "es": "Dom 8 nov"
-   },
-   "text": {
-    "en": "Second day of the steam train; Filarmonias concerts at the Lar da Misericórdia (11:00) and in Madalena e Beselga (16:00).",
-    "pt": "Segundo dia do comboio a vapor; concertos Filarmonias no Lar da Misericórdia (11h) e em Madalena e Beselga (16h).",
-    "es": "Segundo día del tren de vapor; conciertos Filarmonias en el Lar da Misericórdia (11:00) y en Madalena e Beselga (16:00)."
-   }
-  },
-  {
-   "when": {
-    "en": "Fri 13 Nov",
-    "pt": "Sex 13 nov",
-    "es": "Vie 13 nov"
-   },
-   "text": {
-    "en": "Festival Zero: soprano Eduarda Melo sings 17th-century songs at the Cine-Teatro Paraíso, 21:30, €5.",
-    "pt": "Festival Zero: a soprano Eduarda Melo canta música do século XVII no Cine-Teatro Paraíso, 21h30, 5 €.",
-    "es": "Festival Zero: la soprano Eduarda Melo canta música del siglo XVII en el Cine-Teatro Paraíso, 21:30, 5 €."
-   }
-  },
-  {
-   "when": {
-    "en": "Fri 13 Nov",
-    "pt": "Sex 13 nov",
-    "es": "Vie 13 nov"
-   },
-   "text": {
-    "en": "Fatias de Cá's «O Con(s)certo» at the Nabantina, 21:21, €11.11.",
-    "pt": "«O Con(s)certo», dos Fatias de Cá, na Nabantina, 21h21, 11,11 €.",
-    "es": "«O Con(s)certo», de Fatias de Cá, en la Nabantina, 21:21, 11,11 €."
-   }
-  },
-  {
-   "when": {
-    "en": "Sat 14 Nov",
-    "pt": "Sáb 14 nov",
-    "es": "Sáb 14 nov"
-   },
-   "text": {
-    "en": "Festival Zero closes with «Pensão Marilu» by Teatro Montemuro at the Cine-Teatro Paraíso, 21:30; band concerts in Furadouro (16:00) and Serra (21:00).",
-    "pt": "O Festival Zero fecha com «Pensão Marilu», do Teatro Montemuro, no Cine-Teatro Paraíso, 21h30; concertos no Furadouro (16h) e na Serra (21h).",
-    "es": "El Festival Zero cierra con «Pensão Marilu», de Teatro Montemuro, en el Cine-Teatro Paraíso, 21:30; conciertos en Furadouro (16:00) y Serra (21:00)."
+    "en": "Tomar's judoka lost the -78 kg final to the reigning world champion.",
+    "pt": "A judoca de Tomar perdeu a final dos -78 kg frente à atual campeã do mundo.",
+    "es": "La judoca de Tomar perdió la final de -78 kg ante la actual campeona del mundo."
    }
   }
  ],
  "fact": {
-  "id": "grid-streets",
-  "en": "The straight, criss-crossing streets of Tomar's centre are no accident: the grid was laid out in the time of Henry the Navigator, who ran the town through the Order of Christ.",
-  "pt": "As ruas direitas e cruzadas do centro de Tomar não são obra do acaso: a quadrícula foi traçada no tempo do Infante D. Henrique, que governava a vila através da Ordem de Cristo.",
-  "es": "Las calles rectas y cruzadas del centro de Tomar no son casualidad: la cuadrícula se trazó en tiempos de Enrique el Navegante, que gobernaba la villa a través de la Orden de Cristo."
+  "id": "manueline-window",
+  "en": "The chapter-house window of the Convento de Cristo, carved by Diogo de Arruda around 1510, is one of the best-known works of the Manueline style, with ropes, coral and knots in stone.",
+  "pt": "A janela do capítulo do Convento de Cristo, esculpida por Diogo de Arruda por volta de 1510, é uma das obras mais conhecidas do estilo manuelino, com cordas, corais e nós em pedra.",
+  "es": "La ventana de la sala capitular del Convento de Cristo, tallada por Diogo de Arruda hacia 1510, es una de las obras más conocidas del estilo manuelino, con cuerdas, corales y nudos en piedra."
  },
- "whatsapp": {
-  "en": "This Week in Tomar (1–7 Nov): Pão-por-Deus and where it comes from, a Templar steam train on 7–8 Nov, and the new €2 tourist tax. https://vamostomar.pt/weekly/?lang=en",
-  "pt": "Esta Semana em Tomar (1–7 nov): o Pão-por-Deus e a sua história, o comboio a vapor templário a 7 e 8 e a nova taxa turística de 2 €. https://vamostomar.pt/weekly/",
-  "es": "Esta Semana en Tomar (1–7 nov): el Pão-por-Deus y su historia, un tren de vapor templario el 7 y 8 y la nueva tasa turística de 2 €. https://vamostomar.pt/weekly/?lang=es"
- },
- "instagram": {
-  "spotlight": {
-   "caption": "No domingo, 1 de novembro, é dia de Pão-por-Deus: as crianças saem de manhã a bater de porta em porta. 🍞\n\n«Pão por Deus, fiel de Deus, bolinho no saco, andai com Deus.»\nPara o saco de pano vão pão, broas, romãs, frutos secos e castanhas.\nÉ um costume ligado à memória dos mortos e ao velho hábito de repartir pão pelos pobres, e tem vindo a perder-se. Tenham umas broas à porta!\n\nA história completa sai no domingo às 8h, em «Esta Semana em Tomar» — link na bio.\n\n#vamostomar #tomar #paopordeus #tradicoesportuguesas",
-   "en": "On Sunday, 1 November, it's Pão-por-Deus: children go out in the morning knocking from door to door. 🍞\n\n\"Bread for God, faithful of God, a little cake in the bag, go with God.\"\nInto the cloth bag go bread, broas, pomegranates, nuts and chestnuts.\nIt's a custom tied to the memory of the dead and the old habit of sharing bread with the poor, and it's been fading. Keep some broas by the door!\n\nThe full story comes out on Sunday at 8am in \"This Week in Tomar\" — link in bio.",
-   "alt": {
-    "pt": "No domingo há crianças à porta? É Pão-por-Deus, e tem mais história do que parece. 🍞",
-    "en": "Children at the door on Sunday? It's Pão-por-Deus, and it has more history than you'd think. 🍞"
+ "coming": [
+  {
+   "when": {
+    "en": "Sun 15 Nov",
+    "pt": "Dom 15 nov",
+    "es": "Dom 15 nov"
    },
-   "check": [
-    "No business spotlight this week (paid partnerships only from now on): this is a Pão-por-Deus post instead."
-   ]
+   "text": {
+    "en": "Filarmonias: the Pedreira band plays at the Festa da Asseiceira grounds, 16:00, free.",
+    "pt": "Filarmonias: a Banda da Pedreira toca no recinto da Festa da Asseiceira, 16h, entrada livre.",
+    "es": "Filarmonias: la banda de Pedreira toca en el recinto de la Festa da Asseiceira, 16:00, gratis."
+   }
   },
-  "edition": {
-   "caption": "🗞️ «Esta Semana em Tomar» n.º 6 já está no ar: de 1 a 7 de novembro.\n\nNesta edição:\n🍞 Hoje é dia de Pão-por-Deus: a tradição e a sua história\n🚂 O comboio histórico a vapor templário chega a Tomar a 7 e 8 de novembro\n🏨 A taxa turística de 2 € por noite entra hoje em vigor\n🌳 A Mata dos Sete Montes reabriu e vai ser proposta a Monumento Nacional\n\nE ainda o tempo, os eventos e uma curiosidade da semana. Leiam em vamostomar.pt (link na bio).\n\n#vamostomar #tomar #tomarportugal #paopordeus #comboioavapor",
-   "en": "🗞️ \"This Week in Tomar\" no. 6 is out: 1 to 7 November.\n\nIn this edition:\n🍞 Today is Pão-por-Deus: the tradition and its history\n🚂 The historic Templar steam train comes to Tomar on 7 and 8 November\n🏨 The €2-a-night tourist tax starts today\n🌳 The Mata dos Sete Montes has reopened and will be proposed as a National Monument\n\nPlus the weather, the events and a fact of the week. Read it at vamostomar.pt (link in bio).",
-   "check": [
-    "CP / Museu Nacional Ferroviário not tagged (handles not confirmed).",
-    "The Halloween winner is a separate post."
-   ]
+  {
+   "when": {
+    "en": "Thu 19 Nov",
+    "pt": "Qui 19 nov",
+    "es": "Jue 19 nov"
+   },
+   "text": {
+    "en": "Duo Contracello (cello and double bass) at the Igreja da Misericórdia, 19:15.",
+    "pt": "Duo Contracello (violoncelo e contrabaixo) na Igreja da Misericórdia, 19h15.",
+    "es": "Duo Contracello (violonchelo y contrabajo) en la Igreja da Misericórdia, 19:15."
+   }
+  },
+  {
+   "when": {
+    "en": "Fri 20 Nov",
+    "pt": "Sex 20 nov",
+    "es": "Vie 20 nov"
+   },
+   "text": {
+    "en": "Online sign-up for the 2027 Cortejo dos Tabuleiros opens.",
+    "pt": "Abrem as inscrições online para o Cortejo dos Tabuleiros 2027.",
+    "es": "Abren las inscripciones online para el Cortejo dos Tabuleiros 2027."
+   }
+  },
+  {
+   "when": {
+    "en": "Sat 21 Nov",
+    "pt": "Sáb 21 nov",
+    "es": "Sáb 21 nov"
+   },
+   "text": {
+    "en": "«Welcome to Europe» by Ricardo Correia at the Levada, 18:00, €5; band concerts in Portela (16:00) and Olalhas (21:00).",
+    "pt": "«Welcome to Europe», de Ricardo Correia, na Levada, 18h, 5 €; filarmónicas na Portela (16h) e em Olalhas (21h).",
+    "es": "«Welcome to Europe», de Ricardo Correia, en la Levada, 18:00, 5 €; bandas en Portela (16:00) y Olalhas (21:00)."
+   }
   }
+ ],
+ "whatsapp": {
+  "en": "This Week in Tomar (8–14 Nov): São Martinho on Wednesday, Festival Zero's last weekend and free band concerts in the parishes. https://vamostomar.pt/weekly/?lang=en",
+  "pt": "Esta Semana em Tomar (8–14 nov): São Martinho na quarta, o último fim de semana do Festival Zero e concertos gratuitos de filarmónicas nas freguesias. https://vamostomar.pt/weekly/",
+  "es": "Esta Semana en Tomar (8–14 nov): San Martín el miércoles, el último fin de semana del Festival Zero y conciertos gratuitos de bandas en las freguesias. https://vamostomar.pt/weekly/?lang=es"
  },
  "sourcesChecked": [
   {
-   "src": "MET Norway (Tomar)",
+   "src": "MET Norway",
    "ok": true,
    "items": 7
   },
   {
-   "src": "IPMA warnings (Santarém)",
+   "src": "IPMA warnings (STM)",
    "ok": true,
    "items": 0
   },
   {
    "src": "Rádio Hertz (local)",
    "ok": true,
-   "items": 20
+   "items": 23
   },
   {
    "src": "Rádio Hertz (desporto)",
@@ -562,7 +595,7 @@
   {
    "src": "O Templário",
    "ok": true,
-   "items": 20
+   "items": 26
   },
   {
    "src": "Cidade de Tomar",
@@ -571,62 +604,37 @@
   },
   {
    "src": "mediotejo.net",
-   "ok": false,
-   "items": 0
+   "ok": true,
+   "items": 10
   },
   {
    "src": "Cine-Teatro Paraíso",
    "ok": true,
-   "items": 3
+   "items": 9
   },
   {
-   "src": "live.json",
-   "ok": true,
-   "items": 12
+   "src": "cm-tomar.pt agenda",
+   "ok": false,
+   "items": 0
   }
  ],
- "cover": {
-  "lines": [
-   {
-    "label": {
-     "en": "The big one",
-     "pt": "Em destaque",
-     "es": "Lo más destacado"
-    },
-    "text": {
-     "en": "A Templar steam train comes to Tomar, 7–8 Nov",
-     "pt": "Comboio a vapor templário em Tomar, 7–8 nov",
-     "es": "Un tren de vapor templario llega a Tomar, 7–8 nov"
-    },
-    "href": "#feature"
+ "instagram": {
+  "spotlight": {
+   "caption": "Quarta-feira, 11 de novembro, é dia de São Martinho: lume, castanhas e vinho novo. 🌰\n\nConta a lenda que o soldado Martinho cortou a capa ao meio para a dar a um pobre, num dia de chuva e frio. Nesse momento a chuva parou e o sol apareceu: é o «verão de São Martinho».\n\nEste ano a depressão Bruna não deve deixar o sol aparecer, mas o magusto faz-se na mesma. Castanhas golpeadas, vinho novo, água-pé ou jeropiga, e como diz o ditado: «No dia de São Martinho, vai à adega e prova o vinho.» 🍷\n\nA história completa sai no domingo às 8h, em «Esta Semana em Tomar» — link na bio.\n\n#vamostomar #tomar #saomartinho #magusto",
+   "en": "Wednesday 11 November is São Martinho: fire, chestnuts and new wine. 🌰\n\nLegend has it the soldier Martin cut his cloak in half to give it to a beggar on a cold, rainy day. At that moment the rain stopped and the sun came out: that's the \"São Martinho summer\".\n\nThis year Storm Bruna probably won't let the sun through, but the magusto happens anyway. Chestnuts with a cut in them, new wine, água-pé or jeropiga, and as the saying goes: \"On São Martinho's day, go to the cellar and taste the wine.\" 🍷\n\nThe full story is out on Sunday at 8am in \"This Week in Tomar\" — link in bio.",
+   "alt": {
+    "pt": "Castanhas no lume e vinho novo no copo: quarta-feira, 11 de novembro, é dia de São Martinho. 🌰",
+    "en": "Chestnuts on the fire and new wine in the glass: Wednesday 11 November is São Martinho. 🌰"
    },
-   {
-    "label": {
-     "en": "Don't miss",
-     "pt": "A não perder",
-     "es": "No te pierdas"
-    },
-    "text": {
-     "en": "Festival Zero's photography days",
-     "pt": "Os Dias da Fotografia do Festival Zero",
-     "es": "Los días de la fotografía del Festival Zero"
-    },
-    "href": "#dm-h"
-   },
-   {
-    "label": {
-     "en": "News",
-     "pt": "Notícias",
-     "es": "Noticias"
-    },
-    "text": {
-     "en": "The €2-a-night tourist tax starts today",
-     "pt": "A taxa turística de 2 € por noite começa hoje",
-     "es": "La tasa turística de 2 € por noche empieza hoy"
-    },
-    "href": "#nw-h"
-   }
-  ]
+   "check": []
+  },
+  "edition": {
+   "caption": "🗞️ «Esta Semana em Tomar» n.º 7 já está no ar: de 8 a 14 de novembro.\n\nNesta edição:\n🌰 São Martinho na quarta: a capa, as castanhas e o vinho novo\n🎭 Último fim de semana do Festival Zero no Cine-Teatro Paraíso\n🎺 Concertos gratuitos de filarmónicas nas freguesias\n🌧️ Depressão Bruna: chuva e vento até sexta\n\nE ainda o tempo, as notícias e uma curiosidade da semana. Leiam em vamostomar.pt (link na bio).\n\n#vamostomar #tomar #tomarportugal #saomartinho",
+   "en": "🗞️ \"This Week in Tomar\" no. 7 is live: 8 to 14 November.\n\nIn this edition:\n🌰 São Martinho on Wednesday: the cloak, the chestnuts and the new wine\n🎭 Festival Zero's last weekend at the Cine-Teatro Paraíso\n🎺 Free philharmonic band concerts in the parishes\n🌧️ Storm Bruna: rain and wind until Friday\n\nPlus the weather, the news and a fact of the week. Read it at vamostomar.pt (link in bio).",
+   "check": [
+    "Festival Zero / Espaçozero Teatro and Cine-Teatro Paraíso: @ handles not confirmed, left as plain names. Add them if you know them."
+   ]
+  }
  },
- "confirmedAt": "2026-11-01T00:26:14.826Z"
+ "confirmedAt": "2026-11-07T13:12:28.759Z"
 }
