@@ -1,118 +1,113 @@
 {
  "schema": 2,
- "date": "2026-11-08",
- "edition": 7,
- "publishAt": "2026-11-08T08:00:00+00:00",
- "generatedAt": "2026-11-07T13:03:59Z",
+ "date": "2026-11-15",
+ "edition": 8,
+ "publishAt": "2026-11-15T08:00:00+00:00",
+ "generatedAt": "2026-11-14T10:52:31Z",
  "range": {
-  "en": "8 – 14 November 2026",
-  "pt": "8 – 14 de novembro de 2026",
-  "es": "8 – 14 de noviembre de 2026"
+  "en": "15–21 November 2026",
+  "pt": "15–21 de novembro de 2026",
+  "es": "15–21 de noviembre de 2026"
  },
  "weather": {
   "source": "MET Norway",
   "note": {
-   "en": "Mild but wet all week as Storm Bruna passes: the heaviest rain on Tuesday and Wednesday, cooler by Saturday.",
-   "pt": "Semana amena mas molhada com a passagem da depressão Bruna: chuva mais forte na terça e na quarta, mais fresco no sábado.",
-   "es": "Semana templada pero lluviosa con el paso de la borrasca Bruna: lo más intenso el martes y el miércoles, más fresco el sábado."
+   "en": "Mild and changeable: showers on Sunday and Tuesday, a dry, sunny Thursday, then heavy rain on Friday.",
+   "pt": "Ameno e instável: aguaceiros no domingo e na terça, uma quinta-feira seca e com sol, e chuva forte na sexta.",
+   "es": "Templado y variable: chubascos el domingo y el martes, un jueves seco y soleado, y lluvia fuerte el viernes."
   },
   "days": [
    {
-    "date": "2026-11-08",
-    "icon": "showers",
-    "max": 22,
-    "min": 15,
-    "rain": 12.6
-   },
-   {
-    "date": "2026-11-09",
-    "icon": "showers",
-    "max": 21,
-    "min": 16,
-    "rain": 17.3
-   },
-   {
-    "date": "2026-11-10",
-    "icon": "rain",
-    "max": 18,
-    "min": 16,
-    "rain": 27.8
-   },
-   {
-    "date": "2026-11-11",
-    "icon": "rain",
-    "max": 18,
-    "min": 16,
-    "rain": 15.9
-   },
-   {
-    "date": "2026-11-12",
+    "date": "2026-11-15",
     "icon": "showers",
     "max": 17,
-    "min": 14,
-    "rain": 6.1
+    "min": 12,
+    "rain": 4.7
    },
    {
-    "date": "2026-11-13",
+    "date": "2026-11-16",
+    "icon": "partly",
+    "max": 20,
+    "min": 12,
+    "rain": 0.6
+   },
+   {
+    "date": "2026-11-17",
     "icon": "rain",
-    "max": 18,
-    "min": 13,
-    "rain": 6.6
+    "max": 19,
+    "min": 15,
+    "rain": 7
    },
    {
-    "date": "2026-11-14",
+    "date": "2026-11-18",
+    "icon": "partly",
+    "max": 20,
+    "min": 16,
+    "rain": 2.3
+   },
+   {
+    "date": "2026-11-19",
+    "icon": "sun",
+    "max": 17,
+    "min": 11,
+    "rain": 0.3
+   },
+   {
+    "date": "2026-11-20",
     "icon": "rain",
     "max": 15,
-    "min": 12,
-    "rain": 7.8
+    "min": 11,
+    "rain": 24.4
+   },
+   {
+    "date": "2026-11-21",
+    "icon": "cloud",
+    "max": 18,
+    "min": 14,
+    "rain": 3.4
    }
   ]
  },
  "spotlight": {
-  "listing": "sao-martinho",
+  "listing": "tabuleiros-2027",
   "name": {
-   "en": "São Martinho",
-   "pt": "São Martinho",
-   "es": "San Martín"
+   "en": "Festa dos Tabuleiros 2027",
+   "pt": "Festa dos Tabuleiros 2027",
+   "es": "Festa dos Tabuleiros 2027"
   },
   "dek": {
-   "en": "Chestnuts, new wine and half a cloak: Wednesday is São Martinho.",
-   "pt": "Castanhas, vinho novo e meia capa: quarta-feira é dia de São Martinho.",
-   "es": "Castañas, vino nuevo y media capa: el miércoles es San Martín."
+   "en": "Thirty loaves, a crown and a white dress: sign-up for the 2027 parade opens on Friday.",
+   "pt": "Trinta pães, uma coroa e um vestido branco: inscrições para o Cortejo de 2027 abrem sexta.",
+   "es": "Treinta panes, una corona y un vestido blanco: inscripciones para 2027 desde el viernes."
   },
   "title": {
-   "en": "Half a cloak, a fire and a bag of chestnuts",
-   "pt": "Meia capa, uma fogueira e castanhas assadas",
-   "es": "Media capa, una hoguera y castañas asadas"
+   "en": "Your place in the 2027 parade",
+   "pt": "O seu lugar no Cortejo de 2027",
+   "es": "Tu sitio en el desfile de 2027"
   },
   "story": [
    {
-    "en": "Wednesday 11 November is São Martinho, the day Portugal lights the fire for the magusto. Martin was born in 316 in Pannonia, served as a Roman soldier in Gaul and later became bishop of Tours. He died in 397, and his feast falls on the day he was buried in Tours.",
-    "pt": "Quarta-feira, 11 de novembro, é dia de São Martinho, o dia em que o país acende a fogueira do magusto. Martinho nasceu em 316, na Panónia, foi soldado romano na Gália e mais tarde bispo de Tours. Morreu em 397, e a festa cai no dia em que foi sepultado em Tours.",
-    "es": "El miércoles 11 de noviembre es San Martín, el día en que Portugal enciende la hoguera del magusto. Martín nació en 316 en Panonia, fue soldado romano en la Galia y más tarde obispo de Tours. Murió en 397, y su fiesta cae el día en que fue enterrado en Tours."
+    "en": "Tomar holds the Festa dos Tabuleiros only once every four years, and the next one runs from 3 to 12 July 2027. The first step comes now: on Friday 20 November the Junta de Freguesia de São João Baptista e Santa Maria dos Olivais opens sign-up for its places in the Cortejo.",
+    "pt": "Tomar só faz a Festa dos Tabuleiros de quatro em quatro anos, e a próxima decorre de 3 a 12 de julho de 2027. O primeiro passo é agora: na sexta-feira, 20 de novembro, a Junta de Freguesia de São João Baptista e Santa Maria dos Olivais abre as inscrições para os seus lugares no Cortejo.",
+    "es": "Tomar celebra la Festa dos Tabuleiros solo cada cuatro años, y la próxima será del 3 al 12 de julio de 2027. El primer paso llega ahora: el viernes 20 de noviembre la Junta de Freguesia de São João Baptista e Santa Maria dos Olivais abre las inscripciones para sus plazas en el Cortejo."
    },
    {
-    "en": "The story everyone knows: on a cold, wet day the soldier cut his cloak in two and gave half to a beggar. At that moment, the legend goes, the rain stopped and the sun came out. That is the 'Verão de São Martinho', the few mild days that often turn up around 11 November.",
-    "pt": "A história que todos conhecem: num dia frio e chuvoso, o soldado cortou a capa ao meio e deu metade a um pobre. Nesse momento, diz a lenda, a chuva parou e o sol apareceu. É o «verão de São Martinho», os dias amenos que tantas vezes surgem por volta de 11 de novembro.",
-    "es": "La historia que todos conocen: en un día frío y lluvioso, el soldado cortó su capa en dos y dio la mitad a un mendigo. En ese momento, dice la leyenda, dejó de llover y salió el sol. Es el «veranillo de San Martín», los días templados que a menudo llegan hacia el 11 de noviembre."
+    "en": "This time it is done online, through the Junta's Balcão Virtual, so nobody has to queue for hours to keep a place. Pre-registration is open already and is required: without it you can't sign up.",
+    "pt": "Desta vez faz-se online, no Balcão Virtual da Junta, para que ninguém tenha de passar horas na fila para guardar lugar. O pré-registo já está aberto e é obrigatório: sem ele não é possível fazer a inscrição.",
+    "es": "Esta vez se hace en línea, en el Balcão Virtual de la Junta, para que nadie tenga que pasar horas en la cola para guardar sitio. El prerregistro ya está abierto y es obligatorio: sin él no se puede hacer la inscripción."
    },
    {
-    "en": "The magusto is simple: friends and family round a fire, chestnuts cut so they don't burst, and the new wine from the last harvest, or água-pé and jeropiga. In many villages people blacken each other's faces with the soot. The saying sums it up: «No dia de São Martinho, vai à adega e prova o vinho».",
-    "pt": "O magusto é simples: amigos e família à volta do lume, castanhas golpeadas para não rebentarem e o vinho novo da última vindima, ou água-pé e jeropiga. Em muitas aldeias, ainda há quem enfarrusque a cara aos outros com a fuligem. O ditado resume tudo: «No dia de São Martinho, vai à adega e prova o vinho».",
-    "es": "El magusto es sencillo: amigos y familia alrededor del fuego, castañas con un corte para que no revienten y el vino nuevo de la última vendimia, o água-pé y jeropiga. En muchos pueblos aún se tiznan la cara unos a otros con el hollín. El refrán lo resume: «No dia de São Martinho, vai à adega e prova o vinho»."
+    "en": "What you carry: a tabuleiro as tall as the girl who bears it, with 30 loaves of 400 g threaded on canes, paper flowers and ears of wheat, and a crown topped by the Cross of Christ or the dove of the Holy Spirit. She wears a long white dress with a coloured sash; the boy beside her wears a tie in the same colour.",
+    "pt": "O que se carrega: um tabuleiro da altura da rapariga, com 30 pães de 400 g enfiados em canas, flores de papel e espigas de trigo, e uma coroa com a Cruz de Cristo ou a pomba do Espírito Santo. Ela leva vestido branco comprido com uma fita colorida ao peito; o rapaz ao lado usa gravata da mesma cor.",
+    "es": "Lo que se lleva: un tabuleiro tan alto como la chica que lo carga, con 30 panes de 400 g ensartados en cañas, flores de papel y espigas, y una corona con la Cruz de Cristo o la paloma del Espíritu Santo. Ella viste de blanco con una banda de color; el chico a su lado, corbata del mismo color."
    },
    {
-    "en": "This year Storm Bruna looks set to keep the São Martinho summer away, so the fire may have to move indoors. Buy a paper cone of roast chestnuts in town, ask at your local café or association about its magusto, and raise a glass of new wine on Wednesday.",
-    "pt": "Este ano a depressão Bruna deve afastar o verão de São Martinho, por isso o lume talvez tenha de ficar dentro de casa. Comprem um cartucho de castanhas assadas na cidade, perguntem no café ou na associação do bairro pelo magusto e provem o vinho novo na quarta-feira.",
-    "es": "Este año la borrasca Bruna parece que alejará el veranillo de San Martín, así que el fuego quizá tenga que quedarse en casa. Comprad un cucurucho de castañas asadas en la ciudad, preguntad en vuestro café o asociación por su magusto y brindad con vino nuevo el miércoles."
+    "en": "The festa grew from the cult of the Holy Spirit and has been on Portugal's national inventory of intangible heritage since 2023. On the Monday after the parade comes the Pêza, when the blessed bread, meat and wine are shared with families in need. If you've ever wanted to walk in it, Friday is the day to start.",
+    "pt": "A festa nasceu do culto do Espírito Santo e está no Inventário Nacional do Património Cultural Imaterial desde 2023. Na segunda-feira a seguir ao Cortejo há a Pêza, quando o pão, a carne e o vinho benzidos são distribuídos pelas famílias mais carenciadas. Se sempre quiseram desfilar, sexta-feira é o dia para começar.",
+    "es": "La fiesta nació del culto al Espíritu Santo y figura desde 2023 en el inventario nacional de patrimonio inmaterial de Portugal. El lunes tras el desfile llega la Pêza, cuando el pan, la carne y el vino bendecidos se reparten entre las familias necesitadas. Si siempre quisiste desfilar, el viernes es el día para empezar."
    }
   ],
-  "photo": "https://vamostomar.pt/data/images/sao-martinho-cover-20261108.webp",
-  "photoAlt": {
-   "en": "Chestnuts roasting by a fire on old cobbles at dusk, beside a red wool cloak with a cross pattée and stone houses behind",
-   "pt": "Castanhas assadas junto a uma fogueira sobre a calçada antiga ao anoitecer, ao lado de uma capa de lã vermelha com uma cruz pátea e casas de pedra ao fundo",
-   "es": "Castañas asadas junto a una hoguera sobre el empedrado antiguo al anochecer, junto a una capa de lana roja con una cruz patada y casas de piedra al fondo"
-  },
+  "photo": null,
   "facts": [
    {
     "k": {
@@ -121,33 +116,45 @@
      "es": "Cuándo"
     },
     "v": {
-     "en": "Wednesday 11 November",
-     "pt": "Quarta-feira, 11 de novembro",
-     "es": "Miércoles 11 de noviembre"
+     "en": "3–12 July 2027",
+     "pt": "3–12 de julho de 2027",
+     "es": "3–12 de julio de 2027"
     }
    },
    {
     "k": {
-     "en": "Who",
-     "pt": "Quem",
-     "es": "Quién"
+     "en": "Sign-up",
+     "pt": "Inscrições",
+     "es": "Inscripciones"
     },
     "v": {
-     "en": "Martin of Tours (316–397)",
-     "pt": "Martinho de Tours (316–397)",
-     "es": "Martín de Tours (316–397)"
+     "en": "From Fri 20 Nov, online",
+     "pt": "A partir de sex. 20 nov, online",
+     "es": "Desde el vie. 20 nov, en línea"
     }
    },
    {
     "k": {
-     "en": "On the table",
-     "pt": "À mesa",
-     "es": "En la mesa"
+     "en": "Where",
+     "pt": "Onde",
+     "es": "Dónde"
     },
     "v": {
-     "en": "Chestnuts, new wine, água-pé, jeropiga",
-     "pt": "Castanhas, vinho novo, água-pé, jeropiga",
-     "es": "Castañas, vino nuevo, água-pé, jeropiga"
+     "en": "Balcão Virtual, Junta de S. João Baptista e Santa Maria dos Olivais",
+     "pt": "Balcão Virtual da Junta de S. João Baptista e Santa Maria dos Olivais",
+     "es": "Balcão Virtual, Junta de S. João Baptista e Santa Maria dos Olivais"
+    }
+   },
+   {
+    "k": {
+     "en": "The tabuleiro",
+     "pt": "O tabuleiro",
+     "es": "El tabuleiro"
+    },
+    "v": {
+     "en": "30 loaves of 400 g",
+     "pt": "30 pães de 400 g",
+     "es": "30 panes de 400 g"
     }
    }
   ],
@@ -158,42 +165,369 @@
     "es": "Tradición"
    },
    {
-    "en": "Magusto",
-    "pt": "Magusto",
-    "es": "Magusto"
+    "en": "Tabuleiros",
+    "pt": "Tabuleiros",
+    "es": "Tabuleiros"
    },
    {
-    "en": "Chestnuts",
-    "pt": "Castanhas",
-    "es": "Castañas"
-   },
-   {
-    "en": "New wine",
-    "pt": "Vinho novo",
-    "es": "Vino nuevo"
+    "en": "Parishes",
+    "pt": "Freguesias",
+    "es": "Freguesias"
    }
   ],
   "url": "https://vamostomar.pt/",
   "links": {},
   "sources": [
    {
-    "name": "Calendarr — Dia de São Martinho",
-    "url": "https://www.calendarr.com/portugal/dia-de-sao-martinho/"
+    "name": "Rádio Hertz",
+    "url": "https://radiohertz.pt/tomar-festa-dos-tabuleiros-junta-urbana-abre-inscricoes-online-para-o-cortejo-e-desta-forma-evita-filas-durante-horas-a-fio-para-guardar-vagas-interessados-ja-podem-efetuar-registo-previ/"
    },
    {
-    "name": "Wikipédia — Martinho de Tours",
-    "url": "https://pt.wikipedia.org/wiki/Martinho_de_Tours"
+    "name": "Município de Tomar",
+    "url": "https://www.cm-tomar.pt/visitar/festas-e-romarias/festa-dos-tabuleiros"
    },
    {
-    "name": "Wikipédia — Magusto",
-    "url": "https://pt.wikipedia.org/wiki/Magusto"
+    "name": "Festa dos Tabuleiros",
+    "url": "https://tabuleiros.com.pt/"
    },
    {
-    "name": "Ra-Ro — Magusto: o que é, origem e tradições",
-    "url": "https://ra-ro.eu/blogs/atualidades-raras/magusto-o-que-e-origem-tradicoes-sao-martinho"
+    "name": "Visit Portugal",
+    "url": "https://www.visitportugal.com/en/content/festa-dos-tabuleiros-festival-of-the-trays"
+   },
+   {
+    "name": "Diário de Notícias",
+    "url": "https://www.dn.pt/arquivo/diario-de-noticias/festa-dos-tabuleiros-inscrita-no-inventario-de-patrimonio-cultural-imaterial-16314543.html"
    }
   ]
  },
+ "feature": {
+  "title": {
+   "en": "Planos Film Fest turns ten",
+   "pt": "O Planos Film Fest faz dez anos",
+   "es": "El Planos Film Fest cumple diez años"
+  },
+  "text": {
+   "en": "The short-film festival's 10th edition fills the Cine-Teatro Paraíso from 24 to 29 November. It opens on Tuesday at 21:00 with a tribute to Isabel Ruth and Paulo Rocha's «Os Verdes Anos»; Tó Trips plays on Wednesday at 21:30, and the winners are announced on Saturday 28 at 20:00.",
+   "pt": "A 10.ª edição do festival de curtas-metragens enche o Cine-Teatro Paraíso de 24 a 29 de novembro. Abre na terça, às 21h00, com uma homenagem a Isabel Ruth e «Os Verdes Anos», de Paulo Rocha; Tó Trips toca na quarta, às 21h30, e os vencedores são anunciados no sábado, 28, às 20h00.",
+   "es": "La 10.ª edición del festival de cortometrajes llena el Cine-Teatro Paraíso del 24 al 29 de noviembre. Abre el martes a las 21:00 con un homenaje a Isabel Ruth y «Os Verdes Anos», de Paulo Rocha; Tó Trips toca el miércoles a las 21:30, y los ganadores se anuncian el sábado 28 a las 20:00."
+  },
+  "cta": {
+   "en": "See the programme",
+   "pt": "Ver o programa",
+   "es": "Ver el programa"
+  },
+  "url": "https://cineteatro.cm-tomar.pt/planos-film-fest-",
+  "badge": {
+   "big": "10",
+   "small": {
+    "en": "Editions · Planos Film Fest",
+    "pt": "Edições · Planos Film Fest",
+    "es": "Ediciones · Planos Film Fest"
+   },
+   "date": {
+    "en": "24–29 November",
+    "pt": "24–29 novembro",
+    "es": "24–29 noviembre"
+   }
+  }
+ },
+ "events": [
+  {
+   "date": "2026-11-15",
+   "dateEnd": "2026-11-21",
+   "time": "16:00",
+   "featured": true,
+   "free": true,
+   "icon": "music",
+   "photo": null,
+   "url": "https://mediotejo.net/filarmonias-regressam-as-freguesias-de-tomar-com-tres-concertos-no-fim-de-semana/",
+   "when": {
+    "en": "Sun 15 Nov · 16:00 · Sat 21 Nov · 16:00 & 21:00",
+    "pt": "Dom 15 nov · 16:00 · Sáb 21 nov · 16:00 e 21:00",
+    "es": "Dom 15 nov · 16:00 · Sáb 21 nov · 16:00 y 21:00"
+   },
+   "title": {
+    "en": "Filarmonias: free band concerts",
+    "pt": "Filarmonias: concertos gratuitos",
+    "es": "Filarmonias: conciertos gratuitos"
+   },
+   "text": {
+    "en": "One-hour concerts: the Pedreira band at the Asseiceira festa grounds on Sunday, the Gualdim Pais band in Portela and Olalhas on Saturday.",
+    "pt": "Concertos de uma hora: a Banda da Pedreira no recinto da Festa da Asseiceira no domingo, a Gualdim Pais na Portela e em Olalhas no sábado.",
+    "es": "Conciertos de una hora: la banda de Pedreira en el recinto de la fiesta de Asseiceira el domingo, la Gualdim Pais en Portela y Olalhas el sábado."
+   },
+   "place": {
+    "en": "Asseiceira · Portela (São Pedro) · Olalhas",
+    "pt": "Asseiceira · Portela (São Pedro) · Olalhas",
+    "es": "Asseiceira · Portela (São Pedro) · Olalhas"
+   }
+  },
+  {
+   "date": "2026-11-15",
+   "dateEnd": null,
+   "time": "16:00",
+   "featured": false,
+   "free": false,
+   "icon": "film",
+   "photo": null,
+   "url": "https://cineteatro.cm-tomar.pt/memorias-do-carcere-",
+   "when": {
+    "en": "Sunday 15 Nov · 16:00",
+    "pt": "Domingo 15 nov · 16:00",
+    "es": "Domingo 15 nov · 16:00"
+   },
+   "title": {
+    "en": "«Memórias do Cárcere» on the big screen",
+    "pt": "«Memórias do Cárcere» no grande ecrã",
+    "es": "«Memórias do Cárcere» en pantalla grande"
+   },
+   "text": {
+    "en": "Sérgio Graciano's film of Camilo Castelo Branco and Ana Plácido's year in a Porto jail. 2h47, €4.80; also Sun 22 at 21:00.",
+    "pt": "O filme de Sérgio Graciano sobre o ano de Camilo Castelo Branco e Ana Plácido na Cadeia da Relação. 2h47, 4,80 €; repete dom. 22, 21h00.",
+    "es": "La película de Sérgio Graciano sobre el año de Camilo Castelo Branco y Ana Plácido en la cárcel de Oporto. 2h47, 4,80 €; también dom. 22, 21:00."
+   },
+   "place": {
+    "en": "Cine-Teatro Paraíso",
+    "pt": "Cine-Teatro Paraíso",
+    "es": "Cine-Teatro Paraíso"
+   }
+  },
+  {
+   "date": "2026-11-19",
+   "dateEnd": null,
+   "time": "19:15",
+   "featured": false,
+   "free": false,
+   "icon": "music",
+   "photo": null,
+   "url": "https://www.cm-tomar.pt/comunicacao/agenda",
+   "when": {
+    "en": "Thursday 19 Nov · 19:15",
+    "pt": "Quinta 19 nov · 19:15",
+    "es": "Jueves 19 nov · 19:15"
+   },
+   "title": {
+    "en": "Duo Contracello: cello and double bass",
+    "pt": "Duo Contracello: violoncelo e contrabaixo",
+    "es": "Duo Contracello: violonchelo y contrabajo"
+   },
+   "text": {
+    "en": "Miguel Rocha and Adriano Aguiar play from their VSOM project, music built on sound, imagination and movement.",
+    "pt": "Miguel Rocha e Adriano Aguiar revisitam o projeto VSOM, música entre o som, a imaginação e o movimento.",
+    "es": "Miguel Rocha y Adriano Aguiar revisitan su proyecto VSOM, música entre el sonido, la imaginación y el movimiento."
+   },
+   "place": {
+    "en": "Igreja da Misericórdia",
+    "pt": "Igreja da Misericórdia",
+    "es": "Igreja da Misericórdia"
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "dateEnd": null,
+   "time": "18:00",
+   "featured": false,
+   "free": false,
+   "icon": "stage",
+   "photo": null,
+   "url": "https://cineteatro.cm-tomar.pt/welcome-to-europe-de-ricardo-correia-",
+   "when": {
+    "en": "Saturday 21 Nov · 18:00",
+    "pt": "Sábado 21 nov · 18:00",
+    "es": "Sábado 21 nov · 18:00"
+   },
+   "title": {
+    "en": "«Welcome to Europe», by Ricardo Correia",
+    "pt": "«Welcome to Europe», de Ricardo Correia",
+    "es": "«Welcome to Europe», de Ricardo Correia"
+   },
+   "text": {
+    "en": "Theatre as a guided tour of a living museum on what being European means today. Eurodram 2024 prize. M/14, 70 min, €5.",
+    "pt": "Teatro em forma de visita guiada a um museu vivo sobre o que é ser europeu hoje. Prémio Eurodram 2024. M/14, 70 min, 5 €.",
+    "es": "Teatro como visita guiada a un museo vivo sobre qué es ser europeo hoy. Premio Eurodram 2024. M/14, 70 min, 5 €."
+   },
+   "place": {
+    "en": "Complexo Cultural da Levada",
+    "pt": "Complexo Cultural da Levada",
+    "es": "Complejo Cultural da Levada"
+   }
+  }
+ ],
+ "news": [
+  {
+   "cat": "camara",
+   "src": "O Templário",
+   "url": "https://otemplario.pt/estacao-natal-na-varzea-grande-com-pista-de-gelo-carrossel-parisiense-e-comboio-vao-animar-tomar/",
+   "head": {
+    "en": "Ice rink and carousel for Christmas? The Câmara votes Monday",
+    "pt": "Pista de gelo e carrossel no Natal? A Câmara vota segunda",
+    "es": "¿Pista de hielo y carrusel en Navidad? La Câmara vota el lunes"
+   },
+   "body": {
+    "en": "«Estação Natal» would run 1–30 Dec at the Várzea Grande: ice rink, carousel, bumper cars and a train, €5 a day from age 3.",
+    "pt": "A «Estação Natal» decorreria de 1 a 30 dez na Várzea Grande: pista de gelo, carrossel, carrinhos de choque e comboio, 5 €/dia a partir dos 3 anos.",
+    "es": "La «Estação Natal» iría del 1 al 30 dic en la Várzea Grande: pista de hielo, carrusel, autos de choque y tren, 5 €/día desde los 3 años."
+   }
+  },
+  {
+   "cat": "environment",
+   "src": "Cidade de Tomar",
+   "url": "https://www.cidadetomar.pt/2026/11/12/destaque/camara-de-tomar-mantem-dispositivo-de-prevencao-e-mobiliza-51-operacionais-devido-a-depressao-charles/",
+   "head": {
+    "en": "Storm Charles: 13 incidents in Tomar and no victims",
+    "pt": "Depressão Charles: 13 ocorrências em Tomar e nenhuma vítima",
+    "es": "Borrasca Charles: 13 incidencias en Tomar y ninguna víctima"
+   },
+   "body": {
+    "en": "Flooded roads, blocked drains and trees between 9 and 11 Nov; the Fonseca Simões tunnel closed. 51 operatives were on duty.",
+    "pt": "Estradas alagadas, sarjetas entupidas e árvores entre 9 e 11 nov; o túnel da av. Fonseca Simões fechou. Estiveram 51 operacionais no terreno.",
+    "es": "Carreteras inundadas, alcantarillas atascadas y árboles entre el 9 y el 11 nov; se cerró el túnel de la av. Fonseca Simões. Hubo 51 efectivos."
+   }
+  },
+  {
+   "cat": "freguesias",
+   "src": "O Templário",
+   "url": "https://otemplario.pt/tambem-somos-tomar-moradores-de-castelo-do-bode-nao-se-conformam-com-o-risco-de-ficar-sem-agua/",
+   "head": {
+    "en": "Castelo do Bode: seven homes at risk of losing their water",
+    "pt": "Castelo do Bode: sete casas em risco de ficar sem água",
+    "es": "Castelo do Bode: siete casas en riesgo de quedarse sin agua"
+   },
+   "body": {
+    "en": "EDP's old supply is ending; owners contest a share of about €74,000 to join the mains. The Câmara says it can't co-fund but may weigh social support.",
+    "pt": "O abastecimento da EDP vai acabar; os donos contestam cerca de 74 mil € para ligar à rede. A Câmara diz não poder comparticipar, mas admite apoio social.",
+    "es": "El suministro de EDP termina; los dueños rechazan unos 74.000 € para conectarse a la red. La Câmara dice que no puede cofinanciar, pero estudia ayuda social."
+   }
+  },
+  {
+   "cat": "community",
+   "src": "Rádio Hertz",
+   "url": "https://radiohertz.pt/tomar-sonho-torna-se-realidade-habitacoes-colaborativas-estao-prontas-na-pedreira-onde-o-lar-raizes-do-nabao-foi-ampliado-e-ganha-capacidade-para-mais-11-utentes/",
+   "head": {
+    "en": "Pedreira's collaborative homes open on 21 November",
+    "pt": "Habitações colaborativas da Pedreira inauguram a 21 de novembro",
+    "es": "Las viviendas colaborativas de Pedreira se inauguran el 21 de noviembre"
+   },
+   "body": {
+    "en": "The Pedreira music society's new homes open next Saturday, and its Raízes do Nabão care home grows by 11 places.",
+    "pt": "As novas casas da Sociedade Recreativa e Musical da Pedreira abrem no sábado, e o lar Raízes do Nabão ganha mais 11 lugares.",
+    "es": "Las nuevas casas de la Sociedade Recreativa e Musical da Pedreira abren el sábado, y la residencia Raízes do Nabão gana 11 plazas."
+   }
+  },
+  {
+   "cat": "community",
+   "src": "Cidade de Tomar",
+   "url": "https://www.cidadetomar.pt/2026/11/12/educacao/tres-dias-para-celebrar-o-futuro-da-formacao-profissional/",
+   "head": {
+    "en": "Skills championships in Tomar from Tuesday to Thursday",
+    "pt": "Campeonatos das Profissões em Tomar de terça a quinta",
+    "es": "Campeonatos de oficios en Tomar de martes a jueves"
+   },
+   "body": {
+    "en": "Regional trials in welding, drones, cybersecurity, apps and more, plus an IEFP training summit, 17–19 Nov at the Tomar job centre.",
+    "pt": "Provas regionais de soldadura, drones, cibersegurança, apps e mais, e uma cimeira do IEFP, de 17 a 19 nov no Centro de Emprego de Tomar.",
+    "es": "Pruebas regionales de soldadura, drones, ciberseguridad, apps y más, y una cumbre del IEFP, del 17 al 19 nov en el Centro de Empleo de Tomar."
+   }
+  },
+  {
+   "cat": "culture",
+   "src": "O Templário",
+   "url": "https://otemplario.pt/antigo-diretor-do-convento-de-cristo-e-filho-autor-da-estatua-de-ze-pedro-distinguidos-em-lisboa/",
+   "head": {
+    "en": "Awards for an ex-Convento director and his sculptor son",
+    "pt": "Prémios para antigo diretor do Convento e o filho escultor",
+    "es": "Premios para un exdirector del Convento y su hijo escultor"
+   },
+   "body": {
+    "en": "Álvaro Barbosa, director of the Convento de Cristo in 1990–1999, and Pedro Barbosa, who made the Zé Pedro statue, won CIESART awards in Lisbon.",
+    "pt": "Álvaro Barbosa, diretor do Convento de Cristo de 1990 a 1999, e Pedro Barbosa, autor da estátua de Zé Pedro, receberam prémios CIESART em Lisboa.",
+    "es": "Álvaro Barbosa, director del Convento de Cristo de 1990 a 1999, y Pedro Barbosa, autor de la estatua de Zé Pedro, recibieron premios CIESART en Lisboa."
+   }
+  },
+  {
+   "cat": "sport",
+   "src": "Cidade de Tomar",
+   "url": "https://www.cidadetomar.pt/2026/11/11/desporto/distrital-de-corta-mato-reuniu-316-atletas-e-definiu-apurados-para-o-campeonato-nacional/",
+   "head": {
+    "en": "316 runners at the district cross-country in the Flecheiro",
+    "pt": "316 atletas no Distrital de Corta-Mato, no Flecheiro",
+    "es": "316 atletas en el campeonato distrital de cross en el Flecheiro"
+   },
+   "body": {
+    "en": "Thirteen clubs raced on Sunday 8 Nov, about 1,000 people watched, and the qualifiers for the national championship were decided.",
+    "pt": "Treze clubes correram no domingo, 8 nov, perante cerca de mil pessoas, e ficaram definidos os apurados para o Nacional.",
+    "es": "Trece clubes corrieron el domingo 8 nov ante unas mil personas, y quedaron definidos los clasificados para el Nacional."
+   }
+  }
+ ],
+ "fact": {
+  "id": "eight-cloisters",
+  "en": "The Convento de Cristo has eight cloisters, built over four centuries. The grand Renaissance one was begun under King João III in 1557.",
+  "pt": "O Convento de Cristo tem oito claustros, construídos ao longo de quatro séculos. O grande claustro renascentista foi iniciado no reinado de D. João III, em 1557.",
+  "es": "El Convento de Cristo tiene ocho claustros, construidos a lo largo de cuatro siglos. El gran claustro renacentista se inició con Juan III en 1557."
+ },
+ "coming": [
+  {
+   "when": {
+    "en": "Sun 22 Nov",
+    "pt": "Dom 22 nov",
+    "es": "Dom 22 nov"
+   },
+   "text": {
+    "en": "Filarmonias: the Gualdim Pais band at Carregueiros, 16:00, free.",
+    "pt": "Filarmonias: a Gualdim Pais em Carregueiros, 16h00, entrada livre.",
+    "es": "Filarmonias: la Gualdim Pais en Carregueiros, 16:00, gratis."
+   }
+  },
+  {
+   "when": {
+    "en": "Tue 24 – Sun 29 Nov",
+    "pt": "Ter 24 – Dom 29 nov",
+    "es": "Mar 24 – Dom 29 nov"
+   },
+   "text": {
+    "en": "Planos Film Fest at the Cine-Teatro Paraíso.",
+    "pt": "Planos Film Fest no Cine-Teatro Paraíso.",
+    "es": "Planos Film Fest en el Cine-Teatro Paraíso."
+   }
+  },
+  {
+   "when": {
+    "en": "Fri 27 Nov",
+    "pt": "Sex 27 nov",
+    "es": "Vie 27 nov"
+   },
+   "text": {
+    "en": "Lopes-Graça at 120 begins at the Casa Memória: ThomarVentus wind quintet at 17:00, exhibition at 17:30.",
+    "pt": "Arrancam os 120 anos de Lopes-Graça na Casa Memória: ThomarVentus Quinteto às 17h00, exposição às 17h30.",
+    "es": "Empiezan los 120 años de Lopes-Graça en la Casa Memória: quinteto ThomarVentus a las 17:00, exposición a las 17:30."
+   }
+  },
+  {
+   "when": {
+    "en": "Sat 28 Nov",
+    "pt": "Sáb 28 nov",
+    "es": "Sáb 28 nov"
+   },
+   "text": {
+    "en": "Filarmonias: the Nabantina band in Paialvo (16:00) and Além da Ribeira (21:00).",
+    "pt": "Filarmonias: a Nabantina em Paialvo (16h00) e Além da Ribeira (21h00).",
+    "es": "Filarmonias: la Nabantina en Paialvo (16:00) y Além da Ribeira (21:00)."
+   }
+  },
+  {
+   "when": {
+    "en": "Tue 1 Dec",
+    "pt": "Ter 1 dez",
+    "es": "Mar 1 dic"
+   },
+   "text": {
+    "en": "Restoration of Independence: public holiday.",
+    "pt": "Restauração da Independência: feriado.",
+    "es": "Restauración de la Independencia: festivo."
+   }
+  }
+ ],
  "cover": {
   "lines": [
    {
@@ -203,9 +537,9 @@
      "es": "Lo más destacado"
     },
     "text": {
-     "en": "Festival Zero's closing weekend, 13–14 Nov",
-     "pt": "O último fim de semana do Festival Zero, 13–14 nov",
-     "es": "El último fin de semana del Festival Zero, 13–14 nov"
+     "en": "Planos Film Fest turns ten, 24–29 Nov",
+     "pt": "O Planos Film Fest faz dez anos, 24–29 nov",
+     "es": "El Planos Film Fest cumple diez años, 24–29 nov"
     },
     "href": "#feature"
    },
@@ -216,9 +550,9 @@
      "es": "No te pierdas"
     },
     "text": {
-     "en": "Free band concerts in the parishes",
-     "pt": "Concertos gratuitos de filarmónicas nas freguesias",
-     "es": "Conciertos gratuitos de bandas en las freguesias"
+     "en": "Free band concerts and «Welcome to Europe»",
+     "pt": "Filarmónicas grátis e «Welcome to Europe»",
+     "es": "Bandas gratis y «Welcome to Europe»"
     },
     "href": "#dm-h"
    },
@@ -229,9 +563,9 @@
      "es": "Noticias"
     },
     "text": {
-     "en": "Storm Bruna: rain and wind until Friday",
-     "pt": "Depressão Bruna: chuva e vento até sexta",
-     "es": "Borrasca Bruna: lluvia y viento hasta el viernes"
+     "en": "Ice rink for Christmas? The Câmara votes Monday",
+     "pt": "Pista de gelo no Natal? Câmara vota segunda",
+     "es": "¿Pista de hielo en Navidad? La Câmara vota el lunes"
     },
     "href": "#nw-h"
    },
@@ -242,334 +576,39 @@
      "es": "Noticias"
     },
     "text": {
-     "en": "Tabuleiros parade sign-up opens 20 Nov",
-     "pt": "Inscrições para o Cortejo dos Tabuleiros a 20 nov",
-     "es": "Inscripciones para el desfile de los Tabuleiros el 20 nov"
+     "en": "Storm Charles: 13 incidents, no victims",
+     "pt": "Depressão Charles: 13 ocorrências, sem vítimas",
+     "es": "Borrasca Charles: 13 incidencias, sin víctimas"
     },
     "href": "#nw-h"
    }
   ]
  },
- "feature": {
-  "title": {
-   "en": "Festival Zero bows out",
-   "pt": "Festival Zero despede-se",
-   "es": "El Festival Zero se despide"
-  },
-  "text": {
-   "en": "Espaçozero Teatro's festival ends with two nights at the Cine-Teatro Paraíso. On Friday at 21:30 soprano Eduarda Melo sings 17th-century songs by Dowland, Monteverdi, Strozzi and Purcell with Nuno da Rocha on electric guitar; on Saturday at 21:30 Teatro Montemuro plays «Pensão Marilu». €5 each.",
-   "pt": "O festival do Espaçozero Teatro termina com duas noites no Cine-Teatro Paraíso. Na sexta, às 21h30, a soprano Eduarda Melo canta canções do século XVII de Dowland, Monteverdi, Strozzi e Purcell, com Nuno da Rocha na guitarra elétrica; no sábado, às 21h30, o Teatro Montemuro apresenta «Pensão Marilu». 5 € cada.",
-   "es": "El festival de Espaçozero Teatro termina con dos noches en el Cine-Teatro Paraíso. El viernes a las 21:30 la soprano Eduarda Melo canta canciones del siglo XVII de Dowland, Monteverdi, Strozzi y Purcell con Nuno da Rocha a la guitarra eléctrica; el sábado a las 21:30 Teatro Montemuro presenta «Pensão Marilu». 5 € cada una."
-  },
-  "cta": {
-   "en": "See the programme",
-   "pt": "Ver o programa",
-   "es": "Ver el programa"
-  },
-  "url": "https://cineteatro.cm-tomar.pt/festival-zero26--",
-  "badge": {
-   "big": "2",
-   "small": {
-    "en": "Last nights · Festival Zero",
-    "pt": "Últimas noites · Festival Zero",
-    "es": "Últimas noches · Festival Zero"
-   },
-   "date": {
-    "en": "13–14 November",
-    "pt": "13–14 novembro",
-    "es": "13–14 noviembre"
-   }
-  }
- },
- "events": [
-  {
-   "date": "2026-11-08",
-   "dateEnd": "2026-11-14",
-   "time": "11:00",
-   "featured": true,
-   "free": true,
-   "icon": "music",
-   "photo": null,
-   "url": "https://mediotejo.net/quatro-bandas-filarmonicas-levam-concertos-as-freguesias-de-tomar/",
-   "when": {
-    "en": "Sun 8 Nov · 11:00 & 16:00 · Sat 14 Nov · 16:00 & 21:00",
-    "pt": "Dom 8 nov · 11:00 e 16:00 · Sáb 14 nov · 16:00 e 21:00",
-    "es": "Dom 8 nov · 11:00 y 16:00 · Sáb 14 nov · 16:00 y 21:00"
-   },
-   "title": {
-    "en": "Filarmonias: band music in the parishes",
-    "pt": "Filarmonias: música nas freguesias",
-    "es": "Filarmonias: bandas en las freguesias"
-   },
-   "text": {
-    "en": "Free one-hour concerts: the Payalvense band on Sunday, the Pedreira band on Saturday in Furadouro (Sabacheira) and the Adro da Serra.",
-    "pt": "Concertos gratuitos de uma hora: a Payalvense no domingo, a Banda da Pedreira no sábado no Furadouro (Sabacheira) e no Adro da Serra.",
-    "es": "Conciertos gratuitos de una hora: la Payalvense el domingo y la banda de Pedreira el sábado en Furadouro (Sabacheira) y el Adro da Serra."
-   },
-   "place": {
-    "en": "Lar da Misericórdia · Madalena e Beselga · Furadouro · Serra",
-    "pt": "Lar da Misericórdia · Madalena e Beselga · Furadouro · Serra",
-    "es": "Lar da Misericórdia · Madalena e Beselga · Furadouro · Serra"
-   }
-  },
-  {
-   "date": "2026-11-10",
-   "dateEnd": null,
-   "time": "19:00",
-   "featured": false,
-   "free": false,
-   "icon": "film",
-   "photo": null,
-   "url": "https://cineteatro.cm-tomar.pt/embargo--cineclube-de-tomar-",
-   "when": {
-    "en": "Tuesday 10 Nov · 19:00",
-    "pt": "Terça 10 nov · 19:00",
-    "es": "Martes 10 nov · 19:00"
-   },
-   "title": {
-    "en": "Cineclube: «Embargo», from Saramago",
-    "pt": "Cineclube: «Embargo», de Saramago",
-    "es": "Cineclube: «Embargo», de Saramago"
-   },
-   "text": {
-    "en": "António Ferreira's 2010 film from José Saramago: an inventor tries to sell his machine during a fuel embargo. €4 (members €2).",
-    "pt": "Filme de António Ferreira (2010) a partir de José Saramago: um inventor tenta vender a sua máquina em plena crise do petróleo. 4 € (sócios 2 €).",
-    "es": "Película de António Ferreira (2010) basada en José Saramago: un inventor intenta vender su máquina en pleno embargo de petróleo. 4 € (socios 2 €)."
-   },
-   "place": {
-    "en": "Cine-Teatro Paraíso",
-    "pt": "Cine-Teatro Paraíso",
-    "es": "Cine-Teatro Paraíso"
-   }
-  },
-  {
-   "date": "2026-10-31",
-   "dateEnd": "2026-12-27",
-   "time": null,
-   "featured": false,
-   "free": true,
-   "icon": "landmark",
-   "photo": null,
-   "url": null,
-   "when": {
-    "en": "Tue–Sun · 10:00–12:00, 14:00–17:00",
-    "pt": "Ter–Dom · 10:00–12:00, 14:00–17:00",
-    "es": "Mar–Dom · 10:00–12:00, 14:00–17:00"
-   },
-   "title": {
-    "en": "Sítios da Palavra: 14 artists on the written word",
-    "pt": "Sítios da Palavra: 14 autores e a escrita",
-    "es": "Sítios da Palavra: 14 artistas y la escritura"
-   },
-   "text": {
-    "en": "The eighth «Sítios» show, from Tomar's printing and newspaper past to the town today. Until 27 December.",
-    "pt": "A oitava exposição «Sítios», do passado tipográfico e jornalístico de Tomar à cidade de hoje. Até 27 de dezembro.",
-    "es": "La octava muestra «Sítios», del pasado tipográfico y periodístico de Tomar a la ciudad de hoy. Hasta el 27 de diciembre."
-   },
-   "place": {
-    "en": "Complexo Cultural da Levada",
-    "pt": "Complexo Cultural da Levada",
-    "es": "Complexo Cultural da Levada"
-   }
-  },
-  {
-   "date": "2026-10-17",
-   "dateEnd": "2026-12-27",
-   "time": null,
-   "featured": false,
-   "free": true,
-   "icon": "star",
-   "photo": null,
-   "url": null,
-   "when": {
-    "en": "Wed–Sun · until 27 Dec",
-    "pt": "Qua–Dom · até 27 dez",
-    "es": "Mié–Dom · hasta el 27 dic"
-   },
-   "title": {
-    "en": "Paisagens Onde Fiquei: paintings",
-    "pt": "Paisagens Onde Fiquei: pintura",
-    "es": "Paisagens Onde Fiquei: pintura"
-   },
-   "text": {
-    "en": "Paintings by Catarina Tavares. Wed–Fri 14:00–17:00; weekends 10:00–12:00 and 14:00–17:00.",
-    "pt": "Pintura de Catarina Tavares. Quarta a sexta, 14h–17h; fins de semana, 10h–12h e 14h–17h.",
-    "es": "Pinturas de Catarina Tavares. De miércoles a viernes, 14:00–17:00; fines de semana, 10:00–12:00 y 14:00–17:00."
-   },
-   "place": {
-    "en": "Casa Manuel Guimarães",
-    "pt": "Casa Manuel Guimarães",
-    "es": "Casa Manuel Guimarães"
-   }
-  }
- ],
- "news": [
-  {
-   "cat": "environment",
-   "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/tomar-depressao-bruna-ameaca-com-chuva-intensa-e-ventos-fortes-ate-13-de-novembro/",
-   "head": {
-    "en": "Storm Bruna brings heavy rain and wind until Friday",
-    "pt": "Depressão Bruna traz chuva forte e vento até sexta",
-    "es": "La borrasca Bruna trae lluvia fuerte y viento hasta el viernes"
-   },
-   "body": {
-    "en": "IPMA expects the weather to worsen from Sunday and stay unsettled until 13 November.",
-    "pt": "O IPMA prevê agravamento a partir de domingo e tempo instável até 13 de novembro.",
-    "es": "El IPMA prevé que empeore desde el domingo y siga inestable hasta el 13 de noviembre."
-   }
-  },
-  {
-   "cat": "culture",
-   "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/tomar-festa-dos-tabuleiros-junta-urbana-abre-inscricoes-online-para-o-cortejo-e-desta-forma-evita-filas-durante-horas-a-fio-para-guardar-vagas-interessados-ja-podem-efetuar-registo-previ/",
-   "head": {
-    "en": "Tabuleiros 2027: online sign-up for the parade opens 20 November",
-    "pt": "Tabuleiros 2027: inscrições online no Cortejo abrem a 20 de novembro",
-    "es": "Tabuleiros 2027: las inscripciones online para el desfile abren el 20"
-   },
-   "body": {
-    "en": "The urban Junta moves sign-up online to end the queues. Pre-registration is already open and needed to enrol.",
-    "pt": "A Junta urbana passa as inscrições para a internet para acabar com as filas. O registo prévio já está aberto e é obrigatório.",
-    "es": "La Junta urbana pasa las inscripciones a internet para acabar con las colas. El registro previo ya está abierto y es obligatorio."
-   }
-  },
-  {
-   "cat": "camara",
-   "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/tomar-demolicao-do-edificio-da-abegoaria-comeca-na-segunda-feira-este-e-um-compromisso-com-os-trabalhadores-reforca-tiago-carrao/",
-   "head": {
-    "en": "Abegoaria demolition starts on Monday, facades kept",
-    "pt": "Demolição da Abegoaria começa segunda-feira e mantém fachadas",
-    "es": "La demolición de la Abegoaria empieza el lunes y conserva fachadas"
-   },
-   "body": {
-    "en": "The run-down council cleaning-services building near the station comes down from 9 November, to be rebuilt behind its old fronts.",
-    "pt": "O edifício degradado dos serviços de higiene e limpeza, junto à estação, começa a ser demolido a 9 de novembro e será requalificado.",
-    "es": "El edificio deteriorado de los servicios de limpieza, junto a la estación, se derriba desde el 9 de noviembre y será rehabilitado."
-   }
-  },
-  {
-   "cat": "camara",
-   "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/tomar-obras-na-biblioteca-comecam-no-segundo-trimestre-de-2027-espaco-de-portas-fechadas-durante-15-meses/",
-   "head": {
-    "en": "Municipal library to close for 15 months from spring 2027",
-    "pt": "Biblioteca municipal fecha 15 meses a partir da primavera de 2027",
-    "es": "La biblioteca municipal cerrará 15 meses desde la primavera de 2027"
-   },
-   "body": {
-    "en": "About €1.4 million of works, starting in the second quarter of 2027, bring a new heating and cooling system.",
-    "pt": "Cerca de 1,4 milhões de euros em obras, a partir do 2.º trimestre de 2027, trazem novo sistema de climatização.",
-    "es": "Unos 1,4 millones de euros en obras, desde el segundo trimestre de 2027, traen un nuevo sistema de climatización."
-   }
-  },
-  {
-   "cat": "community",
-   "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/tomar-e-cenario-praticamente-certo-agua-e-saneamento-sobem-25-em-2027-aumento-nos-residuos-chegara-aos-5/",
-   "head": {
-    "en": "Water and sewerage bills set to rise 2.5% in 2027",
-    "pt": "Água e saneamento devem subir 2,5% em 2027",
-    "es": "El agua y el saneamiento subirán un 2,5 % en 2027"
-   },
-   "body": {
-    "en": "The Tejo Ambiente rise is almost certain; waste charges could go up by as much as 5%.",
-    "pt": "O aumento da Tejo Ambiente é praticamente certo; a tarifa dos resíduos poderá subir até 5%.",
-    "es": "La subida de Tejo Ambiente es casi segura; la tasa de residuos podría subir hasta un 5 %."
-   }
-  },
-  {
-   "cat": "community",
-   "src": "mediotejo.net",
-   "url": "https://mediotejo.net/ministro-desconhecia-10-mil-cartas-por-entregar-em-tomar-e-prometeu-pedir-esclarecimentos-aos-ctt/",
-   "head": {
-    "en": "10,000 undelivered letters: minister will ask CTT to explain",
-    "pt": "10 mil cartas por entregar: ministro vai pedir explicações aos CTT",
-    "es": "10 000 cartas sin entregar: el ministro pedirá explicaciones a CTT"
-   },
-   "body": {
-    "en": "Asked in Parliament by PS MP Hugo Costa, minister Miguel Pinto Luz said he had not known of the backlog in Tomar.",
-    "pt": "Questionado no Parlamento pelo deputado do PS Hugo Costa, o ministro Miguel Pinto Luz disse desconhecer o atraso em Tomar.",
-    "es": "Preguntado en el Parlamento por el diputado del PS Hugo Costa, el ministro Miguel Pinto Luz dijo desconocer el retraso en Tomar."
-   }
-  },
-  {
-   "cat": "sport",
-   "src": "O Templário",
-   "url": "https://otemplario.pt/patricia-sampaio-conquista-a-prata-no-grand-slam-de-abu-dhabi/",
-   "head": {
-    "en": "Patrícia Sampaio takes silver at the Abu Dhabi Grand Slam",
-    "pt": "Patrícia Sampaio conquista a prata no Grand Slam de Abu Dhabi",
-    "es": "Patrícia Sampaio logra la plata en el Grand Slam de Abu Dabi"
-   },
-   "body": {
-    "en": "Tomar's judoka lost the -78 kg final to the reigning world champion.",
-    "pt": "A judoca de Tomar perdeu a final dos -78 kg frente à atual campeã do mundo.",
-    "es": "La judoca de Tomar perdió la final de -78 kg ante la actual campeona del mundo."
-   }
-  }
- ],
- "fact": {
-  "id": "manueline-window",
-  "en": "The chapter-house window of the Convento de Cristo, carved by Diogo de Arruda around 1510, is one of the best-known works of the Manueline style, with ropes, coral and knots in stone.",
-  "pt": "A janela do capítulo do Convento de Cristo, esculpida por Diogo de Arruda por volta de 1510, é uma das obras mais conhecidas do estilo manuelino, com cordas, corais e nós em pedra.",
-  "es": "La ventana de la sala capitular del Convento de Cristo, tallada por Diogo de Arruda hacia 1510, es una de las obras más conocidas del estilo manuelino, con cuerdas, corales y nudos en piedra."
- },
- "coming": [
-  {
-   "when": {
-    "en": "Sun 15 Nov",
-    "pt": "Dom 15 nov",
-    "es": "Dom 15 nov"
-   },
-   "text": {
-    "en": "Filarmonias: the Pedreira band plays at the Festa da Asseiceira grounds, 16:00, free.",
-    "pt": "Filarmonias: a Banda da Pedreira toca no recinto da Festa da Asseiceira, 16h, entrada livre.",
-    "es": "Filarmonias: la banda de Pedreira toca en el recinto de la Festa da Asseiceira, 16:00, gratis."
-   }
-  },
-  {
-   "when": {
-    "en": "Thu 19 Nov",
-    "pt": "Qui 19 nov",
-    "es": "Jue 19 nov"
-   },
-   "text": {
-    "en": "Duo Contracello (cello and double bass) at the Igreja da Misericórdia, 19:15.",
-    "pt": "Duo Contracello (violoncelo e contrabaixo) na Igreja da Misericórdia, 19h15.",
-    "es": "Duo Contracello (violonchelo y contrabajo) en la Igreja da Misericórdia, 19:15."
-   }
-  },
-  {
-   "when": {
-    "en": "Fri 20 Nov",
-    "pt": "Sex 20 nov",
-    "es": "Vie 20 nov"
-   },
-   "text": {
-    "en": "Online sign-up for the 2027 Cortejo dos Tabuleiros opens.",
-    "pt": "Abrem as inscrições online para o Cortejo dos Tabuleiros 2027.",
-    "es": "Abren las inscripciones online para el Cortejo dos Tabuleiros 2027."
-   }
-  },
-  {
-   "when": {
-    "en": "Sat 21 Nov",
-    "pt": "Sáb 21 nov",
-    "es": "Sáb 21 nov"
-   },
-   "text": {
-    "en": "«Welcome to Europe» by Ricardo Correia at the Levada, 18:00, €5; band concerts in Portela (16:00) and Olalhas (21:00).",
-    "pt": "«Welcome to Europe», de Ricardo Correia, na Levada, 18h, 5 €; filarmónicas na Portela (16h) e em Olalhas (21h).",
-    "es": "«Welcome to Europe», de Ricardo Correia, en la Levada, 18:00, 5 €; bandas en Portela (16:00) y Olalhas (21:00)."
-   }
-  }
- ],
  "whatsapp": {
-  "en": "This Week in Tomar (8–14 Nov): São Martinho on Wednesday, Festival Zero's last weekend and free band concerts in the parishes. https://vamostomar.pt/weekly/?lang=en",
-  "pt": "Esta Semana em Tomar (8–14 nov): São Martinho na quarta, o último fim de semana do Festival Zero e concertos gratuitos de filarmónicas nas freguesias. https://vamostomar.pt/weekly/",
-  "es": "Esta Semana en Tomar (8–14 nov): San Martín el miércoles, el último fin de semana del Festival Zero y conciertos gratuitos de bandas en las freguesias. https://vamostomar.pt/weekly/?lang=es"
+  "en": "This Week in Tomar (15–21 Nov): Tabuleiros 2027 parade sign-up opens Friday, free band concerts in the parishes, and Planos Film Fest turns ten. https://vamostomar.pt/weekly/?lang=en",
+  "pt": "Esta Semana em Tomar (15–21 nov): inscrições para o Cortejo dos Tabuleiros 2027 abrem sexta, concertos gratuitos nas freguesias e o Planos Film Fest faz dez anos. https://vamostomar.pt/weekly/",
+  "es": "Esta Semana en Tomar (15–21 nov): el viernes se abren las inscripciones para el desfile de los Tabuleiros 2027, conciertos gratis en las freguesias y el Planos Film Fest cumple diez años. https://vamostomar.pt/weekly/?lang=es"
+ },
+ "instagram": {
+  "spotlight": {
+   "caption": "Querem levar um tabuleiro em 2027? As inscrições para o Cortejo abrem sexta-feira, 20 de novembro. 🌾\n\nA Festa dos Tabuleiros só acontece de quatro em quatro anos e a próxima é de 3 a 12 de julho de 2027. A Junta de São João Baptista e Santa Maria dos Olivais abre as inscrições online, no Balcão Virtual, para acabar com as horas de fila. O pré-registo já está aberto e é obrigatório.\n\nTrinta pães, flores de papel, espigas e a coroa no topo, da altura de quem o leva.\n\nA história completa sai no domingo às 8h, em «Esta Semana em Tomar» — link na bio.\n\n#vamostomar #tomar #festadostabuleiros #tabuleiros2027",
+   "en": "Want to carry a tabuleiro in 2027? Sign-up for the Parade opens on Friday 20 November. 🌾\n\nThe Festa dos Tabuleiros only happens every four years and the next one is 3–12 July 2027. The Junta de São João Baptista e Santa Maria dos Olivais is opening sign-up online, on its Balcão Virtual, to put an end to hours of queuing. Pre-registration is already open and is required.\n\nThirty loaves, paper flowers, ears of wheat and the crown on top, as tall as the person carrying it.\n\nThe full story is out on Sunday at 8am in \"This Week in Tomar\" — link in bio.",
+   "alt": {
+    "pt": "Trinta pães, uma coroa e um vestido branco: as inscrições para o Cortejo dos Tabuleiros 2027 abrem sexta-feira. 🌾",
+    "en": "Thirty loaves, a crown and a white dress: sign-up for the 2027 Tabuleiros Parade opens on Friday. 🌾"
+   },
+   "check": [
+    "The sign-up details (20 Nov, Balcão Virtual, compulsory pre-registration) come from one Rádio Hertz article; worth a glance at the Junta's own post before posting.",
+    "#tabuleiros2027: check it's a tag people use, or swap for #tomarportugal."
+   ]
+  },
+  "edition": {
+   "caption": "🗞️ «Esta Semana em Tomar» n.º 8 já está no ar: de 15 a 21 de novembro.\n\nNesta edição:\n🌾 Tabuleiros 2027: inscrições para o Cortejo abrem sexta\n🎬 O Planos Film Fest faz dez anos no Cine-Teatro Paraíso\n🎺 Concertos gratuitos de filarmónicas nas freguesias\n⛸️ Pista de gelo na Várzea Grande? A Câmara vota segunda\n\nE ainda o tempo, os eventos e uma curiosidade da semana. Leiam em vamostomar.pt (link na bio).\n\n#vamostomar #tomar #tomarportugal #festadostabuleiros",
+   "en": "🗞️ \"This Week in Tomar\" no. 8 is live: 15 to 21 November.\n\nIn this edition:\n🌾 Tabuleiros 2027: Parade sign-up opens Friday\n🎬 Planos Film Fest turns ten at the Cine-Teatro Paraíso\n🎺 Free philharmonic band concerts in the parishes\n⛸️ An ice rink at the Várzea Grande? The Câmara votes Monday\n\nPlus the weather, the events and a fact of the week. Read it at vamostomar.pt (link in bio).",
+   "check": [
+    "Planos Film Fest and Cine-Teatro Paraíso: @ handles not confirmed, left as plain names."
+   ]
+  }
  },
  "sourcesChecked": [
   {
@@ -583,9 +622,9 @@
    "items": 0
   },
   {
-   "src": "Rádio Hertz (local)",
+   "src": "Rádio Hertz (local, 2 pages)",
    "ok": true,
-   "items": 23
+   "items": 20
   },
   {
    "src": "Rádio Hertz (desporto)",
@@ -595,7 +634,7 @@
   {
    "src": "O Templário",
    "ok": true,
-   "items": 26
+   "items": 10
   },
   {
    "src": "Cidade de Tomar",
@@ -603,38 +642,20 @@
    "items": 10
   },
   {
-   "src": "mediotejo.net",
+   "src": "mediotejo.net (Tomar)",
    "ok": true,
    "items": 10
   },
   {
    "src": "Cine-Teatro Paraíso",
    "ok": true,
-   "items": 9
+   "items": 7
   },
   {
-   "src": "cm-tomar.pt agenda",
-   "ok": false,
-   "items": 0
+   "src": "live.json",
+   "ok": true,
+   "items": 7
   }
  ],
- "instagram": {
-  "spotlight": {
-   "caption": "Quarta-feira, 11 de novembro, é dia de São Martinho: lume, castanhas e vinho novo. 🌰\n\nConta a lenda que o soldado Martinho cortou a capa ao meio para a dar a um pobre, num dia de chuva e frio. Nesse momento a chuva parou e o sol apareceu: é o «verão de São Martinho».\n\nEste ano a depressão Bruna não deve deixar o sol aparecer, mas o magusto faz-se na mesma. Castanhas golpeadas, vinho novo, água-pé ou jeropiga, e como diz o ditado: «No dia de São Martinho, vai à adega e prova o vinho.» 🍷\n\nA história completa sai no domingo às 8h, em «Esta Semana em Tomar» — link na bio.\n\n#vamostomar #tomar #saomartinho #magusto",
-   "en": "Wednesday 11 November is São Martinho: fire, chestnuts and new wine. 🌰\n\nLegend has it the soldier Martin cut his cloak in half to give it to a beggar on a cold, rainy day. At that moment the rain stopped and the sun came out: that's the \"São Martinho summer\".\n\nThis year Storm Bruna probably won't let the sun through, but the magusto happens anyway. Chestnuts with a cut in them, new wine, água-pé or jeropiga, and as the saying goes: \"On São Martinho's day, go to the cellar and taste the wine.\" 🍷\n\nThe full story is out on Sunday at 8am in \"This Week in Tomar\" — link in bio.",
-   "alt": {
-    "pt": "Castanhas no lume e vinho novo no copo: quarta-feira, 11 de novembro, é dia de São Martinho. 🌰",
-    "en": "Chestnuts on the fire and new wine in the glass: Wednesday 11 November is São Martinho. 🌰"
-   },
-   "check": []
-  },
-  "edition": {
-   "caption": "🗞️ «Esta Semana em Tomar» n.º 7 já está no ar: de 8 a 14 de novembro.\n\nNesta edição:\n🌰 São Martinho na quarta: a capa, as castanhas e o vinho novo\n🎭 Último fim de semana do Festival Zero no Cine-Teatro Paraíso\n🎺 Concertos gratuitos de filarmónicas nas freguesias\n🌧️ Depressão Bruna: chuva e vento até sexta\n\nE ainda o tempo, as notícias e uma curiosidade da semana. Leiam em vamostomar.pt (link na bio).\n\n#vamostomar #tomar #tomarportugal #saomartinho",
-   "en": "🗞️ \"This Week in Tomar\" no. 7 is live: 8 to 14 November.\n\nIn this edition:\n🌰 São Martinho on Wednesday: the cloak, the chestnuts and the new wine\n🎭 Festival Zero's last weekend at the Cine-Teatro Paraíso\n🎺 Free philharmonic band concerts in the parishes\n🌧️ Storm Bruna: rain and wind until Friday\n\nPlus the weather, the news and a fact of the week. Read it at vamostomar.pt (link in bio).",
-   "check": [
-    "Festival Zero / Espaçozero Teatro and Cine-Teatro Paraíso: @ handles not confirmed, left as plain names. Add them if you know them."
-   ]
-  }
- },
- "confirmedAt": "2026-11-07T13:12:28.759Z"
+ "confirmedAt": "2026-11-14T16:19:27.342Z"
 }
