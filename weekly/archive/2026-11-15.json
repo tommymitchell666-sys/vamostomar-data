@@ -107,7 +107,7 @@
     "es": "La fiesta nació del culto al Espíritu Santo y figura desde 2023 en el inventario nacional de patrimonio inmaterial de Portugal. El lunes tras el desfile llega la Pêza, cuando el pan, la carne y el vino bendecidos se reparten entre las familias necesitadas. Si siempre quisiste desfilar, el viernes es el día para empezar."
    }
   ],
-  "photo": null,
+  "photo": "https://vamostomar.pt/data/images/tabuleiros-2027-cover-20261115.webp",
   "facts": [
    {
     "k": {
@@ -198,7 +198,12 @@
     "name": "Diário de Notícias",
     "url": "https://www.dn.pt/arquivo/diario-de-noticias/festa-dos-tabuleiros-inscrita-no-inventario-de-patrimonio-cultural-imaterial-16314543.html"
    }
-  ]
+  ],
+  "photoAlt": {
+   "en": "A tabuleiro of bread loaves with paper flowers, wheat and a crown topped by a white dove, beside a white dress on a chair in a wet cobbled street of whitewashed houses.",
+   "pt": "Um tabuleiro de pães com flores de papel, espigas e uma coroa com pomba branca, ao lado de um vestido branco numa cadeira, numa rua empedrada de casas caiadas.",
+   "es": "Un tabuleiro de panes con flores de papel, espigas y una corona con una paloma blanca, junto a un vestido blanco en una silla, en una calle empedrada de casas encaladas."
+  }
  },
  "feature": {
   "title": {
@@ -239,7 +244,7 @@
    "featured": true,
    "free": true,
    "icon": "music",
-   "photo": null,
+   "photo": "https://vamostomar.pt/data/images/filarmonias-20261115.webp",
    "url": "https://mediotejo.net/filarmonias-regressam-as-freguesias-de-tomar-com-tres-concertos-no-fim-de-semana/",
    "when": {
     "en": "Sun 15 Nov · 16:00 · Sat 21 Nov · 16:00 & 21:00",
@@ -269,7 +274,7 @@
    "featured": false,
    "free": false,
    "icon": "film",
-   "photo": null,
+   "photo": "https://vamostomar.pt/data/images/memorias-do-carcere-20261115.webp",
    "url": "https://cineteatro.cm-tomar.pt/memorias-do-carcere-",
    "when": {
     "en": "Sunday 15 Nov · 16:00",
@@ -299,7 +304,7 @@
    "featured": false,
    "free": false,
    "icon": "music",
-   "photo": null,
+   "photo": "https://vamostomar.pt/data/images/duo-contracello-20261119.webp",
    "url": "https://www.cm-tomar.pt/comunicacao/agenda",
    "when": {
     "en": "Thursday 19 Nov · 19:15",
@@ -329,7 +334,7 @@
    "featured": false,
    "free": false,
    "icon": "stage",
-   "photo": null,
+   "photo": "https://vamostomar.pt/data/images/welcome-to-europe-20261121.webp",
    "url": "https://cineteatro.cm-tomar.pt/welcome-to-europe-de-ricardo-correia-",
    "when": {
     "en": "Saturday 21 Nov · 18:00",
