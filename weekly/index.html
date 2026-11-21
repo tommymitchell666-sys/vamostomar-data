@@ -132,6 +132,38 @@ button.btn{font-family:var(--body);font-size:15px;font-weight:700}
 .st-btns .b1{background:var(--red)}.st-btns .b2{background:var(--ink)}.st-btns .b3{background:#fff;color:var(--ink);box-shadow:inset 0 0 0 1.5px var(--ink)}
 .st-btns .b3:hover{color:var(--ink)}
 
+/* Christmas (22 Nov 2026): the extra window inside the cover story, e.g. the advent-calendar teaser. */
+.st-extra{display:grid;grid-template-columns:170px minmax(0,1fr);gap:0;margin-top:22px;background:#101a35;border:2px solid var(--gold);border-radius:14px;overflow:hidden;color:#fff;max-width:62ch}
+.st-extra .ex-photo{align-self:stretch;min-height:140px;background:#0b1328}
+.st-extra .ex-photo img{width:100%;height:100%;object-fit:cover;display:block}
+.st-extra .ex-body{padding:18px 20px;display:flex;flex-direction:column;gap:8px;min-width:0}
+.st-extra .ex-kicker{font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#D9B878}
+.st-extra .ex-title{font-family:var(--display);font-size:19px;line-height:1.22;color:#fff}
+.st-extra p{margin:0;font-size:14px;line-height:1.55;color:#DCE3F0}
+.ex-badge{display:inline-flex;align-self:flex-start;background:var(--red);color:#fff;font-size:12px;font-weight:700;padding:5px 12px;border-radius:999px;margin-top:2px}
+.ex-cta{font-size:13px;font-weight:700;color:#D9B878}
+.ex-cta:hover{color:#fff}
+
+/* Christmas (21 Nov 2026): "Christmas in Tomar this week" + the guide reminder, every edition of the season. */
+.xweek{background:#101a35;color:#E9EDF7;border:2px solid var(--gold);position:relative;overflow:hidden;padding-top:44px;scroll-margin-top:16px}
+.xweek .xw-kicker{font-size:12px;font-weight:800;letter-spacing:.16em;text-transform:uppercase;color:#D9B878}
+.xweek h2{color:#fff;font-size:clamp(26px,3vw,32px);line-height:1.12;margin:6px 0 0;display:flex;align-items:center;gap:12px}
+.xweek h2 svg{flex:none}
+.xw-intro{color:#C9D3E8;font-size:16px;line-height:1.55;margin:10px 0 16px;max-width:70ch}
+.xw-list{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:32px}
+.xw-list li{display:flex;gap:14px;padding:13px 0;border-bottom:1px solid rgba(217,184,120,.25)}
+.xw-when{flex:none;width:92px;font-size:12px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:#D9B878;line-height:1.35;padding-top:2px}
+.xw-body{min-width:0}
+.xw-body b{font-family:var(--display);font-size:17px;font-weight:700;color:#fff;display:block;line-height:1.25}
+.xw-body b a{color:#fff;text-decoration:underline;text-decoration-color:rgba(217,184,120,.6);text-underline-offset:3px}
+.xw-body p{margin:4px 0 0;font-size:14px;color:#C9D3E8;line-height:1.45}
+.xw-body small{display:block;margin-top:4px;font-size:12px;color:#9FB0D0}
+.xw-free{display:inline-block;margin-left:8px;font-family:var(--body);font-size:10px;font-weight:800;letter-spacing:.06em;padding:2px 7px;border-radius:999px;background:var(--red);color:#fff;vertical-align:2px}
+.xw-guide{margin-top:22px;display:flex;align-items:center;justify-content:space-between;gap:16px 24px;flex-wrap:wrap;background:rgba(255,255,255,.07);border:1px solid rgba(217,184,120,.35);border-radius:14px;padding:16px 20px}
+.xw-guide p{margin:0;font-size:15px;line-height:1.5;color:#fff;max-width:60ch}
+.xw-guide p strong{color:#D9B878}
+.xw-guide .btn{background:var(--red);flex:none}
+
 .duo{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:24px}
 .duo.one{grid-template-columns:1fr}
 .duo .spot{grid-template-columns:minmax(0,1fr) 190px;gap:26px;padding:30px 32px}
@@ -219,6 +251,13 @@ button.btn{font-family:var(--body);font-size:15px;font-weight:700}
 .banner{background:#FFF4D6;border:2px solid var(--gold);color:var(--charcoal);font-weight:600;text-align:center}
 .state{text-align:center;font-size:17px}
 
+/* Christmas (22 Nov 2026): tinsel is drawn at runtime as a tiled SVG background, no image files. */
+.tinsel{position:absolute;top:0;left:0;right:0;height:64px;background-repeat:repeat-x;background-position:top center;background-size:200px 64px;pointer-events:none;z-index:1}
+.tinsel.flat{height:22px;background-size:120px 22px}
+.xmas .cover{position:relative;padding-top:70px;overflow:hidden}
+.xmas .story-tile{padding-top:44px}
+.xmas .story-tile,.xmas .foot{position:relative;overflow:hidden}
+
 @media (max-width:900px){
   .spot{grid-template-columns:1fr;gap:20px;padding:28px 26px}
   .duo .spot{grid-template-columns:1fr;gap:18px;padding:26px 24px}
@@ -271,6 +310,16 @@ button.btn{font-family:var(--body);font-size:15px;font-weight:700}
   .share-btns{flex-direction:column}
   .share .btn{min-height:50px}
   .foot{flex-direction:column;align-items:flex-start}
+  .xmas .cover{padding-top:56px}
+  .xmas .cover .tinsel{height:50px;background-size:156px 50px}
+  .xmas .story-tile{padding-top:34px}
+  .st-extra{grid-template-columns:1fr}
+  .xw-list{grid-template-columns:1fr}
+  .xw-when{width:72px}
+  .xweek{padding-top:36px}
+  .xw-guide{flex-direction:column;align-items:stretch}
+  .st-extra .ex-photo{min-height:0}
+  .st-extra .ex-photo img{height:260px;object-position:center top}
 }
 @media print{
   body{background:#fff}.langs,.share,.ig,.more{display:none!important}
@@ -365,11 +414,21 @@ var T={
     rain:{en:"Rain",pt:"Chuva",es:"Lluvia"},
     storm:{en:"Thunder",pt:"Trovoada",es:"Tormenta"}
   },
-  dow:{en:["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],pt:["Dom","Seg","Ter","Qua","Qui","Sex","Sáb"],es:["Dom","Lun","Mar","Mié","Jue","Vie","Sáb"]}
+  dow:{en:["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],pt:["Dom","Seg","Ter","Qua","Qui","Sex","Sáb"],es:["Dom","Lun","Mar","Mié","Jue","Vie","Sáb"]},
+  xIn:{en:"in {n} days",pt:"em {n} dias",es:"en {n} días"},
+  xTomorrow:{en:"tomorrow",pt:"amanhã",es:"mañana"},
+  xToday:{en:"Open today",pt:"Abre hoje",es:"Abre hoy"},
+  xwKick:{en:"Christmas",pt:"Natal",es:"Navidad"},
+  xwTitle:{en:"Christmas in Tomar this week",pt:"O Natal em Tomar esta semana",es:"La Navidad en Tomar esta semana"},
+  xwGuideH:{en:"Our Christmas guide",pt:"O nosso guia de Natal",es:"Nuestra guía de Navidad"},
+  xwGuide:{en:"every date of the season, day by day, from 1 December to 10 January.",pt:"todas as datas da época, dia a dia, de 1 de dezembro a 10 de janeiro.",es:"todas las fechas de la temporada, día a día, del 1 de diciembre al 10 de enero."},
+  xwBtn:{en:"Open the Christmas guide",pt:"Abrir o guia de Natal",es:"Abrir la guía de Navidad"}
 };
 
 var params=new URLSearchParams(location.search);
 var LOGO=window.WEEKLY_LOGO||"logo.webp";
+var LOGO_XMAS=window.WEEKLY_LOGO_XMAS||"logo-natal.webp";
+var GUIDE={en:"https://vamostomar.pt/en/christmas-in-tomar/",pt:"https://vamostomar.pt/pt/natal-em-tomar/",es:"https://vamostomar.pt/es/navidad-en-tomar/"};
 var GATED=null;
 var lang=LANGS.indexOf(params.get("lang"))>=0?params.get("lang"):"pt";
 var DATA=null;
@@ -387,6 +446,8 @@ function safeImg(u){ if(typeof u!=="string")return null; if(/^https:\/\//i.test(
 function svg(markup,w,h,vb){ var s='<svg xmlns="http://www.w3.org/2000/svg" width="'+w+'" height="'+h+'" viewBox="'+(vb||"0 0 48 48")+'" fill="none" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'+markup+'</svg>'; var d=document.createElement("div"); d.innerHTML=s; return d.firstChild; }
 
 var CROSS='<path d="M50 50 40 2Q50 7 60 2ZM50 50 98 40Q93 50 98 60ZM50 50 60 98Q50 93 40 98ZM50 50 2 60Q7 50 2 40Z" fill="currentColor"/>';
+/* Christmas (22 Nov 2026): a bauble in place of the Templar cross for the wordmark fallback. */
+var BAUBLE='<circle cx="50" cy="58" r="34" fill="currentColor"/><path d="M17 54Q50 70 83 54L84 64Q50 80 16 64Z" fill="#C9A04E"/><path d="M22 60l6 4 6-4 6 4 6-4 6 4 6-4 6 4 6-4 6 4" fill="none" stroke="#FFF3D6" stroke-width="2"/><ellipse cx="38" cy="42" rx="7" ry="4" fill="#fff" opacity=".6" transform="rotate(-35 38 42)"/><rect x="38" y="16" width="24" height="9" rx="3" fill="#B08A45"/><path d="M44 16v-6a6 6 0 0 1 12 0v6" fill="none" stroke="#B08A45" stroke-width="5"/>';
 var WX={
   sun:'<circle cx="24" cy="24" r="8" stroke="#B08A45" fill="#F6E7C3" stroke-width="2.4"/><path d="M24 7v4M24 37v4M7 24h4M37 24h4M12 12l3 3M33 33l3 3M12 36l3-3M33 15l3-3" stroke="#B08A45" stroke-width="2.4"/>',
   partly:'<circle cx="19" cy="18" r="8" stroke="#B08A45" fill="#F6E7C3" stroke-width="2.4"/><path d="M19 4v3M5 18h3M9 8l2 2M29 8l-2 2" stroke="#B08A45" stroke-width="2.4"/><path d="M19 40h18a7 7 0 0 0 0-14 9 9 0 0 0-17-1 7.5 7.5 0 0 0-1 15z" stroke="#4E6E91" fill="#fff" stroke-width="2.4"/>',
@@ -437,6 +498,78 @@ function coverLines(d,feat){
   if(d.news && d.news.length) out.push({lab:tr(T.lblNews),text:tr(d.news[0].head),href:"#nw-h"});
   return out.slice(0,4);
 }
+/* Christmas theme (22 Nov 2026): on by default from 22 Nov to 6 Jan (month-day check,
+   so it works every year), unless the edition sets theme explicitly. */
+function isXmas(d){
+  if(!d) return false;
+  if(d.theme==="christmas") return true;
+  if(d.theme==="none") return false;
+  var md=(d.date||lisbonToday()).slice(5,10);
+  return md>="11-22"||md<="01-06";
+}
+/* Christmas tinsel (v2, 21 Nov 2026): a fluffy gold garland with a string of glowing
+   lights, drawn at runtime as an SVG and tiled as a CSS background (no image files).
+   "swag": hangs in loops across the top of the cover, a red bauble at each hook.
+   "flat": a straight band along the top of the cover-story tile and the footer. */
+function tinselRand(seed){ var s=seed; return function(){ s=(s*16807)%2147483647; return (s-1)/2147483646; }; }
+function cubicAt(p,t){ var u=1-t; return [u*u*u*p[0]+3*u*u*t*p[2]+3*u*t*t*p[4]+t*t*t*p[6], u*u*u*p[1]+3*u*u*t*p[3]+3*u*t*t*p[5]+t*t*t*p[7]]; }
+function tinselFluff(pts,n,len,rnd){
+  var gold=["#B8913F","#D4AF5A","#E9CB7A","#F6E3A6","#C9A04E","#A67C2E"], out=[];
+  for(var i=0;i<n;i++){
+    var t=i/(n-1), a=cubicAt(pts,t), ang=rnd()*Math.PI*2, l=len*(0.55+rnd()*0.6);
+    var x2=a[0]+Math.cos(ang)*l, y2=a[1]+Math.sin(ang)*l*0.8;
+    out.push('<line x1="'+a[0].toFixed(1)+'" y1="'+a[1].toFixed(1)+'" x2="'+x2.toFixed(1)+'" y2="'+y2.toFixed(1)+'" stroke="'+gold[Math.floor(rnd()*gold.length)]+'" stroke-width="'+(0.9+rnd()*1.1).toFixed(2)+'" stroke-opacity="'+(0.7+rnd()*0.3).toFixed(2)+'"/>');
+  }
+  /* a few bright glints */
+  for(var j=0;j<Math.round(n/14);j++){ var b=cubicAt(pts,rnd()); out.push('<circle cx="'+(b[0]+rnd()*6-3).toFixed(1)+'" cy="'+(b[1]+rnd()*6-3).toFixed(1)+'" r="'+(0.7+rnd()*0.6).toFixed(1)+'" fill="#FFF8DC" class="gl" style="animation-delay:'+(rnd()*3).toFixed(2)+'s"/>'); }
+  return out.join("");
+}
+function tinselLights(pts,ts,r){
+  var cols=[["#E0313F","#FF8A8A"],["#F5B731","#FFE7A0"],["#2E9E4F","#9BEBAE"],["#3B7FD9","#AFD2FF"],["#D6337A","#FFB3D1"]], out=[];
+  ts.forEach(function(t,i){
+    var a=cubicAt(pts,t), c=cols[i%cols.length], x=a[0].toFixed(1), y=a[1];
+    out.push('<circle cx="'+x+'" cy="'+(y+r*1.6).toFixed(1)+'" r="'+(r*3).toFixed(1)+'" fill="url(#g'+(i%cols.length)+')" class="tw" style="animation-delay:'+(i*0.45%2.2).toFixed(2)+'s"/>'
+      +'<rect x="'+(a[0]-r*0.55).toFixed(1)+'" y="'+(y-r*0.3).toFixed(1)+'" width="'+(r*1.1).toFixed(1)+'" height="'+(r*0.9).toFixed(1)+'" rx="'+(r*0.2).toFixed(1)+'" fill="#3A3A3A"/>'
+      +'<ellipse cx="'+x+'" cy="'+(y+r*1.7).toFixed(1)+'" rx="'+(r*0.85).toFixed(1)+'" ry="'+(r*1.25).toFixed(1)+'" fill="'+c[0]+'"/>'
+      +'<ellipse cx="'+(a[0]-r*0.3).toFixed(1)+'" cy="'+(y+r*1.3).toFixed(1)+'" rx="'+(r*0.25).toFixed(1)+'" ry="'+(r*0.45).toFixed(1)+'" fill="'+c[1]+'" opacity=".85"/>');
+  });
+  return out.join("");
+}
+function tinselBauble(x,y,r){
+  return '<line x1="'+x+'" y1="'+(y-r*2.2).toFixed(1)+'" x2="'+x+'" y2="'+(y-r).toFixed(1)+'" stroke="#B08A45" stroke-width="1"/>'
+    +'<rect x="'+(x-r*0.4).toFixed(1)+'" y="'+(y-r*1.25).toFixed(1)+'" width="'+(r*0.8).toFixed(1)+'" height="'+(r*0.4).toFixed(1)+'" rx="1" fill="#D9B878"/>'
+    +'<circle cx="'+x+'" cy="'+y+'" r="'+r+'" fill="url(#bb)"/>'
+    +'<ellipse cx="'+(x-r*0.35).toFixed(1)+'" cy="'+(y-r*0.35).toFixed(1)+'" rx="'+(r*0.28).toFixed(1)+'" ry="'+(r*0.18).toFixed(1)+'" fill="#fff" opacity=".7" transform="rotate(-35 '+(x-r*0.35).toFixed(1)+' '+(y-r*0.35).toFixed(1)+')"/>';
+}
+function tinsel(kind){
+  var w,h,markup,rnd=tinselRand(kind==="flat"?7:42);
+  var defs='<defs>'
+    +['#FF4D5A','#FFC94A','#4CD472','#6AA8FF','#FF6FA8'].map(function(c,i){ return '<radialGradient id="g'+i+'"><stop offset="0" stop-color="'+c+'" stop-opacity=".75"/><stop offset="1" stop-color="'+c+'" stop-opacity="0"/></radialGradient>'; }).join("")
+    +'<radialGradient id="bb" cx=".35" cy=".35" r=".75"><stop offset="0" stop-color="#E2394A"/><stop offset=".6" stop-color="#A6192E"/><stop offset="1" stop-color="#5E0B18"/></radialGradient>'
+    +'</defs><style>.tw{animation:tw 2.4s ease-in-out infinite alternate}.gl{animation:gl 3s ease-in-out infinite}'
+    +'@keyframes tw{from{opacity:1}to{opacity:.35}}@keyframes gl{0%,100%{opacity:.2}50%{opacity:1}}'
+    +'@media (prefers-reduced-motion:reduce){.tw,.gl{animation:none}}</style>';
+  if(kind==="flat"){
+    w=120; h=22;
+    var rope=[0,7,40,7,80,7,120,7], wire=[0,12,40,14,80,10,120,12];
+    markup='<path d="M0 12C40 14 80 10 120 12" stroke="#2F3A2F" stroke-width=".9" fill="none"/>'
+      +tinselFluff(rope,130,6.5,rnd)
+      +'<path d="M0 7H120" stroke="#C9A04E" stroke-width="2.4"/>'
+      +tinselFluff(rope,70,5,rnd)
+      +tinselLights(wire,[0.125,0.375,0.625,0.875],2.6);
+  }else{
+    w=200; h=64;
+    var sw=[0,6,60,50,140,50,200,6], wr=[0,10,55,58,145,58,200,10];
+    markup='<path d="M0 10C55 58 145 58 200 10" stroke="#2F3A2F" stroke-width="1" fill="none"/>'
+      +tinselFluff(sw,280,11,rnd)
+      +'<path d="M0 6C60 50 140 50 200 6" stroke="#C9A04E" stroke-width="4.5" fill="none"/>'
+      +tinselFluff(sw,160,8,rnd)
+      +tinselLights(wr,[0.14,0.32,0.5,0.68,0.86],3.2)
+      +tinselBauble(0,20,6.5)+tinselBauble(200,20,6.5)
+      +'<circle cx="0" cy="5" r="3" fill="#D9B878"/><circle cx="200" cy="5" r="3" fill="#D9B878"/>';
+  }
+  return 'data:image/svg+xml,'+encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="'+w+'" height="'+h+'" viewBox="0 0 '+w+' '+h+'">'+defs+markup+'</svg>');
+}
 /* Festa dos Tabuleiros, every four years. Update for 2031 when the Câmara fixes the dates. */
 var TAB={start:"2027-07-03",end:"2027-07-12",url:"https://vamostomar.pt/#/tabuleiros"};
 var TAB_ART='<g stroke="#161513" stroke-width="2" stroke-linejoin="round">'
@@ -477,6 +610,8 @@ function render(){
   document.documentElement.lang=lang;
   document.title=tr(T.title)+" · Vamos Tomar";
   app.innerHTML="";
+  var xmas=isXmas(d);
+  document.body.classList.toggle("xmas",xmas);
 
   if(params.get("draft")) app.appendChild(el("section",{class:"tile banner",text:tr(T.draft)}));
   if(params.get("d")) app.appendChild(el("section",{class:"tile banner"},[el("a",{href:location.pathname+(lang!=="pt"?"?lang="+lang:""),text:tr(T.latest)})]));
@@ -486,12 +621,17 @@ function render(){
   var langBtns=el("div",{class:"langs",role:"group","aria-label":"Language / Idioma"},LANGS.map(function(L){
     return el("button",{type:"button","aria-pressed":String(L===lang),text:L.toUpperCase(),onclick:function(){ setLang(L); }});
   }));
-  var logo=el("img",{src:LOGO,alt:"Vamos Tomar",width:"280",height:"26"});
-  var word=el("span",{class:"wordmark",hidden:true},["VAMOS T",(function(){var s=svg(CROSS,24,24,"0 0 100 100");s.style.color="#A6192E";return s;})(),"MAR"]);
-  logo.addEventListener("error",function(){ logo.remove(); word.hidden=false; });
+  var logo=el("img",{src:xmas?LOGO_XMAS:LOGO,alt:"Vamos Tomar",width:"280",height:"26"});
+  var word=el("span",{class:"wordmark",hidden:true},["VAMOS T",(function(){var s=svg(xmas?BAUBLE:CROSS,24,24,"0 0 100 100");s.style.color="#A6192E";return s;})(),"MAR"]);
+  logo.addEventListener("error",function(){
+    if(xmas && !logo.dataset.fell){ logo.dataset.fell="1"; logo.src=LOGO; return; }
+    logo.remove(); word.hidden=false;
+  });
   var sp=isBiz(d.spotlight)?d.spotlight:null;
   var feat=d.feature||(!sp&&d.spotlight?d.spotlight:null);   /* old editions: spotlight was an event */
-  var coverKids=[
+  var coverKids=[];
+  if(xmas) coverKids.push(el("div",{class:"tinsel",style:"background-image:url('"+tinsel("swag")+"')"}));
+  coverKids=coverKids.concat([
     el("div",{class:"cv-strip"},[
       el("div",{class:"edition",text:d.soon?"":tr(T.edition)+" "+(d.edition||1)}),
       el("a",{class:"brand",href:"https://vamostomar.pt","aria-label":"Vamos Tomar"},[logo,word]),
@@ -500,7 +640,7 @@ function render(){
     el("div",{class:"cv-rule2"}),
     el("h1",{class:"nameplate",html:nameplate()}),
     el("div",{class:"cv-line"},[d.range?el("span",{text:tr(d.range)}):null,el("span",{text:tr(T.sundays)+" · 08:00"}),el("span",{text:tr(T.freeEd)})])
-  ];
+  ]);
   if(!d.soon){
     var ph=sp&&safeImg(sp.photo);
     var photo=ph?el("a",{class:"cv-photo",href:"#cover-story","aria-label":tr(sp.name||sp.title)},[el("img",{src:ph,alt:tr(sp.photoAlt)||tr(sp.name)||"",fetchpriority:"high"}),el("span",{class:"cv-tag",text:tr(T.coverStory)})])
@@ -541,14 +681,68 @@ function render(){
     var fileKids=[el("h3",{text:tr(T.file)}),facts];
     if(sp.tags&&sp.tags.length) fileKids.push(el("div",{class:"st-tags"},sp.tags.map(function(t){ return el("span",{text:tr(t)}); })));
     var L=sp.links||{}, btns=[];
-    if(safeUrl(sp.url)) btns.push(el("a",{class:"btn b1",href:sp.url,text:tr(T.bOpen)}));
+    var spUrl=(sp.urls&&safeUrl(tr(sp.urls)))||safeUrl(sp.url);
+    if(spUrl) btns.push(el("a",{class:"btn b1",href:spUrl,text:sp.cta?tr(sp.cta):tr(T.bOpen)}));
     if(safeUrl(L.maps)) btns.push(el("a",{class:"btn b2",href:L.maps,rel:"noopener",text:tr(T.bMaps)}));
     if(safeUrl(L.website)) btns.push(el("a",{class:"btn b3",href:L.website,rel:"noopener",text:tr(T.bWeb)}));
     if(btns.length) fileKids.push(el("div",{class:"st-btns"},btns));
-    app.appendChild(el("article",{class:"tile story-tile",id:"cover-story"},[
+    /* Christmas (22 Nov 2026): an optional extra window under the story paragraphs,
+       e.g. teasing the advent calendar before it opens. */
+    if(sp.extra){
+      var ex=sp.extra;
+      var exParas=(Array.isArray(ex.text)?ex.text:[ex.text]).map(function(t){ return tr(t); }).filter(Boolean);
+      var exImgRaw=(ex.image&&typeof ex.image==="object")?tr(ex.image):ex.image;
+      var exImgUrl=safeImg(exImgRaw);
+      var exBadge=null;
+      if(ex.date){
+        var refDate=(params.get("d")&&d.date)?d.date:lisbonToday();
+        var days=Math.round((Date.parse(ex.date+"T12:00:00Z")-Date.parse(refDate+"T12:00:00Z"))/86400000);
+        var suffix=days<=0?tr(T.xToday):(tr(ex.dateLabel)+" · "+(days===1?tr(T.xTomorrow):tr(T.xIn).replace("{n}",days)));
+        exBadge=el("div",{class:"ex-badge",text:"🎄 "+suffix});
+      }
+      var exBody=el("div",{class:"ex-body"},[
+        ex.kicker?el("div",{class:"ex-kicker",text:tr(ex.kicker)}):null,
+        ex.title?el("div",{class:"ex-title",text:tr(ex.title)}):null
+      ].concat(exParas.map(function(t){ return el("p",{text:t}); })).concat([
+        exBadge,
+        (ex.cta&&safeUrl(ex.url))?el("a",{class:"ex-cta",href:ex.url,rel:"noopener",text:tr(ex.cta)}):null
+      ]));
+      var exKids=exImgUrl?[el("div",{class:"ex-photo"},[el("img",{src:exImgUrl,alt:tr(ex.imageAlt)||""})]),exBody]:[exBody];
+      var exAside=el("aside",{class:"st-extra"},exKids);
+      if(!exImgUrl) exAside.style.gridTemplateColumns="1fr";
+      body.appendChild(exAside);
+    }
+    var storyKids=[];
+    if(xmas) storyKids.push(el("div",{class:"tinsel flat",style:"background-image:url('"+tinsel("flat")+"')"}));
+    storyKids=storyKids.concat([
       el("div",{style:"min-width:0"},[el("div",{class:"st-kicker",text:tr(T.spotlight)}),el("h2",{class:"st-head",text:tr(sp.title||sp.name)}),body]),
       el("aside",{class:"st-file"},fileKids)
+    ]);
+    app.appendChild(el("article",{class:"tile story-tile",id:"cover-story"},storyKids));
+  }
+
+  /* CHRISTMAS THIS WEEK (21 Nov 2026): the season's events this week + a reminder of the guide.
+     d.christmas = {title?, intro?, items:[{when,title,text?,place?,free?,url?}], urls?, cta?, guideText?} */
+  if(d.christmas && !d.soon){
+    var xc=d.christmas, xi=(xc.items||[]).slice(0,8);
+    var gUrl=(xc.urls&&safeUrl(tr(xc.urls)))||safeUrl(tr(GUIDE));
+    var xk=[];
+    if(xmas) xk.push(el("div",{class:"tinsel flat",style:"background-image:url('"+tinsel("flat")+"')"}));
+    xk.push(el("div",{class:"xw-kicker",text:tr(T.xwKick)}));
+    xk.push(el("h2",{id:"natal-h"},[(function(){var s=svg(BAUBLE,30,30,"0 0 100 100");s.style.color="#C81E36";return s;})(),tr(xc.title)||tr(T.xwTitle)]));
+    if(xc.intro) xk.push(el("p",{class:"xw-intro",text:tr(xc.intro)}));
+    if(xi.length) xk.push(el("ul",{class:"xw-list"},xi.map(function(it){
+      var t=safeUrl(it.url)?el("a",{href:it.url,rel:"noopener",text:tr(it.title)}):tr(it.title);
+      return el("li",null,[el("div",{class:"xw-when",text:tr(it.when)}),el("div",{class:"xw-body"},[
+        el("b",null,[t,it.free?el("span",{class:"xw-free",text:tr(T.free)}):null]),
+        it.text?el("p",{text:tr(it.text)}):null,
+        it.place?el("small",{text:tr(it.place)}):null])]);
+    })));
+    xk.push(el("div",{class:"xw-guide"},[
+      el("p",null,[el("strong",{text:tr(T.xwGuideH)+": "}),tr(xc.guideText)||tr(T.xwGuide)]),
+      gUrl?el("a",{class:"btn",href:gUrl,text:tr(xc.cta)||tr(T.xwBtn)}):null
     ]));
+    app.appendChild(el("section",{class:"tile xweek",id:"natal","aria-labelledby":"natal-h"},xk));
   }
 
   /* BIG EVENT (e.g. Santa Iria 400) + Tabuleiros countdown */
@@ -697,11 +891,14 @@ function render(){
 
   /* archive + footer */
   var arch=el("section",{class:"tile archive",id:"archive"},[el("h2",{text:tr(T.archiveH)}),el("ul",{id:"archive-list"})]);
-  app.appendChild(el("footer",{class:"tile foot"},[
+  var footKids=[];
+  if(xmas) footKids.push(el("div",{class:"tinsel flat",style:"background-image:url('"+tinsel("flat")+"')"}));
+  footKids=footKids.concat([
     el("div",null,[el("strong",{text:tr(T.title)}),el("span",null,[tr(T.every)+" · ",el("button",{type:"button",class:"linklike",text:tr(T.archive),onclick:function(){ openArchive(arch); }})," · ",el("a",{href:"https://vamostomar.pt",text:tr(T.directory)})])]),
     el("div",null,[tr(T.powered)+" ",el("a",{href:"https://tomarketing.pt",style:"font-weight:700",text:"tomarketing.pt"})]),
     el("div",null,[el("a",{href:"https://vamostomar.pt/privacy.html",text:tr(T.privacy)})," · ",el("a",{href:"https://vamostomar.pt/terms.html",text:tr(T.terms)})])
-  ]));
+  ]);
+  app.appendChild(el("footer",{class:"tile foot"},footKids));
   app.appendChild(arch);
 }
 
