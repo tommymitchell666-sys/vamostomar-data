@@ -2,7 +2,7 @@
  "schema": 2,
  "date": "2026-11-22",
  "edition": 9,
- "publishAt": "2026-11-22T08:00:00+00:00",
+ "publishAt": "2026-11-21T19:36:25.702Z",
  "generatedAt": "2026-11-21T19:00:00Z",
  "theme": "christmas",
  "range": {
@@ -23,14 +23,14 @@
     "icon": "sun",
     "max": 17,
     "min": 9,
-    "rain": 0.0
+    "rain": 0
    },
    {
     "date": "2026-11-23",
     "icon": "cloud",
     "max": 16,
     "min": 6,
-    "rain": 0.0
+    "rain": 0
    },
    {
     "date": "2026-11-24",
@@ -51,7 +51,7 @@
     "icon": "sun",
     "max": 14,
     "min": 6,
-    "rain": 0.0
+    "rain": 0
    },
    {
     "date": "2026-11-27",
@@ -65,7 +65,7 @@
     "icon": "sun",
     "max": 14,
     "min": 9,
-    "rain": 1.0
+    "rain": 1
    }
   ]
  },
@@ -693,5 +693,6 @@
    "ok": true,
    "items": 11
   }
- ]
+ ],
+ "confirmedAt": "2026-11-21T19:36:25.702Z"
 }
