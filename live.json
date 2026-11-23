@@ -1,6 +1,6 @@
 {
- "rev": 72,
- "updated": "2026-11-17T10:11:09.185Z",
+ "rev": 73,
+ "updated": "2026-11-23T19:59:36.802Z",
  "events": [
   {
    "id": "ev-2026-10-17-paisagens-onde-fiquei",
@@ -65,44 +65,6 @@
    "place_es": "Complejo Cultural da Levada — Sala Multiusos",
    "venue": "levada-tomar",
    "url": "https://www.cm-tomar.pt/comunicacao/agenda"
-  },
-  {
-   "id": "ev-2026-11-07-workshop-empalhamento-vime",
-   "date": "2026-11-07",
-   "time": "09:00",
-   "name": "Wicker workshop: weave round a bottle",
-   "name_pt": "Workshop de Empalhamento em Vime",
-   "name_es": "Taller de mimbre: forrar una botella",
-   "blurb": "Part of the Dias Abertos Artes & Ofícios: a morning (9:00–13:00, with a coffee break) learning basic basketry with Cestaria Andorinha, wrapping a glass bottle in wicker to take home. All materials included. Ages 14 and up. Sign up by 29 October; places are limited.",
-   "blurb_pt": "Integrado nos Dias Abertos Artes & Ofícios: uma manhã (9h–13h, com pausa para café) a aprender técnicas básicas de cestaria com a Cestaria Andorinha, empalhando em vime uma garrafa para levar para casa. Materiais incluídos. A partir dos 14 anos. Inscrições até 29 de outubro, sujeitas às vagas.",
-   "blurb_es": "Dentro de los Dias Abertos Artes & Ofícios: una mañana (9:00–13:00, con pausa para café) aprendiendo cestería básica con Cestaria Andorinha, forrando de mimbre una botella para llevar a casa. Materiales incluidos. A partir de 14 años. Inscripciones hasta el 29 de octubre, según plazas.",
-   "place": "Oficina de Artes Tradicionais, Convento de São Francisco",
-   "place_pt": "Oficina de Artes Tradicionais, Convento de São Francisco",
-   "place_es": "Taller de Artes Tradicionales, Convento de São Francisco",
-   "venue": "convento-sao-francisco",
-   "url": "https://www.bienalarteseoficios.pt/product-page/workshop-de-empalhamento-em-vime",
-   "dateEnd": null
-  },
-  {
-   "date": "2026-11-07",
-   "dateEnd": null,
-   "name": "Rock music night with DJ J2S",
-   "blurb": "A fantastic night of all types of rock music Including, soft, pop, classic, heavy, metal, indie, grunge, rock n roll and more! \n\nCome and rock your socks off with DJ J2S!!",
-   "place": "Santa Iria — Café Bistrot",
-   "name_pt": "Noite de rock com DJ J2S",
-   "name_es": "Noche de música rock con DJ J2S",
-   "blurb_pt": "Uma noite fantástica de todos os tipos de rock, incluindo soft, pop, clássico, heavy, metal, indie, grunge, rock n roll e muito mais! Venha balançar as meias com o DJ J2S!!",
-   "blurb_es": "¡Una noche fantástica de todo tipo de música rock, incluyendo soft, pop, clásica, heavy, metal, indie, grunge, rock n roll y más! ¡¡Ven y quítate los calcetines con DJ J2S!!",
-   "place_pt": "Santa Iria — Café Bistrot",
-   "place_es": "Santa Iria — Café Bistrot",
-   "price": "Free entry",
-   "time": "21:30",
-   "venue": "santa-iria-cafe",
-   "maps": "https://www.google.com/maps/search/?api=1&query=Santa+Iria+Cafe+Bistrot+Tomar",
-   "photo": {
-    "src": "data/images/rock-music-night-with-dj-j2s-poster-20261102-91sd.webp"
-   },
-   "id": "ev-2026-11-07-rock-music-night-with-dj-j2s"
   },
   {
    "id": "ev-2026-11-13-festival-zero-folk-songs",
@@ -183,6 +145,29 @@
     "src": "data/images/hip-hop-rap-r-b-night-poster-20261117-vko6.webp"
    },
    "id": "ev-2026-11-21-hip-hop-rap-r-b-night"
+  },
+  {
+   "date": "2026-11-29",
+   "dateEnd": null,
+   "name": "SOUND JOURNEY & MEDITATION",
+   "blurb": "✨️Sound Journey & Meditation✨️ \n\nDate: 29 November\nVenue: Innerbloom Studio, Tomar\nTime: 11:00 am - 12:30 pm\n\nBook your place via the link: https://forms.gle/MkBxmjsXHQfBArtYA or by emailing sofiapicao@gmail.com \n\nSoundscapes will be created with various therapeutic instruments such as Tibetan bowls, crystal bowls, percussion, voice, guitar, nature instruments and others, guiding you on a journey within yourself. The invitation is to close your eyes, lie down on the mat, relax and let yourself be carried away by the sound. It's an opportunity to experience sound profoundly and to feel its transformative power. Each experience is unique, just like your individuality and presence in each moment. It will be a space of presence, welcome and intention where everything you are is welcome. You don't need to know anything before you come. Wear comfortable clothes. If you have any questions, please don't hesitate to get in touch. See you soon!",
+   "place": "Innerbloom Studio — Yoga and Therapies",
+   "name_pt": "VIAGEM SONORA & MEDITAÇÃO",
+   "name_es": "VIAJE SONORO Y MEDITACIÓN",
+   "blurb_pt": "✨️Viagem Sonora & Meditação✨️ \n\nData: 29 de Novembro\nLocal: Innerbloom Studio, Tomar\nHorário: 11:00 - 12:30\n\nReserva o teu lugar através do link: https://forms.gle/MkBxmjsXHQfBArtYA ou para sofiapicao@gmail.com \n\nSerão criadas paisagens sonoras com diferentes instrumentos terapêuticos como taças tibetanas, taças de cristal, percussão, voz, guitarra, instrumentos da natureza e outros, guiando a uma jornada ao teu interior.\nO convite é fechares os olhos, deitares no tapete relaxares e deixares-te levar pelo som. \n\nÉ uma oportunidade para vivenciares o som de forma profunda e de poderes sentir o seu poder transformador. Cada experiência é única tal como a tua singularidade e presença a cada momento. \nSerá um espaço de presença, acolhimento, e intenção onde tudo aquilo que és é bem-vindo.\n\nNão é necessário saber nada antes de vir. \nTrazer roupa confortável.\nSe tiveres alguma dúvida, não hesites em contactar.\nAté breve!",
+   "blurb_es": "✨️Viaje sonoro y meditación✨️ \n\nFecha: 29 de noviembre\nLugar: Innerbloom Studio, Tomar\nHorario: 11:00 - 12:30\n\nReserva tu plaza a través del enlace: https://forms.gle/MkBxmjsXHQfBArtYA o escribiendo a sofiapicao@gmail.com \n\nSe crearán paisajes sonoros con diferentes instrumentos terapéuticos como cuencos tibetanos, cuencos de cristal, percusión, voz, guitarra, instrumentos de la naturaleza y otros, que te guiarán en un viaje hacia tu interior. La invitación es a cerrar los ojos, tumbarte en la esterilla, relajarte y dejarte llevar por el sonido. Es una oportunidad para experimentar el sonido de forma profunda y sentir su poder transformador. Cada experiencia es única, al igual que tu singularidad y tu presencia en cada momento. Será un espacio de presencia, acogida e intención donde todo lo que eres es bienvenido. No es necesario saber nada antes de venir. Trae ropa cómoda. Si tienes alguna duda, no dudes en ponerte en contacto con nosotros. ¡Hasta pronto!",
+   "place_pt": "Innerbloom Studio — yoga e terapias",
+   "place_es": "Innerbloom Studio — Yoga y terapias",
+   "price": "18-25",
+   "price_pt": "18-25",
+   "price_es": "18-25",
+   "time": "11:00",
+   "venue": "innerbloom",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Innerbloom+Studio%2C+Rua+Lopo+Dias+de+Sousa+2%2C+Tomar",
+   "photo": {
+    "src": "data/images/sound-journey-meditation-poster-20261123-5bqv.webp"
+   },
+   "id": "ev-2026-11-29-sound-journey-meditation"
   },
   {
    "id": "ev-2026-12-17-concerto-de-natal",
