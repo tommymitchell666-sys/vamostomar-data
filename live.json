@@ -1,6 +1,6 @@
 {
- "rev": 74,
- "updated": "2026-11-25T16:19:33.540Z",
+ "rev": 75,
+ "updated": "2026-11-25T16:19:44.102Z",
  "events": [
   {
    "id": "ev-2026-10-17-paisagens-onde-fiquei",
@@ -165,7 +165,7 @@
    "venue": "santa-iria-cafe",
    "maps": "https://www.google.com/maps/search/?api=1&query=Santa+Iria+Cafe+Bistrot+Tomar",
    "photo": {
-    "src": "data/images/classic-music-moments-poster-20261125-j4w2.webp"
+    "src": "data/images/classic-music-moments-poster-20261125-0ma5.webp"
    },
    "id": "ev-2026-11-27-classic-music-moments"
   },
