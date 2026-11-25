@@ -1,6 +1,6 @@
 {
- "rev": 73,
- "updated": "2026-11-23T19:59:36.802Z",
+ "rev": 74,
+ "updated": "2026-11-25T16:19:33.540Z",
  "events": [
   {
    "id": "ev-2026-10-17-paisagens-onde-fiquei",
@@ -145,6 +145,29 @@
     "src": "data/images/hip-hop-rap-r-b-night-poster-20261117-vko6.webp"
    },
    "id": "ev-2026-11-21-hip-hop-rap-r-b-night"
+  },
+  {
+   "date": "2026-11-27",
+   "dateEnd": null,
+   "name": "Classic music moments!",
+   "blurb": "A night of pure music heaven with these two Djs going back 2 back with music from so many genres! An uplifting night of music heaven!",
+   "place": "Santa Iria — Café Bistrot",
+   "name_pt": "Momentos musicais clássicos!",
+   "name_es": "¡Momentos musicales clásicos!",
+   "blurb_pt": "Uma noite de puro paraíso musical com estes dois DJs a atuarem em sequência com música de tantos géneros! Uma noite edificante de paraíso musical!",
+   "blurb_es": "¡Una noche de puro paraíso musical con estos dos DJ pinchando uno tras otro música de muchísimos géneros! ¡Una noche edificante de paraíso musical!",
+   "place_pt": "Santa Iria — Café Bistrô",
+   "place_es": "Santa Iria — Bistró-cafetería",
+   "price": "Free entry",
+   "price_pt": "Entrada franca.",
+   "price_es": "Acceso libre",
+   "time": "21:00",
+   "venue": "santa-iria-cafe",
+   "maps": "https://www.google.com/maps/search/?api=1&query=Santa+Iria+Cafe+Bistrot+Tomar",
+   "photo": {
+    "src": "data/images/classic-music-moments-poster-20261125-j4w2.webp"
+   },
+   "id": "ev-2026-11-27-classic-music-moments"
   },
   {
    "date": "2026-11-29",
