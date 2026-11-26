@@ -1,6 +1,6 @@
 {
- "rev": 76,
- "updated": "2026-11-26T09:42:12.656Z",
+ "rev": 77,
+ "updated": "2026-11-26T09:44:25.441Z",
  "events": [
   {
    "id": "ev-2026-10-17-paisagens-onde-fiquei",
@@ -10817,6 +10817,7 @@
    "name": "Ashtanga Yoga classes",
    "blurb": "Number of classes to choose from in a lovely studio",
    "detail": "Wind Valley Yoga",
+   "icon": "info",
    "name_pt": "Ashtanga Yoga classes",
    "blurb_pt": "Number of classes to choose from in a lovely studio",
    "detail_pt": "Wind Valley Yoga",
@@ -10860,7 +10861,7 @@
    },
    "id": "ashtanga-yoga-classes",
    "logo": {
-    "src": "data/images/ashtanga-yoga-classes-logo-20261126-dmf2.webp",
+    "src": "data/images/ashtanga-yoga-classes-logo-20261126-7sqv.webp",
     "bg": "#dd9205"
    }
   }
