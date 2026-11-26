@@ -1,6 +1,6 @@
 {
- "rev": 77,
- "updated": "2026-11-26T09:44:25.441Z",
+ "rev": 78,
+ "updated": "2026-11-26T09:48:23.070Z",
  "events": [
   {
    "id": "ev-2026-10-17-paisagens-onde-fiquei",
@@ -10861,7 +10861,7 @@
    },
    "id": "ashtanga-yoga-classes",
    "logo": {
-    "src": "data/images/ashtanga-yoga-classes-logo-20261126-7sqv.webp",
+    "src": "data/images/ashtanga-yoga-classes-logo-20261126-yd1b.webp",
     "bg": "#dd9205"
    }
   }
