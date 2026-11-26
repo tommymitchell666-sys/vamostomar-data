@@ -1,6 +1,6 @@
 {
- "rev": 75,
- "updated": "2026-11-25T16:19:44.102Z",
+ "rev": 76,
+ "updated": "2026-11-26T09:42:12.656Z",
  "events": [
   {
    "id": "ev-2026-10-17-paisagens-onde-fiquei",
@@ -10809,6 +10809,59 @@
       13
      ]
     ]
+   }
+  },
+  {
+   "category": "health",
+   "zone": "centro",
+   "name": "Ashtanga Yoga classes",
+   "blurb": "Number of classes to choose from in a lovely studio",
+   "detail": "Wind Valley Yoga",
+   "name_pt": "Ashtanga Yoga classes",
+   "blurb_pt": "Number of classes to choose from in a lovely studio",
+   "detail_pt": "Wind Valley Yoga",
+   "name_es": "Clases de Ashtanga Yoga",
+   "blurb_es": "Número de clases para elegir en un bonito estudio",
+   "detail_es": "Wind Valley Yoga",
+   "price": "€9.00",
+   "price_pt": "9,00€",
+   "price_es": "9. 00",
+   "sub": [
+    "yoga"
+   ],
+   "tags": [
+    "english"
+   ],
+   "phone": "+351 918 439 064",
+   "email": "info@windvalleyyoga.com",
+   "links": {
+    "website": "https://windvalleyyoga.com",
+    "instagram": "https://www.instagram.com/windvalleyyoga/",
+    "facebook": "https://www.facebook.com/windvalleyyoga",
+    "maps": "https://maps.app.goo.gl/8doCUp6Gz5BHwH7r7?g_st=ic"
+   },
+   "hours": {
+    "1": [
+     16.25,
+     17.75
+    ],
+    "2": [
+     18,
+     19.75
+    ],
+    "4": [
+     18,
+     19.75
+    ],
+    "6": [
+     9,
+     10.75
+    ]
+   },
+   "id": "ashtanga-yoga-classes",
+   "logo": {
+    "src": "data/images/ashtanga-yoga-classes-logo-20261126-dmf2.webp",
+    "bg": "#dd9205"
    }
   }
  ],
