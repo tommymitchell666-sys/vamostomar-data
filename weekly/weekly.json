@@ -1,162 +1,145 @@
 {
  "schema": 2,
- "date": "2026-11-22",
- "edition": 9,
- "publishAt": "2026-11-21T19:36:25.702Z",
- "generatedAt": "2026-11-21T19:00:00Z",
+ "date": "2026-11-29",
+ "edition": 10,
+ "publishAt": "2026-11-29T08:00:00+00:00",
+ "generatedAt": "2026-11-28T11:25:19Z",
  "theme": "christmas",
  "range": {
-  "en": "22–28 November 2026",
-  "pt": "22–28 de novembro de 2026",
-  "es": "22–28 de noviembre de 2026"
+  "en": "29 November – 5 December 2026",
+  "pt": "29 de novembro – 5 de dezembro de 2026",
+  "es": "29 de noviembre – 5 de diciembre de 2026"
  },
  "weather": {
-  "source": "MET Norway",
+  "source": "IPMA",
   "note": {
-   "en": "Settled and mild to start and from Thursday, with rain moving in on Tuesday and Wednesday.",
-   "pt": "Tempo estável e ameno no início e a partir de quinta-feira, com chuva na terça e na quarta.",
-   "es": "Tiempo estable y templado al principio y desde el jueves, con lluvia el martes y el miércoles."
+   "en": "Dry and bright all week, with sunny spells and chilly mornings around 5°C; IPMA expects no rain until at least 6 December.",
+   "pt": "Semana seca e soalheira, com abertas e manhãs frias, por volta dos 5 °C; o IPMA não prevê chuva pelo menos até 6 de dezembro.",
+   "es": "Semana seca y luminosa, con claros y mañanas frías, en torno a 5 °C; el IPMA no prevé lluvia al menos hasta el 6 de diciembre."
   },
   "days": [
    {
-    "date": "2026-11-22",
-    "icon": "sun",
-    "max": 17,
-    "min": 9,
+    "date": "2026-11-29",
+    "icon": "partly",
+    "max": 18,
+    "min": 8,
     "rain": 0
    },
    {
-    "date": "2026-11-23",
-    "icon": "cloud",
+    "date": "2026-11-30",
+    "icon": "partly",
+    "max": 16,
+    "min": 5,
+    "rain": 0
+   },
+   {
+    "date": "2026-12-01",
+    "icon": "partly",
+    "max": 16,
+    "min": 5,
+    "rain": 0
+   },
+   {
+    "date": "2026-12-02",
+    "icon": "partly",
     "max": 16,
     "min": 6,
     "rain": 0
-   },
-   {
-    "date": "2026-11-24",
-    "icon": "rain",
-    "max": 12,
-    "min": 10,
-    "rain": 7.9
-   },
-   {
-    "date": "2026-11-25",
-    "icon": "rain",
-    "max": 13,
-    "min": 8,
-    "rain": 4.9
-   },
-   {
-    "date": "2026-11-26",
-    "icon": "sun",
-    "max": 14,
-    "min": 6,
-    "rain": 0
-   },
-   {
-    "date": "2026-11-27",
-    "icon": "sun",
-    "max": 11,
-    "min": 5,
-    "rain": 0.4
-   },
-   {
-    "date": "2026-11-28",
-    "icon": "sun",
-    "max": 14,
-    "min": 9,
-    "rain": 1
    }
   ]
  },
  "spotlight": {
   "listing": "natal-em-tomar",
   "name": {
-   "en": "Christmas in Tomar",
-   "pt": "Natal em Tomar",
-   "es": "Navidad en Tomar"
-  },
-  "title": {
-   "en": "Your Tomar Christmas, day by day",
-   "pt": "O seu Natal em Tomar, dia a dia",
-   "es": "Tu Navidad en Tomar, día a día"
+   "en": "The Vamos Tomar advent calendar",
+   "pt": "O Calendário do Advento do Vamos Tomar",
+   "es": "El Calendario de Adviento de Vamos Tomar"
   },
   "dek": {
-   "en": "Our Christmas guide is live: the whole season, day by day, from 1 December to 10 January.",
-   "pt": "O nosso guia de Natal já está online: toda a época, dia a dia, de 1 de dezembro a 10 de janeiro.",
-   "es": "Nuestra guía de Navidad ya está en línea: toda la temporada, día a día, del 1 de diciembre al 10 de enero."
+   "en": "Door 1 opens on Tuesday: 24 doors, and a free mini-game set in Tomar behind each one.",
+   "pt": "A porta 1 abre na terça: 24 portas, e atrás de cada uma um minijogo gratuito passado em Tomar.",
+   "es": "La puerta 1 se abre el martes: 24 puertas y, detrás de cada una, un minijuego gratuito ambientado en Tomar."
   },
-  "photo": "https://vamostomar.pt/data/images/natal-guide-cover-20261122.webp",
-  "photoAlt": {
-   "en": "Tomar's clock tower and castle on a starry Christmas night, with a Christmas train, Father Christmas and market stalls, beside a phone showing the Natal em Tomar guide",
-   "pt": "A torre do relógio e o castelo de Tomar numa noite estrelada de Natal, com comboio de Natal, Pai Natal e barracas, ao lado de um telemóvel com o guia Natal em Tomar",
-   "es": "La torre del reloj y el castillo de Tomar en una noche estrellada de Navidad, con tren navideño, Papá Noel y casetas, junto a un móvil con la guía Navidad en Tomar"
+  "title": {
+   "en": "Twenty-four doors, starting Tuesday",
+   "pt": "Vinte e quatro portas, a partir de terça",
+   "es": "Veinticuatro puertas, desde el martes"
   },
-  "sources": [],
   "story": [
    {
-    "en": "The guide goes live today in PT/EN/ES. One page holds the season: a day-by-day calendar from 1 Dec to 10 Jan; the village Christmases of Santa Cita, Freixo, Linhaceira and Longra; and ideas for the two long weekends, 28 Nov–1 Dec and 5–8 Dec.",
-    "pt": "O guia entra online hoje em PT/EN/ES. Uma única página reúne toda a época: um calendário dia a dia de 1 de dezembro a 10 de janeiro; os Natais das aldeias de Santa Cita, Freixo, Linhaceira e Longra; e ideias para os dois fins de semana prolongados, 28 nov–1 dez e 5–8 dez.",
-    "es": "La guía entra en línea hoy en PT/EN/ES. Una sola página reúne toda la temporada: un calendario día a día del 1 de diciembre al 10 de enero; las Navidades de las aldeas de Santa Cita, Freixo, Linhaceira y Longra; e ideas para los dos fines de semana largos, 28 nov–1 dic y 5–8 dic."
+    "en": "On Tuesday 1 December, a public holiday, the first door of the Vamos Tomar advent calendar opens. From then until Christmas Eve a new door opens every day, and behind each one is a free mini-game set in Tomar.",
+    "pt": "Na terça-feira, 1 de dezembro, dia feriado, abre a primeira porta do Calendário do Advento do Vamos Tomar. A partir daí, até à véspera de Natal, abre uma porta nova todos os dias, e atrás de cada uma há um minijogo gratuito passado em Tomar.",
+    "es": "El martes 1 de diciembre, día festivo, se abre la primera puerta del Calendario de Adviento de Vamos Tomar. Desde entonces y hasta Nochebuena se abre una puerta nueva cada día, y detrás de cada una hay un minijuego gratuito ambientado en Tomar."
    },
    {
-    "en": "Every item says whether it's confirmed or still provisional. The Câmara's full programme is still to come, so dates carried over from past years are marked until it's published. Confirmed items get an \"Add to calendar\" button.",
-    "pt": "Cada item diz se está confirmado ou ainda provisório. O programa completo da Câmara ainda não saiu, por isso as datas transportadas de anos anteriores ficam marcadas até serem publicadas. Os itens confirmados têm um botão \"Adicionar ao calendário\".",
-    "es": "Cada elemento indica si está confirmado o aún es provisional. El programa completo del Ayuntamiento todavía no ha salido, así que las fechas trasladadas de años anteriores quedan marcadas hasta su publicación. Los elementos confirmados tienen un botón \"Añadir al calendario\"."
+    "en": "Missed a day? The earlier doors stay open, so you can catch up whenever you like, and every game keeps its own scoreboard. What's behind each door stays a surprise until the day it opens.",
+    "pt": "Perderam um dia? As portas anteriores continuam abertas, por isso podem pôr-se em dia quando quiserem, e cada jogo tem o seu próprio marcador. O que está atrás de cada porta só se sabe no dia em que abre.",
+    "es": "¿Te perdiste un día? Las puertas anteriores siguen abiertas, así que puedes ponerte al día cuando quieras, y cada juego tiene su propio marcador. Lo que hay detrás de cada puerta es una sorpresa hasta el día en que se abre."
    },
    {
-    "en": "Day trips for the holidays (Ourém and Fátima, Abrantes, Leiria, Óbidos, Perlim), the Lopes-Graça at 120 programme, and answers to visitors' most common questions. Save the page: it's updated as the programme comes in.",
-    "pt": "Passeios de um dia para as férias (Ourém e Fátima, Abrantes, Leiria, Óbidos, Perlim), o programa Lopes-Graça aos 120 e respostas às perguntas mais comuns dos visitantes. Guarda a página: é atualizada à medida que o programa chega.",
-    "es": "Excursiones de un día para las fiestas (Ourém y Fátima, Abrantes, Leiria, Óbidos, Perlim), el programa Lopes-Graça a los 120 y respuestas a las preguntas más comunes de los visitantes. Guarda la página: se actualiza a medida que llega el programa."
+    "en": "The last one, door 24, is a surprise for Christmas Eve.",
+    "pt": "A última, a porta 24, é uma surpresa para a véspera de Natal.",
+    "es": "La última, la puerta 24, es una sorpresa para Nochebuena."
+   },
+   {
+    "en": "Follow @vamostomarinsta to see each door open, and keep our Christmas guide handy for everything else on in Tomar until 10 January.",
+    "pt": "Sigam o @vamostomarinsta para ver cada porta abrir, e tenham à mão o nosso guia de Natal para tudo o resto que há em Tomar até 10 de janeiro.",
+    "es": "Sigue @vamostomarinsta para ver abrirse cada puerta, y ten a mano nuestra guía de Navidad para todo lo demás que hay en Tomar hasta el 10 de enero."
    }
   ],
+  "photo": "https://vamostomar.pt/data/images/advent-calendar-castle-cover-20261129.webp",
+  "photoAlt": {
+   "en": "A handcrafted wooden version of the Vamos Tomar advent calendar on a granite wall, with Tomar's Templar castle and its cypress trees behind",
+   "pt": "Uma versão em madeira, feita à mão, do Calendário do Advento do Vamos Tomar, num muro de granito, com o castelo templário de Tomar e os seus ciprestes ao fundo",
+   "es": "Una versión de madera, hecha a mano, del Calendario de Adviento de Vamos Tomar sobre un muro de granito, con el castillo templario de Tomar y sus cipreses al fondo"
+  },
   "facts": [
    {
     "k": {
-     "en": "What",
-     "pt": "O quê",
-     "es": "Qué"
+     "en": "Opens",
+     "pt": "Abre",
+     "es": "Abre"
     },
     "v": {
-     "en": "Christmas guide, PT · EN · ES",
-     "pt": "Guia de Natal, PT · EN · ES",
-     "es": "Guía de Navidad, PT · EN · ES"
+     "en": "Tue 1 December",
+     "pt": "Ter 1 de dezembro",
+     "es": "Mar 1 de diciembre"
     }
    },
    {
     "k": {
-     "en": "Covers",
-     "pt": "Cobre",
-     "es": "Cubre"
+     "en": "Doors",
+     "pt": "Portas",
+     "es": "Puertas"
     },
     "v": {
-     "en": "1 Dec – 10 Jan, day by day",
-     "pt": "1 dez – 10 jan, dia a dia",
-     "es": "1 dic – 10 ene, día a día"
+     "en": "24, one a day",
+     "pt": "24, uma por dia",
+     "es": "24, una al día"
     }
    },
    {
     "k": {
-     "en": "Game",
-     "pt": "Jogo",
-     "es": "Juego"
-    },
-    "v": {
-     "en": "Advent calendar from 1 Dec",
-     "pt": "Calendário do Advento a partir de 1 dez",
-     "es": "Calendario de Adviento desde el 1 dic"
-    }
-   },
-   {
-    "k": {
-     "en": "Cost",
-     "pt": "Custo",
-     "es": "Costo"
+     "en": "Price",
+     "pt": "Preço",
+     "es": "Precio"
     },
     "v": {
      "en": "Free",
-     "pt": "Grátis",
+     "pt": "Gratuito",
      "es": "Gratis"
+    }
+   },
+   {
+    "k": {
+     "en": "Missed one?",
+     "pt": "Perdeu uma?",
+     "es": "¿Te perdiste una?"
+    },
+    "v": {
+     "en": "Earlier doors stay open",
+     "pt": "As anteriores ficam abertas",
+     "es": "Las anteriores siguen abiertas"
     }
    }
   ],
@@ -167,161 +150,114 @@
     "es": "Navidad"
    },
    {
-    "en": "Events",
-    "pt": "Eventos",
-    "es": "Eventos"
+    "en": "Games",
+    "pt": "Jogos",
+    "es": "Juegos"
+   },
+   {
+    "en": "Free",
+    "pt": "Gratuito",
+    "es": "Gratis"
    },
    {
     "en": "Family",
     "pt": "Família",
     "es": "Familia"
-   },
-   {
-    "en": "Free",
-    "pt": "Grátis",
-    "es": "Gratis"
    }
   ],
-  "urls": {
-   "en": "https://vamostomar.pt/en/christmas-in-tomar/",
-   "pt": "https://vamostomar.pt/pt/natal-em-tomar/",
-   "es": "https://vamostomar.pt/es/navidad-en-tomar/"
-  },
-  "url": "https://vamostomar.pt/pt/natal-em-tomar/",
-  "links": {},
+  "url": "https://instagram.com/vamostomarinsta",
   "cta": {
-   "en": "Open the Christmas guide",
-   "pt": "Abrir o guia de Natal",
-   "es": "Abrir la guía de Navidad"
+   "en": "Follow @vamostomarinsta",
+   "pt": "Seguir o @vamostomarinsta",
+   "es": "Seguir a @vamostomarinsta"
   },
-  "extra": {
-   "kicker": {
-    "en": "Coming 1 December",
-    "pt": "Chega a 1 de dezembro",
-    "es": "Llega el 1 de diciembre"
-   },
-   "title": {
-    "en": "The Vamos Tomar advent calendar",
-    "pt": "O Calendário do Advento do Vamos Tomar",
-    "es": "El Calendario de Adviento de Vamos Tomar"
-   },
-   "text": [
-    {
-     "en": "Twenty-four doors, all still shut. From 1 Dec a new one opens every day, and behind each is a free mini-game set in Tomar: spot the difference in the Praça, light up the Charola, ride down the Nabão, stack a tabuleiro. Missed a day? Earlier doors stay open to play.",
-     "pt": "Vinte e quatro portas, todas ainda fechadas. A partir de 1 de dezembro abre uma nova todos os dias, e por detrás de cada está um mini-jogo gratuito passado em Tomar: encontra as diferenças na Praça, ilumina a Charola, desce o Nabão, empilha um tabuleiro. Perdeste um dia? As portas anteriores continuam abertas para jogar.",
-     "es": "Veinticuatro puertas, todas aún cerradas. Desde el 1 de diciembre se abre una nueva cada día, y detrás de cada una hay un mini-juego gratuito ambientado en Tomar: encuentra las diferencias en la Praça, ilumina la Charola, baja el Nabão, apila un tabuleiro. ¿Te perdiste un día? Las puertas anteriores siguen abiertas para jugar."
-    },
-    {
-     "en": "Every game has its own scoreboard, and on Christmas Eve door 24 strings your four favourite games into one big run.",
-     "pt": "Cada jogo tem o seu próprio marcador, e na véspera de Natal a porta 24 junta os teus quatro jogos favoritos numa grande maratona.",
-     "es": "Cada juego tiene su propio marcador, y en Nochebuena la puerta 24 une tus cuatro juegos favoritos en una gran maratón."
-    }
-   ],
-   "image": "https://vamostomar.pt/data/images/advent-calendar-preview-pt-20261122.webp",
-   "imageAlt": {
-    "en": "The Vamos Tomar advent calendar, all 24 doors still closed",
-    "pt": "O Calendário do Advento do Vamos Tomar, com as 24 portas ainda fechadas",
-    "es": "El Calendario de Adviento de Vamos Tomar, con las 24 puertas aún cerradas"
-   },
-   "date": "2026-12-01",
-   "dateLabel": {
-    "en": "Tue 1 December",
-    "pt": "Ter 1 de dezembro",
-    "es": "Mar 1 de diciembre"
-   },
-   "cta": {
-    "en": "Follow @vamostomarinsta to see door 1 open →",
-    "pt": "Segue @vamostomarinsta para ver a porta 1 abrir →",
-    "es": "Sigue @vamostomarinsta para ver la puerta 1 abrir →"
-   },
-   "url": "https://instagram.com/vamostomarinsta"
-  }
+  "sources": []
  },
  "feature": {
   "title": {
-   "en": "Planos Film Fest opens its 10th edition",
-   "pt": "O Planos Film Fest abre a 10.ª edição",
-   "es": "El Planos Film Fest abre su 10.ª edición"
+   "en": "Tomar switches on Christmas",
+   "pt": "Tomar acende o Natal",
+   "es": "Tomar enciende la Navidad"
   },
   "text": {
-   "en": "Tomar's short-film festival turns ten this week, filling the Cine-Teatro Paraíso from Tuesday to Sunday. It opens Tuesday at 21:00 with a tribute to Isabel Ruth and Paulo Rocha's «Os Verdes Anos», Tó Trips plays Wednesday at 21:30, animator João Gonzalez gets a retrospective on Thursday, and the winners are announced Saturday at 20:00.",
-   "pt": "O festival de curtas-metragens de Tomar faz dez anos esta semana, enchendo o Cine-Teatro Paraíso de terça a domingo. Abre na terça, às 21h00, com uma homenagem a Isabel Ruth e «Os Verdes Anos», de Paulo Rocha; Tó Trips toca na quarta, às 21h30; o animador João Gonzalez tem retrospetiva na quinta; e os vencedores são anunciados no sábado, às 20h00.",
-   "es": "El festival de cortometrajes de Tomar cumple diez años esta semana, llenando el Cine-Teatro Paraíso de martes a domingo. Abre el martes a las 21:00 con un homenaje a Isabel Ruth y «Os Verdes Anos», de Paulo Rocha; Tó Trips toca el miércoles a las 21:30; el animador João Gonzalez tiene una retrospectiva el jueves; y los ganadores se anuncian el sábado a las 20:00."
+   "en": "The Christmas lights go on Monday at 21:00 in the Praça da República, with the St. Dominic's Gospel Choir. On Tuesday's holiday the Estação Natal opens in the Várzea Grande (ceremony 10:40), with a tent holding a natural ice rink, Father Christmas's house, a train and a carousel. Entry is free; rides take a €5 day wristband.",
+   "pt": "As luzes de Natal acendem-se na segunda, às 21h00, na Praça da República, com o St. Dominic's Gospel Choir. No feriado de terça abre a Estação Natal na Várzea Grande (cerimónia às 10h40), com uma tenda com pista de gelo natural, a casa do Pai Natal, um comboio e um carrossel. A entrada é livre; as diversões pedem uma pulseira diária de 5 €.",
+   "es": "Las luces de Navidad se encienden el lunes a las 21:00 en la Praça da República, con el St. Dominic's Gospel Choir. En el festivo del martes abre la Estação Natal en la Várzea Grande (ceremonia a las 10:40), con una carpa con pista de hielo natural, la casa de Papá Noel, un tren y un carrusel. La entrada es libre; las atracciones piden una pulsera diaria de 5 €."
   },
   "cta": {
-   "en": "See the programme",
-   "pt": "Ver o programa",
-   "es": "Ver el programa"
+   "en": "Opening days and hours",
+   "pt": "Dias e horários",
+   "es": "Días y horarios"
   },
-  "url": "https://cineteatro.cm-tomar.pt/planos-film-fest-",
+  "url": "https://vamostomar.pt/pt/natal-em-tomar/#estacao",
   "badge": {
-   "big": "10",
+   "big": "1",
    "small": {
-    "en": "Editions · Planos Film Fest",
-    "pt": "Edições · Planos Film Fest",
-    "es": "Ediciones · Planos Film Fest"
+    "en": "December · Estação Natal",
+    "pt": "Dezembro · Estação Natal",
+    "es": "Diciembre · Estação Natal"
    },
    "date": {
-    "en": "24–29 November",
-    "pt": "24–29 novembro",
-    "es": "24–29 noviembre"
+    "en": "Lights on Mon 30 Nov",
+    "pt": "Luzes seg 30 nov",
+    "es": "Luces lun 30 nov"
    }
   }
  },
  "events": [
   {
-   "date": "2026-11-22",
-   "dateEnd": "2026-11-28",
-   "time": null,
+   "date": "2026-11-29",
+   "dateEnd": null,
+   "time": "09:30",
    "featured": true,
-   "free": true,
-   "icon": "music",
-   "photo": "https://vamostomar.pt/data/images/filarmonias-20261122.webp",
-   "url": null,
+   "free": false,
+   "icon": "sport",
+   "photo": "https://vamostomar.pt/data/images/templarios-rally-classic-poster-20261128.webp",
+   "url": "https://tomarnarede.pt/destaque/templarios-rally-classic-leva-a-emocao-dos-ralis-a-tres-concelhos-da-regiao-nos-dias-28-e-29/",
    "when": {
-    "en": "Sun 22 & Sat 28",
-    "pt": "Dom 22 e Sáb 28",
-    "es": "Dom 22 y Sáb 28"
+    "en": "Sunday 29 Nov · 09:30",
+    "pt": "Domingo 29 nov · 09:30",
+    "es": "Domingo 29 nov · 09:30"
    },
    "title": {
-    "en": "Filarmonias: free band concerts",
-    "pt": "Filarmonias: concertos gratuitos",
-    "es": "Filarmonias: conciertos gratuitos"
+    "en": "Templários Rally Classic, final day",
+    "pt": "Templários Rally Classic, último dia",
+    "es": "Templários Rally Classic, último día"
    },
    "text": {
-    "en": "Free concerts: Carregueiros on Sunday at 16:00, then Paialvo Saturday at 16:00 and Além da Ribeira at 21:00.",
-    "pt": "Concertos gratuitos: Carregueiros no domingo às 16h00, depois Paialvo no sábado às 16h00 e Além da Ribeira às 21h00.",
-    "es": "Conciertos gratuitos: Carregueiros el domingo a las 16:00, luego Paialvo el sábado a las 16:00 y Além da Ribeira a las 21:00."
+    "en": "Classic rally cars leave the Várzea Grande at 09:30 for the Brasões stage (09:57, 11:20); finish in Tomar 11:40. Watch from marked areas.",
+    "pt": "Os clássicos partem da Várzea Grande às 9h30 para o troço de Brasões (9h57 e 11h20); chegada a Tomar às 11h40. Só nas zonas de público.",
+    "es": "Los clásicos salen de la Várzea Grande a las 9:30 hacia el tramo de Brasões (9:57 y 11:20); llegada a Tomar a las 11:40. Solo en zonas de público."
    },
    "place": {
-    "en": "Carregueiros · Paialvo · Além da Ribeira",
-    "pt": "Carregueiros · Paialvo · Além da Ribeira",
-    "es": "Carregueiros · Paialvo · Além da Ribeira"
+    "en": "Várzea Grande · Brasões",
+    "pt": "Várzea Grande · Brasões",
+    "es": "Várzea Grande · Brasões"
    }
   },
   {
-   "date": "2026-11-22",
+   "date": "2026-12-01",
    "dateEnd": null,
-   "time": "16:00",
+   "time": "17:00",
    "featured": false,
-   "free": false,
-   "icon": "film",
-   "photo": "https://vamostomar.pt/data/images/la-bola-negra-20261122.webp",
-   "url": "https://cineteatro.cm-tomar.pt/la-bola-negra-",
+   "free": true,
+   "icon": "stage",
+   "photo": "https://vamostomar.pt/data/images/caminho-de-cabras-20261129.webp",
+   "url": "https://cineteatro.cm-tomar.pt/caminho-de-cabras--teatro-radiofonico-",
    "when": {
-    "en": "Sunday 22 Nov · 16:00",
-    "pt": "Domingo 22 nov · 16:00",
-    "es": "Domingo 22 nov · 16:00"
+    "en": "Tuesday 1 Dec · 17:00",
+    "pt": "Terça 1 dez · 17:00",
+    "es": "Martes 1 dic · 17:00"
    },
    "title": {
-    "en": "«La Bola Negra», Cannes-winning drama",
-    "pt": "«La Bola Negra», prémio em Cannes",
-    "es": "«La Bola Negra», premiada en Cannes"
+    "en": "«Caminho de Cabras», radio theatre on stage",
+    "pt": "«Caminho de Cabras», teatro radiofónico",
+    "es": "«Caminho de Cabras», teatro radiofónico"
    },
    "text": {
-    "en": "Spanish drama across three eras, with Penélope Cruz and Glenn Close. 2h35, €4.80; also Mon 30 Nov at 21:00.",
-    "pt": "Drama espanhol em três épocas, com Penélope Cruz e Glenn Close. 2h35, 4,80 €; repete seg. 30, 21h00.",
-    "es": "Drama español en tres épocas, con Penélope Cruz y Glenn Close. 2h35, 4,80 €; también lun. 30, 21:00."
+    "en": "CASIMIRA's radio play built from the stories of Carvalheiro, Curvaceiras and Sobral. Free entry, 90 min, age 6+.",
+    "pt": "A peça radiofónica da CASIMIRA feita das histórias de Carvalheiro, Curvaceiras e Sobral. Entrada livre, 90 min, M/6.",
+    "es": "La obra radiofónica de CASIMIRA hecha con las historias de Carvalheiro, Curvaceiras y Sobral. Entrada libre, 90 min, +6."
    },
    "place": {
     "en": "Cine-Teatro Paraíso",
@@ -330,238 +266,388 @@
    }
   },
   {
-   "date": "2026-11-27",
+   "date": "2026-12-03",
    "dateEnd": null,
-   "time": "17:00",
+   "time": "19:15",
    "featured": false,
    "free": false,
    "icon": "music",
-   "photo": "https://vamostomar.pt/data/images/lopes-graca-120-20261122.webp",
-   "url": "https://cineteatro.cm-tomar.pt/120-anos-lopes-graca-",
+   "photo": "https://vamostomar.pt/data/images/chalumeau-baixao-20261129.webp",
+   "url": null,
    "when": {
-    "en": "Friday 27 Nov · 17:00",
-    "pt": "Sexta 27 nov · 17:00",
-    "es": "Viernes 27 nov · 17:00"
+    "en": "Thursday 3 Dec · 19:15",
+    "pt": "Quinta 3 dez · 19:15",
+    "es": "Jueves 3 dic · 19:15"
    },
    "title": {
-    "en": "120 years of Lopes-Graça begins",
-    "pt": "Arrancam os 120 anos de Lopes-Graça",
-    "es": "Comienzan los 120 años de Lopes-Graça"
+    "en": "«Histórias de Chalumeau e Baixão»",
+    "pt": "«Histórias de Chalumeau e Baixão»",
+    "es": "«Histórias de Chalumeau e Baixão»"
    },
    "text": {
-    "en": "ThomarVentus wind quintet opens the tribute to Tomar-born composer Lopes-Graça; a photo exhibition on his years here opens at 17:30.",
-    "pt": "O Quinteto ThomarVentus abre a homenagem ao compositor tomarense; às 17h30 abre a exposição fotográfica sobre os seus anos na vila.",
-    "es": "El Quinteto ThomarVentus abre el homenaje al compositor nacido en Tomar; a las 17:30 se inaugura la exposición fotográfica sobre sus años allí."
+    "en": "Early music: the ancestors of the clarinet and bassoon in 17th- and 18th-century chamber music.",
+    "pt": "Música antiga: os antepassados do clarinete e do fagote na música de câmara dos séculos XVII e XVIII.",
+    "es": "Música antigua: los antepasados del clarinete y el fagot en la música de cámara de los siglos XVII y XVIII."
    },
    "place": {
-    "en": "Casa Memória Lopes-Graça",
-    "pt": "Casa Memória Lopes-Graça",
-    "es": "Casa Memória Lopes-Graça"
+    "en": "Igreja da Misericórdia",
+    "pt": "Igreja da Misericórdia",
+    "es": "Igreja da Misericórdia"
    }
   },
   {
-   "date": "2026-11-28",
+   "date": "2026-12-04",
    "dateEnd": null,
-   "time": null,
+   "time": "21:30",
    "featured": false,
    "free": false,
-   "icon": "trail",
-   "photo": "https://vamostomar.pt/data/images/cogumelos-30por1linha-20261122.webp",
-   "url": "https://www.cidadetomar.pt/2026/11/15/associativismo/30por1linha-organiza-dois-passeios-para-descobrir-cogumelos/",
+   "icon": "music",
+   "photo": "https://vamostomar.pt/data/images/harold-20261129.webp",
+   "url": "https://cineteatro.cm-tomar.pt/harold--",
    "when": {
-    "en": "Saturday 28 Nov",
-    "pt": "Sábado 28 nov",
-    "es": "Sábado 28 nov"
+    "en": "Friday 4 Dec · 21:30",
+    "pt": "Sexta 4 dez · 21:30",
+    "es": "Viernes 4 dic · 21:30"
    },
    "title": {
-    "en": "A morning foraging for wild mushrooms",
-    "pt": "Uma manhã à procura de cogumelos",
-    "es": "Una mañana en busca de setas"
+    "en": "Harold, live",
+    "pt": "Harold ao vivo",
+    "es": "Harold en directo"
    },
    "text": {
-    "en": "Guided walk, lunch and an ID workshop with 30POR1LINHA. €30 members, €35 non-members; book by email.",
-    "pt": "Passeio guiado, almoço e workshop de identificação com a 30POR1LINHA. 30 € sócios, 35 € não sócios; inscrição por email.",
-    "es": "Paseo guiado, almuerzo y taller de identificación con 30POR1LINHA. 30 € socios, 35 € no socios; inscripción por email."
+    "en": "The GROGNation hip-hop artist brings his solo album «O Último Malmequer». €5, 70 min.",
+    "pt": "O rapper dos GROGNation traz o álbum a solo «O Último Malmequer». 5 €, 70 min.",
+    "es": "El rapero de GROGNation trae su álbum en solitario «O Último Malmequer». 5 €, 70 min."
    },
    "place": {
-    "en": "Tomar",
-    "pt": "Tomar",
-    "es": "Tomar"
+    "en": "Cine-Teatro Paraíso",
+    "pt": "Cine-Teatro Paraíso",
+    "es": "Cine-Teatro Paraíso"
    }
   }
  ],
+ "christmas": {
+  "intro": {
+   "en": "Longra and Junceira get things going on Sunday; on Tuesday's holiday the Estação Natal and door 1 of the advent calendar both open.",
+   "pt": "A Longra e a Junceira dão o pontapé de saída no domingo; no feriado de terça abrem a Estação Natal e a porta 1 do Calendário do Advento.",
+   "es": "Longra y Junceira abren la temporada el domingo; en el festivo del martes abren la Estação Natal y la puerta 1 del Calendario de Adviento."
+  },
+  "items": [
+   {
+    "when": {
+     "en": "Sun 29 Nov · 10:00",
+     "pt": "Dom 29 nov · 10:00",
+     "es": "Dom 29 nov · 10:00"
+    },
+    "title": {
+     "en": "Christmas walk in Vale do Calvo",
+     "pt": "Caminhada de Natal em Vale do Calvo",
+     "es": "Caminata de Navidad en Vale do Calvo"
+    },
+    "text": {
+     "en": "A Christmas walk organised by the Vale do Calvo school's parents' association.",
+     "pt": "Caminhada de Natal organizada pela Associação de Pais da EB1/JI de Vale do Calvo.",
+     "es": "Caminata de Navidad organizada por la asociación de padres de la escuela de Vale do Calvo."
+    },
+    "place": {
+     "en": "Vale do Calvo, Beselga",
+     "pt": "Vale do Calvo, Beselga",
+     "es": "Vale do Calvo, Beselga"
+    }
+   },
+   {
+    "when": {
+     "en": "Sun 29 Nov · 11:00",
+     "pt": "Dom 29 nov · 11:00",
+     "es": "Dom 29 nov · 11:00"
+    },
+    "title": {
+     "en": "5th Natal na Longra market",
+     "pt": "5.º Mercado de Natal na Longra",
+     "es": "5.º Mercado de Navidad en Longra"
+    },
+    "text": {
+     "en": "Stalls, food and a nativity scene; Father Christmas at 12:00 and 16:00, children's dances at 14:00.",
+     "pt": "Bancas, comes e bebes e presépio; Pai Natal às 12h00 e 16h00, danças infantis às 14h00.",
+     "es": "Puestos, comida y belén; Papá Noel a las 12:00 y 16:00, bailes infantiles a las 14:00."
+    },
+    "place": {
+     "en": "Longra, Beselga",
+     "pt": "Longra, Beselga",
+     "es": "Longra, Beselga"
+    },
+    "free": true,
+    "url": "https://www.cidadetomar.pt/2026/11/27/freguesias/longra-acolhe-5-a-edicao-do-mercado-de-natal-este-domingo/"
+   },
+   {
+    "when": {
+     "en": "Sun 29 Nov · 14:00",
+     "pt": "Dom 29 nov · 14:00",
+     "es": "Dom 29 nov · 14:00"
+    },
+    "title": {
+     "en": "Junceira Christmas market",
+     "pt": "Mercadinho de Natal da Junceira",
+     "es": "Mercadillo de Navidad de Junceira"
+    },
+    "text": {
+     "en": "A small village Christmas market, 14:00–18:30.",
+     "pt": "Um mercadinho de Natal de aldeia, das 14h00 às 18h30.",
+     "es": "Un pequeño mercadillo navideño de aldea, de 14:00 a 18:30."
+    },
+    "place": {
+     "en": "Associação da Junceira",
+     "pt": "Associação da Junceira",
+     "es": "Associação da Junceira"
+    },
+    "free": true
+   },
+   {
+    "when": {
+     "en": "Tue 1 – Sat 5 Dec",
+     "pt": "Ter 1 – Sáb 5 dez",
+     "es": "Mar 1 – Sáb 5 dic"
+    },
+    "title": {
+     "en": "Advent calendar: doors 1–5",
+     "pt": "Calendário do Advento: portas 1 a 5",
+     "es": "Calendario de Adviento: puertas 1 a 5"
+    },
+    "text": {
+     "en": "A new free mini-game set in Tomar every day; earlier doors stay open.",
+     "pt": "Um minijogo gratuito novo passado em Tomar todos os dias; as portas anteriores ficam abertas.",
+     "es": "Un minijuego gratuito nuevo ambientado en Tomar cada día; las puertas anteriores siguen abiertas."
+    },
+    "place": {
+     "en": "Online",
+     "pt": "Online",
+     "es": "Online"
+    },
+    "free": true,
+    "url": "https://instagram.com/vamostomarinsta"
+   },
+   {
+    "when": {
+     "en": "Tue 1, Fri 4, Sat 5 Dec",
+     "pt": "Ter 1, Sex 4, Sáb 5 dez",
+     "es": "Mar 1, Vie 4, Sáb 5 dic"
+    },
+    "title": {
+     "en": "Estação Natal: this week's opening hours",
+     "pt": "Estação Natal: horários desta semana",
+     "es": "Estação Natal: horarios de esta semana"
+    },
+    "text": {
+     "en": "Open Tue 1 11:00–20:00, Fri 4 and Sat 5 11:00–23:00; closed Wed and Thu. Free entry, €5 ride wristband.",
+     "pt": "Aberta ter 1 das 11h00 às 20h00, sex 4 e sáb 5 das 11h00 às 23h00; fechada qua e qui. Entrada livre, pulseira de 5 €.",
+     "es": "Abierta mar 1 de 11:00 a 20:00, vie 4 y sáb 5 de 11:00 a 23:00; cerrada mié y jue. Entrada libre, pulsera de 5 €."
+    },
+    "place": {
+     "en": "Várzea Grande",
+     "pt": "Várzea Grande",
+     "es": "Várzea Grande"
+    },
+    "free": true,
+    "url": "https://vamostomar.pt/pt/natal-em-tomar/#estacao"
+   },
+   {
+    "when": {
+     "en": "Sat 5 – Sun 6 Dec",
+     "pt": "Sáb 5 – Dom 6 dez",
+     "es": "Sáb 5 – Dom 6 dic"
+    },
+    "title": {
+     "en": "Mercado da Estrelinha, Christmas edition",
+     "pt": "Mercado da Estrelinha, edição de Natal",
+     "es": "Mercado da Estrelinha, edición de Navidad"
+    },
+    "text": {
+     "en": "The parish's Christmas street market with music; 2026 hours still to be confirmed.",
+     "pt": "O mercado de rua de Natal da junta, com música; horário de 2026 ainda por confirmar.",
+     "es": "El mercadillo navideño de la junta, con música; horario de 2026 aún por confirmar."
+    },
+    "place": {
+     "en": "Tomar town centre",
+     "pt": "Centro de Tomar",
+     "es": "Centro de Tomar"
+    },
+    "free": true,
+    "url": "https://www.freg-sjoaosmaria-tomar.pt/"
+   }
+  ]
+ },
  "news": [
   {
-   "cat": "camara",
-   "src": "Jornal Cidade de Tomar",
-   "url": "https://www.cidadetomar.pt/2026/11/17/autarquia/relatorio-da-festa-templaria-aponta-prejuizo-de-255-mil-euros/",
+   "cat": "environment",
+   "src": "Rádio Hertz",
+   "url": "https://radiohertz.pt/tomar-atencao-municipio-alerta-para-medidas-de-prevencao-apos-confirmacao-de-gripe-aviaria-em-paialvo/",
    "head": {
-    "en": "Festa Templária's financial report: a €255,000 loss",
-    "pt": "Festa Templária: relatório aponta prejuízo de 255 mil €",
-    "es": "Festa Templária: el informe revela una pérdida de 255.000 €"
+    "en": "Bird flu in Paialvo: keep backyard birds under cover",
+    "pt": "Gripe aviária em Paialvo: aves de capoeira resguardadas",
+    "es": "Gripe aviar en Paialvo: aves de corral a cubierto"
    },
    "body": {
-    "en": "Costs of €332,827 against €77,698 in receipts, from 26,849 paid entries. A PS councillor called the loss bigger than any past investment.",
-    "pt": "Custos de 332.827 € contra receitas de 77.698 €, com 26.849 entradas pagas. Uma vereadora do PS disse que o prejuízo supera qualquer investimento anterior.",
-    "es": "Costes de 332.827 € frente a ingresos de 77.698 €, con 26.849 entradas pagadas. Una concejala del PS dijo que la pérdida supera cualquier inversión anterior."
+    "en": "An outbreak at a Paialvo farm brought a 10 km restriction zone. Keep birds covered, don't move them, and report sudden deaths to the DGAV.",
+    "pt": "Um foco numa exploração de Paialvo levou a uma zona de restrição de 10 km. Resguardem as aves, não as movimentem e avisem a DGAV de mortes súbitas.",
+    "es": "Un foco en una granja de Paialvo trajo una zona de restricción de 10 km. Mantén las aves a cubierto, no las muevas y avisa a la DGAV de muertes súbitas."
+   }
+  },
+  {
+   "cat": "community",
+   "src": "Jornal Cidade de Tomar",
+   "url": "https://www.cidadetomar.pt/2026/11/27/destaque/cdu-recolhe-perto-de-mil-assinaturas-para-ctt-de-qualidade-e-informa-que-foram-contratados-oito-trabalhadores-a-prazo/",
+   "head": {
+    "en": "Late post: nearly 1,000 signatures for a better CTT",
+    "pt": "Correio atrasado: quase mil assinaturas por melhores CTT",
+    "es": "Correo con retraso: casi mil firmas por unos CTT mejores"
+   },
+   "body": {
+    "en": "The CDU gathered signatures at the market. It says CTT has hired about eight fixed-term staff, which is clearing the backlog, but wants it to last.",
+    "pt": "A CDU recolheu assinaturas no mercado. Diz que os CTT contrataram cerca de oito trabalhadores a prazo, o que ajuda a pôr o correio em dia, mas quer garantias.",
+    "es": "La CDU recogió firmas en el mercado. Dice que CTT ha contratado unos ocho trabajadores temporales, lo que ayuda a ponerse al día, pero pide garantías."
    }
   },
   {
    "cat": "freguesias",
    "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/tomar-corrida-por-um-lugar-na-festa-dos-tabuleiros-em-sao-joao-batista-e-santa-maria-dos-olivais-entupiu-site-da-junta-durante-algum-tempo-inscricoes-esgotaram-em-duas-horas-alexandre-hort/",
+   "url": "https://radiohertz.pt/tomar-orcamento-de-estado-para-2027-sao-joao-batista-e-santa-maria-dos-olivais-ira-receber-cerca-de-344-mil-euros-carregueiros-sera-a-freguesia-do-concelho-com-valor-mais-baixo-de-transferencia/",
    "head": {
-    "en": "Tabuleiros sign-up: gone in under two hours",
-    "pt": "Inscrições dos Tabuleiros esgotam em menos de duas horas",
-    "es": "Las inscripciones de los Tabuleiros se agotan en menos de dos horas"
+    "en": "2027 budget: almost €1.6m for Tomar's parishes",
+    "pt": "Orçamento 2027: quase 1,6 milhões para as freguesias",
+    "es": "Presupuesto 2027: casi 1,6 millones para las freguesias"
    },
    "body": {
-    "en": "About 400 pre-registrations chased 256 places in São João Baptista e Santa Maria dos Olivais; the Junta's site struggled under the demand.",
-    "pt": "Cerca de 400 pré-inscrições disputaram 256 lugares em São João Baptista e Santa Maria dos Olivais; o site da Junta não resistiu à procura.",
-    "es": "Unas 400 preinscripciones compitieron por 256 plazas en São João Baptista e Santa Maria dos Olivais; la web de la Junta no aguantó la demanda."
+    "en": "About €160,000 more than this year. The city parish gets the most (about €344,000), Carregueiros the least (about €81,000).",
+    "pt": "Cerca de 160 mil euros a mais do que este ano. A freguesia da cidade recebe mais (cerca de 344 mil), Carregueiros menos (cerca de 81 mil).",
+    "es": "Unos 160.000 euros más que este año. La freguesia de la ciudad recibe más (unos 344.000), Carregueiros menos (unos 81.000)."
    }
   },
   {
-   "cat": "camara",
+   "cat": "community",
    "src": "Jornal Cidade de Tomar",
-   "url": "https://www.cidadetomar.pt/2026/11/14/destaque/programacao-de-natal-muda-se-para-a-varzea-grande/",
+   "url": "https://www.cidadetomar.pt/2026/11/24/destaque/pedreira-vive-dia-historico-com-inauguracao-de-habitacoes-colaborativas-raizes-do-nabao-ampliacao-do-lar-e-homenagem-a-jose-henriques-mendes/",
    "head": {
-    "en": "Estação Natal: Tomar's Christmas fair moves to the Várzea Grande",
-    "pt": "Estação Natal: programação muda-se para a Várzea Grande",
-    "es": "Estação Natal: el programa navideño se traslada a la Várzea Grande"
+    "en": "Pedreira opens shared homes for 16 residents",
+    "pt": "Pedreira inaugura habitações colaborativas para 16 pessoas",
+    "es": "Pedreira inaugura viviendas colaborativas para 16 personas"
    },
    "body": {
-    "en": "An ice rink, carousel, bumper cars and a train run 1–30 Dec, €5 a day from age 3, free to enter; old warehouses on site are already coming down.",
-    "pt": "Pista de gelo, carrossel, carrinhos de choque e comboio de 1 a 30 dez, 5 €/dia a partir dos 3 anos, entrada livre; os armazéns antigos já estão a ser demolidos.",
-    "es": "Pista de hielo, carrusel, autos de choque y tren del 1 al 30 dic, 5 €/día desde los 3 años, entrada libre; los antiguos almacenes ya se están demoliendo."
+    "en": "The Pedreira society opened four collaborative flats and grew its care home from 50 to 61 places.",
+    "pt": "A Sociedade Recreativa e Musical da Pedreira abriu quatro apartamentos colaborativos e alargou o lar de 50 para 61 lugares.",
+    "es": "La sociedad de Pedreira abrió cuatro pisos colaborativos y amplió su residencia de 50 a 61 plazas."
    }
   },
   {
-   "cat": "environment",
-   "src": "O Templário",
-   "url": "https://otemplario.pt/tomar-apresenta-plano-a-dez-anos-para-recuperar-a-mata-dos-sete-montes/",
+   "cat": "culture",
+   "src": "Jornal Cidade de Tomar",
+   "url": "https://www.cidadetomar.pt/2026/11/25/destaque/isabel-ruth-recebe-medalha-municipal-de-merito-grau-ouro-e-da-nome-ao-atrio-do-cine-teatro-paraiso/",
    "head": {
-    "en": "A ten-year plan to heal the Mata dos Sete Montes",
-    "pt": "Plano a dez anos para recuperar a Mata dos Sete Montes",
-    "es": "Un plan a diez años para sanar la Mata dos Sete Montes"
+    "en": "Isabel Ruth gets Tomar's gold medal and a foyer",
+    "pt": "Isabel Ruth recebe medalha de ouro e dá nome ao átrio",
+    "es": "Isabel Ruth recibe la medalla de oro y da nombre al vestíbulo"
    },
    "body": {
-    "en": "After storm Kristin felled about 1,000 trees, the Câmara and ICNF unveiled a recovery plan to 2035; planting days run 24–30 Nov.",
-    "pt": "Depois de a tempestade Kristin derrubar cerca de mil árvores, a Câmara e o ICNF apresentaram um plano de recuperação até 2035; as jornadas de plantação decorrem de 24 a 30 nov.",
-    "es": "Tras derribar la tormenta Kristin unos mil árboles, la Câmara y el ICNF presentaron un plan de recuperación hasta 2035; las jornadas de plantación son del 24 al 30 nov."
+    "en": "The Tomar-born actress was honoured at the Planos opening, and the Cine-Teatro Paraíso foyer now bears her name.",
+    "pt": "A atriz tomarense foi homenageada na abertura do Planos, e o átrio do Cine-Teatro Paraíso passa a ter o seu nome.",
+    "es": "La actriz nacida en Tomar fue homenajeada en la apertura del Planos, y el vestíbulo del Cine-Teatro Paraíso lleva ya su nombre."
    }
   },
   {
-   "cat": "community",
-   "src": "O Templário",
-   "url": "https://otemplario.pt/quinta-do-bill-relancam-donas-de-bem-para-chamar-a-atencao-para-a-violencia-domestica/",
+   "cat": "sport",
+   "src": "mediotejo.net",
+   "url": "https://mediotejo.net/bombeiro-de-tomar-conquista-terceiro-titulo-mundial-de-desencarceramento/",
    "head": {
-    "en": "Tomar band remakes a 1996 song against abuse",
-    "pt": "Banda de Tomar regrava canção de 1996 contra a violência",
-    "es": "Banda de Tomar reversiona canción de 1996 contra el maltrato"
+    "en": "Tomar firefighter wins a third world rescue title",
+    "pt": "Bombeiro de Tomar conquista terceiro título mundial",
+    "es": "Bombero de Tomar gana su tercer título mundial"
    },
    "body": {
-    "en": "Quinta do Bill release «Donas de Bem» on 25 November with 21 guest artists, marking the day against violence towards women; donations go to APAV.",
-    "pt": "Os Quinta do Bill lançam «Donas de Bem» a 25 de novembro com 21 convidados, no dia contra a violência sobre as mulheres; as doações revertem para a APAV.",
-    "es": "Quinta do Bill lanza «Donas de Bem» el 25 de noviembre con 21 invitados, en el día contra la violencia hacia las mujeres; las donaciones van a la APAV."
-   }
-  },
-  {
-   "cat": "community",
-   "src": "O Templário",
-   "url": "https://otemplario.pt/tomar-novo-centro-tecnologico-de-informatica-e-inaugurado-a-26-de-novembro/",
-   "head": {
-    "en": "A new IT skills centre opens on Thursday",
-    "pt": "Novo centro tecnológico de informática abre quinta",
-    "es": "Nuevo centro tecnológico de informática abre el jueves"
-   },
-   "body": {
-    "en": "The Centro Tecnológico Especializado de Informática opens at 10:30 at Escola Santa Maria do Olival, funded through the PRR.",
-    "pt": "O Centro Tecnológico Especializado de Informática abre às 10h30 na Escola Santa Maria do Olival, com financiamento do PRR.",
-    "es": "El Centro Tecnológico Especializado de Informática abre a las 10:30 en la Escola Santa Maria do Olival, financiado por el PRR."
+    "en": "Diogo Lourenço, second commander of Tomar's firefighters, won the extrication title at the World Rescue Challenge in Rio.",
+    "pt": "Diogo Lourenço, 2.º comandante dos Bombeiros Municipais, venceu o desencarceramento no World Rescue Challenge, no Rio.",
+    "es": "Diogo Lourenço, segundo comandante de los bomberos de Tomar, ganó la excarcelación en el World Rescue Challenge de Río."
    }
   },
   {
    "cat": "sport",
    "src": "Rádio Hertz",
-   "url": "https://radiohertz.pt/judo-camara-de-tomar-apoia-gualdim-pais-com-80-mil-euros-para-auxilio-a-preparacao-da-judoca-patricia-sampaio-para-os-jogos-olimpicos-de-los-angeles/",
+   "url": "https://radiohertz.pt/natacao-tomarense-hugo-ribeiro-gualdim-pais-esta-nomeado-para-nadador-do-ano/",
    "head": {
-    "en": "€80,000 for judoka Patrícia Sampaio's Olympic bid",
-    "pt": "80 mil € para o percurso olímpico de Patrícia Sampaio",
-    "es": "80.000 € para el camino olímpico de Patrícia Sampaio"
+    "en": "Hugo Ribeiro up for open-water Swimmer of the Year",
+    "pt": "Hugo Ribeiro nomeado para Nadador do Ano",
+    "es": "Hugo Ribeiro, nominado a Nadador del Año"
    },
    "body": {
-    "en": "The Câmara signed a contract with the Sociedade Filarmónica Gualdim to help prepare judoka Patrícia Sampaio for the Los Angeles 2028 Olympics.",
-    "pt": "A Câmara assinou um contrato-programa com a Sociedade Filarmónica Gualdim para apoiar a preparação da judoca Patrícia Sampaio para Los Angeles 2028.",
-    "es": "La Câmara firmó un contrato-programa con la Sociedade Filarmónica Gualdim para apoyar la preparación de la judoca Patrícia Sampaio para Los Ángeles 2028."
+    "en": "The Gualdim Pais swimmer is nominated at the WOWSA Awards 2026, the open-water swimming association's prizes.",
+    "pt": "O nadador da Gualdim Pais está nomeado nos WOWSA Awards 2026, os prémios da associação mundial de águas abertas.",
+    "es": "El nadador del Gualdim Pais está nominado en los WOWSA Awards 2026, los premios de la asociación mundial de aguas abiertas."
    }
   }
  ],
  "fact": {
-  "id": "synagogue",
-  "en": "Tomar's 15th-century synagogue survived because, after the forced conversions of 1496, it was used as a hay store among other things. It reopened in 1939 as the Luso-Hebraic Museum.",
-  "pt": "A sinagoga de Tomar, do século XV, resistiu porque, depois das conversões forçadas de 1496, serviu entre outras coisas de palheiro. Reabriu em 1939 como Museu Luso-Hebraico.",
-  "es": "La sinagoga de Tomar, del siglo XV, sobrevivió porque tras las conversiones forzosas de 1496 se usó, entre otras cosas, como pajar. Reabrió en 1939 como Museo Luso-Hebraico."
+  "id": "cortes-1581",
+  "en": "In April 1581 the Portuguese Cortes met in Tomar and acclaimed Philip II of Spain as Filipe I of Portugal, beginning 60 years of Iberian Union.",
+  "pt": "Em abril de 1581 as Cortes reuniram em Tomar e aclamaram Filipe II de Espanha como Filipe I de Portugal, dando início a 60 anos de União Ibérica.",
+  "es": "En abril de 1581 las Cortes portuguesas se reunieron en Tomar y aclamaron a Felipe II de España como Felipe I de Portugal, iniciando 60 años de Unión Ibérica."
  },
  "coming": [
   {
    "when": {
-    "en": "Sun 29 Nov",
-    "pt": "Dom 29 nov",
-    "es": "Dom 29 nov"
+    "en": "Sun 6 Dec",
+    "pt": "Dom 6 dez",
+    "es": "Dom 6 dic"
    },
    "text": {
-    "en": "Artonus: Concerto em Diálogo, with Mozart and Dvořák, 17:00 at the Biblioteca Municipal auditorium.",
-    "pt": "Artonus: Concerto em Diálogo, com Mozart e Dvořák, às 17h00 no auditório da Biblioteca Municipal.",
-    "es": "Artonus: Concerto em Diálogo, con Mozart y Dvořák, a las 17:00 en el auditorio de la Biblioteca Municipal."
+    "en": "Arts, collectables and antiques fair at the Mercado Municipal from 10:00.",
+    "pt": "Feira de Artes, Colecionismo e Velharias no Mercado Municipal, a partir das 10h00.",
+    "es": "Feria de arte, coleccionismo y antigüedades en el Mercado Municipal, desde las 10:00."
    }
   },
   {
    "when": {
-    "en": "Sun 29 Nov",
-    "pt": "Dom 29 nov",
-    "es": "Dom 29 nov"
+    "en": "Mon 7 Dec",
+    "pt": "Seg 7 dez",
+    "es": "Lun 7 dic"
    },
    "text": {
-    "en": "Caminhada Solidária Novembro Azul: a 10 km prostate-cancer awareness walk from the Universidade Politécnica de Tomar.",
-    "pt": "Caminhada Solidária Novembro Azul: caminhada de 10 km de sensibilização para o cancro da próstata, com partida da Politécnica de Tomar.",
-    "es": "Caminhada Solidária Novembro Azul: caminata de 10 km de sensibilización sobre el cáncer de próstata, con salida desde la Politécnica de Tomar."
+    "en": "Estação Natal open 16:00–23:00 on the eve of the holiday.",
+    "pt": "Estação Natal aberta das 16h00 às 23h00, na véspera do feriado.",
+    "es": "Estação Natal abierta de 16:00 a 23:00, víspera del festivo."
    }
   },
   {
    "when": {
-    "en": "Tue 1 Dec",
-    "pt": "Ter 1 dez",
-    "es": "Mar 1 dic"
+    "en": "Tue 8 Dec",
+    "pt": "Ter 8 dez",
+    "es": "Mar 8 dic"
    },
    "text": {
-    "en": "Public holiday: door 1 of the Vamos Tomar advent calendar opens, and the Estação Natal fair opens in the Várzea Grande.",
-    "pt": "Feriado: abre a porta 1 do Calendário do Advento do Vamos Tomar, e abre também a Estação Natal na Várzea Grande.",
-    "es": "Festivo: se abre la puerta 1 del Calendario de Adviento de Vamos Tomar, y también abre la Estação Natal en la Várzea Grande."
+    "en": "Public holiday; Linhaceira's Festa do 8 de Dezembro (date still provisional).",
+    "pt": "Feriado; Festa do 8 de Dezembro na Linhaceira (ainda provisória).",
+    "es": "Festivo; Festa do 8 de Dezembro en Linhaceira (aún provisional)."
    }
   },
   {
    "when": {
-    "en": "Fri 4 Dec",
-    "pt": "Sex 4 dez",
-    "es": "Vie 4 dic"
+    "en": "Fri 11 – Sun 13 Dec",
+    "pt": "Sex 11 – Dom 13 dez",
+    "es": "Vie 11 – Dom 13 dic"
    },
    "text": {
-    "en": "Harold play the Cine-Teatro Paraíso at 21:30.",
-    "pt": "Harold atuam no Cine-Teatro Paraíso às 21h30.",
-    "es": "Harold actúan en el Cine-Teatro Paraíso a las 21:30."
+    "en": "Santa Cita's Aldeia Natal, 6th edition, on the Rua da Feira; free entry.",
+    "pt": "Aldeia Natal de Santa Cita, 6.ª edição, na Rua da Feira; entrada livre.",
+    "es": "Aldeia Natal de Santa Cita, 6.ª edición, en la Rua da Feira; entrada libre."
    }
   },
   {
    "when": {
-    "en": "Sat 5 Dec",
-    "pt": "Sáb 5 dez",
-    "es": "Sáb 5 dic"
+    "en": "Sat 12 Dec",
+    "pt": "Sáb 12 dez",
+    "es": "Sáb 12 dic"
    },
    "text": {
-    "en": "Lopes-Graça at 120: pianist Fausto Neves in recital, 17:00 at the Casa Memória Lopes-Graça.",
-    "pt": "Lopes-Graça aos 120: recital do pianista Fausto Neves, às 17h00 na Casa Memória Lopes-Graça.",
-    "es": "Lopes-Graça a los 120: recital del pianista Fausto Neves, a las 17:00 en la Casa Memória Lopes-Graça."
+    "en": "Lopes-Graça at 120: Alexander Kuklin piano recital, 17:30, Biblioteca Municipal.",
+    "pt": "Lopes-Graça aos 120: recital de piano de Alexander Kuklin, 17h30, Biblioteca Municipal.",
+    "es": "Lopes-Graça a los 120: recital de piano de Alexander Kuklin, 17:30, Biblioteca Municipal."
    }
   }
  ],
@@ -569,16 +655,16 @@
   "lines": [
    {
     "label": {
-     "en": "Coming 1 Dec",
-     "pt": "Chega a 1 dez",
-     "es": "Llega el 1 dic"
+     "en": "Christmas",
+     "pt": "Natal",
+     "es": "Navidad"
     },
     "text": {
-     "en": "Advent calendar: 24 doors, 24 games",
-     "pt": "Calendário do Advento: 24 portas, 24 jogos",
-     "es": "Calendario de Adviento: 24 puertas, 24 juegos"
+     "en": "Longra's market, Estação hours and more",
+     "pt": "Mercado na Longra, horários da Estação",
+     "es": "Mercado en Longra, horarios de la Estação"
     },
-    "href": "#cover-story"
+    "href": "#natal"
    },
    {
     "label": {
@@ -587,9 +673,9 @@
      "es": "El gran evento"
     },
     "text": {
-     "en": "Planos Film Fest opens its 10th edition",
-     "pt": "O Planos Film Fest abre a 10.ª edição",
-     "es": "El Planos Film Fest abre su 10.ª edición"
+     "en": "Lights on Mon, Estação Natal opens Tue",
+     "pt": "Luzes na seg, Estação Natal abre na ter",
+     "es": "Luces el lun, la Estação Natal abre el mar"
     },
     "href": "#feature"
    },
@@ -600,9 +686,9 @@
      "es": "No Te Pierdas"
     },
     "text": {
-     "en": "Filarmonias in Carregueiros, Sun 16:00",
-     "pt": "Filarmonias em Carregueiros, dom 16:00",
-     "es": "Filarmonias en Carregueiros, dom 16:00"
+     "en": "Templários Rally Classic, Sun 09:30",
+     "pt": "Templários Rally Classic, dom 9h30",
+     "es": "Templários Rally Classic, dom 9:30"
     },
     "href": "#dm-h"
    },
@@ -613,45 +699,50 @@
      "es": "Noticias"
     },
     "text": {
-     "en": "Festa Templária posts a €255,000 loss",
-     "pt": "Festa Templária com prejuízo de 255 mil euros",
-     "es": "Festa Templária con pérdida de 255.000 euros"
+     "en": "Bird flu in Paialvo: what bird owners do",
+     "pt": "Gripe aviária em Paialvo: o que fazer",
+     "es": "Gripe aviar en Paialvo: qué hacer"
     },
     "href": "#nw-h"
    }
   ]
  },
  "whatsapp": {
-  "en": "This Week in Tomar (22–28 Nov): our Christmas guide is live, Planos Film Fest turns ten, and the advent calendar opens 1 Dec. https://vamostomar.pt/weekly/?lang=en",
-  "pt": "Esta Semana em Tomar (22–28 nov): o nosso guia de Natal já está online, o Planos Film Fest faz dez anos e o Calendário do Advento abre a 1 de dezembro. https://vamostomar.pt/weekly/",
-  "es": "Esta Semana en Tomar (22–28 nov): nuestra guía de Navidad ya está en línea, el Planos Film Fest cumple diez años y el Calendario de Adviento abre el 1 de diciembre. https://vamostomar.pt/weekly/?lang=es"
+  "en": "This Week in Tomar (29 Nov–5 Dec): the Christmas lights go on, the Estação Natal opens and door 1 of the advent calendar opens on Tuesday. https://vamostomar.pt/weekly/?lang=en",
+  "pt": "Esta Semana em Tomar (29 nov–5 dez): acendem-se as luzes de Natal, abre a Estação Natal e, na terça, a porta 1 do Calendário do Advento. https://vamostomar.pt/weekly/",
+  "es": "Esta Semana en Tomar (29 nov–5 dic): se encienden las luces de Navidad, abre la Estação Natal y, el martes, la puerta 1 del Calendario de Adviento. https://vamostomar.pt/weekly/?lang=es"
  },
  "instagram": {
   "spotlight": {
-   "caption": "O nosso guia de Natal em Tomar entra online no domingo, às 8h00. 🎄\n\nUma página só para a época: calendário dia a dia de 1 de dezembro a 10 de janeiro, os Natais das aldeias de Santa Cita, Freixo, Linhaceira e Longra, e ideias para os dois fins de semana prolongados.\n\nE já com o Calendário do Advento à espreita: 24 portas, 24 jogos gratuitos passados em Tomar, a abrir a partir de 1 de dezembro.\n\nDomingo às 8h, em «Esta Semana em Tomar» — link na bio.\n\n#vamostomar #natalemtomar #tomar #tomarportugal",
-   "en": "Our Christmas in Tomar guide goes live on Sunday at 8am. 🎄\n\nOne page for the whole season: a day-by-day calendar from 1 December to 10 January, the village Christmases of Santa Cita, Freixo, Linhaceira and Longra, and ideas for the two long weekends.\n\nAnd there's the advent calendar waiting in the wings: 24 doors, 24 free mini-games set in Tomar, opening from 1 December.\n\nSunday at 8am, in \"This Week in Tomar\" — link in bio.",
+   "caption": "Na terça, dia 1, abre a primeira porta do Calendário do Advento do Vamos Tomar. 🎄\n\nSão 24 portas, uma por dia até à véspera de Natal, e atrás de cada uma está um minijogo gratuito passado em Tomar.\n\nPerderam um dia? As portas anteriores continuam abertas, e cada jogo tem o seu marcador. A porta 24 fica guardada como surpresa para a véspera de Natal.\n\nSigam @vamostomarinsta para ver cada porta abrir. Mais no domingo às 8h, em «Esta Semana em Tomar» — link na bio.\n\n🎄 Natal em Tomar com @estacaonataltomar\n\n#vamostomar #natalemtomar #tomar #tomarportugal",
+   "en": "On Tuesday the 1st, the first door of the Vamos Tomar advent calendar opens. 🎄\n\nThere are 24 doors, one a day until Christmas Eve, and behind each one is a free mini-game set in Tomar.\n\nMissed a day? Earlier doors stay open, and every game has its own scoreboard. Door 24 is kept as a surprise for Christmas Eve.\n\nFollow @vamostomarinsta to see each door open. More on Sunday at 8am, in \"This Week in Tomar\" — link in bio.\n\n🎄 Christmas in Tomar with @estacaonataltomar",
    "alt": {
-    "pt": "Um guia só para o Natal em Tomar — e um Calendário do Advento com 24 jogos gratuitos. Os dois chegam esta semana. 🎄",
-    "en": "A guide just for Christmas in Tomar — and an advent calendar with 24 free games. Both arrive this week. 🎄"
+    "pt": "24 portas, 24 minijogos gratuitos passados em Tomar — e a primeira abre já na terça, dia 1. 🎄",
+    "en": "24 doors, 24 free mini-games set in Tomar — and the first one opens this Tuesday, the 1st. 🎄"
    },
    "check": [
-    "No business spotlight this week, per standing rule (no paid partnerships signed yet): the guide and the advent calendar take its place.",
-    "The EN/ES advent-calendar preview images are still outstanding (PT only so far)."
+    "No business spotlight again, per your standing rule (no paid partnerships yet): the advent calendar is the cover story.",
+    "No game link yet: points to @vamostomarinsta until you give me the game's address."
    ]
   },
   "edition": {
-   "caption": "🗞️ «Esta Semana em Tomar» n.º 9 já está no ar: de 22 a 28 de novembro.\n\nO nosso guia de Natal em Tomar já está online — toda a época, dia a dia, até 10 de janeiro. E a partir de 1 de dezembro abre o Calendário do Advento: 24 portas, 24 jogos gratuitos.\n\nNesta edição:\n🎬 O Planos Film Fest abre a 10.ª edição no Cine-Teatro Paraíso\n🎵 Filarmonias gratuitas em Carregueiros, Paialvo e Além da Ribeira\n🏛️ Festa Templária: relatório aponta prejuízo de 255 mil euros\n\nE ainda o tempo, os eventos e uma curiosidade da semana. Leiam em vamostomar.pt (link na bio).\n\n#vamostomar #natalemtomar #tomar #tomarportugal",
-   "en": "🗞️ \"This Week in Tomar\" no. 9 is live: 22 to 28 November.\n\nOur Christmas in Tomar guide is online now — the whole season, day by day, through 10 January. And from 1 December the advent calendar opens: 24 doors, 24 free games.\n\nIn this edition:\n🎬 Planos Film Fest opens its 10th edition at the Cine-Teatro Paraíso\n🎵 Free Filarmonias concerts in Carregueiros, Paialvo and Além da Ribeira\n🏛️ Festa Templária report: a €255,000 loss\n\nPlus the weather, the events and a fact of the week. Read it at vamostomar.pt (link in bio).",
+   "caption": "🗞️ «Esta Semana em Tomar» n.º 10 já está no ar: de 29 de novembro a 5 de dezembro.\n\nNesta edição:\n🚪 Abre a porta 1 do Calendário do Advento do Vamos Tomar, na terça\n🎄 Luzes de Natal na segunda e Estação Natal na terça, com a @estacaonataltomar\n🏁 Templários Rally Classic no domingo, com partida na Várzea Grande\n🐔 Gripe aviária em Paialvo: os cuidados pedidos a quem tem aves\n\nE ainda o tempo, os eventos e uma curiosidade da semana. Leiam em vamostomar.pt (link na bio).\n\n#vamostomar #natalemtomar #tomar #tomarportugal",
+   "en": "🗞️ \"This Week in Tomar\" no. 10 is live: 29 November to 5 December.\n\nIn this edition:\n🚪 Door 1 of the Vamos Tomar advent calendar opens on Tuesday\n🎄 Christmas lights on Monday and the Estação Natal on Tuesday, with @estacaonataltomar\n🏁 Templários Rally Classic on Sunday, starting at the Várzea Grande\n🐔 Bird flu in Paialvo: the precautions asked of bird owners\n\nPlus the weather, the events and a fact of the week. Read it at vamostomar.pt (link in bio).",
    "check": [
-    "No prizes mentioned for the advent calendar, per standing rule — no main sponsor has signed yet."
+    "Templários Rally Classic / Motor Clube de Tomar left untagged: @ not confirmed."
    ]
   }
  },
  "sourcesChecked": [
   {
    "src": "MET Norway",
+   "ok": false,
+   "items": 0
+  },
+  {
+   "src": "IPMA Santarém (fallback)",
    "ok": true,
-   "items": 7
+   "items": 4
   },
   {
    "src": "IPMA warnings (STM)",
@@ -666,12 +757,12 @@
   {
    "src": "Rádio Hertz (desporto)",
    "ok": true,
-   "items": 10
+   "items": 8
   },
   {
    "src": "O Templário (2 pages)",
    "ok": true,
-   "items": 20
+   "items": 18
   },
   {
    "src": "Cidade de Tomar (2 pages)",
@@ -680,19 +771,29 @@
   },
   {
    "src": "mediotejo.net (Tomar)",
-   "ok": false,
-   "items": 0
+   "ok": true,
+   "items": 6
   },
   {
    "src": "Cine-Teatro Paraíso",
    "ok": true,
-   "items": 3
+   "items": 9
+  },
+  {
+   "src": "Natal em Tomar guide",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "src": "cm-tomar.pt agenda",
+   "ok": false,
+   "items": 0
   },
   {
    "src": "live.json",
    "ok": true,
-   "items": 11
+   "items": 24
   }
  ],
- "confirmedAt": "2026-11-21T19:36:25.702Z"
+ "confirmedAt": "2026-11-28T11:30:40.788Z"
 }
