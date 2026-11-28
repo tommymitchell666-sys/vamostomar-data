@@ -1,6 +1,6 @@
 {
- "rev": 79,
- "updated": "2026-11-27T18:40:20.000Z",
+ "rev": 80,
+ "updated": "2026-11-28T09:42:39.000Z",
  "events": [
   {
    "id": "ev-2026-10-17-paisagens-onde-fiquei",
@@ -256,7 +256,10 @@
    "place_pt": "Largo da Várzea Grande e troços à volta de Tomar",
    "place_es": "Largo da Várzea Grande y tramos alrededor de Tomar",
    "time": "10:30",
-   "url": "https://tomarnarede.pt/destaque/templarios-rally-classic-leva-a-emocao-dos-ralis-a-tres-concelhos-da-regiao-nos-dias-28-e-29/"
+   "url": "https://tomarnarede.pt/destaque/templarios-rally-classic-leva-a-emocao-dos-ralis-a-tres-concelhos-da-regiao-nos-dias-28-e-29/",
+   "photo": {
+    "src": "data/images/templarios-rally-classic-poster-20261128.webp"
+   }
   },
   {
    "id": "ev-2026-11-28-filarmonias-nabantina",
